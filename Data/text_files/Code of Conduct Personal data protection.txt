@@ -1,0 +1,194 @@
+  
+                   MANE GROUP 
+ 
+ 
+ 
+CODE OF CONDUCT 
+PERSONAL DATA PROTECTION 
+ 
+ 
+1. 
+Purpose of the Code of Conduct 
+ 
+Its purpose is to implement consistent and adequate standards across the MANE Group regarding the protection and security of 
+personal data in order to ensure that the applicable data processing and dissemination obligations are met worldwide, in alignment 
+with the requirements of the European General Data Protection Regulation ("GDPR"). 
+ 
+2. 
+Scope of the Code of Conduct 
+ 
+This Code of Conduct sets common rules applicable to all processing of personal data concerning the MANE Group's employees, 
+customers, subcontractors, suppliers, service providers and other partners or contractors. 
+ 
+3. 
+Definitions 
+ 
+ 
+Personal data: any information relating to an identified or identifiable natural person.  
+ 
+ 
+Processing of personal data: any operation or set of operations performed on personal data, such as collection, recording, 
+organisation, storage, adaptation, alteration, retrieval, consultation, use, disclosure by transmission, dissemination or 
+otherwise making available, alignment or combination, blocking, erasure or destruction. 
+ 
+4. 
+Prerequisites for processing personal data 
+ 
+The MANE Group and its employees undertake to process only personal data collected lawfully and fairly in accordance with the 
+purpose of the data recording and processing which determine both the conditions under which the personal data are collected and 
+the rights that ensue. 
+ 
+4.1 Categories of authorised personal data and conditions for processing: 
+ 
+The MANE Group and its employees undertake to comply with the below key principles relating to the processing of personal data: 
+lawfulness, transparency, storage limitation, accuracy, security and confidentiality. They further undertake to be able to demonstrate 
+at all times their compliance with these principles as follows: 
+ 
+ 
+Personal data may only be processed on the basis of a legitimate interest, if explicitly allowed by law or if the express 
+consent of the data subject is obtained. 
+ 
+ 
+Personal data may only be processed for the purpose for which they were originally collected and on which the legitimate 
+interest, legal justification or consent of the data subject are based. 
+ 
+Examples where the principles underpinning the processing of personal data are applied:  
+ 
+ 
+The consent of individuals for the collection of behavioural data (such as cookies) must be positively and explicitly granted, 
+and proof thereof should be retained. 
+ 
+ 
+Personal data must be accurately recorded and, if necessary, updated. 
+ 
+ 
+Only employees whose area of activity involves the use of personal data may have access to such data; access must be 
+restricted according to the nature and scope of the area of activity in question. 
+ 
+ 
+Data no longer serving the purpose for which it was originally collected and stored must, if applicable, be erased in 
+compliance with applicable law. 
+ 
+ 
+Personal data may not be sold, shared or rented without the explicit consent of the data subjects. 
+ 
+4.2 Categories of prohibited sensitive personal data processing, collection and/or retention : 
+ 
+The processing of personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union 
+membership or the health and sexuality of the data subject is inherently unlawful and thus prohibited, unless the processing is 
+rendered lawful by specific authorisation of the competent authorities or a legal necessity. 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+1/2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.3 Information to data subjects 
+ 
+The MANE Group undertakes, where one of the Group's companies is responsible for the processing of personal data, to provide all 
+residents of the European Union (“EU Residents”) whose data is being processed with comprehensive and detailed information on the 
+purposes for which the personal data concerning such EU Residents is being collected and processed. 
+ 
+5. 
+Conditions on the transfer of personal data outside the European Union 
+ 
+In addition to the prerequisites for processing personal data as set out in paragraph 4, transfers of personal data outside the European 
+Union must meet the following requirements: 
+ 
+ 
+Intra-group transfers: if a MANE Group company transmits personal data to another MANE Group company outside the 
+European Union, said transferring MANE Group company must prove either that the data subject has expressly consented 
+to the transfer of his/her personal data or that the transfer is necessary for the performance of a contract between the 
+transferring MANE Group company and the data subject. 
+ 
+ 
+Transfers to a third party: if a MANE Group company transmits personal data to a non-EU company external to the MANE 
+Group, the MANE Group company must prove either that the data subject has expressly consented to the transfer of his/her 
+personal data or that the transfer is necessary for the performance of a contract between it and the data subject. Any such 
+transfer to the external company must also be subject to appropriate safeguards and technical and organisational measures 
+to ensure the protection of personal data. 
+ 
+6. 
+Dissemination and application of the Code of Conduct 
+ 
+The MANE Group and its employees undertake to comply with this Code of Conduct with effect from 25 May 2018. 
+ 
+Each employee of the MANE Group undertakes to provide information on an ongoing basis to the competent persons identified in 
+paragraph 7 below regarding personal data protection issues with which they may have to deal in the performance of their duties. 
+ 
+7. 
+DPO and DP Coordinators 
+ 
+The MANE Group undertakes to appoint one of its employees as a Data Protection Officer (DPO), contactable via the e-mail address 
+dpo@mane.com, in addition to a coordinator, where warranted within each local branch or department, tasked with centrally 
+administering all issues relating to personal data protection for and on behalf of the branch or department concerned (DP 
+Coordinators). 
+ 
+The DPO will maintain a record of the MANE Group's personal data processing activities as well as a record of processing incidents in 
+accordance with the requirements of the GDPR. 
+ 
+The DP Coordinators are required to assist the DPO and provide him/her with all relevant and necessary information to ensure within 
+the scope of their responsibilities that personal data are protected.  
+ 
+8. 
+Protection for individual rights in respect of personal data 
+ 
+The MANE Group undertakes to ensure in the course of its business that the following rights in relation to the processing of personal 
+data are effective as to the relevant data subject:  
+ 
+ 
+Right to data access, rectification and deletion, right to data erasure (right to be digitally forgotten); 
+ 
+ 
+Right to transmit data to a third party (right to data portability) for personal data processed on a lawful basis or for the 
+performance of a contract. 
+ 
+The MANE Group shall endeavour to expedite, through its DPO and DP Coordinators,  in compliance with the applicable law, this 
+Code of Conduct and with all other applicable procedures within the MANE Group, all requests made to it by each of its employees, 
+customers, suppliers, subcontractors, service providers, partners or other contractors in the exercise of such data subject’s rights 
+concerning the processing of their personal data (such as the right to rectification and the right to deletion), and to provide proof 
+thereof. 
+ 
+9. 
+Data breach notification 
+ 
+All employees of the MANE Group, via the DP Coordinators, and all customers, suppliers, subcontractors, service providers, partners 
+or other contractors of the MANE Group who become aware of a breach of the obligations arising under this Code of Conduct (such 
+as destruction, loss, disclosure, unauthorised access, theft of personal data), must notify the DPO within 24 hours via e-mail to 
+dpo@mane.com. 
+The DPO shall take the necessary measures to inform the competent authority within 72 hours and the data subject, if appropriate, of 
+any incident and will simultaneously take the necessary steps to resolve the incident and/or personal data breach. 
+ 
+ 
+ 
+2/2 

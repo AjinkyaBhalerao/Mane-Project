@@ -1,0 +1,25 @@
+PD FLASH 5 – Definitions of data protection rights
+
+
+March 4 2020
+
+The persons concerned by the GDPR have rights allowing them to keep control over their personal data when they are processed by other persons (legal or natural).
+
+Different types of rights:
+
+- The right to be informed: to be fair and lawful, the collection of personal data must be accompanied by prior, clear and concise explanation to the persons whose personal data are processed.
+
+- The collection of express consent by the data controller: consent must be freely given, specific, informed and unambiguous. In order to obtain valid consent, it must be given on a voluntary basis. Online, consent can be given, for example, by ticked boxes, but not by pre-ticked boxes. The consent is not always required but it is in case of collection of sensitive data, re-use of data for other purposes, use of cookies and use of personal data for prospecting purposes electronically.
+
+- The right to object: people must be able to object to the re-use by the data controller of their personal data. Anyone has the right to object, for legitimate reasons, to the processing of their data, unless it is necessary to meet a legal obligation.
+
+- The rights of access and rectification: any person can access to all the information concerning him or her, know the origin of this information, access to the information upon which a decision concerning him or her was based, obtain a copy and demand that his or her data be rectified, supplemented, updated or deleted (right to be forgotten).
+
+Obligation to respond:
+
+The data controller must respond to data subject requests within one month:
+- including when it has no data on the requesting person (for example, the data has been deleted);
+- unless the requests are manifestly abusive (in particular by their quantity, their repetitive or systematic nature);
+- in case of refusal of an access request, it must be duly justified and must be accompanied by information on the procedures and time limits for appeals.
+
+

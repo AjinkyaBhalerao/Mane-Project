@@ -1,0 +1,230 @@
+LEGAL
+COMMERCIAL REVIEW PROCEDURE
+When does the contract review process has to be initiated?
+The contract review process have to be initiated only in case of customer or supplier rejection of MANE’s General Terms and Conditions of Sales or MANE’s General Terms and Conditions of Purchase.
+What are the missions of the contract Administration coordinator ?
+The missions are: 
+The prior examination of the contract 
+To thoroughly fill in the contract review form
+The coordination of the review 
+The centralization of all the comments made 
+The reception of the signed contract
+The dispatch of the signed contract 
+
+What are the points that have to be identified during the examination of the contract? 
+The points that have to be identified are:
+any points or issues within the Contract Administration Coordinator remit which are not in line with reality and MANE’s experience in practice, or are not conform to MANE principles and/or not acceptable to MANE’s operational point of view,
+the specific parts or provisions of the contract to be validated by each relevant competent department.
+
+Where can I find the contract review form?
+The contract review form can be found by clicking on this link. 3 versions are available:  French, English and Spanish. 
+Where can I find the contract review procedure ?
+The contract review form can be found by clicking on this link. 3 versions are available: French, English and Spanish.
+
+What is the goal of the review contract coordination?
+The goal is to : 
+Ensure the transmission of the Management’s information and validation as needed, and inform the other contributors of the decisions made,
+Dispatch of the contract, Annex 1-FO-SQ-019 (contract review form filled in), and all other documents referred to the contract to each person mentioned in the contract review form in each department concerned in order to provide potential changes and validation.
+Centralization of all the comments made.
+
+What should I send in case of a handwritten signature of the contract?  
+In cased of a of handwritten signature you have to send the original signed hard copies (one copy to each other party, one copy to MANE Legal & IP Department) and scanned copy (by email to all concerned MANE departments internally. 
+What should I send in case of an electronic signature of the contract?  
+In case of electronic signature, the unique electronically signed version have to be emailed to all concerned MANE departments internally (Legal & IP Department included). 
+
+What are the responsibilities of the other participant to the contract review process ? 
+The different departments involved and concerned by the contract requirements must:
+Examine the requirements within their remit (if necessary, indicate to the Contract Administration Coordinator the information or clarifications to be obtained from the other party),
+Make comments and accurate amendments proposals where disagreed: delete, modify, add,
+Send their changes, proposals and positions to the Contract Administration Coordinator.
+
+Does Mane has set up an electronic signature device for contracts ? 
+MANE has set up an electronic signature device for contracts in accordance with European Regulation 910/2014 and recognized worldwide, using double authentication of signatories by e-mail and SMS code. The YOUSIGN device is to be used as a priority to the contracting parties, or DOCUSIGN.
+ 
+What electronic signature device has to be used 	? 
+The YOUSIGN device is to be used as a priority to the contracting parties, or DOCUSIGN.
+Who has to initiate the electronic signature of the contracts ?
+Any electronic signature of the contracts must preferably be initiated by MANE with the executive assistants – YOUSIGN service if possible or, failing that, DOCUSIGN service contracted by MANE. Any electronic signature not initiated by MANE must, in order to be accepted, comply with European Regulation 910/2014, i.e., to two-factor authentication of the identity of the signatories.
+To whom the original signed copy of the contract has to be sent ?
+The original signed hard copy of the contract is systematically sent by the Contract Administration Coordinator to the Legal and IP department for safe keeping (Archiving: 10 years at least) to the following mail address : contracts@mane.com
+
+CONFIDENTIALITY 
+What BI means in a CDA? 
+BI, for Bilateral means that the purpose of the CDA is to protects the confidential information of both parties.
+What U means in a CDA?
+U, for Unilateral, means that the purpose of the CDA is for Mane’s protection only. 
+What UD means in a CDA? 
+UD, for Unilateral Formula Disclosure, is required when Mane will disclose formulae. 
+What OTH means in a CDA? 
+OTH means that the purpose of a CDA is for counterparty’s protection only. 
+Do we have a template for an OTH CDA? 
+We don't have an OTH template, since these are agreements that only cover the other party's information (generally transmitted by the other party).
+Does the person representing the relationship between Mane and the other party in the CDA have to be the same person who signs the CDA?
+No, the person signing the CDA can be a different member of the department in relation with the other party. It can be for example a director signing the CDA.
+How can I define the subject matter? 
+You can correspond with the Mane contract manager if it is unclear, and the Mane contract manager did not properly define it in the Register entry. As a rule, subject matter / purpose must be specified and detailed as much as possible.
+With customers or prospects, make sure it is connected to business with Mane / supply of products by Mane, i.e. that Mane confidential information cannot be used by counterparty for another purpose than within the framework of business relationship with Mane.
+With whom the confidential information cannot be shared? 
+Refuse sharing the confidential information with agents, consultants, advisors, or representatives.
+
+In some cases, can Mane accept to extend the right to sharing confidential information?
+
+Mane can accept to extend the right to sharing with external consultants (although we should require an explanation as to precisely why it is needed), but we would require add : 
+That the counterparty first submits the name(s) of the consultant and obtain Mane’s approval.
+That the counterparty remains fully obligated toward Mane for any failure of the consultant to observe the restrictions.  
+Alternatively, Mane might require signing a separate CDA with the consultant.
+
+Can other IP rights be granted in a CDA?
+No license or other IP right is granted or implied. Refuse any direct or indirect reference to an assignment of Mane’s IP rights. This includes statements that information derived from CI must be considered as confidential. Make sure the CI is the information disclosed by a party to the other party (nothing else). 
+Which governing law for the resolution of dispute? 
+Here’s are the governing laws of countries that have to be preferred: 
+U.S.: (1) Ohio (Hamilton County); (2) New York (Southern District of New York); (3) Delaware.  NO to California.
+
+Europe :  (1) France; (2) Switzerland (Geneva).
+
+Asia: (1) France; (2) Hong Kong; (3) Singapore.
+
+Generally, we try to avoid mandatory arbitration.
+
+Who can have jurisdiction for the resolution of disputes? 
+U.S.: (Ohio (Hamilton County); New York (Southern District of New York); (Delaware.  NO to California.
+Europe :  France ; Switzerland (Geneva).
+Asia:  France; Hong Kong; Singapore.
+Generally, we try to avoid mandatory arbitration.
+
+In which circumstances Mane will be disclosing formulae? 
+If Mane will be disclosing formulae(s): It should only be for a toxicological, safety or regulatory compliance purpose, and Mane’s UD template must be used.  The individuals (to be limited in number, and usually restricted to the Regulatory and Quality departments) at the counterparty who will have access to Mane’s formulae must sign the CDA personally.
+
+
+IP
+PATENT PORTOFILIO AUDIT AND LICENSING POLICY 
+In what way patents represent important stakes? 
+Patents represent an important investment notably financially for companies and are considered as intangible asset that are of importance in evaluating the value and strength of a company. 
+What kind of return on investment a patent portfolio can bring?
+A patent portfolio’s return on investment can be of the following nature: 
+Royalties obtained from licensing out.
+Revenues obtained from selling some of the patents.
+Access to third party patents through cross licensing deals. 
+
+What is the purpose of a portfolio audit? 
+A strategic portfolio audit enables Mane to strengthen its IP position and to identify licensing opportunities. Particularly it allows: 
+To satisfy a general need to know what the company has and where the vale in the portfolio lies. 
+To identify gaps in protection.
+To survey Mane’s portfolio for patents that are candidates for enforcement either by licensing or litigation, or that can/should be sold.
+
+How to categorize/organize a portfolio? 
+You have to segment the portfolio to assess it more efficiently, either by technology, product, technical standard or business units. 
+Is there an example that shows how to categorize/organize a portfolio? 
+Here’s an example of categorization/organization of Mane’s patent portfolio:
+Fragrances: Consumer goods 
+Flavors: Tobacco / Pet food / Food / Oral care
+Ingredients: Natural / Synthetics 
+
+How to review the portfolio? 
+Review the portfolio category by category, with each business/category manager and answer the following question for each patent: 
+Is the patent exploited? 
+Is the patent a core patent? 
+Can the patent technology be exploited in one of Mane’s facilities? 
+Is the market adequately served? 
+
+What are the elements that have to be extracted after the categorization of the portfolio? 
+After the categorization and analysis of the portfolio, should be extracted, in collaboration with Management the following elements, 
+Core patents: patents that are essential for Mane because said patents allow exploitation of another patent. 
+Defensive patents: patents that have Mane considers as important in view of its competitors. 
+Sufficiently exploited patents: patents that Mane exploits and serve adequately the market.
+
+GLOBAL LABORATORY NOTEBOOK POLICY 
+What is the purpose of a laboratory notebook? 
+The primary purpose of a laboratory notebook is to preserve and protect intellectual property rights in all new and improved products, processes, or equipment by serving as a record and archive for all research and development work (ideas, experiments, formulations, etc.).
+What to record in the notebook regarding an experiment? 
+Here’s the following elements to record in the notebook: 
+Start Date 
+Title 
+Why: Rationale, hypothesis, objectives
+Methods (Plan): Standard Operating Procedures (SOPs) with references / Planned protocol modification, why, and approval /Calculations: MW, concentrations, dilutions, formula, … 
+What Happened (Realities): Sample preparation; Experiment /test conditions; Results, including unexpected results or observations; Document critical events to prove compliance with SOPs 
+What It Means: Result interpretation, including comments on oddities; Potential uses 
+What’s Next: Future plans. 
+Ideas, hints and tips: Use notebook as a repository of creativity
+
+What are the general rules regarding the form of the notebook?
+Preferably, the language of the laboratory notebook is English, but French or Spanish may be acceptable alternatives depending on the location of the Mane Innovation center. 
+The information is recorded directly in the laboratory booklet, dated (using two digits for the day, at least three letters to uniquely identify the month, and four digits for the year, e.g., 20 MAY 2017 or 05 NOV 2017), and referenced with its company project name or number and/or an internal reference specific to the researcher.
+The recording of handwritten information is done directly and only on the printed lines of the pages of the notebook, respecting the full width of the pages. 
+The insertion of information near the internal margin is to be avoided, as information may be difficult to capture accurately during scanning.
+Is there another way to carry out datas ? 
+Recording data can also be carried out by means of inserting preprinted information in the notebook (for example, typed reports, diagrams, diagrams, output datum of equipment of analysis, photographs, etc.). The preprinted information should not exceed the dimensions of the page, nor cover any information already entered on the page. Transparent tape or other adhesive should be utilized to affix the inserted information to the page surface. 
+How to put successive insert into the notebook ? 
+For two successive inserts, the second must be affixed below the other (or on two successive pages) and not side by side. Each taped or glued insert must be signed and dated by both the writer and the witness (each signature should traverse at least one of the seams between the insert and the support page). Other than the aforementioned dates and signatures, no other handwritten annotations on the insert are permitted.
+Would it be possible to add information to the laboratory notebook or to make an amendment? 
+If the need for a later entry or amendment arises, it is advisable to use unmarked section of the page immediately below, and particularly point out the passage(s) concerned. Where no such unmarked section is available, one should make the entry/amendment on a subsequent page, and record the subsequent page number on the instant page. An arrow, asterisk, etc. can be used to precisely identify the section being amended or corrected.
+What is the procedure to annotate an information on a insert? 
+If there is a need to annotate information on an insert (e.g., for reasons of clarity), the "original" preprinted copy must be annotated first and then photocopied; the corresponding photocopy is then adhered to the surface of the notebook page.
+Is it necessary to integrate every piece of data into the laboratory notebook?
+It is not necessary to integrate every piece of data in the laboratory notebook. For example, if the data set is too large, the writer can also create alternative archives for the data (e.g., an electronic database of HPLC chromatographs), and simply reference the corresponding file number.
+Can a photograph or a digitized reproduction be used into the laboratory notebook? 
+Rather than the original of an experimental material, a photograph or a digitized reproduction may be used, such as in the case of a thin-layer chromatography plate, a gel, a membrane, an autoradiography, or a thermosensitive ticket. 
+What other informations can be inserted into a laboratory notebook ? 
+Here’s an example of other informations that can be inserted : 
+Computer-generated data 
+Datasheet templates 
+E-mails 
+Notes of discussions and conversations 
+Photographs 
+Printed graphs 
+Product labels 
+Related papers and readings
+
+Can large items be kept in a separate folder? 
+ If too large to fit, items may be kept in a separate folder Always record date and other identifying information.
+Can I leave blank spaces between two information entries ?
+Significant blank spaces between two information entries (for example, successions of blank lines, page breaks, pages left blank) or to the right of an insert, must be crossed out by means of a "Z", so that no information may be subsequently added. The removal of any laboratory notebook page is strictly prohibited, as doing so may jeopardize the integrity of the entire notebook.
+How handwritten entries should be made? 
+Significant blank spaces between two information entries (for example, successions of blank lines, page breaks, pages left blank) or to the right of an insert, must be crossed out by means of a "Z", so that no information may be subsequently added. The removal of any laboratory notebook page is strictly prohibited, as doing so may jeopardize the integrity of the entire notebook.
+Is there a recommendation regarding the use of ink ? 
+Black or dark blue inks are recommended. The use of erasable ink, pencil, or "white correction fluid" is not allowed. The texts and entries must be legible (any erasure must be referred to and dated, both by the editor and the witness)
+Is the use of specific colors to code informations allowed ? 
+Any coding of information using specific colors should be avoided. If the use of colors cannot be avoided, the selection of colors and/or textures must be made with careful consideration of a possible need for subsequent reproduction using a standard photocopier in black and white.
+Are all tests, experiments or analysis have to be recorded inside the laboratory notebook ? 
+Each test, experiment, or analysis, whether positive or negative, must be recorded in the laboratory record.
+
+Can abbreviations be used inside the notebook? 
+Abbreviations may be used. However, abbreviations that are non-standard to persons having ordinary skill in the relevant field must be defined at their first appearance. Further, abbreviations, along with their definition, should also be recorded after the table of contents/index section at the front of the laboratory notebook.
+
+If a protocol has already been described in a laboratory notebook, is it necessary to reproduce the entire information for a new entry? 
+If a protocol has already been described, in the same or different laboratory notebook, it is not necessary to reproduce the entire information for a new entry. Rather, it is sufficient to simply reference the previous occurrence with particularity. All the modifications, changes or adaptations to the referenced information must be sufficiently described. 
+
+Is it possible to create a separate laboratory notebook specifically reserved for recording standard laboratory or testing procedures? 
+Yes, it is possible to possible to create a separate laboratory notebook specifically reserved for recording standard laboratory or testing procedures and then make an appropriate reference to this separate laboratory notebook.
+What are the duties of the author of the laboratory notebook ? 
+Here’s a list of the main duties of the author : 
+Each page must be dated.
+Each page of the laboratory book, as soon as it is completed, must be dated and signed by the author, in the space designated for this purpose. 
+Any mistakes or crossed-out entries, as soon as they appear in the laboratory book, must be dated and signed by the author. 
+Do not insert any information (including corrections) in a corner of a page (even if that page has not yet been countersigned by a witness). 
+If any error or mistake is identified, the erroneous information should be clearly identified and corrected in a space immediately below the error. If there is no available space or the available space is insufficient, then corrections may be made on a subsequent page (with an appropriate forward reference on the page bearing the erroneous information). If the date on which the error was found and/or corrected is different from the origin date, said correction date should be properly recorded.
+Unused lines or spaces at the bottom of the pages should be crossed out using a “Z” marking
+In order to certify the reality of the recording, the author must have a witness sign each of the pages of his laboratory notebook within a maximum of 4 weeks after the writing of each of these pages. 
+No new information or data integration can be entered onto any page that has been already signed by a witness. 
+
+What are the duties of the witness regarding the laboratory notebook? 
+Here’s a list of the main duties of the witness: 
+Read the information entered by the author/researcher to evaluate whether the level of details is sufficient to enable its reproduction by another having ordinary skill in the relevant art.
+Co-sign all taped or glued inserts. The date and signature must be affixed astride the insert and its supporting page surface. 
+Verify the quality of the information with regard to compliance with Mane’s laboratory notebook policy along with laboratory recordkeeping procedures found at the front of the laboratory notebook itself.
+
+How often a laboratory notebook must be certified? 
+The holder/assignee of a laboratory notebook must have it certified, twice a year at the time of certification session organized in May and November, by a member of Mane’s Legal and IP department. 
+Do all laboratory notebooks must be submitted to the Legal and IP department? 
+All laboratory notebooks, in progress or completed, must be submitted to the Legal and IP department on the working day immediately preceding the certification date. Prior to this submission, the holder of a laboratory notebook must ensure that the information in each laboratory notebook is correctly recorded, including marking out any significant empty space, updating table of contents, as well as arranging the proper witnessing of the notebook. 
+What is the purpose of the certification? 
+During the certification each laboratory notebook shall be inspected with regard to compliance with this policy. At the end of this inspection, the reviewer will make an entry into the notebook and notate the completed inspection by affixing the reviewer’s stamp, date and signature. At the end of each certification, the notebook will be promptly returned to its assignee, ideally no later than the next working day after certification.
+
+Who is responsible for the maintenance of the notebook? 
+Each person assigned to a laboratory notebook is responsible for the maintenance of the notebook while it is in his/her possession. Here’s the obligations of the person: 
+The person must ensure that each assigned laboratory book(s) is stored in a safe and secure location to prevent loss, theft of degradation. 
+If a laboratory notebook is lost, stolen or damaged, the assigned person shall immediately notify his or her supervisor. 
+Prior to preserving an electronic copy of a laboratory notebook, the holder must ensure that the content of the notebook meets the standard and that the notebook is certified. 
+
+When does the laboratory notebook scanning/archiving process should start? 
+One a notebook is complete and certified, the holder should make arrangements with the vice president of R&D to begin the laboratory scanning/archiving process. After securing an electronic archival copy of the laboratory notebook, the original hardcopy will be returned to its original assigned holder for a reasonable period, which shall not exceed three (3) years from the date of the last entry.

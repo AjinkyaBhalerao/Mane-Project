@@ -1,0 +1,16 @@
+PD FLASH 3 - What is the processing of personal data and the data controller?
+
+
+
+February 19 2020
+
+Since we often receive questions about this topic, it seems useful to us to specify two essential definitions, about the processing of personal data and the data controller:
+
+Personal data processing is all operations relating to personal data, regardless of the process used. For example: save, organize, store, modify, compare to other data, transmit personal data, etc.
+
+ Different types of processing: personal data is not limited to the computerized processing of files. It can be a database or an Excel table, but also a video surveillance installation, a credit card payment or biometric recognition system, a smartphone application, etc. New processing methods appear regularly and evolve according to technological innovations.
+
+ Computerized or not: a processing of personal data can be computerized or not. For example, a paper document might be organized according to a filing plan or candidate application forms classified in alphabetical or chronological order are also a processing of personal data.
+
+The controller is the legal person (company, public authority, etc.) or natural person who determines the purposes and means of a processing, defines the purpose and the method of carrying it out. Within MANE Group, it is not an individual or department, but the body corporate of MANE Group which processes personal data.
+

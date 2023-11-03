@@ -1,0 +1,855 @@
+INCOTERMS® 2020
+INTERNATIONAL CHAMBER OF COMMERCE (ICC)
+Contents
+INTRODUCTION TO INCOTERMS® 2020  . . . . . . . . . . . . . . . . . . . . . . 1
+RULES FOR ANY MODE OR MODES OF TRANSPORT . . . . . . . . . 19
+EXW | Ex Works . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+FCA | Free Carrier  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+CPT | Carriage Paid To  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+CIP | Carriage and Insurance Paid To . . . . . . . . . . . . . . . . . . . . . 51
+DAP | Delivered at Place . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63
+DPU | Delivered at Place Unloaded  . . . . . . . . . . . . . . . . . . . . . . . 73
+DDP | Delivered Duty Paid . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 83
+RULES FOR SEA AND INLAND WATERWAY TRANSPORT . . . . . . 91
+FAS | Free Alongside Ship . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 93
+FOB | Free On Board . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 103
+CFR | Cost and Freight . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 113
+CIF | Cost Insurance and Freight  . . . . . . . . . . . . . . . . . . . . . . . 123
+ARTICLE-BY-ARTICLE TEXT OF RULES . . . . . . . . . . . . . . . . . . . . 135
+INCOTERMS® 2020 DRAFTING GROUP . . . . . . . . . . . . . . . . . . . . . 183
+INCOTERMS® PUBLICATIONS AND RESOURCES . . . . . . . . . . . . . 189
+OTHER INTERNATIONAL TRADE RELATED PUBLICATIONS . . . 192
+INCOTERMS® 2020
+INTERNATIONAL CHAMBER OF COMMERCE (ICC) | 1
+Introduction to Incoterms® 2020
+1. The purpose of the text of this Introduction is fourfold:
+``
+to explain what the Incoterms® 2020 rules do and do NOT 
+do and how they are best incorporated;
+``
+to set out the important fundamentals of the Incoterms® 
+rules: the basic roles and responsibilities of seller and buyer, 
+delivery, risk, and the relationship between the Incoterms® 
+rules and the contracts surrounding a typical contract  
+of sale for export/import and also, where appropriate,  
+for domestic sales;
+``
+to explain how best to choose the right Incoterms® rule  
+for the particular sale contract; and
+``
+to set out the central changes between Incoterms® 2010 
+and Incoterms® 2020.
+2. The Introduction follows this structure:
+I.`
+What the Incoterms® rules do
+II.` What the Incoterms® rules do NOT do
+III. 
+How best to incorporate the Incoterms® rules 
+IV. 
+Delivery, risk and costs in the Incoterms® 2020 rules 
+V. 
+Incoterms® 2020 rules and the carrier
+VI.  Rules for the contract of sale and their relationship  
+to other contracts 
+VII. The eleven Incoterms® 2020 rules—“sea and inland 
+waterway” and “any mode(s) of transport”: getting  
+it right
+VIII. Order within the Incoterms® 2020 rules
+IX. Differences between Incoterms® 2010  
+and Incoterms® 2020
+X. 
+Caution with variants of Incoterms® rules
+3. This Introduction gives guidance on the use of, and about  
+the fundamental principles behind, the Incoterms® 2020 rules. 
+INCOTERMS® 2020
+2 | INTERNATIONAL CHAMBER OF COMMERCE (ICC)
+ 
+I. WHAT THE INCOTERMS® RULES DO
+4. The Incoterms® rules explain a set of eleven of the most 
+ commonly-used three-letter trade terms, e.g. CIF, DAP, etc., 
+reflecting business-to-business practice in contracts for the sale 
+and purchase of goods. 
+5. The Incoterms® rules describe:
+``
+Obligations: Who does what as between seller and buyer, 
+e.g. who organises carriage or insurance of the goods  
+or who obtains shipping documents and export or 
+import licences;
+``
+Risk: Where and when the seller “delivers” the goods,  
+in other words where risk transfers from seller to buyer; and
+``
+Costs: Which party is responsible for which costs, for 
+example transport, packaging, loading or unloading costs, 
+and checking or security-related costs.
+The Incoterms® rules cover these areas in a set of ten articles, 
+numbered A1/B1 etc., the A articles representing the seller’s 
+obligations and the B articles representing the buyer’s obliga-
+tions. See paragraph 53 below.
+ 
+II. WHAT THE INCOTERMS® RULES DO NOT DO
+6. The Incoterms® rules are NOT in themselves—and are therefore 
+no substitute for—a contract of sale. They are devised to reflect 
+trade practice for no particular type of goods—and for any. 
+They can be used as much for the trading of a bulk cargo of 
+iron ore as for five containers of electronic equipment or ten 
+pallets of airfreighted fresh flowers. 
+7. The Incoterms® rules do NOT deal with the following matters:
+``
+whether there is a contract of sale at all;
+``
+the specifications of the goods sold;
+``
+the time, place, method or currency of payment  
+of the price; 
+``
+the remedies which can be sought for breach  
+of the contract of sale;
+``
+most consequences of delay and other breaches  
+in the performance of contractual obligations;
+``
+the effect of sanctions;
+``
+the imposition of tariffs; 
+``
+export or import prohibitions; 
+``
+force majeure or hardship;
+``
+intellectual property rights; or
+``
+the method, venue, or law of dispute resolution in case  
+of such breach.
+INCOTERMS® 2020
+INTERNATIONAL CHAMBER OF COMMERCE (ICC) | 3
+Perhaps most importantly, it must be stressed that the 
+ Incoterms® rules do NOT deal with the transfer of property/
+title/ownership of the goods sold. 
+8. These are matters for which the parties need to make specific 
+provision in their contract of sale. Failure to do so is likely to 
+cause problems later if disputes arise about performance  
+and breach. In essence, the Incoterms® 2020 rules are not 
+themselves a contract of sale: they only become part of that 
+contract when they are incorporated into a contract which 
+already exists. Neither do the Incoterms® rules provide the law 
+applicable to the contract. There may be legal regimes which 
+apply to the contract, whether international, like the Conven-
+tion on the International Sale of Goods (CISG);  
+or domestic mandatory law relating, for example, to health  
+and safety or the environment.
+ 
+III. HOW BEST TO INCORPORATE THE INCOTERMS® RULES 
+9. If parties want the Incoterms® 2020 rules to apply to their 
+contract, the safest way to ensure this is to make that intention 
+clear in their contract, through words such as
+“[the chosen Incoterms® rule] [named port, place  
+or point] Incoterms® 2020”. 
+10. Thus, for example, 
+CIF Shanghai Incoterms® 2020, or  
+DAP No 123, ABC Street, Importland Incoterms® 2020.
+11. Leaving the year out could cause problems that may be 
+difficult to resolve. The parties, a judge or an arbitrator need  
+to be able to determine which version of the Incoterms® rules 
+applies to the contract.
+12. The place named next to the chosen Incoterms® rule is even 
+more important:
+``
+in all Incoterms® rules except the C rules, the named place 
+indicates where the goods are “delivered”, i.e. where risk 
+transfers from seller to buyer; 
+``
+in the D rules, the named place is the place of delivery and 
+also the place of destination and the seller must organise 
+carriage to that point;
+``
+in the C rules, the named place indicates the destination  
+to which the seller must organise and pay for the carriage 
+of the goods, which is not, however, the place or port  
+of delivery. 
+13. Thus, an FOB sale raising doubt about the port of shipment 
+leaves both parties uncertain as to where the buyer must 
+present the ship to the seller for the shipment and the trans-
+port of the goods—and as to where the seller must deliver the 
+goods on board so as to transfer risk in the goods from seller 
+to buyer. Again, a CPT contract with an unclear named 
+INCOTERMS® 2020
+4 | INTERNATIONAL CHAMBER OF COMMERCE (ICC)
+ destination will leave both parties in doubt as to the point  
+to which the seller must contract and pay for the transport  
+of the goods.
+14. It is best to avoid these types of issues by being as geographi-
+cally specific as possible in naming the port, place  
+or point, as the case may be, in the chosen Incoterms® rule.
+15. When incorporating a particular Incoterms® 2020 rule into a 
+sale contract, it is not necessary to use the trademark symbol. 
+For further guidance on trademark and copyright, please refer 
+to https://iccwbo.org/incoterms-copyright/. 
+ 
+IV. DELIVERY, RISK AND COSTS IN THE 
+INCOTERMS® 2020 RULES
+16. A named place or port attached to the three letters, e.g. CIP 
+Las Vegas or CIF Los Angeles, then, is critical in the workings 
+of the Incoterms® 2020 rules. Depending on which Incoterms® 
+2020 rule is chosen, that place will identify either the place  
+or port at which the goods are considered to have been 
+“delivered” by the seller to the buyer, the place of “delivery”,  
+or the place or port to which the seller must organise the 
+carriage of the goods, i.e. their destination; or, in the case  
+of the D rules, both. 
+17. In all Incoterms® 2020 rules, A2 will define the place or port of 
+“delivery”—and that place or port is closest to the seller in EXW 
+and FCA (seller’s premises) and closest to the buyer in DAP, 
+DPU and DDP.
+18. The place or port of delivery identified by A2 is critical both  
+for risk and for costs.
+19. The place or port of delivery under A2 marks the place at 
+which risk transfers from seller to buyer under A3. It is at that 
+place or port that the seller performs its obligation to provide 
+the goods under the contract as reflected in A1 such that the 
+buyer cannot recover against the seller for the loss of or 
+damage to the goods occurring after that point has passed.
+20. The place or port of delivery under A2 also marks the central 
+point under A9 which allocates costs to seller and buyer. In 
+broad terms, A9 allocates costs before the point of delivery  
+to the seller and costs after that point to the buyer. 
+ 
+Delivery points  
+Extremes and in-betweens: the four traditional Incoterms® 
+rules groups
+21. Versions of the Incoterms® rules before 2010 traditionally 
+grouped the rules into four, namely E, F, C and D, with E and D 
+lying at extreme poles from each other in terms of the point  
+of delivery and the F and C rules lying in between. While the 
+Incoterms® rules have, since 2010, been grouped according  
+INCOTERMS® 2020
+INTERNATIONAL CHAMBER OF COMMERCE (ICC) | 5
+to the means of transport used, the old groupings are still 
+helpful in understanding the point of delivery. Thus, the 
+delivery point in EXW is an agreed point for collection of the 
+goods by the buyer, whatever the destination to which the 
+buyer will take them. At the other extreme in DAP, DPU and 
+DDP, the delivery point is the same as the destination point to 
+which the seller or its carrier will carry the goods. In the first, 
+EXW, risk transfers before the transport cycle even starts; in 
+the second, the D rules, risk transfers very late in that cycle. 
+Again, in the first, EXW and, for that matter, FCA (seller’s 
+premises), the seller performs its obligation to deliver the 
+goods whether or not they actually arrive at their destination. 
+In the second, the seller performs its obligation to deliver the 
+goods only if they actually arrive at their destination.
+22. The two rules at the extreme ends of the Incoterms® rules are 
+EXW and DDP. However, traders should consider alternative 
+rules to these two for their international contracts. Thus, with 
+EXW the seller has to merely put the goods at the buyer’s 
+disposal. This may cause problems for the seller and the buyer, 
+respectively, with loading and export clearance. The seller 
+would be better advised to sell under the FCA rule. Likewise, 
+with DDP, the seller owes some obligations to the buyer which 
+can only be performed within the buyer’s country, for example 
+obtaining import clearance. It may be physically or legally 
+difficult for the seller to carry out those obligations within the 
+buyer’s country and a seller would therefore be better advised 
+to consider selling goods in such circumstances under the DAP 
+or DPU rules. 
+23. Between the two extremes of E and D rules, there lie the three 
+F rules (FCA, FAS and FOB), and the four C rules (CPT, CIP, 
+CFR and CIF).
+24. With all seven F and C rules, the place of delivery is on the 
+seller’s side of the anticipated carriage: consequently sales 
+using these Incoterms® rules are often called “shipment” sales. 
+Delivery occurs, for example, 
+a) when the goods are placed on board the vessel at the port 
+of loading in CFR, CIF and FOB; or
+b) by handing the goods over to the carrier in CPT and CIP; or 
+c) by loading them on the means of transport provided by the 
+buyer or placing them at the disposal of the buyer’s carrier 
+in FCA. 
+In the F and C groups, risk transfers at the seller’s end of the 
+main carriage such that the seller will have performed its 
+obligation to deliver the goods whether or not the goods 
+actually arrive at their destination. This feature, of being 
+shipment sales with delivery happening at the seller’s end early 
+INCOTERMS® 2020
+6 | INTERNATIONAL CHAMBER OF COMMERCE (ICC)
+in the transit cycle, is common to the F and the C rules, 
+whether they are the maritime Incoterms® rules or the 
+ Incoterms® rules intended for any mode[s] of transport. 
+25. The F and the C rules do, however, differ as to whether it is the 
+seller or buyer who contracts for or arranges the carriage of 
+the goods beyond the place or port of delivery. In the F rules, 
+it is the buyer who makes such arrangements, unless the parties 
+agree otherwise. In the C rules, this obligation falls to the seller.
+26. Given that a seller on any of the C rules contracts for or 
+arranges the carriage of the goods beyond delivery, the parties 
+need to know what the destination is to which it must arrange 
+carriage—and that is the place attached to the name of the 
+Incoterms® rule, e.g. “CIF the port of Dalian” or “CIP the inland 
+city of Shenyang”. Whatever that named destination is, that 
+place is not and never becomes the place of delivery. Risk will 
+have transferred on shipment or on handing over the goods at 
+the place of delivery, but the contract of carriage must have 
+been made by the seller for the named destination. Delivery 
+and destination, then, in the C rules, are necessarily not the 
+same place.
+ 
+V. INCOTERMS® 2020 RULES AND THE CARRIER 
+27. In the F and the C rules, placing the goods, for example, on 
+board the vessel or handing them over to, or placing them at 
+the disposal of, the carrier marks the point at which the goods 
+are “delivered” by the seller to the buyer. Therefore this is the 
+point at which risk transfers from the seller to the buyer. 
+28. Given those two important consequences, it becomes essential 
+to identify who the carrier is where there is more than one 
+carrier, each carrying out a separate leg of transport, for 
+instance by road, rail, air or sea. Of course, where the seller has 
+taken the far more prudent course of making one contract of 
+carriage with one carrier taking responsibility for the entire 
+carriage chain, in a so-called “through” contract of carriage,  
+the problem does not arise. However, where there is no such 
+“through” carriage contract, the goods could be handed over 
+(where the CIP or CPT rules are used) to a road-haulier or rail 
+company for onward transmission to a sea carrier. The same 
+situation may arise with exclusively maritime transport where, 
+for example, the goods are first handed over to a river or 
+feeder short-sea carrier for onward transmission to an 
+ocean carrier. 
+29. In these situations, when does the seller “deliver” the goods to 
+the buyer: when it hands the goods over to the first, second or 
+third carrier? 
+30. Before we answer that question, a preliminary point. While  
+in most cases the carrier will be an independent third party 
+engaged under a contract of carriage by either the seller or the 
+INCOTERMS® 2020
+INTERNATIONAL CHAMBER OF COMMERCE (ICC) | 7
+buyer (depending on whether the parties have chosen a C 
+Incoterms® rule or an F Incoterms® rule), there are situations 
+where no such independent third party is engaged at all 
+because the seller or the buyer itself will carry the goods sold. 
+This is more likely to happen in the D rules (DAP, DPU and 
+DDP), where the seller may use its own means of transport  
+to carry the goods to the buyer at the delivery destination. 
+Provision has therefore been made in the Incoterms® 2020 rules 
+for a seller under the D rules either to contract for carriage  
+or to arrange for carriage, that is to say through its own means 
+of transport: see A4. 
+31. The question asked at paragraph 29 above is not simply a 
+“carriage” question: it is an important “sale” question. The 
+question is not which carrier can a seller or buyer of goods 
+damaged in transit sue under the contract of carriage. The 
+“sale” question is: where there is more than one carrier involved 
+in the carriage of the goods from seller to buyer, at which point 
+in the carriage string does the handing over of the goods mark 
+the point of delivery and the transfer of risk as between seller 
+and buyer? 
+32. There needs to be a simple answer to this question because the 
+relationships between the multiple carriers used, and between 
+the seller and/or the buyer with those several carriers, will be 
+complex, depending as they do on the terms of a number of 
+separate contracts of carriage. Thus, for example, in any such 
+chain of contracts of carriage, one carrier, such as a carrier 
+actually performing a leg of the transit by road, may well act  
+as the seller’s agent in concluding a contract of carriage with  
+a carrier by sea. 
+33. The Incoterms® 2020 rules give a clear answer to this question 
+where the parties contract on FCA. In FCA, the relevant carrier 
+is the carrier nominated by the buyer to whom the seller hands 
+over the goods at the place or point agreed in the contract of 
+sale. Thus even if a seller engages a road haulier to take the 
+goods to the agreed delivery point, risk would transfer not at 
+the place and time where the seller hands the goods over to 
+the haulier engaged by the seller, but at the place and time 
+where the goods are placed at the disposal of the carrier 
+engaged by the buyer. This is why the naming of the place or 
+point of delivery as precisely as possible is so important in FCA 
+sales. The same situation can arise in FOB if a seller engages a 
+feeder vessel or barge to take the goods to the vessel engaged 
+by the buyer. A similar answer is provided by Incoterms® 2020: 
+delivery occurs when the goods are placed on board the 
+buyer’s carrier. 
+34. With the C rules, the position is more complex and may well 
+attract different solutions under different legal systems. In CPT 
+and CIP, the relevant carrier is likely to be regarded, at any rate 
+in some jurisdictions, as the first carrier to whom the seller 
+INCOTERMS® 2020
+8 | INTERNATIONAL CHAMBER OF COMMERCE (ICC)
+hands over the goods under A2 (unless the parties have agreed 
+on the point of delivery). The buyer knows nothing of the 
+contractual arrangements made between the seller and the 
+first or subsequent carriers, or indeed between that first carrier 
+and subsequent carriers. What the buyer does know, however, 
+is that the goods are “in transit” to him or her—and that 
+“transit” starts as far as the buyer knows, when the goods are 
+put by the seller into the hands of the first carrier. The conse-
+quence is that risk transfers from seller to buyer at that early 
+stage of “delivery” to the first carrier. The same situation can 
+arise in CFR and CIF if a seller engages a feeder vessel or barge 
+to take the goods to the agreed port of shipment, if any. A 
+similar answer might be suggested in some legal systems: 
+delivery occurs when the goods are placed on board the vessel 
+at the agreed port of shipment, if any. 
+35. Such a conclusion, if adopted, may seem harsh on the buyer. 
+Risk would transfer from seller to buyer in CPT and CIP sales 
+when the goods are handed over to the first carrier. The buyer 
+does not know at that stage whether or not that first carrier is 
+responsible for loss of or damage to the goods under the 
+relevant carriage contract. The buyer is not a party to that 
+contract, has no control over it and will not know its terms.  
+Yet, despite this, the buyer would end up bearing the risk in the 
+goods from the very earliest moment of handing over, possibly 
+without recovery against that first carrier. 
+36. While the buyer would end up bearing the risk of loss of or 
+damage to the goods at an early stage of the transport chain,  
+it would, on this view however, have a remedy against the 
+seller. A2/A3 do not operate in a vacuum: under A4, the seller 
+must contract for the carriage of the goods “from the agreed 
+point of delivery, if any, at the place of delivery to the named 
+place of destination or, if agreed, any point at that place.” Even 
+if risk has transferred to the buyer at the time the goods were 
+handed over to the first carrier under A2/A3, if that first carrier 
+does not undertake responsibility under its contract of carriage 
+for the through carriage of the goods to the named destina-
+tion, the seller, on this view, would remain liable to the buyer 
+under A4. In essence, the seller should make a contract of 
+carriage to the destination named under the contract of sale. 
+ 
+VI. RULES FOR THE CONTRACT OF SALE AND THEIR 
+RELATIONSHIP TO OTHER CONTRACTS
+37. This discussion of the role of the carrier in the delivery of the 
+goods as between the seller and the buyer in the C and F 
+Incoterms® rules raises the question: what role do the 
+ Incoterms® rules play in the contract of carriage, or, indeed,  
+in any of the other contracts typically surrounding an export 
+contract, for example an insurance contract or a letter 
+of credit? 
+INCOTERMS® 2020
+INTERNATIONAL CHAMBER OF COMMERCE (ICC) | 9
+38. The short answer is that the Incoterms® rules do not form part 
+of those other contracts: where incorporated, the Incoterms® 
+rules apply to and govern only certain aspects of the contract 
+of sale. 
+39. This is not the same as saying, however, that the Incoterms® 
+rules have no impact on those other contracts. Goods are 
+exported and imported through a network of contracts that,  
+in an ideal world, should match the one with the other. Thus, 
+the sale contract, for example, will require the tender of a 
+transport document issued by the carrier to the seller/shipper 
+under a contract of carriage and against which the seller/
+shipper/beneficiary might wish to be paid under a letter of 
+credit. Where the three contracts match, things go well; where 
+they do not, problems rapidly arise. 
+40. What the Incoterms® rules say, for example, about carriage or 
+transport documents (in A4/B4 and A6/B6), or what they say 
+about insurance cover (A5/B5), does not bind the carrier or 
+the insurer or any of the banks involved. Thus, a carrier is only 
+bound to issue a transport document as required by the 
+contract of carriage it makes with the other party to that 
+contract: it is not bound to issue a transport document com-
+plying with the Incoterms® rules. Likewise, an insurer is bound 
+to issue a policy to the level and in the terms agreed with the 
+party purchasing the insurance, not a policy which complies 
+with the Incoterms® rules. Finally, a bank will look only at the 
+documentary requirements in the letter of credit, if any, not at 
+the requirements of the sales contract.
+41. However, it is very much in the interests of all the parties to the 
+different contracts in the network to ensure that the carriage  
+or insurance terms they have agreed with the carrier or insurer, 
+or the terms of a letter of credit, comply with what the sale 
+contract says about ancillary contracts that need to be made 
+or documents that need to be obtained and tendered. That 
+task does not fall on the carrier, the insurer or the bank, none  
+of whom are party to the contract of sale and none of whom 
+are, therefore, party to or bound by the Incoterms® 2020 rules. 
+It is, however, in the seller’s and buyer’s interest to try to ensure 
+that the different parts of the network of contracts match—and 
+the starting point is the sale contract—and therefore, where 
+they apply, the Incoterms® 2020 rules. 
+ VII. THE ELEVEN INCOTERMS® 2020 RULES—“SEA 
+AND INLAND WATERWAY” AND “ANY MODE(S) OF 
+TRANSPORT”: GETTING IT RIGHT
+42. The main distinction introduced in the Incoterms® 2010 rules, 
+that between Rules for any Mode or Modes of Transport 
+(comprising EXW, FCA, CPT, CIP, DAP, the newly named 
+INCOTERMS® 2020
+10 | INTERNATIONAL CHAMBER OF COMMERCE (ICC)
+DPU—the old DAT—and DDP), and Rules for Sea and Inland 
+Waterway Transport, (comprising FAS, FOB, CFR and CIF)  
+has been retained. 
+43. The four so-called “maritime” Incoterms® rules are intended for 
+use where the seller places the goods on board (or in FAS 
+alongside) a vessel at a sea or river port. It is at this point that 
+the seller delivers the goods to the buyer. When these rules are 
+used, the risk of loss of or damage to those goods is on the 
+buyer’s shoulders from that port. 
+44. The seven Incoterms® rules for any mode or modes of transport 
+(so-called “multi-modal”), on the other hand, are intended for 
+use where
+a) the point at which the seller hands the goods over to,  
+or places them at the disposal of, a carrier, or 
+b) the point at which the carrier hands the goods over to the 
+buyer, or the point at which they are placed at the disposal 
+of the buyer, or
+c) both points (a) and (b) 
+are not on board (or in FAS alongside) a vessel. 
+45. Where delivery happens and risk transfers in each of these 
+seven Incoterms® rules will depend on which particular rule is 
+used. For example, in CPT, delivery happens at the seller’s end 
+when the goods are handed over to the carrier contracted by 
+the seller. In DAP, on the other hand, delivery happens when 
+the goods are placed at the buyer’s disposal at the named 
+place or point of destination.
+46. The order in which the Incoterms® 2010 rules were presented 
+has, as we have said, been largely retained in Incoterms® 2020 
+and it is important to underline the distinction between the two 
+families of Incoterms® rules so that the right rule is used for the 
+contract of sale depending on the means of transport used. 
+47. One of the most frequent problems in the use of the Incoterms® 
+rules is the choice of the wrong rule for the particular type 
+of contract. 
+48. Thus, for example, an FOB inland point (for example an airport 
+or a warehouse) sale contract makes little sense: what type of 
+contract of carriage must the buyer make? Does the buyer owe 
+the seller an obligation to make a contract of carriage under 
+which the carrier is bound to take over the goods at the named 
+inland point or at the nearest port to that point? 
+49. Again, a CIF named sea port sale contract where the buyer 
+expects the goods to be brought to an inland point in the 
+buyer’s country makes little sense. Must the seller procure a 
+contract of carriage and insurance cover to the eventual inland 
+destination intended by the parties or to the seaport named in 
+the sale contract? 
+INCOTERMS® 2020
+INTERNATIONAL CHAMBER OF COMMERCE (ICC) | 11
+50. Gaps, overlaps and unnecessary costs are likely to arise—and all 
+this because the wrong Incoterms® rule has been chosen for 
+the particular contract. What makes the mismatch “wrong” is 
+that insufficient regard has been given to the two most 
+important features of the Incoterms® rules, features which are 
+mirrors of each other, namely the port, place or point of 
+delivery and the transfer of risks. 
+51. The reason for the frequent misuse of the wrong Incoterms® 
+rule is that Incoterms® rules are frequently regarded exclusively 
+as price indicators: this or that is the EXW, FOB, or DAP price. 
+The initials used in the Incoterms® rules are doubtless handy 
+abbreviations for the formula used in the calculation of the 
+price. Incoterms® rules are not, however, exclusively, or even 
+primarily, price indicators. They are a list of general obligations 
+that sellers and buyers owe each other under well-recognised 
+forms of sale contract—and one of their main tasks is to 
+indicate the port, place or point of delivery where the risk 
+is transferred. 
+ VIII. ORDER WITHIN THE INCOTERMS® 2020 RULES
+52. All the ten A/B articles in each of the Incoterms® rules are 
+important—but some are more important than others. 
+53. There has, indeed, been a radical shake-up in the internal order 
+in which the ten articles within each Incoterms® rule have been 
+organised. In Incoterms® 2020, the internal order within each 
+Incoterms® rule now follows this sequence:
+A1/B1 
+General obligations
+A2/B2 
+Delivery/Taking delivery
+A3/B3 
+Transfer of risks 
+A4/B4 
+Carriage
+A5/B5 
+Insurance
+A6/B6 
+Delivery/transport document
+A7/B7 
+Export/import clearance
+A8/B8 
+Checking/packaging/marking
+A9/B9 
+Allocation of costs
+A10/B10 Notices
+54. It will be noticed that concerning the Incoterms® 2020 rules, 
+after recording in A1/B1 the basic goods/payment obligations 
+of the parties, Delivery and the Transfer of risks are moved to a 
+more prominent location, namely to A2 and A3 respectively.
+55. The broad sequence thereafter goes: 
+``
+ancillary contracts (A4/B4 and A5/B5, carriage and 
+insurance); 
+``
+transport documents (A6/B6); 
+INCOTERMS® 2020
+12 | INTERNATIONAL CHAMBER OF COMMERCE (ICC)
+``
+export/import clearance (A7/B7); 
+``
+packaging (A8/B8); 
+``
+costs (A9/B9); and 
+``
+notices (A10/B10).
+56. It is appreciated that this change in the order of the A/B 
+articles will take some time—and cost—to become familiar. It is 
+hoped that with delivery and risk now made more prominent, 
+traders will find it easier to identify the differences among the 
+various Incoterms® rules, i.e. the different points in time and 
+place at which the seller “delivers” the goods to the buyer with 
+risk transferring to the buyer from that time and point.
+57. For the first time, the Incoterms® rules are published both in the 
+traditional format setting out the eleven Incoterms® rules and  
+in a new “horizontal” format setting out the ten articles within 
+each Incoterms® rule under each of the headings listed above  
+in paragraph 53, first for the seller and then for the buyer. 
+Traders can therefore now far more easily see the difference, 
+for example, between the place of delivery in FCA and the 
+place of delivery in DAP; or the items of cost which fall on  
+a buyer in CIF when compared with the items of cost which  
+fall on a buyer in CFR. It is hoped that this “horizontal” rep-
+resentation of the Incoterms® 2020 rules will further assist 
+traders in choosing the Incoterms® rule most appropriate to 
+their commercial requirements. 
+ 
+IX. DIFFERENCES BETWEEN INCOTERMS® 2010 AND 2020
+58. The most important initiative behind the Incoterms® 2020 rules 
+has been to focus on how the presentation could be enhanced 
+to steer users towards the right Incoterms® rule for their sale 
+contract. Thus:
+a) a greater emphasis in this Introduction on making the right 
+choice; 
+b) a clearer explanation of the demarcation and connection 
+between the sale contract and its ancillary contracts; 
+c) upgraded Guidance Notes presented now as Explanatory 
+Notes to each Incoterms® rule; and
+d) a re-ordering within the Incoterms® rules giving delivery  
+and risk more prominence.
+All these changes, though cosmetic in appearance, are in 
+reality substantial attempts on the part of ICC to assist the 
+international trading community towards smoother export/
+import transactions.
+59. Apart from these general changes, there are more substantive 
+changes in the Incoterms® 2020 rules when compared with 
+Incoterms® 2010. Before looking at those changes, mention 
+must be made of a particular development in trade practice 
+INCOTERMS® 2020
+INTERNATIONAL CHAMBER OF COMMERCE (ICC) | 13
+which occurred since 2010 and which ICC has decided should 
+not lead to a change in the Incoterms® 2020 rules, namely 
+Verified Gross Mass (VGM).
+60. Note on Verified Gross Mass (VGM)—Since 1 July 2016, 
+Regulation 2 under the International Convention for the Safety 
+of Life at Sea (SOLAS) imposed on shippers in the case of the 
+shipment of containers the obligation either to weigh the 
+packed container using calibrated and certified equipment,  
+or to weigh the contents of the container and add the weight 
+of the container when empty. In either case, the VGM is to be 
+recorded with the carrier. A failure to comply bears the 
+sanction under the SOLAS Convention that the container 
+“should not be loaded onto a ship”: see paragraph 4.2,  
+MSC1/Circ.1475, 9 June 2014.
+These weighing operations obviously incur expense and failure 
+may lead to delay in loading. As this happened after 2010, it is 
+unsurprising that there was some pressure in the consultations 
+leading to Incoterms® 2020 for a clear indication to be given as 
+to who, as between seller and buyer, should bear such 
+obligations. 
+61. It was felt by the Drafting Group that obligations and costs 
+relating to VGM were too specific and complex to warrant 
+explicit mention in the Incoterms® 2020 rules.
+62. Returning to the changes made by ICC to the Incoterms® 2010 
+rules in the Incoterms® 2020 rules, these are: 
+[a] Bills of lading with an on-board notation and the FCA 
+Incoterms® rule
+[b] Costs, where they are listed
+[c] Different levels of insurance cover in CIF and CIP 
+[d] Arranging for carriage with seller’s or buyer’s own 
+means of transport in FCA, DAP, DPU and DDP
+[e] Change in the three-letter initials for DAT to DPU
+[f] 
+Inclusion of security-related requirements within 
+carriage obligations and costs
+[g] Explanatory Notes for Users
+[a] Bills of lading with an on-board notation and the FCA 
+Incoterms® rule
+63. Where goods are sold FCA for carriage by sea, sellers or 
+buyers (or more likely their banks where a letter of credit is in 
+place) might want a bill of lading with an on-board notation.
+64. However, delivery under the FCA rule is completed before the 
+loading of the goods on board the vessel. It is by no means 
+certain that the seller can obtain an on-board bill of lading from 
+the carrier. That carrier is likely, under its contract of carriage, 
+to be bound and entitled to issue an on-board bill of lading 
+only once the goods are actually on board.
+INCOTERMS® 2020
+14 | INTERNATIONAL CHAMBER OF COMMERCE (ICC)
+65. To cater for this situation, FCA A6/B6 of Incoterms® 2020 now 
+provides for an additional option. The buyer and the seller can 
+agree that the buyer will instruct its carrier to issue an on-board 
+bill of lading to the seller after the loading of the goods, the 
+seller then being obliged to tender that bill of lading to the 
+buyer, typically through the banks. ICC recognises that, despite 
+this somewhat unhappy union between an on-board bill of 
+lading and FCA delivery, this caters for a demonstrated need  
+in the marketplace. Finally, it should be emphasised that even 
+where this optional mechanism is adopted, the seller is under 
+no obligation to the buyer as to the terms of the contract 
+of carriage.
+66. Does it remain true to say that where containerised goods are 
+delivered by seller to buyer by handing over to a carrier before 
+loading onto a ship, the seller is well advised to sell on FCA 
+terms rather than on FOB terms? The answer to that question 
+is Yes. Where Incoterms® 2020 have made a difference, 
+however, is that where such a seller still wants or needs a bill  
+of lading with an on-board notation, the new additional option 
+in the FCA term A6/B6 makes provision for such a document.
+[b] Costs, where they are listed
+67. In the new ordering of the articles within the Incoterms® 2020 
+rules, costs now appear at A9/B9 of each Incoterms® rule. 
+Apart from that re-location, however, there is another change 
+that will become obvious to users early on. The various costs 
+which fall to be allocated by various articles within the Inco-
+terms® rules have traditionally appeared in different parts of 
+each Incoterms® rule. Thus, for example, costs related to the 
+obtaining of a delivery document in FOB 2010 were mentioned 
+in A8, the article under the heading “Delivery Document”, but 
+not in A6, the article under the heading “Allocation of Costs”. 
+68. In the Incoterms® 2020 rules, however, the equivalent of A6/B6, 
+namely A9/B9, now lists all the costs allocated by each 
+particular Incoterms® rule. A9/B9 in the Incoterms® 2020 rules 
+are consequently longer than A6/B6 in the Incoterms® 
+2010 rules. 
+69. The purpose is to provide users with a one-stop list of costs,  
+so that the seller or buyer can now find in one place all the 
+costs for which it would be responsible under that particular 
+ Incoterms® rule. Items of cost are also mentioned in their home 
+article: thus, for example, the costs involved in obtaining 
+documents in FOB still also appear at A6/B6 as well as at  
+A9/B9. The thinking here was that users interested in 
+discovering the specific allocation of documentary costs  
+might be more inclined to go to the specific article dealing  
+with delivery documents rather than to the general article 
+listing all the costs. 
+INCOTERMS® 2020
+INTERNATIONAL CHAMBER OF COMMERCE (ICC) | 15
+[c] Different levels of insurance cover in CIF and CIP 
+70. In the Incoterms® 2010 rules, A3 of both CIF and CIP imposed 
+on the seller the obligation to “obtain at its own expense cargo 
+insurance complying at least with the minimum cover as 
+provided by Clauses (C) of the Institute Cargo Clauses (Lloyd’s 
+Market Association/International Underwriting Association 
+‘LMA/IUA’) or any similar clauses.” Institute Cargo Clauses (C) 
+provide cover for a number of listed risks, subject to itemised 
+exclusions; Institute Cargo Clauses (A), on the other hand, 
+cover “all risks”, again subject to itemised exclusions. During 
+the consultations leading to the Incoterms® 2020 rules, the case 
+was made for moving from Institute Cargo Clauses (C) to 
+Institute Cargo Clauses (A), thus increasing the cover obtained 
+by the seller for the benefit of the buyer. This could, of course, 
+also involve an additional cost in premium. The contrary case, 
+namely to stay with Institute Cargo Clauses (C), was equally 
+strongly put, particularly by those involved in the maritime 
+trade of commodities. After considerable discussion within and 
+beyond the Drafting Group, the decision was made to provide 
+for different minimum cover in the CIF Incoterms® rule and in 
+the CIP Incoterms® rule. In the first, which is much more likely 
+to be used in the maritime commodity trades, the status quo 
+has been retained, with Institute Cargo Clauses (C) as the 
+default position, although it is, of course, open to the parties to 
+agree to higher cover. In the second, namely the CIP Incoterms® 
+rule, the seller must now obtain insurance cover complying 
+with Institute Cargo Clauses (A), although it is, of course, again 
+open to the parties to agree on a lower level of cover.
+[d] Arranging for carriage with seller’s or buyer’s own means  
+of transport in FCA, DAP, DPU and DDP
+71. In the Incoterms® 2010 rules, it was assumed throughout that 
+where the goods were to be carried from the seller to the 
+buyer, they would be carried by a third-party carrier engaged 
+for the purpose either by the seller or the buyer, depending  
+on which Incoterms® rule was used.
+72. It became clear in the deliberations leading to Incoterms® 2020, 
+however, that there were some situations where, although the 
+goods were to be carried from the seller to the buyer, they 
+could be so carried without any third-party carrier being 
+engaged at all. Thus, for example, there was nothing stopping 
+a seller on a D rule from arranging for such carriage without 
+outsourcing that function to a third party, namely by using its 
+own means of transportation. Likewise, with an FCA purchase, 
+there was nothing to stop the buyer from using its own vehicle 
+for the collection of the goods and for their transport to the 
+buyer’s premises. 
+INCOTERMS® 2020
+16 | INTERNATIONAL CHAMBER OF COMMERCE (ICC)
+73. The rules appeared not to take account of these eventualities. 
+The Incoterms® 2020 rules now do, by expressly allowing not 
+only for the making of a contract of carriage, but also for 
+simply arranging for the necessary carriage.
+[e] Change in the three-letter initials for DAT to DPU
+74. The only difference between DAT and DAP in the Incoterms® 
+2010 rules was that in DAT the seller delivered the goods once 
+unloaded from the arriving means of transport into a “terminal”; 
+whereas in DAP, the seller delivered the goods when the goods 
+were placed at the disposal of the buyer on the arriving means 
+of transport for unloading. It will also be recalled that the 
+Guidance Note for DAT in Incoterms® 2010 defined the word 
+“terminal” broadly to include “any place, whether covered 
+or not…”. 
+75. ICC decided to make two changes to DAT and DAP. First, the 
+order in which the two Incoterms® 2020 rules are presented  
+has been inverted, and DAP, where delivery happens before 
+unloading, now appears before DAT. Secondly, the name  
+of the rule DAT has been changed to DPU (Delivered at Place 
+Unloaded), emphasising the reality that the place of destination 
+could be any place and not only a “terminal”. However, if that 
+place is not in a terminal, the seller should make sure that the 
+place where it intends to deliver the goods is a place where it is 
+able to unload the goods.
+[f] Inclusion of security-related requirements within carriage 
+obligations and costs
+76. It will be recalled that security-related requirements made a 
+rather subdued entry into the Incoterms® 2010 rules, through 
+A2/B2 and A10/B10 in each rule. The Incoterms® 2010 rules 
+were the first revision of the Incoterms® rules to come into force 
+after security-related concerns became so prevalent in the 
+early part of this century. Those concerns, and the associated 
+shipping practices which they have created in their wake, are 
+now much more established. Connected as they are to carriage 
+requirements, an express allocation of security-related 
+obligations has now been added to A4 and A7 of each 
+Incoterms® rule. The costs incurred by these requirements are 
+also now given a more prominent position in the costs article, 
+namely A9/B9. 
+[g] Explanatory Notes for Users
+77. The Guidance Notes appearing at the start of each Incoterms® 
+rule in the 2010 version now appear as “Explanatory Notes for 
+Users”. These Notes explain the fundamentals of each 
+ Incoterms® 2020 rule, such as when it should be used, when 
+risk transfers and how costs are allocated between seller and 
+buyer. The Explanatory Notes are intended (a) to help the 
+user accurately and efficiently steer towards the appropriate 
+INCOTERMS® 2020
+INTERNATIONAL CHAMBER OF COMMERCE (ICC) | 17
+Incoterms® rule for a particular transaction; and (b) to provide 
+those deciding or advising on disputes or contracts governed 
+by Incoterms® 2020 with guidance on matters which might 
+require interpretation. For guidance on more fundamental 
+issues that cut across the Incoterms® 2020 rules more gener-
+ally, reference may, of course, also be made to the text of 
+this Introduction.
+ 
+X. CAUTION WITH VARIANTS OF INCOTERMS® RULES
+78. Sometimes the parties want to alter an Incoterms® rule. The 
+Incoterms® 2020 rules do not prohibit such alteration, but 
+there are dangers in so doing. In order to avoid any unwel-
+come surprises, the parties would need to make the intended 
+effect of such alterations extremely clear in their contract. 
+Thus, for example, if the allocation of costs in the Incoterms® 
+2020 rules is altered in the contract, the parties should also 
+clearly state whether they intend to vary the point at which 
+delivery is made and the risk transfers to the buyer. 
+Charles Debattista* 
+Special ICC Advisor  
+Incoterms® 2020 Drafting Group
+36 Stone 
+Gray’s Inn 
+London
+* 
+I am very grateful for comments received on earlier drafts of this personal 
+Introduction to the new rules, both from ICC national committees and from my 
+colleagues on the Drafting Group. The views expressed in this Introduction, 
+however, remain my own and do not therefore form part of the Incoterms® 2020 
+rules themselves.

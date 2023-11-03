@@ -1,0 +1,24 @@
+PD FLASH – Respect for personal data after the departure of an employee
+
+
+
+May 27 2020
+All employees have the right to a reasonable expectation of privacy in their personal correspondence. No employer can freely view the personal emails of their employees, even if they have prohibited the use of company equipment for personal business.
+
+To be protected, the emails or personal files of MANE employees must be identified as such in their subject / title, specifying "Personal" or "Private" or be stored in a directory entitled "Personal" or "Private".
+
+Any email or file that has not been identified by an employee as personal will fail to be considered professional in nature and freely viewable by MANE.
+
+As reminded by article 3.4 of the MANE IT Charter, to which the MANE Rules of Governance refer, in the event where the user's employment contract terminates, the user shall, before the user leaves the company:
+
+-Retrieve and delete any file or personal e-mail before the user effectively leaves. In particular, the user must empty the "NoBackup" directory on the user’s workstation (sub-folder located in "My Documents").
+-Do not delete any professional data that could be useful to the company.
+-Return all documents, information or material belonging to V. MANE FILS. 
+
+The mailbox will be deleted the day after the user's departure.
+
+Before final deletion of the mailbox, a temporary copy of the data will be made and kept for one month before being deleted. The copy of the data will be made available to the line manager, by request made to the helpdesk during the one-month retention period, unless the Human Resources Department has instructions to the contrary and has legitimate reasons for objecting to the transmission of this copy to the line manager. 
+Workstation data, excluding the "NoBackup" directory, will be copied and retained for one month on a secure space and accessible by the line manager, by his request made to the Helpdesk during the one-month retention period, before being deleted.
+
+As a reminder, the user will be informed by automatic e-mail, at least 7 days before the user’s departure date or at the latest on the known date of departure of the company, of the need to sort/erase the user’s personal data and to refer to the IT charter in force.
+

@@ -1,0 +1,14 @@
+PD FLASH - The good habits to protect personal data
+
+
+
+Collecting and processing personal data in your job at MANE involves, above all, informing people about what you do with their data and respecting their rights.
+
+Some good habits must be adopted for proper processing of personal data:
+- Collect only the personal data strictly necessary;
+- Be transparent: clear and complete information must be provided to the persons whose personal data is collected;
+- Respect the rights of individuals: always bear in mind that the persons whose personal data are processed have the right to object, rectify, access and delete their data. In the event of a request of application of one of these rights, ask the person to contact dpo@mane.com and we will respond within one month;
+- Identify the risks: if you process a lot of personal data or sensitive data contact the DPO, specific measures may need to be adopted;
+- Secure data: IT but also physical measures must be taken to ensure the conservation and confidentiality of the personal data that you process.
+
+

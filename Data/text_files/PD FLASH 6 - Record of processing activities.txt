@@ -1,0 +1,14 @@
+PD FLASH 6 - Record of processing activities
+
+
+To concretely measure the impact of the GDPR on our activities, it was necessary to identify precisely the processing of personal data performed by each department within Mane group, at headquarters and in the subsidiaries. Keeping a register of personal data processing allows us to map our processing and to justify our personal data processing.
+
+In the Personal Data Processing Register, it is necessary to identify precisely:
+• The different processing of personal data,
+• The categories of personal data processed;
+• The objectives pursued by the data processing operations;
+• The persons (internal or external) who process this data;
+• The chain of custody of personal data, in particular to identify any data transfers outside the European Union.
+
+In order to keep this mapping of personal data processed by the Mane Group up to date, the participation of each department and each subsidiary in the inventory, declaration and updating of processing operations is fundamental. It is therefore up to each service or subsidiary, through its DP Coordinator, to transmit its personal data processing registration to the DPO at the address dpo@mane.com, using the validation procedure for the processing of personal data file (as an attachment for reminder).
+

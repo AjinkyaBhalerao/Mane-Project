@@ -1,0 +1,37 @@
+MANE CONFIDENTIALITY POLICY
+
+Access to the updated templates and to the central register listing all the confidentiality agreements issued in the Mane Group is restricted to a limited number of persons for confidentiality reasons.
+If in the Corporate/Legal&IP/Legal/Confidentiality sharepoint site, you do not visualize the register and the templates, it means that you have not been given access. In such a case you need to contact one of the persons having access in your department. 
+
+The Agreement Templates
+
+Mane templates are to be used for establishing confidentiality agreements and must never be provided to a person outside of Mane without the details being FULLY COMPLETED AND REGISTERED first (templates are not intended to be communicated as such):
+Unilateral (one-sided) versions covering confidential information disclosed by Mane only:
+does not cover formulas (U): in English (cf. 0U…ENG.doc”), French (cf 0U…FR.doc) and Spanish (cf 0U…SPA.doc); 
+for formula disclosure only (UD): in English (cf. 0UD…ENG), French (cf 0UD…FR.doc) and Spanish (cf 0UD…SPA.doc);
+Bilateral (two-sided/mutual) versions covering confidential information disclosed by both parties (exchange of information) (BI): in English (cf. 0BI…ENG.doc), French (cf. 0BI…FR.doc) and Spanish (cf 0BI…SPA).
+
+Those templates are updated on-line here, and have to be used each time a new agreement is issued in order to always use the last available version. In case the confidentiality requirement is specific, for instance: audit, study analysis, toll manufacturing, due diligence, etc, please consult the Legal & IP Department and explain the particular reason for such requirements. Mane Legal maintains such specialized templates.
+
+The parts highlighted in blue must be completed, the parts highlighted in yellow must be checked and/or adapted before being sent out. Those colors are internal guidance only, they have to be deleted once completed, and especially on the final signed document. 
+
+Our templates are to be used in priority and by anticipation to any other template which could be submitted to us, knowing that using our UD template is imperative for any formula disclosure. In case of UD confidentiality agreement: (1) formula disclosure is permitted only for toxicological, safety and regulatory compliance evaluation purposes, and (2) the completed Appendix must be carefully checked before Mane’s signature. 
+
+Nevertheless, if anticipating the use of our template has been impossible (provided it is not about formula disclosure) and if a confidentiality agreement has been submitted to us, such agreement must be priorly registered (see below) and sent out to the Legal & IP Department for review specifying if Mane will be disclosing confidential information or not (in such a case they have to be protected and the agreement must be bilateral), and if yes, which entity of the Mane Group will be disclosing information. The reference number must be mentioned in the footnote of the agreement, the subject matter covered must also be mentioned, as well as the entities sharing the confidential information. 
+
+Each confidentiality agreement has to be signed in two original copies (or even more if more than two entities are signatories). Once signed, (i) one scanned copy of the agreement must be shared with the concerned persons (including Legal & IP Department) and (ii) the hard copy intended to Mane has to be sent to the Legal & IP Department for safekeeping. Printing a scan of the agreement is not issuing a hard copy. 
+
+Facility Visitors
+
+Any person outside of Mane Group (client/customer/vendor/third party auditor, etc) will be provided accessibility/ visit to Mane’s facilities only upon signing the Facility Visitor Form (link). This is to protect the information including Mane’s Intellectual Property, manufacturing technique, process, etc, during the visitor’s visit to Mane’s facility. It will be the responsibility of Mane’s representatives to ensure that the visitor duly provides all necessary details, signs and submits the Facility Visitor Form before entering the facility.
+
+The Sharepoint Register 
+
+Each agreement draft must be registered as soon as it is issued (project stage) by the person who initiated such draft at Mane in order to be identified through a reference number, which is automatically generated through registration on the register available here (even if such draft is not based on our templates) and mention the reference number in the footnote of the agreement. Any amendment (renewal, etc…) of existing agreements would also require registration. 
+
+At the registration stage, each field of the register must be completed, except the “effective date” and “expiration date” columns which remain unknown until the effective signature of the agreement. Only once the agreement is signed, the effective date and expiration date must be completed in the register by the person who registered the agreement in the first place, along with changing the status of the form from « draft » to either:  (i) « in force limited » for the limited term period of confidentiality agreements or (ii) « in force unlimited » for the unlimited term period of confidentiality agreements. No hard copy must be sent to the Legal and IP Department as long as the status of the agreement form « In force » hasn’t been updated in the register. 
+If an agreement draft is no longer intended to be signed, the status of the form must be modified in the register through the modification of its status from « Draft » to « Abandoned » without deleting the agreement registration itself.
+
+The follow-up
+
+Once signed, a confidentiality agreement must be followed-up: (i) check its expiration date for a potential renewal, and (ii) check that the subject matter indeed covers the information we wish to disclose or are required to disclose. The designated representative (contact person managing the relationship) in the agreement (and mentioned in the register) is responsible for this follow-up at Mane and is to be distinguished from the authorized representative (signatory who is empowered to sign).

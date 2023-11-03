@@ -1,0 +1,63 @@
+MANE CONFIDENTIALITY POLICY
+Frequently Asked Questions
+
+What is the purpose of a confidentiality agreement?
+A confidentiality or “non-disclosure” agreement – abbreviated as CDA or NDA – is used to protect confidential and proprietary information.  It requires that the counterparty keep the information secret, prohibits the counterparty from exploiting the information for its economic advantage, and establishes that all ownership rights remain with the original party.
+
+When is a CDA needed?
+When Mane will share confidential information with another person or entity.  Also, when someone will observe or learn about Mane’s confidential information. Additionally, when any of the parties (MANE and Counterparty) wish to disclose confidential information to each other.
+
+What is confidential information?
+Confidential information is usually non-public information for which misappropriation could give a competitor a competitive advantage.
+
+What are some types of confidential information?
+Formulas, samples, processes and know-how are common examples.  Others could include: methods, ideas, concepts, techniques, research, experimental work, developments, inventions (whether or not patentable), scientific and clinical information, design details, drawings, diagrams, engineering, specifications, ingredients, chemical composition, recipes, customer or/and supplier data, business records, financial information, legal and/or corporate information, sales data, sales analyses, forecasts, plans (business, staffing, product development, etc.), prices, margins, strategy, equipment, technical specifications incident reports, complaints, claims, business arrangements, contracts, contract terms, origin of products, and reports.
+
+Which MANE entity or affiliate is the contracting party of the CDA?
+The legal entity which employs the employees who will be disclosing the information to the counterparty should be the contracting entity.   If several MANE entities are involved, each should be contracting party.
+
+Who is responsible for managing the confidentiality agreement with the counterparty?
+Mane’s representative in the relationship with the counterparty is responsible for adherence to the Confidentiality Policy, including the follow-up obligations.  This individual is likewise responsible for being familiar with the rights and obligations of the CDA and ensuring that Mane observes all requirements of the agreement.
+
+How do I register a CDA?
+Every CDA – whether using Mane’s template or one received from a counterparty – must be immediately registered in the central register on SharePoint in order to allocate a register ID.  
+Enter the reference ID in the footer of the agreement and mention it in any document used to disclose confidential information, including the sentence "Confidential information subject to the terms and conditions of contract No. [INCLUDE REFERENCE NUMBER]".
+
+Is the “designated representative” the same as the signatory?
+No. The designated representative is the individual who is most directly responsible for managing the relationship and is the contact person for notices. The signatory is the individual authorized to sign the agreement and bind the company.  Sometimes they are the same person, but often they are not.
+
+Is it possible to review confidentiality agreements sent by the counterparty?
+Mane’s representative should always seek the use of Mane’s templates. However, when necessary, Mane will consider reviewing the counterparty’s CDA. In that case, it is the responsibility of Mane’s representative to read the entire document before submitting the document to be registered, and to provide Mane Legal & IP Department their comments on the CDA and all necessary information to allow a proper review (Mane entities concerned, subject matter, retroactive effect, duration…).
+
+Do I need to involve the Legal & IP Department?
+Consultation of the Legal & IP Department is not needed only if you use a Mane template and the counterparty signs without amendment.  Legal is not checking the proper fill-in of a Mane template: it must be done by Mane’s representative in the relationship under his/her responsibility. In all other cases – particularly including amendments proposed by the counterparty to Mane’s CDA proposal, or if the counterparty submits its form – you must submit for review by Legal, but not until the agreement is properly registered in accordance with the Confidentiality Policy.
+
+ When completing Mane’s template, how do I define the “Subject Matter”?
+The Subject Matter describes the purpose of the exchange of confidential information with the counterparty.  It is especially important to define this properly because it (i) establishes what information is covered (i.e. only information shared that pertains to the Subject Matter is protected under the agreement), and (ii) limits how the other party can use the information (i.e. use of the confidential information is restricted to activities consistent with the Subject Matter). The Subject Matter must be defined precisely as much as possible in order to provide clarity on the confidential information that is to be protected.
+Example:  The Parties intend to investigate a possible business relationship regarding Mane’s development and proposal of fragrance compositions and delivery systems thereof for integration by Customer into its own hair care products and shall commence mutual discussions relating thereto.
+PLEASE NOTE: The protection of the confidential information disclosed between the parties is NOT the Subject Matter.
+
+ For UD (formula disclosure) CDAs, how can the Authorized Persons list be updated?
+Reorganization:  The counterparty must notify Mane of any reorganization that affects the Authorized Persons (e.g., withdrawal, change of title, etc.).  Such individuals will no longer be Authorized Persons, unless agreed in writing by Mane.
+Replacement:  The counterparty may only replace an Authorized Person with another employee who is responsible for toxicological, safety or regulatory affairs within the counterparty Regulatory Affairs Department or equivalent.  The counterparty should issue a letter on company letterhead, and the new Authorized Person must sign, committing personally to comply with the CDA in replacement of the named former Authorized Person.  The individual being replaced will no longer be an Authorized Person.
+Addition:  If the counterparty seeks to add a new Authorized Person, such person should be an employee of the counterparty responsible for toxicological, safety or regulatory affairs within the counterparty Regulatory Affairs Department or equivalent.  A written amendment to the CDA’s Appendix, signed by both parties, is required.  The overall list needs to remain limited in number.
+
+ Is it possible to extend the term of a CDA already signed?
+Yes, please use the amendment template to renew a CDA in French, English or Spanish on SharePoint and register it like any other CDA.
+
+Is it possible to add another party to a CDA already signed?
+Yes, please use the amendment template to renew a CDA in French, English or Spanish on SharePoint and register it like any other CDA.
+
+ What if Mane already has a CDA with the counterparty?
+It must be checked to confirm: (i) the “subject matter” statement (i.e. scope) is broad enough to protect the contemplated confidential exchange; (ii) it remains active and will continue to be valid during the period needed for the particular project.  Even if a new CDA is needed, it may nevertheless be necessary to state in the new contract that the old CDA remains valid, so it is not superseded. If any doubts, confer with the Legal & IP Department.
+
+Is a CDA needed for a facility visit?
+The Facility Visitor Information and Confidentiality Policy can be found here.  It must be signed, without amendment, by every non-Mane employee who visits Mane’s buildings.
+
+ What if the three standard templates on SharePoint do not fit my needs?
+Consult the Legal & IP Department. Explain if there is a particular reason that customization of the template is needed.  Mane Legal maintains other specialized templates: e.g., three-party, toll / contract manufacturing, audit, and material transfer.
+
+ What happens if a CDA proposal is never signed?
+If a CDA is not signed, it must be mentioned on the central register through the modification of its status from « Draft » to « Abandoned » (without the deletion of its registration as a whole).
+
+

@@ -1,0 +1,39 @@
+YOUSIGN 
+Electronic signature software for authorized MANE signatories
+
+Definition 
+YOUSIGN is an electronic signature service online fully compliant with the European Regulation 910/2014 and recognized worldwide:
+eIDAS certifications (electronic IDentification, Authentication and trust Services);
+listed among the European Commission’s global trusted third-party providers. 
+Features
+Legal and secure signature platform, validated by the Legal & IP Department, which authenticates signatories by e-mail and SMS code, stores signed documents, and establishes proof of their signatures by time stamping:
+Legal value of the electronic signature identical to an original signature;
+Accessible on any device connected to Internet, and for 10 years after the end of the license;
+Signature and initials of documents in PDF format;
+Interface languages available: English, French, Spanish, Portuguese, German, Italian and Dutch.
+Mandatory information on the document prior to signature (verify accuracy/complete)
+Company name of the party (s)
+Name and title of each signatory
+Signatories
+MANE’s signatories must be authorized to sign (by virtue of company articles of association or delegation of power).
+Information to provide (can be saved once and for all by the user) for each signatory (external as well as MANE) appearing on the document:
+Surname
+First name
+Title
+Professional e-mail
+Mobile phone number
+Settings
+Save by default as template(s) to use (template to create in each language used):
+21 days for the signature deadline. * 
+Automatic reminders every two days. 
+Active the consent protocol option in the form of a checkbox with the mention “I acknowledge that I have carefully read the document(s) submitted for my signature, accept its content, and I confirm my consent to affix my electronic signature.”
+For each document to be signed:
+Set the interface language corresponding to the language of the document before starting the process (before creating a “procedure”).
+Use the applicable language template, and add:
+Initials when the document longer than one page;
+The term “Dated…” above each signature if there is no mention of a single signature date;
+As “follower” the internal requester (invitation + finalization only).
+*shorten the time frame if the document states a short validity date or if urgent
+Cost
+€ 480 taxes excluded per year per license, for an unlimited number of signatures per user.
+	

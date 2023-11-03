@@ -1,0 +1,169 @@
+PATENTING PROCESS 
+Frequently Asked Questions 
+ 
+ 
+MANE Legal & IP Department 
+2 February 2021 
+Page 1 of 3 
+ 
+This document of FAQs serves as a brief introduction to the basic process for securing 
+patent rights. It is intended to provide only a short introduction to the patenting process at 
+MANE.  Any specific questions should be referred to MANE's Legal and IP Department. 
+ 
+For more general information on patents and patent rights, see our general FAQ: 
+https://mosscorp.emea.sesam.mane.com/LegalIP/IP/Patents%20useful%20information/
+FAQs . 
+ 
+1. 
+How is a patent application created? 
+At MANE, the patenting process begins with obtaining approval for a Patentability Study 
+from one of the following committees: 
+ComInnov - Innovation, Valorization and Transfer Committee - SP-DG-001/01 
+ComSci - Conception, Development and Industrialization Committee ‐ SP‐DS‐001/04 
+ 
+2. 
+What information is necessary for initiating a patentability study? 
+The purpose of a patentability study is to assess the likelihood of obtaining a granted 
+patent having meaningful protection.  Thus, in order to assess patentability of a new 
+product or process, the inventors/contributors must provide patent counsel with specific 
+details of the product or process, including an explanation of the technical problem being 
+solved, successful and unsuccessful experiments, known prior art, and how the new 
+product or process is different from old or known products or processes. 
+ 
+After studying the provided details, the new product or process is defined by one or more 
+hypothetical claims, which are then evaluated by comparing the hypothetical claim(s) to 
+the prior art.  Prior art is any evidence (information) that the invention was already publicly 
+known or available, in whole or in part, before the effective filing date of the patent 
+application, and includes publicly available information, such as published patent 
+documents, scientific journal articles, web pages, technical data sheets, etc.    
+ 
+3. 
+What happens after a patentability study? 
+At the conclusion of the patentability study, patent counsel will prepare a final written 
+patentability report, which shall include a description of the invention, the hypothetical 
+claim(s), a listing of the relevant prior art document(s) found in the prior art search, and 
+an analysis as to the novelty and inventiveness of the hypothetical claim(s) vis-à-vis the 
+relevant prior art document(s).  The report will conclude with a recommendation to 
+proceed (or not) with the preparation and filing of patent application.   
+ 
+Because the patenting system requires disclosure of the technical details of the invention 
+in exchange for a chance at obtaining patent rights, there is a risk of disclosure without 
+any patent rights.  As such, in some instances and prior to making a favorable 
+recommendation, R&D may be asked to perform additional testing or experiments to 
+enhance MANE's chances for obtaining a granted patent.  
+ 
+4. 
+What is involved with preparing a patent application? 
+The process for preparing a patent application involves a collaboration between patent 
+counsel and the inventor(s).  Patent counsel will generally begin the process by preparing 
+PATENTING PROCESS 
+Frequently Asked Questions 
+ 
+ 
+MANE Legal & IP Department 
+2 February 2021 
+Page 2 of 3 
+ 
+a set of claims describing the metes and bounds of the invention, and then build the 
+remaining sections of the patent application therefrom to provide the requisite antecedent 
+basis for the claims.  In order to correct any errors and/or provide missing or supplemental 
+information, the initial draft application must be reviewed by the inventors. While rare at 
+this stage, R&D may be asked to perform additional experiments, but only if absolutely 
+necessary prior to filing.  At the end of the review/revision process, a final draft of the 
+patent application must be approved by the inventor(s) prior to filing.  
+ 
+Since the draft patent application needs to be approved by the inventor(s), another 
+important piece of information that should accompany the invention disclosure is a listing 
+of persons who materially contributed to the creation of the invention.  From the listing of 
+contributors, MANE patent counsel will conduct an inquiry into the nature of each 
+contributor's involvement and make a legal determination as to whose contribution rises 
+to the level of "inventorship."  It is globally accepted that an inventor must have contributed 
+to the conception of some aspect of the inventive features (i.e., novel and/or non-obvious) 
+of the invention.  Conception, which is the key to inventorship, may be defined as the 
+formation in the mind of an inventor of a definite and permanent idea of the complete and 
+operative invention as it is thereafter put into practice.  And because inventions are 
+defined by the claims, an inventor must be able to point to at least one element in at least 
+one claim that (s)he conceived.  Additionally, those claim element(s) must be one of the 
+inventive elements.   
+ 
+To be co-inventors, the contributions of each person need not be equal or the same.  All 
+that is required is collaboration and contribution to the conception of at least one of the 
+claims in the patent application.  Please note that being present during a meeting, 
+providing research support, setting up experiments at the instruction of another, or 
+sensory/analytical testing, does not by itself indicate a contribution to the conception of 
+the invention. 
+ 
+5. 
+What parts make up a patent application?  
+Since a patent application serves to provide a written description describing and enabling 
+others to practice and use the invention, the inventors must provide patent counsel with 
+sufficient details to create the application.  The detailed invention disclosure provided to 
+patent counsel will be used to create the basic parts (sections) of a patent application, 
+which include Title, Abstract, Background, Summary of the Invention, Brief 
+Description of the Drawings (if applicable), Detailed Description of the Invention, 
+and the Claims.  
+   
+6. 
+Where is the initial patent application filed? 
+The initial filing (or so-called "priority filing") is typically performed where the invention is 
+made.  
+ 
+7. 
+What happens after a patent application is filed? 
+The filing of a patent application is not the end of the process, but really the beginning of 
+a formal examination process.  Moreover, it is necessary to make decisions regarding the 
+filing of one or more foreign patent applications. 
+PATENTING PROCESS 
+Frequently Asked Questions 
+ 
+ 
+MANE Legal & IP Department 
+2 February 2021 
+Page 3 of 3 
+ 
+ 
+Under the Paris Convention (an international treaty created in 1883 requiring member 
+countries to adopt certain minimum protections for industrial property), the priority filing 
+permits the applicant to file one or more corresponding patent application in additional 
+countries, within 12 months from the priority filing date.   
+ 
+Under the Patent Cooperation Treaty (PCT), which is another international treaty 
+concluded in 1970, a single filing of a PCT application may be made with a Receiving 
+Office (RO) in one language.  A PCT application does not itself result in the grant of a 
+patent, since there is no such thing as an "international patent."  Instead, a PCT 
+application serves to establish a filing date in all contracting states, and must be followed 
+up one or more national or regional phase applications to proceed towards grant of one 
+or more patents. The PCT procedure essentially leads to a standard national or regional 
+patent application, which may be granted or rejected according to applicable law, in each 
+jurisdiction in which a patent is desired.  If a PCT application is desired, then it must be 
+filed within 12 months from the priority filing date, i.e., the same deadline under the Paris 
+Convention. However, the deadline for filing National Phase applications from the PCT 
+application varies from member states, but is generally 30 months from the priority filing 
+date.  So, in essence, the PCT serves as a mechanism to delay the decision for filing 
+patent applications from 12 months to about 30 months, but only in the 153 member 
+countries. 
+ 
+In each jurisdiction, the claims of the patent application are evaluated for clarity, novelty, 
+and inventiveness.  
+ 
+After 18 months from the earliest priority date, the application publishes and thus the 
+invention is available to the public. 
+ 
+8. 
+What to expect during examination of a patent application? 
+The examination of a patent application begins with an examiner reviewing the clarity, 
+novelty, and inventiveness of the claims vis-à-vis the prior art.  The examiner then issues 
+an office action, which in most cases includes a rejection/objection of one or more of the 
+pending claims.  An applicant is given a limited period of time (e.g., 3-4 months) to 
+respond to the office action, which may include arguments, claim amendments, and/or 
+evidence supporting the patentability of the pending claims. 
+ 
+Depending on the nature of the rejection/objection, the inventor(s) may be consulted for 
+technical input to assist patent counsel with developing claim amendments/rebuttal 
+arguments to overcome the examiner's rejection(s)/objection(s). Ideally, the inventor(s) 
+should also be aware of what embodiments are being utilized in MANE's commercial 
+product/process.  Thus, this collaboration between patent counsel and the inventor(s) 
+should provide MANE the best opportunity to obtain commercially-relevant granted 
+patents. 
+ 
+ 

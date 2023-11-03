@@ -1,0 +1,12 @@
+PD FLASH - Application of GDPR regulations to an international group
+
+
+For an international group like MANE, ensuring compliance with the GDPR at the level of the whole group, therefore beyond French and European establishments in the strict sense, is essential. In fact, the penalty for a violation by a subsidiary would be set as a percentage of the revenue of the entire Group, and would consequently generate a major financial and image impact for MANE.
+
+The text of the GDPR regulation defines the fundamental concept of co-responsibility. The parent company V. MANE FILS is considered to be “responsible for processing” personal data and must offer the guarantee to the authorities that all of its subsidiaries, which are co-processors, comply with the GDPR so that it can itself be considered compliant.
+
+We must therefore ensure the effective compliance of:
+- all our European subsidiaries as they are directly subject to GDPR regulations
+- all our subsidiaries outside the European Union, because these subsidiaries process personal data of European nationals (e.g. data concerning expats, contacts in outlook of European colleagues, contacts and other information about employees, service providers, suppliers, distributors or European customers and all personal data of European nationals collected by VMF or European subsidiaries and transmitted to subsidiaries outside the European Union).
+- all VMF providers or MANE subsidiaries providers when they subcontract personal data of European nationals on behalf of subsidiaries.
+

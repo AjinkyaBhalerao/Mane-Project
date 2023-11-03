@@ -1,0 +1,90 @@
+
+Object: This procedure describes the organization implemented in the MANE group regarding the management of the contracts established with trading partners: distribution for verification/modification of the terms and conditions and contract validation flow.
+Scope: This procedure applies to all types of written agreements sent by our customers or trading partners (flavors, fragrances, raw materials) binding MANE regarding general terms and conditions or organization principles and/or requirements to comply with (except product specification documents, pure Quality documents, Questionnaires, documents related to delivery terms and conditions, pure Supply Chain documents, pure CSR documents and/or pure regulatory documents. – these documents shall be reviewed and validated exclusively by the respective competent department).
+
+Note : This procedure is applicable to any kind of contracts (related to services, products, equipment or IT, among others).
+
+Normative reference(s): /
+
+
+
+ANNEX: Commercial contract review form (FO-SQ-020/ENG, FO-SQ-019/FR, FO-SQ-214/SPA).
+
+Definition
+Commercial contract: any kind of written document coming from a customer, a supplier or a trading partner, other than a simple order, and providing commercial terms applicable to MANE (supply agreement, purchasing general terms and conditions, partnership contract, development contract…).
+Commercial contract review: the contract review must be done to ensure that there is an adequacy between the customers’, the suppliers’, or the partners’ conditions written in a commercial contract and our own requirements, policies and organization.
+This procedure is not applicable to confidentiality agreements. Please refer to and follow the MANE Confidentiality Policy for any confidentiality agreement.
+Note : This procedure does not cover commercial contracts of Nestlé Group.
+
+General Terms and Conditions of Sales & of Purchases (GTCS & GTCP)
+In case of customers General Terms and Conditions of Purchase (GTCP) receipt, contracts management coordinator simply sends MANE General Terms and Conditions of Sales (GTCS) by e-mail with appropriate mentions and putting in blind carbon copy the Legal & IP department. In the same way, in case of suppliers GTCS receipt, the MANE GTCP is e- mailed by the contract management coordinator with blind carbon copy to Legal & IP department.
+In both cases, the contracts management coordinator does not request from supplier or customer the signature of MANE’s GTCS or MANE’s GTCP.
+The contract review process will therefore be initiated only in case of customer or supplier rejection of MANE’s GTCS or MANE’s GTCP.
+
+
+ Commercial contracts review process
+Logigram
+
+
+Contracts review process responsibilities
+Steps 1, 2, 3, 5, 7, 8 et 9: contract review coordinator (sales person or person in charge of the relation with the partner/customer/supplier)
+Step 4 : departments involved in the contract review process in their area/remit
+Step 6 : Legal & IP department
+
+Roles and missions
+Contracts review management responsible
+Under the supervision of the sales manager, the sales person or the person in charge of the relationship with the partner or the customer/supplier (“Contract Administration Coordinator”) is responsible for the centralization and coordination of the contract review process.
+
+
+Missions:
+- Prior examination of the contract with identification of:
+
+any points or issues within the Contract Administration Coordinator remit which are not in line with reality and MANE’s experience in practice, or are not conform to MANE principles and/or not acceptable to MANE’s operational point of view,
+
+the specific parts or provisions of the contract to be validated by each relevant competent department.
+
+Form thoroughly filled in: “Fiche de revue de Contrat” (Annex 1-FO-SQ-019) if the contract is in French or “Commercial contract review form” (Annex 1-FO-SQ-020) if the contract is in another language.
+
+Coordination of the review:
+To ensure the transmission of the Management’s information and validation as needed, and inform the other contributors of the decisions made,
+
+Dispatch of the contract, Annex 1-FO-SQ-019 (contract review form filled in), and all other documents referred to the contract to each person mentioned in the contract review form in each department concerned in order to provide potential changes and validation.
+
+Centralization of all the comments made.
+Dispatch of the consolidated comments and decisions to Legal & IP department for final review,
+
+Coordination/trading partner: partner negotiation – information on feedback – validation,
+
+Dispatch and information for validation: signature by the MANE signatory (see 3.3.3 below) and by the other party,
+
+
+
+Reception of the signed contract, final dispatch: 
+
+in case of handwritten signature: the original signed hard copies (one copy to each other party, one copy to MANE Legal & IP Department) and scanned copy (by email to all concerned MANE departments internally);
+in case of electronic signature as specified in paragraph c) below: the unique electronically signed version to be emailed to all concerned MANE departments internally (Legal & IP Department included). 
+
+Note: for an equal contribution of all departments, whoever customers are, the contracts review does not require the creation of an INFO.
+
+Participants in the contract review
+The different departments involved and concerned by the contract requirements must:
+Examine the requirements within their remit (if necessary, indicate to the Contract Administration Coordinator the information or clarifications to be obtained from the other party),
+Make comments and accurate amendments proposals where disagreed: delete, modify, add,
+Send their changes, proposals and positions to the Contract Administration Coordinator.
+Once the Contract Administration Coordinator has consolidated the comments, the Legal and IP department reviews the contract as a whole. Under no circumstances, the comments of the involved and competent departments must not be sent to the partner/customer/supplier, only the final version reviewed by the Legal and IP department must be forwarded to customer/partner/supplier.
+
+Commercial contracts validation
+Only Board members and directors entitled to sign the concerned contract under a delegation of authority can sign the contract validated through the contract review process.
+Commercial contracts validated at the end of a contract review must be initialed and signed by an authorized signatory either by hand in as many copies as there are parties to the contract, or electronically in accordance with European Regulation 910/2014. In both cases, the signed contract will have original value (as opposed to a paper printout or a scanned copy by scan or photograph which are not originals).
+MANE has set up an electronic signature device for contracts in accordance with European Regulation 910/2014 and recognized worldwide, using double authentication of signatories by e-mail and SMS code. The YOUSIGN device is to be used as a priority to the contracting parties, or DOCUSIGN.
+Any electronic signature of the contracts must preferably be initiated by MANE with the executive assistants – YOUSIGN service if possible or, failing that, DOCUSIGN service contracted by MANE. Any electronic signature not initiated by MANE must, in order to be accepted, comply with European Regulation 910/2014, i.e., to two-factor authentication of the identity of the signatories.
+ Contracts Documentary Management
+The original signed hard copy of the contract is systematically sent by the Contract Administration Coordinator to the Legal and IP department for safe keeping (Archiving: 10 years at least).
+
+
+The Contract Administration Coordinator is responsible for sending the scanned digital copy of the contract signed to the persons involved in the contract review process and to all the concerned people at MANE.
+
+
+Mandatory recipients: Customer service/back office, Quality Assurance, Site Manager, Legal and IP department to the following mail address: contracts@mane.com
+
+

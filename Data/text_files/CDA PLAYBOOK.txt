@@ -1,0 +1,190 @@
+CONFIDENTIALITY AGREEMENTS PLAYBOOK
+
+These “Confidentiality Agreements Playbook” guidelines are intended to cover the review of contracts proposed by counterparties, and the review of amendments to Mane’s agreement proposals that are made by counterparties.
+
+MANES’ ORGANIZATION AND REFERENCE NUMBERS:
+
+We must ensure that Mane Confidentiality Policy and its FAQ are strictly complied with.
+
+In the U.S., administration of CDAs is centralized, which includes registration: 
+by Peggi Ridner, Sales Assistant at MINC (back up: Peggie Schenke),
+by Stacy Stoll at MUSA (back up: Debbie Pannuto)
+For Kancor, Mita is taking care of it until Kancor employees are provided access rights to Sharepoint.
+For the rest of the Group, the Mane contract manager / Mane employee requesting the CDA issuance or review is responsible for administrating, and we do not do it.
+
+Confirm the Mane contract manager has properly designated the CDA as one of the four types identified below:
+
+BI: bilateral, for the protection of both parties
+U: unilateral, for Mane’s protection only
+UD: unilateral formula disclosure; this form is required when Mane will disclose formulae
+OTH: unilateral for the counterparty’s protection only
+
+Confirm the Mane contract manager registered the CDA and added the reference ID to the footer.
+
+
+REVIEWS OF CDA PROPOSALS TO MANE:
+For negotiation purposes: In bold: essential / In grey: not essential
+
+Identify the parties to the contract, using full legal registered names.  Jurisdiction and address are useful, but not essential. Need to check which Mane entity is/are involved in the disclosure (and receipt) of confidential information.
+
+Define the “Subject Matter” or “Purpose.”  Correspond with the Mane contract manager if it is unclear and the Mane contract manager did not properly define it in the Register entry.
+
+Broader language gives the parties more flexibility, and avoids the possibility of the parties disclosing CI that would not be covered under narrower “subject matter.”
+
+Narrower language provides more control over the CI flow, and avoids ambiguity about the scope of the CDA.
+
+As a rule, subject matter / purpose must be specified and detailed as much as possible
+With customers or prospects, make sure it is connected to business with Mane / supply of products by Mane, i.e. that Mane CI cannot be used by counterparty for another purpose than within the framework of business relationship with Mane.
+Specify an effective date, or state that the CDA becomes effective on the date of last signature.
+
+Define “Confidential Information.”  If Mane is disclosing (BI, U, UD), it should include formulae, specifications, manufacturing process data, sample materials, know-how and documentation and business information legitimately regarded as proprietary.
+
+Define the “discloser” or “disclosing party” to apply to both Mane and the counterparty (BI) if it is not the case in the counterparty proposal and if Mane contract manager confirms Mane has CI to cover. If Mane contract manager declares in writing that Mane has no CI to cover and will not disclose CI under the CDA, the CDA will remain an OTH and it will need to be reminded in writing internally that no CI can be disclosed under the CDA. 
+
+Specify that CI does not need to be identified as confidential (or refuse such a statement if mentioned). (BI, U, UD)
+
+We try to avoid requiring that our CI be designated to qualify for protection, but we can accept if the counterparty requires it.  In such case, we must alert the Mane contract manager to this requirement.
+
+Note: if Mane turns over CI, but fails to designate it as “confidential” despite the CDA requiring it, then the CI is not protected under the CDA (or any document); accordingly, Mane will have disclosed CI without using reasonable means to ensure it is kept secret (a fundamental precept of U.S. trade secret law).  So even if the counterparty still treats the CI as confidential, Mane has arguably lost the right to claim protection of it, including as to third parties, because we will have put the CI in the hands of another party without protections in place.
+
+If Mane wants the right to share the counterparties’ CI with Mane affiliates, then add such right, and define “Affiliates” by using the definition in Mane’s standard forms.  (BI, OTH)  “Control” must exceed 50%.
+
+Refuse sharing of CI with agents, consultants, advisors, or representatives.
+
+In the majority of cases, the counterparty reserves the right to share with these external third parties.  We strike, arguing that (1) the counterparty doesn’t really need to share Mane’s CI with them, (2) Mane loses visibility on who has its CI, and (3) Mane effectively loses control over the CI because we lack privity of contract with the third party. In some cases, Mane can accept to extend the right to sharing with external consultants (although we should require an explanation as to precisely why it is needed), but we would require to add (1) that the counterparty first submit the name(s) of the consultant and obtain Mane’s approval, (2) that the counterparty remains fully obligated toward Mane for any failure of the consultant to observe the restrictions.  Alternatively, Mane might require to sign a separate CDA with the consultant.
+
+Observe the different forms that agents can be engaged: (1) counterparty’s agents permitted to share counterparty’s CI directly with Mane; (2) counterparty reserves right to share CI of agents (or even third parties); or (3) counterparty reserves right to share Mane CI with counterparty’s agents.  These three are listed roughly in increasing order of risk to Mane.
+
+For situation (1), we try to avoid, and can usually accept if the counterparty pushes, although we then require that the agent designate the CI as “confidential” and “property of counterparty” in order for it to qualify for protection under the CDA.  We also specify that the counterparty remains liable for its agents actions or omissions that violate the CDA.
+
+For situation (2), it seems it should not usually be valid for the counterparty to claim a need to share third party CI.  Consider especially that if the third party acted responsibly in relation to its CI, it established confidentiality commitments with Mane’s counterparty, and the counterparty might be violating such obligations by sharing with Mane – a situation we don’t want to be embroiled in.
+
+For situation (3), the comments above apply – we generally reject the counterparty’s right to share Mane CI outside the company, but may be able to accept upon restrictive conditions.
+
+Specify the confidentiality obligations:
+
+Hold in confidence.
+Restrict access to employees and Affiliates who need to know for the purpose of the Subject Matter.
+Prevent disclosure to third parties.
+Use CI only for the purpose of the “Subject Matter.”
+Use same standard of care as used for own CI, but no less than reasonable standard.  
+No copying or reproducing CI, except as necessary to effectuate the purpose of the “Subject Matter.”  
+
+Include a non-analysis clause, proscribing reverse engineering of Mane’s samples by the counterparty or any other party at the counterparty’s direction.  We should always insist on this.  In rare cases, counterparties have refused, and then we can probably withdraw provided the Mane team is given very strict instructions that they may not provide sample materials.
+
+Some counterparties require a separate Material Transfer Agreement to protect sample materials.  Mane is content with our standard CDA, although we do have an MTA form if the counterparty will reject the full CDA (assuming the counterparty will only be receiving samples and no other forms of CI).
+
+Specify the obligations survive either termination or expiration of the CDA.
+
+Many counterparties refuse indefinite survival of obligations.  Mane’s response depends on the particular circumstances.  We can argue for survival because the obligations are negative – i.e., neither party has a continuing obligation to do anything, rather they must only not misappropriate or further disclose CI.  Considering that in practice, parties usually do not formally return or destroy CI belonging to the other party, we want to avoid anyone else having possession of Mane CI with restrictions expiring at the conclusion of some arbitrary survival period.  We can argue further that if we grant them the exception – i.e., the obligations will expire after a defined survival period – then Mane loses confidentiality protection on any CI still in the counterparty’s possession not just as to the counterparty, but as to the world (on the theory that we cannot effectively oblige someone else to treat our information as confidential if we have tacitly allowed a third party to have it without restriction). This being said, since indefinite obligations might also be terminated, which could lead to Mane being less protected than with a limited survival of obligations, we can accept to limit the survival.
+
+If we withdraw from the “indefinite survival” position, we try for a longer period of perhaps 10 or 20 years, depending on the sensitivity of the CI to be disclosed. For CDA UD, we should not accept less than 20 years.
+
+This issue in particular underscores the value of discretion – i.e., Mane’s employees should not treat a CDA as an opportunity to freely discuss and share anything and everything.  Rather, Mane should still be thoughtful about disclosing only what is really necessary to further a discussion or relationship.
+
+Define the exceptions to CI obligations:
+
+CI is already in the receiving party’s unrestricted possession (i.e., without obligations).  We can accept if the counterparty includes “as proven by documentary evidence.”
+
+CI is publicly available.
+
+CI later becomes publicly available.
+
+CI is received on non-confidential basis by third party who has bona fide right to disclose.  We can accept if the counterparty includes “as proven by documentary evidence.”
+
+CI is independently developed by the party, its employees, agents or representatives, who have not used or relied upon the CI.  We can accept if the counterparty includes “as proven by documentary evidence.”
+
+Some counterparties specify “who have not had access to the CI.”  Mane has used this in its own forms in the past.  It is acceptable, but I think better to avoid because usually Mane is the party performing the R&D, and this could theoretically restrict Mane’s work (insofar as the same individual that independently develops certain CI may also be the same person that has had access to or come into contact with the CI of the counterparty).  Of course the aim is not to try to misappropriate anyone else’s work, but this exception clause does not permit that anyway.
+
+CI that is required to be disclosed by judicial order, requirement of governmental agency, or by operation of law.
+
+In respect of this “compulsory disclosure” exception, be mindful that if the counterparty frames these exceptions as outside the definition of “Confidential Information” (rather than exceptions to the confidentiality obligations), a correction should be made either by specifying the exceptions apply to the obligations, or by setting off this particular exception.  It is a subtle point, and important to recognize that simply because a court or agency requires that the counterparty turn over certain Mane CI, it does not convert Mane CI to non-confidential.  Rather, the counterparty is simply excused from the confidentiality obligations to allow it to comply with the order.
+
+State that CI remains the discloser’s property.
+
+State that no license or other IP right is granted or implied. Refuse any direct or indirect reference to an assignment of Mane’s IP rights. 
+
+This includes statements that information derived from CI must be considered as confidential. Make sure the CI is the information disclosed by a party to the other party (nothing else). 
+
+Require return or destruction of CI upon written request.
+
+We try to avoid having this obligation occur automatically upon an event (e.g., end of need for CI, expiration, termination), because that would require that Mane track this requirement, and we don’t have the systems to control for this.  So if we fail to observe the commitment, then Mane would be in breach.  Better to require that the owner make a written request – it remains entirely within their discretion to receive the CI back, and protects us from violating the CDA inadvertently.
+
+We generally want to avoid retention of a copy of CI, but we can likely accept provided it is specified that the copy may be kept only by legal counsel strictly for the purpose of determining continuing obligations (i.e., if Mane would accuse a counterparty of misappropriating its CI, the counterparty wants to ensure it actually has a copy of the source CI that is the subject of the controversy in order to be able to properly defend itself).
+
+The following shall be added in case the counterparty insists “return and destruction of CI”: All Proprietary Information shall remain the property of the disclosing party and shall be destroyed and/or returned by the receiving party to the disclosing party upon written request of the disclosing party and the same shall be confirmed by the receiving party in writing to the disclosing party.
+
+State that no assignment of the CDA is permitted without the consent of the other party. 
+
+State that the CDA does not imply any promise to transact business.  
+
+State that disclosure is at the discretion of the disclosing party. 
+
+State that failure to insist upon strict compliance does not constitute a waiver.
+
+State that no amendment is permitted without mutual written agreement.
+
+State that if a provision is held invalid or unenforceable, the other provisions are not affected, and only the offending provision is excluded.
+
+Some counterparties instead state that the offending provision is to be construed to most closely approximate the parties’ intent while taking a legally valid form.  This seems fine as an alternative.
+
+State that the CDA constitutes the entire agreement, and supersedes previous agreements.
+
+If not already known, it is useful to check the Register to confirm there aren’t any prior CDAs.  In some cases, we may need to state that the new CDA does not affect a certain CDA that is meant to continue.
+
+Specify governing law and exclusive jurisdiction for resolution of disputes.
+
+U.S.:  (1) Ohio (Hamilton County); (2) New York (Southern District of New York); (3) Delaware.  NO to California.
+
+Europe:  (1) France; (2) Switzerland (Geneva).
+
+Asia:  (1) France; (2) Hong Kong; (3) Singapore.
+
+Generally, we try to avoid mandatory arbitration.
+
+Specify the term (often three years from effective date).  But if no term will be stated, then it is probably prudent to assert the respective parties’ right to terminate the agreement upon 30 or 60 days’ written notice. 
+
+Identify the representatives (and their titles) for notices and correspondence.  We don’t always insist upon adding this, but it can be useful.  The Register nevertheless requires that an individual be nominated. 
+
+Require that the counterparty execute two originals (so that each party may receive its own original hard copy).
+
+Avoid language that specifies a facsimile or electronic copy qualifies as an original, provided we make it clear to the counterparty that we nevertheless require to receive a hard copy original.
+
+The parties should have authorized representatives execute.
+
+Theoretically, a counterparty might be able to avoid a contract if it can successfully claim that an unauthorized employee entered into a commitment.  Nevertheless, it is helpful to keep in mind that we should be looking for individuals with appropriate titles as the signatories.
+When French laws are applicable, in case of doubt on the capacity of the signatory to sign the contract in the name and on behalf of the company, the following is to be sent in an e-mail to the counterparty (by Mane Contract Manager): 
+Thank you for confirming that Mr./Mrs…………….. in his/her quality of ………….. is entitled to sign the contract for and on behalf of the company……………before the…….
+Refuse “joint” and “co-development” language in CDAs.  If the counterparty objects, argue it is beyond the scope of the CDA.  Also, it is generally not the case, and usually not to Mane’s advantage.
+
+Refuse any mention of exclusivity.  Exclusivity in supply is entirely outside the scope of the CDA.
+
+
+MANE FORMULAS DISCLOSURES
+
+If Mane will be disclosing formulae(s): It should only be for a toxicological, safety or regulatory compliance purpose, and Mane’s UD template must be used.  The individuals (to be limited in number, and usually restricted to the Regulatory and Quality departments) at the counterparty who will have access to Mane’s formulae must sign the CDA personally.
+
+Arguments for personal commitments of counterparty’s employees:
+
+It is Mane’s global corporate policy, and has been in place for many years (2009).  It is required if Mane is obliged to share formulae.
+[For flavors] Mane is a member of IOFI, and adheres to its Code of Practice.  §6.3.2 specifies that IOFI members should require personal commitments.
+Formulae are among Mane’s most sensitive CI, so it is necessary to use very strict controls to guard against possible misappropriation, which would not simply dilute the value, but end it.  Mane invests considerable resources in R&D, so our counterparties need to respect the measures we must take to protect Mane’s developments.
+The counterparty’s internal confidentiality policies and the deontology of regulatory IPs do not provide any remedy to Mane against breach of the secrecy of formulae.
+The responsibility of the counterparty’s employees does not change – they would be obliged to observe the confidentiality obligations regardless of their signature.  The personal commitment simply allows Mane to have a recourse directly against the particular individual.
+The personal commitment is especially important because it protects Mane when the individual changes employers.
+Also, if the individual is instructed by his employer (our counterparty) to act in a way that would violate the CDA, he or she would be personally accountable toward Mane for such breach.
+We do not accept if the counterparty invokes labor law to refuse personal commitments.  It is without merit regarding Mane’s need to be protected directly.
+Mane’s own employees are sometimes required to commit personally.
+
+TRANSPARENCY
+
+Some major market players relies on the “transparency” trend initiated notably by consumers to ask for full formula disclosure without any limitation to toxicological safety and regulatory compliance evaluation purposes. Since their aim is to disclose some information about the formula to the final consumer, our CDA templates were not adequate. Therefore, we have introduced a new CDA template for transparency matters (TR) which covers the disclosure of the qualitative formula (quantities are not disclosed).
+Such template is only available to Legal & IP department and might only be used for major perfumery clients, and as an exception, with the prior approval of the Region Director (i.e. MMM for Americas, SMA for EMEA, BJL for Asia).
+Using such “TR” template is imperative for any transparency requests from a customer.
+
+PROPOSED CLAUSE FOR MATERIAL TRANSFER AGREEMENT
+
+When Mane is providing samples and the counterpart requires the sample to be blend in its product to test the product performance the following to be added  
+
+XXX shall not itself or through a third party, reverse engineer or reproduce Proprietary Material in order to determine the chemical structure, composition or manufacturing process, without the prior written consent of MANE. XXX can only use the sample(s) for testing its performance and applicability as a component of one of XXX’s products. Any other use requires the prior written consent of MANE.
+

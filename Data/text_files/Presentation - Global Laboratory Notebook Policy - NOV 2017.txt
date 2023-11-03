@@ -1,0 +1,337 @@
+GLOBAL LABORATORY 
+NOTEBOOK POLICY
+CONFIDENTIAL
+November 2017
+2
+GLOBAL LABORATORY NOTEBOOK POLICY
+Confidential | November 2017
+01
+Importance of Laboratory Notebooks
+CONTENT
+US Case law citing use of lab notebooks
+02
+Notebook and Methods 
+03
+Review, Certification, and Archival 
+Process
+04
+3
+GLOBAL LABORATORY NOTEBOOK POLICY
+Confidential | November 2017
+IMPORTANCE OF LABORATORY NOTEBOOKS
+4
+GLOBAL LABORATORY NOTEBOOK POLICY
+Confidential | November 2017
+IMPORTANCE OF LABORATORY NOTEBOOKS
+The primary purpose of a laboratory notebook is to preserve and protect intellectual property rights in 
+all new and improved products, processes, or equipment by serving as a record and archive for all 
+research and development work (ideas, experiments, formulations, etc.). 
+A properly executed laboratory notebook may be used as legal evidence with respect to various 
+aspects of the new or improved methods/products, such as conception and/or reduction to practice 
+of an invention and date(s) corresponding thereto, test results, and the like.
+•
+A chronological record and the primary document of a person’s work in a research laboratory.
+•
+A complete record of procedures, reagents, data, and scientific interpretations and hypotheses to 
+pass on to other researchers.
+•
+A document that records factual details of experiments, including thought experiments, ideas, 
+inventions, etc.
+5
+GLOBAL LABORATORY NOTEBOOK POLICY
+Confidential | November 2017
+IMPORTANCE OF LABORATORY NOTEBOOKS
+It is Critical and Required! 
+•
+Recording what you did, so you or others can repeat the experiments. 
+•
+Good records make it easier to publish or share results. 
+•
+Troubleshooting: help find mistakes, bad materials, etc. 
+•
+Legal document for evidence in patent and trade secret matters. 
+•
+Defense against accusations of fraud or lawsuits 
+Your data should be able to be explained, defended, reconstructed, or repeated without your 
+assistance. 
+6
+GLOBAL LABORATORY NOTEBOOK POLICY
+Confidential | November 2017
+US CASE LAW CITING USE OF LAB 
+NOTEBOOKS
+7
+GLOBAL LABORATORY NOTEBOOK POLICY
+Confidential | November 2017
+US CASE LAW
+Since 2012, over 30 federal cases have been decided where laboratory notebooks were 
+amongst the evidence considered by the court and referenced in the court’s opinion.
+Used as evidence to show:
+•
+Conception date of an invention
+•
+Reduction to practice date of an embodiment of an invention
+•
+Date of first observation or discovery of a new polymorph
+•
+Date that a research idea was shared with a colleague (who later tried to patent himself)
+Notable excerpts:
+•
+“an unwitnessed entry in an inventor's laboratory notebook was insufficient, without more, to 
+corroborate the inventor's testimony that he had conceived of the invention.” 
+•
+“… whiteboard photos are analogous to the unwitnessed pages of a laboratory notebook 
+and would therefore likely be insufficient on their own to corroborate inventor’s testimony of 
+prior conception.”
+•
+“…had not signed his laboratory notebook for nine months, then curiously signed his 
+notebook…”
+8
+GLOBAL LABORATORY NOTEBOOK POLICY
+Confidential | November 2017
+NOTEBOOK AND METHODS 
+9
+GLOBAL LABORATORY NOTEBOOK POLICY
+Confidential | November 2017
+NOTEBOOK AND METHODS 
+What to record for an experiment? 
+ Start Date 
+ Title 
+ Why: Rationale, hypothesis, objectives 
+ Methods (Plan): 
+Standard Operating Procedures (SOPs) with references 
+Planned protocol modification, why, and approval 
+Calculations: MW, concentrations, dilutions, formula, … 
+ What Happened (Realities): 
+Sample preparation 
+Experiment /test conditions; 
+Results, including unexpected results or observations 
+Document critical events to prove compliance with SOPs 
+ What It Means: 
+Result interpretation, including comments on oddities 
+Potential uses 
+ What’s Next:  Future plans 
+ Ideas, hints and tips: Use notebook as a repository of creativity 
+10
+GLOBAL LABORATORY NOTEBOOK POLICY
+Confidential | November 2017
+NOTEBOOK AND METHODS 
+2.1. General Rules Regarding Form
+ Preferably, the language of the laboratory notebook is English, but French or Spanish may be 
+acceptable alternatives depending on the location of the Mane Innovation center.
+ The information is recorded directly in the laboratory booklet, dated (using two digits for the 
+day, at least three letters to uniquely identify the month, and four digits for the year, e.g., 20 
+MAY 2017 or 05 NOV 2017), and referenced with its company project name or number 
+and/or an internal reference specific to the researcher.
+ The recording of handwritten information is done directly and only on the printed lines of the 
+pages of the notebook, respecting the full width of the pages.
+ The insertion of information near the internal margin is to be avoided, as information may be 
+difficult to capture accurately during scanning.
+Note 3: If the need for a later entry or amendment arises, it is advisable to use unmarked section of the page 
+immediately below, and particularly point out the passage(s) concerned. Where no such unmarked 
+section is available, one should make the entry/amendment on a subsequent page, and record the 
+subsequent page number on the instant page. An arrow, asterisk, etc. can be used to precisely 
+identify the section being amended or corrected.
+11
+GLOBAL LABORATORY NOTEBOOK POLICY
+Confidential | November 2017
+NOTEBOOK AND METHODS 
+ Recording data can also be carried out by means of inserting preprinted information in the 
+notebook (for example, typed reports, diagrams, diagrams, output datum of equipment of 
+analysis, photographs, etc.). The preprinted information should not exceed the dimensions of 
+the page, nor cover any information already entered on the page. Transparent tape or 
+other adhesive should be utilized to affix the inserted information to the page surface.
+ For two successive inserts, the second must be affixed below the other (or on two successive 
+pages) and not side by side. Each taped or glued insert must be signed and dated by both 
+the writer and the witness (each signature should traverse at least one of the seams between 
+the insert and the support page). Other than the aforementioned dates and signatures, no 
+other handwritten annotations on the insert are permitted.
+Note 4: If there is a need to annotate information on an insert (e.g., for reasons of clarity), the "original" 
+preprinted copy must be annotated first and then photocopied; the corresponding photocopy is then 
+adhered to the surface of the notebook page.
+Note 5: It is not necessary to integrate every piece of data in the laboratory notebook. For example, if the 
+data set is too large, the writer can also create alternative archives for the data (e.g., an electronic 
+database of HPLC chromatographs), and simply reference the corresponding file number.
+Note 6: Rather than the original of an experimental material, a photograph or a digitized reproduction may 
+be used, such as in the case of a thin-layer chromatography plate, a gel, a membrane, an 
+autoradiography, or a thermosensitive ticket.
+12
+GLOBAL LABORATORY NOTEBOOK POLICY
+Confidential | November 2017
+NOTEBOOK AND METHODS 
+Supplemental Materials 
+ Examples of information that could be inserted (taped) into a notebook: 
+
+Computer-generated data 
+
+Datasheet templates 
+
+E-mails
+
+Notes of discussions and conversations 
+
+Photographs 
+
+Printed graphs 
+
+Product labels 
+
+Related papers and readings 
+ If too large to fit, items may be kept in a separate folder Always record date 
+and other identifying information 
+ Provide “links” to equipment logbooks, data on computers, other notebooks, 
+journal references, etc
+13
+GLOBAL LABORATORY NOTEBOOK POLICY
+Confidential | November 2017
+NOTEBOOK AND METHODS 
+ Significant blank spaces between two information entries (for example, successions of blank 
+lines, page breaks, pages left blank) or to the right of an insert, must be crossed out by 
+means of a "Z", so that no information may be subsequently added. The removal of any 
+laboratory notebook page is strictly prohibited, as doing so may jeopardize the integrity of 
+the entire notebook.
+ All handwritten entries shall be made using permanent ink. There is no restriction on the 
+choice of ink colors to be used, provided that the recorded information remains fully legible 
+and comprehensible in full, after black and white reproduction using a standard 
+photocopier.
+ Black or dark blue inks are recommended. The use of erasable ink, pencil, or "white 
+correction fluid" is not allowed. The texts and entries must be legible (any erasure must be 
+referred to and dated, both by the editor and the witness).
+ Any coding of information using specific colors should be avoided. If the use of colors 
+cannot be avoided, the selection of colors and/or textures must be made with careful 
+consideration of a possible need for subsequent reproduction using a standard photocopier 
+in black and white.
+ On each page containing an entry, the name of the project and laboratory notebook 
+number must be entered in the designated location at the top of the page.
+14
+GLOBAL LABORATORY NOTEBOOK POLICY
+Confidential | November 2017
+NOTEBOOK AND METHODS 
+2.2. General Rules Regarding Substance
+Each test, experiment, or analysis, whether positive or negative, must be recorded in the 
+laboratory record. Care should be taken to ensure that the following elements are clearly and
+precisely stated:
+ The context in which the work was carried out, the objectives set and/or the problem to be 
+solved, the working hypotheses, etc.;
+ The experimental conditions used (protocols, particular parameters and material used ...); 
+and
+ The results obtained, their possible interpretation, as well as any ideas, reflections or 
+comments relating thereto.
+Abbreviations may be used. However, abbreviations that are non-standard to persons having 
+ordinary skill in the relevant field must be defined at their first appearance. Further, 
+abbreviations, along with their definition, should also be recorded after the table of 
+contents/index section at the front of the laboratory notebook.
+15
+GLOBAL LABORATORY NOTEBOOK POLICY
+Confidential | November 2017
+NOTEBOOK AND METHODS 
+Note 7: If a protocol has already been previously described, in the same or different laboratory 
+notebook, it is not necessary to reproduce the entire information for a new entry. Rather, it is 
+sufficient to simply reference the previous occurrence with particularity, i.e., the laboratory 
+notebook number and page(s) concerned along with the name of its author. All modifications, 
+changes, or adaptations to the referenced information must be sufficiently described. 
+Referencing scientific publications or books is permissible if identified unambiguously using a full 
+bibliographical citation.
+Note 8: It is possible to create a separate laboratory notebook specifically reserved for recording 
+standard laboratory or testing procedures and protocols, abbreviations, etc., and then make 
+an appropriate reference to this separate laboratory notebook.
+16
+GLOBAL LABORATORY NOTEBOOK POLICY
+Confidential | November 2017
+Duties of the author:
+ Each page must be dated.
+ Each page of the laboratory book, as soon as it is completed, must be dated and signed by 
+the author, in the space designated for this purpose.
+ Any mistakes or crossed-out entries, as soon as they appear in the laboratory book, must be 
+dated and signed by the author.
+ Do not insert any information (including corrections) in a corner of a page (even if that page 
+has not yet been countersigned by a witness).
+ If any error or mistake is identified, the erroneous information should be clearly identified and 
+corrected in a space immediately below the error. If there is no available space or the 
+available space is insufficient, then corrections may be made on a subsequent page (with 
+an appropriate forward reference on the page bearing the erroneous information). If the 
+date on which the error was found and/or corrected is different from the origin date, said 
+correction date should be properly recorded.
+ Unused lines or space at the bottom of the page should be crossed out using a "Z" marking.
+ In order to certify the reality of the recording, the author must have a witness sign each of 
+the pages of his laboratory notebook within a maximum of 4 weeks after the writing of each 
+of these pages.
+ No new information or data integration can be entered onto any page that has been 
+already signed by a witness.
+NOTEBOOK AND METHODS 
+17
+GLOBAL LABORATORY NOTEBOOK POLICY
+Confidential | November 2017
+Duties of the witness:
+ Read the information entered by the author/researcher to evaluate whether the level of 
+detail is sufficient to enable its reproduction by another having ordinary skill in the relevant 
+art.
+ Co-sign all taped or glued inserts. The date and signature must be affixed astride the insert 
+and its supporting page surface.
+ Verify the quality of the information with regard to compliance with Mane's Laboratory 
+Notebook Policy, along with laboratory recordkeeping procedures found at the front of the 
+laboratory notebook itself.
+NOTEBOOK AND METHODS 
+18
+GLOBAL LABORATORY NOTEBOOK POLICY
+Confidential | November 2017
+REVIEW, CERTIFICATION, AND ARCHIVAL 
+PROCESS
+19
+GLOBAL LABORATORY NOTEBOOK POLICY
+Confidential | November 2017
+REVIEW, CERTIFICATION, AND ARCHIVAL PROCESS
+3. Certification
+The holder/assignee of a laboratory notebook must have it certified, twice a year at the time of 
+certification sessions organized in May and November, by a member of Mane's Legal and IP 
+Department. 
+•
+All laboratory notebooks, in progress or completed, must be submitted to the Legal and IP 
+Department on the working day immediately preceding the certification date. 
+•
+Prior to this submission, the holder of a laboratory notebook must ensure that the information 
+in each laboratory notebook is correctly recorded, including marking out any significant 
+empty space (e.g., marked out with a "Z"), updating the table of contents, as well as 
+arranging for the proper witnessing of the notebook.
+During certification, each laboratory notebook shall be inspected with regard to compliance 
+with this policy. At the end of this inspection, the reviewer will make an entry into the notebook 
+and notate the completed inspection by affixing the reviewer's stamp, date, and signature. 
+At the end of each certification, the notebook will be promptly returned to its assignee, ideally 
+no later than the next working day after certification. 
+For remote Innovation sites, arrangements will be made based on the volume of laboratory 
+notebooks to enable completion of the certification process without undue expense of time or 
+resources.
+20
+GLOBAL LABORATORY NOTEBOOK POLICY
+Confidential | November 2017
+REVIEW, CERTIFICATION, AND ARCHIVAL PROCESS
+4. Archiving
+Each person assigned to a laboratory notebook is responsible for the maintenance of the
+notebook while it is in his/her possession. 
+•
+must ensure that each assigned laboratory book (s) is stored in a safe and secure location to 
+prevent loss, theft, or degradation. 
+•
+If a laboratory notebook is lost, stolen, or damaged, the assigned person shall immediately 
+notify his/her supervisor. 
+•
+Prior to preserving an electronic copy of a laboratory notebook, the holder must ensure that 
+1) the content of the notebook meets the standards set forth in this policy, and 
+2) The notebook is certified (per Section 3 above). 
+Once a notebook is complete and certified, the holder should make arrangements with the VP 
+of R&D to begin the laboratory notebook scanning/archiving process. 
+After securing an electronic archival copy of the laboratory notebook, the original hardcopy will 
+be returned to its originally assigned holder for a reasonable period, which shall not exceed 
+three (3) years from the date of last entry.
+After the reasonable retention period, VP of R&D (or site Director) will arrange for long term 
+storage of the notebook within a fire resistant container at the local Mane Innovation site.
+21
+GLOBAL LABORATORY NOTEBOOK POLICY
+Confidential | November 2017
+CONCLUDING REMARKS
+QUESTIONS?
+FOR MORE
+INFORMATION,
+CONTACT US
+www.mane.com
+James.CAREY@mane.com
++513-239-2254

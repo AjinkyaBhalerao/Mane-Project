@@ -1,0 +1,17 @@
+FLASH DP 12 – Informing data subjects of the processing of their personal data
+
+
+The General Data Protection Regulation (GDPR) imposes the requirement that collectors and processors provide concise, transparent, understandable and easily accessible information, in simple and clear terms to the persons concerned. This transparency obligation is defined in Articles 12, 13 and 14 of the GDPR.
+
+The methods of providing and presenting this information must be adapted to the context.
+
+Transparency allows those concerned:
+• know the reason for collecting the various data concerning them;
+• understand the treatment that will be made of their data;
+• ensure control of their data, by facilitating the exercise of their rights.
+
+So remember, when you are processing personal data in the context of the activity of your service or the company, to inform the persons whose data is being processed by any effective means beforehand (for example: by sending an e-mail, delivering an information note by hand, drafting a clause in a contract, ...). This information must be prior to the collection of personal data for a new processing or when personal data, already collected and processed, are again processed for another purpose than that initially indicated to the data subject.
+
+You will find attached a template of information note to adapt to each type of treatment and to be sent to the persons who need to be informed.
+
+

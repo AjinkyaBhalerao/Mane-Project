@@ -1,0 +1,13 @@
+PD FLASH - Data Processing Agreement
+
+
+When you transmit personal data (from employees, customers, prospects, distributors, suppliers, etc.) to third parties at MANE Group (service provider, data hosts, etc.), make sure beforehand that the processing of this personal data has not only been the subject of a processing sheet but is also well covered by contract with the external entity concerned.
+
+These obligations must be incorporated either into the contract you have with this entity in the context of your commercial relationship, or be the subject of a specific contract for sub-processing the personal data. This external entity is a data processor which has obligations within the framework of the GDPR which we must monitor compliance with.
+
+The data processor, within the meaning of the GDPR, is the natural or legal person (company or public entity) who processes data on behalf of another physical or legal entity (the data controller), as part of a service.
+
+The GDPR establishes a logic of accountability of all the actors involved in the processing of personal data by including the data processor. These must help us, in an active and permanent process of bringing our processing into compliance and only a specific contractual commitment from these data processors allows us to guarantee the confidentiality of the personal data transmitted, their respect of the GDPR for the sub-processing of this personal data and at the same time our compliance with the GDPR.
+
+For any request of drafting or reviewing a contract for the sub-processing of personal data or including a clause relating to the sub-processing of personal data, please complete and send the document attached to dpo@mane.com.
+

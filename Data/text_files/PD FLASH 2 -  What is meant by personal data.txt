@@ -1,0 +1,21 @@
+PD FLASH 2 -  What is meant by personal data?
+
+
+February 11 2020 
+
+
+A first fundamental step to understand better your rights and ensure the optimal protection of the personal data of your colleagues, customers, suppliers, service providers, external contacts, trainees and any person transmitting their personal data, is to define what personal data are, as opposed to what can be excluded from the sphere of application of GDPR.
+
+Personal data are any information related to an identified or identifiable natural person. But because they concern persons, they must retain control over them.
+
+A natural person can be identified:
+• directly (e.g. surname and first name);
+• indirectly (e.g. by a telephone number or license plate, an identifier such as the social security number, a postal or e-mail address, but also the voice or image).
+
+The identification of a natural person can be carried out:
+• from a single information (e.g. name);
+• from the cross-matching of a set of data (e.g. a woman living at such address, born on this day and member of such association).
+
+However, company contact details (e.g. company "Company A" with its postal address, switchboard telephone number and a generic contact email "company1@email.com") are not personal data.
+
+
