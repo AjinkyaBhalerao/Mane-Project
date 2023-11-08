@@ -12,3 +12,4 @@ In the Personal Data Processing Register, it is necessary to identify precisely:
 
 In order to keep this mapping of personal data processed by the Mane Group up to date, the participation of each department and each subsidiary in the inventory, declaration and updating of processing operations is fundamental. It is therefore up to each service or subsidiary, through its DP Coordinator, to transmit its personal data processing registration to the DPO at the address dpo@mane.com, using the validation procedure for the processing of personal data file (as an attachment for reminder).
 
+

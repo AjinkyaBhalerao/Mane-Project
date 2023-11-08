@@ -37,3 +37,4 @@ As “follower” the internal requester (invitation + finalization only).
 Cost
 € 480 taxes excluded per year per license, for an unlimited number of signatures per user.
 	
+

@@ -188,3 +188,4 @@ When Mane is providing samples and the counterpart requires the sample to be ble
 
 XXX shall not itself or through a third party, reverse engineer or reproduce Proprietary Material in order to determine the chemical structure, composition or manufacturing process, without the prior written consent of MANE. XXX can only use the sample(s) for testing its performance and applicability as a component of one of XXX’s products. Any other use requires the prior written consent of MANE.
 
+

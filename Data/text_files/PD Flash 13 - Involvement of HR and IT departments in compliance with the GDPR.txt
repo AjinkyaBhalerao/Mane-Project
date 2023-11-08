@@ -7,3 +7,4 @@ It implies that the HR department knows exactly where all the personal data are 
 
 The IT department on the other hand is responsible for ensuring the security of the personal data that the company processes and holds. It must guarantee the integrity of the data provenance by minimizing the risk of data loss or hacking. The measures to be taken, whether digital or physical, depend on the sensitivity of the data processed and the risks to which people are exposed in the event of an incident. The flaws can have serious consequences for those who have entrusted personal data, in the event of loss, disclosure or unwanted modification of their data. IT department must be able to detect them quickly and resolve the incident as quickly as possible.
 
+

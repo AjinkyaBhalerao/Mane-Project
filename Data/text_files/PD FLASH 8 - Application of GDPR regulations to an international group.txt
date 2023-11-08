@@ -10,3 +10,4 @@ We must therefore ensure the effective compliance of:
 - all our subsidiaries outside the European Union, because these subsidiaries process personal data of European nationals (e.g. data concerning expats, contacts in outlook of European colleagues, contacts and other information about employees, service providers, suppliers, distributors or European customers and all personal data of European nationals collected by VMF or European subsidiaries and transmitted to subsidiaries outside the European Union).
 - all VMF providers or MANE subsidiaries providers when they subcontract personal data of European nationals on behalf of subsidiaries.
 
+

@@ -22,3 +22,4 @@ Workstation data, excluding the "NoBackup" directory, will be copied and retaine
 
 As a reminder, the user will be informed by automatic e-mail, at least 7 days before the user’s departure date or at the latest on the known date of departure of the company, of the need to sort/erase the user’s personal data and to refer to the IT charter in force.
 
+

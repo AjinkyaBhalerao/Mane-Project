@@ -12,3 +12,4 @@ Order Confirmations
  “The orders placed with MANE INC and MANE USA are subject to the General Terms and Conditions of Sale enclosed thereto. Any order confirmation implies the prior acceptation of MANE General Terms and Conditions of Sale by the buyer, unless otherwise agreed in writing between the parties.”
 
 
+

@@ -14,3 +14,4 @@ Personal data processing is all operations relating to personal data, regardless
 
 The controller is the legal person (company, public authority, etc.) or natural person who determines the purposes and means of a processing, defines the purpose and the method of carrying it out. Within MANE Group, it is not an individual or department, but the body corporate of MANE Group which processes personal data.
 
+

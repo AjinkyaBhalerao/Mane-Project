@@ -88,3 +88,4 @@ The Contract Administration Coordinator is responsible for sending the scanned d
 Mandatory recipients: Customer service/back office, Quality Assurance, Site Manager, Legal and IP department to the following mail address: contracts@mane.com
 
 
+

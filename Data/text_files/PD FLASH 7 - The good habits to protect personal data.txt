@@ -12,3 +12,4 @@ Some good habits must be adopted for proper processing of personal data:
 - Secure data: IT but also physical measures must be taken to ensure the conservation and confidentiality of the personal data that you process.
 
 
+

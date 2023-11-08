@@ -23,3 +23,4 @@ The data controller must respond to data subject requests within one month:
 - in case of refusal of an access request, it must be duly justified and must be accompanied by information on the procedures and time limits for appeals.
 
 
+

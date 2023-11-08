@@ -50,3 +50,38 @@ The CNIL has supervisory powers and the convictions handed down by it may be pub
 
 The DPO will maintain and update the register of breaches.
 
+
+
+
+Personal data processing operation concerned/Nature of the personal data concerned
+
+Human or computer error
+
+External malice
+
+Nature of the breach (loss of availability, integrity or confidentiality)
+
+Date and time of the breach
+
+Use of a processor
+
+
+
+
+Convening the crisis unit
+
+Analysis of the causes and consequences of the incident
+
+Reconstruction and remedial plan Determining immediate technical measures
+
+Gathering and preservation of evidence in case of an attack or malicious activity
+
+Notification of CNIL within 72 hours maximum
+
+Notification of the data subjects concerned
+
+Notification of insurance
+
+Complaint mechanisms
+
+
