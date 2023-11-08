@@ -1,69 +1,19 @@
-PATENTS 
-Frequently Asked Questions 
-Mane Legal & IP Department 
-June 19 2020 
- 
- 
- 
-Page 1 of 1 
- 
-This document of FAQs serves as a brief introduction to patent rights. It is intended to provide a short introduction to the 
-basics. Any specific questions should be referred to MANE's Legal and IP Department. 
- 
-1. 
 What is a patent? 
-A patent is an exclusive right granted for an invention, which is a product or a process that provides, in general, a new way 
-of doing something, or offers a new technical solution to a problem. A few exemplary inventions include 1) a new process 
-for making seamless capsules, 2) a new fragrance molecule, or 3) a new composition that blocks bitterness taste of high 
-intensity sweeteners. 
+A patent is an exclusive right granted for an invention, which is a product or a process that provides, in general, a new way of doing something, or offers a new technical solution to a problem. A few exemplary inventions include 1) a new process for making seamless capsules, 2) a new fragrance molecule, or 3) a new composition that blocks bitterness taste of high intensity sweeteners. Patent protection means an invention cannot be commercially made, used, distributed or sold without the patent owner’s consent. Patent rights are usually enforced in courts that, in most systems, hold the authority to stop patent infringement. Conversely, a court can also declare a patent invalid upon a successful challenge by a third party. 
  
-Patent protection means an invention cannot be commercially made, used, distributed or sold without the patent owner’s 
-consent. Patent rights are usually enforced in courts that, in most systems, hold the authority to stop patent infringement. 
-Conversely, a court can also declare a patent invalid upon a successful challenge by a third party. 
- 
-2. 
 What is patentable? 
-An invention must, in general, fulfill the following conditions to be protected by a patent.  
-1. Industrially applicable (useful): It must be of practical use. 
-2. New: It must show an element of “novelty”, meaning some new characteristic that is not part of the body of existing 
-knowledge in its particular technical field. That body of existing knowledge is called “prior art”.  
-3. Inventive (not obvious):  It must show an “inventive step” that is not obvious or routine by a person with average 
-knowledge of the technical field.  
+An invention must, in general, fulfill the following conditions to be protected by a patent. 1. Industrially applicable (useful): It must be of practical use. 2. New: It must show an element of “novelty”, meaning some new characteristic that is not part of the body of existing knowledge in its particular technical field. That body of existing knowledge is called “prior art”. 3. Inventive (not obvious):  It must show an “inventive step” that is not obvious or routine by a person with average knowledge of the technical field. The subject matter of the invention must also be accepted as “patentable” under the patent laws of a given county. In many countries, scientific theories, mathematical methods, plant or animal varieties, discoveries of natural substances, commercial methods or methods of medical treatment (as opposed to medical products) are not generally patentable. For example abstract ideas (Einstein's equation E=mc2), laws of nature (gravity), or natural occurring phenomena (a chemical found in nature) are not patentable, but specific applications of these things could be patentable. 
  
-The subject matter of the invention must also be accepted as “patentable” under the patent laws of a given county. In many 
-countries, scientific theories, mathematical methods, plant or animal varieties, discoveries of natural substances, 
-commercial methods or methods of medical treatment (as opposed to medical products) are not generally patentable. For 
-example abstract ideas (Einstein's equation E=mc2), laws of nature (gravity), or natural occurring phenomena (a chemical 
-found in nature) are not patentable, but specific applications of these things could be patentable. 
- 
-3. 
 How long does a patent last? 
 Patent rights may last for up to 20 years, IF renewal or maintenance fees are paid in a timely manner. 
- 
-4. 
+
 Which countries are covered by a patent? 
-Patents are granted by national patent offices or by regional offices that carry out examination work for a group of countries 
-– for example, the European Patent Office (EPO) and the African Intellectual Property Organization (OAPI). Under such 
-regional systems, an applicant requests protection for an invention in one or more countries, and each country decides 
-whether to offer patent protection within its borders.  
+Patents are granted by national patent offices or by regional offices that carry out examination work for a group of countries – for example, the European Patent Office (EPO) and the African Intellectual Property Organization (OAPI). Under such regional systems, an applicant requests protection for an invention in one or more countries, and each country decides 
+whether to offer patent protection within its borders. The WIPO-administered Patent Cooperation Treaty (PCT) provides for the filing of a single international patent application that has the same effect as national applications filed in the designated countries. However, in order to obtain a patent in a PCT member nation, a patent application must be filed and prosecuted in the PCT member nation. 
  
-The WIPO-administered Patent Cooperation Treaty (PCT) provides for the filing of a single international patent application 
-that has the same effect as national applications filed in the designated countries. However, in order to obtain a patent in a 
-PCT member nation, a patent application must be filed and prosecuted in the PCT member nation. 
- 
-5. 
 What is patent infringement? 
-Patent infringement is the commission of a prohibited act with respect to a patented invention without permission from the 
-patent holder. Permission may typically be granted in the form of a license. The definition of patent infringement may vary 
-by jurisdiction, but it typically includes using or selling the patented invention. In many countries, a use is required to be 
-commercial (or to have a commercial purpose) to constitute patent infringement. The scope of the patented invention or the 
-extent of protection is defined in the claims of the granted patent. In other words, the terms of the claims inform the public 
-of what is not allowed without the permission of the patent holder. 
- 
-Patents are territorial, and infringement is only possible in a country where a patent is in force. 
- 
- 
-6. 
+Patent infringement is the commission of a prohibited act with respect to a patented invention without permission from the patent holder. Permission may typically be granted in the form of a license. The definition of patent infringement may vary by jurisdiction, but it typically includes using or selling the patented invention. In many countries, a use is required to be commercial (or to have a commercial purpose) to constitute patent infringement. The scope of the patented invention or the extent of protection is defined in the claims of the granted patent. In other words, the terms of the claims inform the public of what is not allowed without the permission of the patent holder. Patents are territorial, and infringement is only possible in a country where a patent is in force. 
+  
 What do I do if I think I have an invention? 
 Do not disclose your invention to anyone outside of the company, and contact Mane's Legal and IP Department. 
  

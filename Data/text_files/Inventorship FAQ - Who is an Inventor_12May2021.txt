@@ -1,56 +1,9 @@
- 
-INVENTORSHIP 
-Frequently Asked Questions 
- 
-MANE Legal & IP Department 
-May 12, 2021 
-Page 1 of 1 
- 
-This document of FAQs serves as a brief introduction to the concept of "inventorship". Any 
-specific questions should be referred to MANE's Legal and IP Department. 
- 
-1. 
 What information is necessary to identify an inventor? 
-The determination of inventorship is a legal conclusion based on facts.  Accordingly, 
-specific details characterizing each contributor's work on the project must be detailed in the 
-Patentability Study Request Form. 
-While most, if not all, patent statutes around the world fail to provide a precise definition 
-of "inventor," it is globally accepted that an inventor must have contributed to the conception of 
-some aspect of the inventive features (i.e., novel and/or non-obvious) of the invention.  
-Conception, which is the key to inventorship, may be defined as the formation in the mind of an 
-inventor of a definite and permanent idea of the complete and operative invention as it is 
-thereafter put into practice.  And because inventions are defined by the claims, an inventor must 
-be able to point to at least one element in at least one claim that (s)he conceived.  Additionally, 
-those claim element(s) must be one of the inventive (novel or non-obvious) elements.   
-If requested, the project leader may be required to submit evidence of contribution for 
-each person, e.g., laboratory notebook pages or reports, showing the conception of at least one 
-inventive element of the claimed invention. 
+The determination of inventorship is a legal conclusion based on facts.  Accordingly, specific details characterizing each contributor's work on the project must be detailed in the Patentability Study Request Form. While most, if not all, patent statutes around the world fail to provide a precise definition of "inventor," it is globally accepted that an inventor must have contributed to the conception of some aspect of the inventive features (i.e., novel and/or non-obvious) of the invention. Conception, which is the key to inventorship, may be defined as the formation in the mind of an inventor of a definite and permanent idea of the complete and operative invention as it is thereafter put into practice. And because inventions are defined by the claims, an inventor must be able to point to at least one element in at least one claim that (s)he conceived. Additionally, those claim element(s) must be one of the inventive (novel or non-obvious) elements. If requested, the project leader may be required to submit evidence of contribution for each person, e.g., laboratory notebook pages or reports, showing the conception of at least one inventive element of the claimed invention. 
  
-2. 
 My colleague and I worked together on the project, who is the inventor? 
-When two or more people collaborate in conceiving a claimed invention, then those 
-people are joint inventors. Each joint inventor must be aware of the contribution of the other and 
-each must contribute to the formation of the solution to a problem that is the invention. Thus, 
-joint inventorship is the process by which people cooperate to solve a problem and in which 
-each person makes some mental contribution to the final conception of the solution. The entire 
-inventive concept need not occur to each of the joint inventors and they need not physically work 
-on the project together or at the same time. Nor do their contributions need to be the same or 
-equal. All that is required is collaboration and contribution to the conception of at least one of the 
-claims in the patent application.  
-Please note that merely being present during a meeting, providing research support, 
-setting up experiments at the instruction of another, analytical testing, or simply instructing 
-others to perform research does not, by itself, indicate a contribution to the conception of the 
-invention.  
- 
-3. 
+When two or more people collaborate in conceiving a claimed invention, then those people are joint inventors. Each joint inventor must be aware of the contribution of the other and each must contribute to the formation of the solution to a problem that is the invention. Thus, joint inventorship is the process by which people cooperate to solve a problem and in which each person makes some mental contribution to the final conception of the solution. The entire inventive concept need not occur to each of the joint inventors and they need not physically work on the project together or at the same time. Nor do their contributions need to be the same or equal. All that is required is collaboration and contribution to the conception of at least one of the claims in the patent application. Please note that merely being present during a meeting, providing research support, setting up experiments at the instruction of another, analytical testing, or simply instructing others to perform research does not, by itself, indicate a contribution to the conception of the invention.  
+  
 Who is responsible for identifying inventors? 
-Patent Counsel at MANE bears the responsibility, in association with preparing a patent 
-application, to identifying the inventor(s). Consequently, successfully identifying inventor(s) 
-involves assessing the nature of contribution by each person. This assessment is necessary to 
-permit the applicant to meet its legal obligation in most, if not all, of the national patent offices to 
-provide to an accurate listing of inventors on a patent application.  
-Failure to provide an accurate list of inventors may, in some circumstances, compromise 
-the validity and enforceability of the resulting patent. Inadvertently naming or omitting an inventor 
-is generally a correctable error, but intentionally naming or omitting an inventor can result in the 
-patent being found unenforceable against alleged infringers.   
+Patent Counsel at MANE bears the responsibility, in association with preparing a patent application, to identifying the inventor(s). Consequently, successfully identifying inventor(s) involves assessing the nature of contribution by each person. This assessment is necessary to permit the applicant to meet its legal obligation in most, if not all, of the national patent offices to provide to an accurate listing of inventors on a patent application. Failure to provide an accurate list of inventors may, in some circumstances, compromise the validity and enforceability of the resulting patent. Inadvertently naming or omitting an inventor is generally a correctable error, but intentionally naming or omitting an inventor can result in the patent being found unenforceable against alleged infringers.   
  
