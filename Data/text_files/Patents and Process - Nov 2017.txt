@@ -1,0 +1,509 @@
+PATENTS AND 
+PROCESS
+CONFIDENTIAL
+November 2017
+2
+PATENTS AND OTHER INTELLECTUAL PROPERTY MATTERS
+Confidential | November 2017
+01
+Patent Basics
+CONTENT
+Patenting Process:  US and Abroad
+02
+Types of Patent Applications
+03
+Inventorship
+04
+Duty of Disclosure
+05
+3
+PATENTS AND OTHER INTELLECTUAL PROPERTY MATTERS
+Confidential | November 2017
+PATENT BASICS
+4
+PATENTS AND OTHER INTELLECTUAL PROPERTY MATTERS
+Confidential | November 2017
+PATENT BASICS
+A patent is an exclusive right for a limited period of time in exchange for detailed public disclosure of an invention.
+Patents:
+A patent provides, from a legal standpoint, the right to exclude others from making, using, 
+selling, offering for sale, or importing the patented invention for the term of the patent, which is 
+usually 20 years from the filing date, subject to the payment of maintenance fees.
+•
+A patent does not give a right to make or use or sell an invention.
+•
+An invention is a unique or novel device, method, composition or process.
+Novel and Useful (35 U.S.C. §101, see also EPC Art. 54, 57)
+•
+Whoever invents or discovers any new and useful process, machine, manufacture, or composition of 
+matter, or any new and useful improvement thereof, may obtain a patent therefor, subject to the 
+conditions and requirements of this title. 
+Non-Obvious (35 U.S.C. §103, see also EPC Art. 56)
+•
+A patent for a claimed invention may not be obtained, … if the differences between the claimed 
+invention and the prior art are such that the claimed invention as a whole would have been obvious 
+before the effective filing date of the claimed invention to a person having ordinary skill in the art to 
+which the claimed invention pertains. 
+Written Description/Enablement (35 U.S.C. §112, see also EPC Art. 83)
+•
+…a written description of the invention, …, clear, concise, and exact terms as to enable any person 
+skilled in the art … to make and use the same, and shall set forth the best mode … of carrying out the 
+invention.
+5
+PATENTS AND OTHER INTELLECTUAL PROPERTY MATTERS
+Confidential | November 2017
+PATENT ELIGIBLE SUBJECT MATTER
+ Is the invention directed to one of the four patent-eligible subject matter categories?
+Process (or method) 
+− E.g., A method of preparing a rapidly water-soluble hard capsule having a core comprising … (USPN 
+7,744,922)
+Machine (or device)
+− E.g., A removable device for preserving and releasing a product contained in a reservoir having a 
+rupturable wall for releasing said product, … (USPN 8,584,839)
+Manufacture (or article of manufacture)
+− E.g., An article of manufacture useful for adding creamer base to a hot beverage, comprising: … USPN 
+7,445,804)
+Composition of matter
+− E.g., A flavoring composition which comprises from 1-80% by weight of a coolant … (USPN 5,725,865)
+
+The U.S. Supreme Court has held that Congress intended patentable subject matter to 
+"include anything under the sun that is made by man,” but acknowledges that there are 
+limits or exceptions.  
+See Diamond v. Chakrabarty, 447 U.S. 303 (1980).
+PATENT BASICS
+To be patentable, a claim must be directed to one of the four patent-eligible subject matters.
+6
+PATENTS AND OTHER INTELLECTUAL PROPERTY MATTERS
+Confidential | November 2017
+ U.S. JUDICIAL EXCEPTIONS TO THE FOUR CATEGORIES
+−
+Does the claimed invention wholly embrace a judicially-recognized exception? 
+− Examples
+−
+Law of Nature:  “Einstein could not patent his celebrated law that E=mc2; nor could Newton have 
+patented the law of gravity.” Diamond v. Chakrabarty, 447 U.S. 303, 309 (1980).
+−
+Natural Phenomena:  “A new mineral discovered in the earth or a new plant found in the wild is not 
+patentable subject matter.” Diamond v. Chakrabarty, 447 U.S. 303, 309 (1980).
+−
+Abstract Idea:  “Even though a phenomenon of nature or mathematical formula may be well known, 
+an inventive application of the principle may be patented. Conversely, the discovery of such a 
+phenomenon cannot support a patent unless there is some other inventive concept in its application.” 
+Parker v. Flook, 437 U.S. 584, 594(1978).
+PATENT BASICS
+To be patentable, a claim directed to one of the judicial exceptions must recite something significantly different. 
+7
+PATENTS AND OTHER INTELLECTUAL PROPERTY MATTERS
+Confidential | November 2017
+PATENT BASICS
+USPTO’s March 2014 Guidance for subject matter eligibility of claims involving a judicially-created exception.
+8
+PATENTS AND OTHER INTELLECTUAL PROPERTY MATTERS
+Confidential | November 2017
+Heading 1
+Heading 1
+Heading 1
+(1) Field of the Invention: A 
+statement of the field of art to which 
+the invention pertains. 
+(2) A description of the related art 
+known to the applicant and 
+including, if applicable, references 
+to specific related art and problems 
+involved in the prior art which are 
+solved by the applicant’s invention.
+A brief summary of the invention 
+indicating its nature and substance, 
+which may include a statement of 
+the object of the invention, should 
+precede the detailed description. 
+Such summary should, when set 
+forth, be commensurate with the 
+invention as claimed and any object 
+recited should be that of the 
+invention as claimed.
+When there are drawings, there shall 
+be a brief description of the several 
+views of the drawings and the 
+detailed description of the invention 
+shall refer to the different views by 
+specifying the numbers of the 
+figures, and to the different parts by 
+use of reference letters or numerals 
+(preferably the latter).
+PATENT BASICS
+Parts of a patent application
+BACKGROUND
+SUMMARY
+BRIEF DESCRIPTION OF THE DRAWINGS
+9
+PATENTS AND OTHER INTELLECTUAL PROPERTY MATTERS
+Confidential | November 2017
+Heading 1
+Heading 1
+Heading 1
+A detailed description of the 
+invention follows the general 
+statement of invention and brief 
+description of the drawings (if 
+applicable).  The detailed 
+description must be in such 
+particularity as to enable any person 
+skilled in the pertinent art or science 
+to make and use the invention 
+without involving extensive 
+experimentation.
+Best practice to include examples 
+and/or experimental details, as this 
+establishes enablement.
+Best mode is still a statutory 
+requirement in the U.S. 
+The specification must conclude with 
+a claim particularly pointing out and 
+distinctly claiming the invention or 
+discovery.
+Claims set the metes and bounds 
+(i.e., defines the scope) of what the 
+inventor believes to be the invention.
+More than one claim may be 
+presented provided they differ 
+substantially from each other.
+Words used in the claims must have 
+antecedent support in the detailed 
+description (specification).
+Preamble + transition phrase + 
+elements.
+The purpose of the abstract is to 
+enable the Office and the public 
+generally to determine quickly from 
+a cursory inspection the nature and 
+gist of the technical disclosure.
+Generally limited to 150 words or less.
+PATENT BASICS
+Parts of a patent application
+DETAILED DESCRIPTION
+CLAIMS
+ABSTRACT
+10
+PATENTS AND OTHER INTELLECTUAL PROPERTY MATTERS
+Confidential | November 2017
+TYPES OF PATENT APPLICATIONS
+11
+PATENTS AND OTHER INTELLECTUAL PROPERTY MATTERS
+Confidential | November 2017
+Heading 1
+Heading 1
+Heading 1
+Under United States patent law, a 
+provisional application is a legal 
+document filed in the USPTO, that 
+establishes a filing date, but does not 
+mature into an issued patent unless 
+the applicant files a regular non-
+provisional patent application within 
+one year.
+Sometimes called “poor man’s 
+patent.”
+Includes a description, and 
+optionally drawing(s) (may be 
+required for understanding of the 
+invention).  Does not require formal 
+patent claims, inventors' oaths or 
+declarations, or any information 
+disclosure statement (IDS).
+In the U.S., a complete non-
+provisional patent application 
+comprises:
+• a specification, 
+• claims,
+• drawings (if necessary), 
+• a formal oath or declaration (must 
+be filed before patent issues),
+• the prescribed filing fee, search 
+fee, examination fee and 
+application size fee.
+Includes Continuation and Divisional 
+patent applications.
+Foreign applications (JP, CN, MX, EP) 
+are essentially equivalent to US non-
+provisionals.
+The Patent Cooperation Treaty (PCT) 
+provides a unified procedure for 
+filing patent applications to protect 
+inventions in each of its contracting 
+states. A patent application filed 
+under the PCT is called an 
+international application, or PCT 
+application.
+A PCT application does not itself 
+result in the grant of a patent, since 
+there is no such thing as an 
+"international patent", and the grant 
+of patent is a prerogative of each 
+national or regional authority.
+A search is performed by an 
+International Searching Authority 
+(ISA), accompanied by a written 
+opinion regarding the patentability 
+of the invention.
+TYPES OF PATENT APPLICATIONS
+PROVISIONAL
+NON-PROVISIONAL
+PATENT COOPERATION TREATY
+12
+PATENTS AND OTHER INTELLECTUAL PROPERTY MATTERS
+Confidential | November 2017
+TYPES OF PATENT PUBLICATIONS
+Publication 
+Code
+Document
+A1
+Patent Application Publication
+A2
+Patent Application Publication 
+(republication)
+B1
+Patent (no prior publication)
+B2
+Patent (with prior publication)
+C1, C2, C3
+Reexamination Certificate
+E
+Reissue Patent
+F1, F2, F3
+Supplemental Examination
+Certificate
+J1, J2, J3
+Post Grant Review Certificate
+K1, K2, K3
+Inter Partes Review Certificate
+O1, O2, O3
+Derivation Certificate
+13
+PATENTS AND OTHER INTELLECTUAL PROPERTY MATTERS
+Confidential | November 2017
+PATENTING PROCESS: US AND ABROAD
+14
+PATENTS AND OTHER INTELLECTUAL PROPERTY MATTERS
+Confidential | November 2017
+PATENTING PROCESS: US AND ABROAD
+US Application
+Non-final Office 
+Action on the 
+merits
+Amendment 
+and/or Argument
+Final Office Action
+Amendment 
+and/or Argument
+Advisory Action
+Appeal
+Allowance
+Issue Fee Payment
+Patent Issues
+Maintenance Fees
+RCE
+PCT
+12 months
+30-31 months
+Foreign Application(s)
+15
+PATENTS AND OTHER INTELLECTUAL PROPERTY MATTERS
+Confidential | November 2017
+ Patent application drafting, based on invention disclosure submitted by researcher(s)
+ Inventor(s) review draft application and execute filing documentation.
+ Legal determination of inventorship based on the claimed invention
+ Finalize patent application and filing papers
+ Patent application(s) filed with patent office(s), first-to-file priority
+ Business decision to pursue foreign filing within 12 months of first filing
+ May use Patent Cooperation Treaty (PCT) application to extend deadline to approx. 30-31 months
+ Patent application(s) will publish 18 months after earliest effective filing date, unless a request for non-
+publication is filed with the USPTO along with a promise not to file any foreign applications.
+ Claimed invention in the patent application examined separately in each country  
+ If claim(s) are rejected (based on subject matter, novelty, obviousness, utility, clarity, enablement, etc.):
+
+Submit rebuttal arguments or evidence, amend claims, or both
+
+May remove case from examiner to an appeal board
+ In the U.S., all foreign Office Actions and cited art must be disclosed to the USPTO.
+ Patent granted if claimed invention is novel, non-obvious, and useful.
+ Granted patents are afforded a presumption of validity.
+ Requires periodic maintenance fees to remain enforceable
+PATENTING PROCESS: US AND ABROAD
+Patenting is an examination process evaluated against publically-available information.
+16
+PATENTS AND OTHER INTELLECTUAL PROPERTY MATTERS
+Confidential | November 2017
+I.DETERMINE WHAT APPLICANT HAS INVENTED AND IS SEEKING TO PATENT
+A. Identify and Understand Any Utility for the Invention
+B.  Review the Detailed Disclosure and Specific Embodiments of the Invention To Understand What the 
+Applicant Has Invented
+C. Review the Claims
+i) identifying and evaluating each claim limitation
+ii) give claims their broadest reasonable interpretation (BRI) in light of the supporting disclosure
+II.CONDUCT A THOROUGH SEARCH OF THE PRIOR ART
+U.S. and foreign patents and nonpatent literature.
+III.DETERMINE WHETHER THE CLAIMED INVENTION COMPLIES WITH 35 U.S.C. 101
+Subject Eligibility
+IV.EVALUATE APPLICATION FOR COMPLIANCE WITH 35 U.S.C. 112
+Paragraph (a)
+1. The claim(s) set forth the subject matter applicants regard as the invention, and 
+2. The claim(s) particularly point out and distinctly claim the invention.
+Paragraph (b)
+1. Adequate Written Description
+2. Enablement
+3. Best mode
+V.DETERMINE WHETHER THE CLAIMED INVENTION COMPLIES WITH 35 U.S.C. 102 AND 103
+Novelty and non-obviousness (with claims given their BRI)
+VI.CLEARLY COMMUNICATE FINDINGS, CONCLUSIONS AND THEIR BASES
+PATENTING PROCESS: US AND ABROAD
+Examination is on a claim-by-claim analysis.
+17
+PATENTS AND OTHER INTELLECTUAL PROPERTY MATTERS
+Confidential | November 2017
+PATENTING PROCESS: US AND ABROAD
+Novelty
+A claim is anticipated only if each and every element 
+as set forth in the claim is found, either expressly or 
+inherently described, in a single prior art reference
+before the effective filing date of the claim.
+Prior art is information that has been made available to 
+the public in any form before the earliest effective filing 
+date of the claimed invention.
+Additional references may be used to:
+(A) Prove the primary reference contains an 
+“enabled disclosure;”
+(B) Explain the meaning of a term used in the primary 
+reference; or
+(C) Show that a characteristic not disclosed in the 
+reference is inherent.
+In the U.S., applicant has a one-year grace period for  
+public disclosure by or derived from the applicant.
+Obviousness (Inventive Step)
+In the U.S. (Graham Factors)
+(A) Determining the scope and content of the 
+prior art;
+(B) Ascertaining the differences between the 
+claimed invention and the prior art; and
+(C) Resolving the level of ordinary skill in the 
+pertinent art.
+(D) Consider secondary indicia of non-
+obviousness:
+-evidence of commercial success, 
+-long-felt but unsolved needs, 
+-failure of others, and 
+-unexpected results.
+EU, Japan, CN (Problem-Solution Approach)
+(i) determining the "closest prior art",
+(ii) establishing the "objective technical problem" 
+to be solved, and
+(iii) considering whether or not the claimed 
+invention, starting from the closest prior art and the 
+objective technical problem, would have been 
+obvious to the skilled person.
+18
+PATENTS AND OTHER INTELLECTUAL PROPERTY MATTERS
+Confidential | November 2017
+US
+•
+If at least one utility is credible, specific, and substantial, a rejection under 35 U.S.C. § 101 
+should not be made. 
+•
+Credible Utility:  An assertion is credible unless 
+•
+(A) the logic underlying the assertion is seriously flawed, or 
+•
+(B) the facts upon which the assertion is based are inconsistent with the logic underlying the assertion.
+•
+Specific Utility:  A utility that is specific to the subject matter claimed.
+•
+Substantial Utility:  A utility that defines a "real world" use.
+Europe
+•
+An invention shall be considered as susceptible of industrial application if it can be made or 
+used in any kind of industry, including agriculture.
+China
+•
+An invention for a new use for a known compound requires experimental evidence in the 
+description to verify the new use and effects thereof… e.g., qualitative or quantitative data 
+of experimental tests that are sufficient to convince a person skilled in the art that the 
+anticipated technical effects/use can be achieved.
+PATENTING PROCESS: US AND ABROAD
+Utility (Industrial Applicability)
+Utility is a low threshold, but it must be real and verifiable.
+19
+PATENTS AND OTHER INTELLECTUAL PROPERTY MATTERS
+Confidential | November 2017
+PATENTING PROCESS: US AND ABROAD
+Patent Application Examination Process Outcomes
+Examination process will eventually conclude with either a patent or abandonment.
+Through arguments, claim amendments and/or appeal board, if we are able to 
+overcome the Examiner’s rejections … Claims are allowed and a patent will issue.
+If we are unable to overcome the Examiner’s rejection(s), then the application will 
+be permitted to go abandoned.
+20
+PATENTS AND OTHER INTELLECTUAL PROPERTY MATTERS
+Confidential | November 2017
+INVENTORSHIP
+21
+PATENTS AND OTHER INTELLECTUAL PROPERTY MATTERS
+Confidential | November 2017
+ Conception is the touchstone of inventorship, the completion of the mental part of
+the invention.
+ The conception of the invention consists in the complete performance of the mental part of the 
+inventive act. All that remains to be accomplished in order to perfect the act or instrument belongs to 
+the department of construction, not invention. It is, therefore, the formation in the mind of the inventor 
+of a definite and permanent idea of the complete and operative invention as it is thereafter to be 
+applied in practice that constitutes an available conception within the meaning of the patent law.
+ Conception is complete only when the idea is so clearly defined in the inventor's mind that 
+only ordinary skill would be necessary to reduce the invention to practice, without extensive 
+research or experimentation.
+ The invention may be reduced to practice by the inventor, or it may be reduced to practice by 
+someone who is operating under the direction and control of the inventor.
+ An inventor need not know that the invention will work for conception to be complete; discovering that 
+the invention works is part of the reduction to practice.
+ Factors Often Leading Away From a Conclusion of Inventorship
+ Contributing an obvious element or general knowledge.
+ Merely suggesting a desired result or outcome without providing the means to accomplish the same.
+ Following the instructions of the conceivers.
+ Merely refining or perfecting another's design or making only superficial changes.
+INVENTORSHIP
+Inventorship is a legal determination based on conception of the invention, and not on sweat equity.
+22
+PATENTS AND OTHER INTELLECTUAL PROPERTY MATTERS
+Confidential | November 2017
+DUTY OF DISCLOSURE
+23
+PATENTS AND OTHER INTELLECTUAL PROPERTY MATTERS
+Confidential | November 2017
+ Each individual associated with the filing and prosecution of a patent application has a duty 
+of candor and good faith in dealing with the U.S. Patent and Trademark Office (USPTO), 
+which includes a duty to disclose all information known to be “material to patentability.”
+ Each inventor
+ Each patent attorney who prepares or prosecutes the application
+ Every other person who is substantively involved in the preparation or prosecution of the application
+ Information is deemed “material to patentability” when it is not cumulative to information 
+already of record or being made of record in the application, and
+ It establishes, by itself or in combination with other information, a prima facie case of unpatentability of 
+a claim; or
+ It refutes, or is inconsistent with, a position the applicant takes in:
+
+Opposing an argument of unpatentability relied on by the Office, or
+
+Asserting an argument of patentability.
+ In the US, this duty is fulfilled by submission of a proper Information Disclosure Statement (IDS)
+ Outside US, the duty of disclosure varies.  But in all cases, a stronger patent is created when 
+the most relevant prior art is before the examiner.
+DUTY OF DISCLOSURE
+It is best to disclose all information that a reasonable examiner may deem material to patentability of our claims. 
+24
+PATENTS AND OTHER INTELLECTUAL PROPERTY MATTERS
+Confidential | November 2017
+CONCLUDING REMARKS
+QUESTIONS?
+FOR MORE
+INFORMATION,
+CONTACT US
+www.mane.com
+James.CAREY@mane.com
++513-239-2254

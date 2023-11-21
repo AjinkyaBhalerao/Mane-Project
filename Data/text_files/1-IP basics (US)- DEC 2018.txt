@@ -1,0 +1,751 @@
+INTELLECTUAL 
+PROPERTY BASICS 
+(US)
+CONFIDENTIAL
+December 2018
+2
+INTELLECTUAL PROPERTY BASICS (US)
+Confidential | December 2018
+ORGANIZATIONAL CHART
+Crystèle LARUE
+General Counsel
+Legal and IP Department Director
+Jean MANE
+President  
+V MANE FILS
+Silvia
+ESPINOSA
+Anne-Sophie
+LABORDE
+Julie
+ROYO-RENAUDIN
+Cole 
+LANIGAN
+Mita
+BARIK
+Aanchal
+GOENKA
+Aminata
+POUYE
+James
+CAREY
+LEGAL AND IP DEPARTMENT
+MMEX
+BsL
+BsL
+MIPL
+BsL
+MINC
+MINC
+KIL
+Brad KELLEY
+President MINC
+Michel MANE
+President 
+MANE Americas
+3
+INTELLECTUAL PROPERTY BASICS (US)
+Confidential | December 2018
+01
+Definition of Intellectual Property
+CONTENT
+Copyrights
+02
+Trademarks
+03
+Trade Secrets
+04
+05
+Patents
+06
+Infringement (Patent)
+4
+INTELLECTUAL PROPERTY BASICS (US)
+Confidential | December 2018
+01 DEFINITION OF INTELLECTUAL PROPERTY
+5
+INTELLECTUAL PROPERTY BASICS (US)
+Confidential | December 2018
+DEFINITION OF INTELLECTUAL PROPERTY
+Intellectual Property (IP): Any product of the human intellect that the law protects from 
+unauthorized use by others.  The ownership of intellectual property inherently creates 
+a limited monopoly in the protected property.
+Corporate IP generally includes Copyrights, Trademarks, Trade Secrets, & Patents.
+Intellectual property rights allow creators, or owners, of the IP to benefit from their own 
+work or investment in a creation.
+ Copyright Act (17 USC §101 et seq.)
+ Lanham Act (15 USC §§ 1051 et seq.)
+ Defend Trade Secrets Act (18 USC §§ 1836 et seq.)
+ America Invents Act (35 USC § 100 et seq.)
+6
+INTELLECTUAL PROPERTY BASICS (US)
+Confidential | December 2018
+MORPHING OF IP INTO A SINGLE PRODUCT LINE 
+Brand name
+Lanham Act
+Marketing materials
+Copyright Act
+Manufacturing method and ingredient sourcing
+Defend Trade Secrets Act
+Novel, useful, non-obvious aspects
+America Invents Act
+POWERCAPS®
+7
+INTELLECTUAL PROPERTY BASICS (US)
+Confidential | December 2018
+02 COPYRIGHTS
+8
+INTELLECTUAL PROPERTY BASICS (US)
+Confidential | December 2018
+COPYRIGHTS – 17 USC §§ 101-122
+Copyright protects original and derivative works of authorship fixed in any tangible medium of expression.
+•
+Protect original works of authorship, per the US Constitution.
+•
+Literary works, music, dramatic works, pantomimes and choreographic works, 
+sculptural, pictorial, and graphic works, sound recordings, artistic works, architectural 
+works, and computer software. 
+•
+The owner has the exclusive rights to: reproduce, distribute copies, publically 
+perform or display, and prepare derivative works based upon the work.
+•
+Fixed in a tangible medium of expression
+•
+Words/pictures on a piece of paper
+•
+Music notes written on a sheet. 
+•
+A US copyright exists from the moment the work is created.  To provide public 
+notice of copyright, published works must be marked (©, date, and owner). If 
+registered, certain statutory rights are available. 
+•
+There is no such thing as an “international copyright,” but foreign nations that 
+are party to copyright international agreements with the US are afforded rights.  
+9
+INTELLECTUAL PROPERTY BASICS (US)
+Confidential | December 2018
+COPYRIGHTS – 17 USC §§ 101-122 
+Duration - Limited per the US Constitution (Art. I, Sec. 8) 
+•
+Exact duration depends on when created, if/when published, if work for hire.
+•
+Today, new works are entitled to life of the author plus 70 years.
+•
+Today, work for hires are entitled to a term of 95 years from the year of its first 
+publication, or a term of 120 years from the year of its creation, whichever 
+expires first.
+A “work made for hire” is a work prepared by an employee within the scope of his or 
+her employment.
+In the case of a work made for hire, the employer or other person for whom the work 
+was prepared is considered the author, and owns all of the rights comprised in the 
+copyright.
+•
+Unless the parties have expressly agreed otherwise in a written instrument 
+signed by them.
+10
+INTELLECTUAL PROPERTY BASICS (US)
+Confidential | December 2018
+COPYRIGHTS – 17 USC §§ 101-122 
+Examples:
+•
+Presentations, Advertisements, Marketing brochures, Websites, Scientific articles
+•
+BUT NOT patents (see Korzybski v. Underwood & Underwood, 36 F.2d 727, 729 (Cir. 1929))
+The CR owner has the exclusive right to modify, distribute, perform, create, display, 
+and copy the work … except for Fair Use (17 U.S.C. §107)
+FAIR USE (defense):
+• the purpose and character of the use
+• transformative or value added
+• merely copied
+• the nature of the copyrighted work
+• factual or fictional  
+• published or unpublished
+• the amount and substantiality of the portion taken
+• small or large portion
+• insignificant portion or “heart” of the work
+• the effect of the use upon the potential market or value.
+• no economic impact to owner
+• deprive owner of potential economic gain
+11
+INTELLECTUAL PROPERTY BASICS (US)
+Confidential | December 2018
+03 TRADEMARKS
+12
+INTELLECTUAL PROPERTY BASICS (US)
+Confidential | December 2018
+TRADEMARKS – 15 U.S.C. §§ 1051-1141
+Trade/Service mark is a word, phrase, symbol, or design that provides distinctive identification for goods/services.
+Trade or Service Mark - a distinctive sign, identifies a source for certain products or 
+services, allows the consumer to distinguish them from other suppliers.
+A trade/service mark registration - exclusive right to the use of the mark in interstate 
+commerce for the registered class/goods/services.
+In order to qualify for protection, the mark must be distinctive and not merely 
+descriptive. 
+fanciful > arbitrary > suggestive >> descriptive >>>> generic
+(EXXON) > (APPLE) > (MICROSOFT) >> (HAIR SALON) >>>> (ASPIRIN)
+Marks that are fanciful, arbitrary, or suggestive are considered distinctive enough to 
+function as trademarks. 
+If a mark is descriptive, the mark may function as a trademark or service mark only if it 
+has obtained secondary meaning. 
+Generic words or phrases can never be a trademark.
+® - denotes a registered mark (US Law)
+TM - denotes common law use as a mark (US Law)
+13
+INTELLECTUAL PROPERTY BASICS (US)
+Confidential | December 2018
+TRADEMARKS – 15 U.S.C. §§ 1051-1141
+Examples:
+Classes 1-34 (goods) and 35-45 (services) for US and international (NICE)
+Majority of trademark application rejections are based on marks being merely 
+descriptive or “likelihood of confusion” of the source of the goods.  
+Federal application process based on “use in interstate commerce”:
+§1a) actual use in commerce, or 
+§1b) bona fide intent-to-use (ITU) in commerce.
+Like other forms of IP, trademark registration must exist in a country to be enforceable.
+*** Consider USPTO/WIPO/internet searches prior to naming a research project.
+14
+INTELLECTUAL PROPERTY BASICS (US)
+Confidential | December 2018
+TRADEMARKS – 15 U.S.C. §§ 1051-1141
+Examples:
+https://www.uspto.gov/sites/default/files/documents/BasicFacts.pdf
+POWERGRAN CORE®
+POWERTOUCH®
+MANENCAPS®
+POWERBREEZE®
+POWERBLOOM®
+AQUAL®
+SENSE CAPTURE®
+N-CAPTURE®
+PURE CAPTURE®
+WE CAPTURE WHAT MOVES®
+MANECAPSTM
+MADERALTM
+C-CAPTURETM
+JUNGLE ESSENCE®
+POWERGRAN®
+GREEN MOTION®
+POWERCAPS®
+PHYSCOOL®
+VMF MANE®
+POWERLAST®
+15
+INTELLECTUAL PROPERTY BASICS (US)
+Confidential | December 2018
+04 TRADE SECRETS
+16
+INTELLECTUAL PROPERTY BASICS (US)
+Confidential | December 2018
+TRADE SECRETS - 18 USC §§ 1830-1839 
+A trade secret is any confidential business information which provides an enterprise a competitive edge.
+"Trade secret" means:
+•
+information, including a formula, pattern, compilation, program, device, method, 
+technique, or process, that: 
+•
+(i) derives independent economic value, actual or potential, from not being generally 
+known to, and not being readily ascertainable by proper means by, other persons who 
+can obtain economic value from its disclosure or use, and 
+•
+(ii) is the subject of efforts that are reasonable under the circumstances to maintain its 
+secrecy.
+Formulas
+Samples
+Processes
+Know-how
+Methods
+Ideas
+Concepts
+Techniques
+Research
+Experimental work
+Developments
+Inventions
+Scientific information
+Design details
+Drawings
+Engineering
+Specifications
+Ingredients
+Recipes
+Customer data
+Business records
+Financials
+Sales data
+Sales analyses
+Pricing
+Forecasts
+Plans
+Strategy
+Equipment
+Incident reports
+Complaints
+Claims
+Contracts & terms
+Reports
+Client lists
+Origin of products
+Ingredient suppliers
+Ingredient pricing
+Margin
+17
+INTELLECTUAL PROPERTY BASICS (US)
+Confidential | December 2018
+TRADE SECRETS - 18 USC §§ 1830-1839 
+Defend Trade Secrets Act (2016):
+•
+A United States federal law (codified at 18 U.S.C. § 1836) provides a federal CIVIL cause of 
+action for trade secret misappropriation and a civil seizure (in extraordinary circumstances).
+•
+No federal preemption.  State courts still available under common law unfair competition 
+and/or Uniform Trade Secrets Act (UTSA), if adopted. (E.g., Ohio Revised Code §1333.61-69.)
+•
+Broader protection than Uniform Trade Secret Act.
+•
+"Misappropriation" means:
+•
+(i) acquisition of a trade secret of another by a person who knows or has reason to know that the trade 
+secret was acquired by improper means; or 
+•
+(ii) disclosure or use of a trade secret of another without express or implied consent by a person who 
+(A) used improper means to acquire knowledge of the trade secret; or (B) at the time of disclosure or 
+use, knew or had reason to know that his knowledge of the trade secret was 
+•
+(I) derived from or through a person who had utilized improper means to acquire it; 
+•
+(II) acquired under circumstances giving rise to a duty to maintain its secrecy or limit its use; or 
+•
+(III) derived from or through a person who owed a duty to the person seeking relief to maintain its 
+secrecy or limit its use; or before a material change of his [or her] position, knew or had reason to 
+know that it was a trade secret and that knowledge of it had been acquired by accident or mistake.
+•
+"Improper means" includes theft, bribery, misrepresentation, breach or inducement of a 
+breach of a duty to maintain secrecy, or espionage through electronic or other means.
+18
+INTELLECTUAL PROPERTY BASICS (US)
+Confidential | December 2018
+TRADE SECRETS - 18 USC §§ 1830-1839 
+How does MANE protect its trade secrets?
+•
+Employee Confidentiality Agreements
+•
+Confidential disclosure agreements (CDA’s)
+•
+Implement business procedures to augment CDA’s
+•
+Control physical and electronic access
+•
+Identify, assess, and take steps to manage risks
+•
+Create supply chain procedures and plans
+•
+Conduct employee and vendor training
+•
+Training and capacity building with employees and third parties
+•
+Taking corrective actions and continually improving policies and procedures
+19
+INTELLECTUAL PROPERTY BASICS (US)
+Confidential | December 2018
+05 PATENTS
+20
+INTELLECTUAL PROPERTY BASICS (US)
+Confidential | December 2018
+PATENTS – 35 U.S.C. §§ 101-390
+A patent is an exclusive right for a limited period of time in exchange for detailed public disclosure of an invention.
+Once granted, a patent provides, from a legal standpoint, the right to exclude others from 
+making, using, selling, offering for sale, or importing the claimed invention for the term of the 
+patent, which is usually 20 years from the filing date, subject to the payment of maintenance 
+fees.
+•
+A patent does not give a right to make or use or sell an invention.
+•
+Patents are territorial, and infringement is only possible in a country where a patent is in 
+force.
+•
+The granted claims in the specific country are what defines the scope of enforcement.
+•
+Patent infringement is the commission of a prohibited act with respect to a patented 
+invention without permission from the patent holder. 
+•
+Permission may typically be granted in the form of a license.
+•
+Maintenance fees vary from country to country, and when payment is due.
+The basic quid pro quo:
+Written Description, Enablement, Best Mode = Limited Monopoly 
+21
+INTELLECTUAL PROPERTY BASICS (US)
+Confidential | December 2018
+PATENTS – 35 U.S.C. §§ 101-390
+Requirements for patenting an invention:
+Statutory Subject Matter:  Process, Machine, Manufacture, or Composition of Matter
+Written Description/Enablement (35 U.S.C. §112, see also EPC Art. 83)
+•
+…a written description of the invention, …, clear, concise, and exact terms as to enable
+any person skilled in the art … to make and use the same, and shall set forth the best 
+mode … of carrying out the invention.
+Novel and Useful (35 U.S.C. §101/102, see also EPC Art. 54, 57)
+•
+Whoever invents or discovers any new and useful process, machine, manufacture, or 
+composition of matter, or any new and useful improvement thereof, may obtain a patent 
+therefor…. 
+Non-Obvious (35 U.S.C. §103, see also EPC Art. 56)
+•
+A patent for a claimed invention may not be obtained, … if the differences between the 
+claimed invention and the prior art are such that the claimed invention as a whole 
+would have been obvious before the effective filing date of the claimed invention to a 
+person having ordinary skill in the art to which the claimed invention pertains. 
+22
+INTELLECTUAL PROPERTY BASICS (US)
+Confidential | December 2018
+PATENTS – 35 U.S.C. §§ 101-390
+Claims define the metes and bounds of the patentee’s exclusive right.
+What defines an invention?
+The CLAIMS, not the specification, provide notice of the scope of patent protection.  
+•
+Neither the specification, which includes the written description of the invention, nor the 
+drawings accompanying the specification, can be infringed.
+•
+Claims must first be construed without reference to an accused product before they can be 
+applied, as so construed, to the accused product to determine infringement.  
+•
+All limitations in a claim must be considered meaningful and cannot be ignored as 
+insignificant or immaterial in determining infringement. 
+23
+INTELLECTUAL PROPERTY BASICS (US)
+Confidential | December 2018
+TRADE SECRETS VERSUS PATENTS
+Patents and trade secrets each have their own inherent advantages and limitations. 
+Trade Secrets
+Patents
+Trade secrets involve no registration costs
+Patents may cost tens of thousands of dollars, per 
+jurisdiction 
+Trade secrets have immediate effect and may last 
+indefinitely
+Average time to obtain a patent is five years, and a
+patent expires up to 20 years* after earliest filing date
+Trade secret protection does not require any formalities 
+such as disclosure of the information to a Government 
+authority.
+Inventors must disclose the invention to the public, 
+without a guarantee of obtaining a patent*
+Some trade secrets are susceptible to reverse 
+engineering
+Exclusive rights of patents allows protection from any 
+type of infringement or copying — whether intentional 
+or unintentional.
+Once the secret is made public, anyone may have 
+access to it and use it at will
+Quid pro quo for a limited monopoly to exclude others is 
+public disclosure of the invention
+A trade secret may be patented by another “inventor”
+but prior commercial use defense is available (35 USC 
+273) 
+Independent invention is no defense against patent 
+infringement
+A trade secret is more difficult to enforce than a patent;
+must show misappropriation
+Patent infringement covers direct and indirect 
+infringement
+24
+INTELLECTUAL PROPERTY BASICS (US)
+Confidential | December 2018
+07 INFRINGEMENT
+25
+INTELLECTUAL PROPERTY BASICS (US)
+Confidential | December 2018
+INFRINGEMENT
+In general terms, IP infringement is any breach of intellectual property rights.
+IP rights are infringed when a work protected by IP laws is used, copied or otherwise 
+exploited without having the proper permission from a person who owns those rights.
+Examples of an IP infringement are “counterfeiting” and “piracy."
+•
+Counterfeiting is the practice of imitating genuine goods, often to inferior quality, with the 
+intent to take advantage of the superior value of the imitated product.
+•
+Piracy is an unauthorized copying, use, reproduction and/or distribution of materials 
+protected by intellectual property rights.
+ 17 U.S.C. § 501 - Infringement of Copyright 
+ 15 U.S.C. § 1114 – Infringement of Trademarks 
+ 35 U.S.C. § 271 – Infringement of Patents
+Exclusive Rights of the Intellectual Property Holder
+26
+INTELLECTUAL PROPERTY BASICS (US)
+Confidential | December 2018
+PATENT INFRINGEMENT - 35 U.S.C. § 271 
+An invention is:
+process, machine, manufacture, or 
+composition of matter 
+useful, new, and non-obvious 
+Defined by the granted claims.
+A granted patent gives the patent owner 
+a right to exclude others from:
+making or using
+selling
+offering for sale
+Importing
+… the claimed invention.
+Exclusive Rights of a Patent Holder
+27
+INTELLECTUAL PROPERTY BASICS (US)
+Confidential | December 2018
+PATENT INFRINGEMENT - 35 U.S.C. § 271 
+Preamble
+ Method, process, composition, article, etc.
+Transitional phrase.
+ Open ended – “comprising” 
+ (A+B+C+D+… anything.)
+ Closed – “consisting of”
+ Only A+B+C+D
+ Intermediate – “consisting essentially of” 
+ limits the scope those that do 
+not materially affect 
+the basic and novel characteristic(s)” 
+Body
+− Provides the elements of the claim
+Hypothetical Example:
+A flavour composition comprising
+A.
+a high-intensity sweetener, 
+B.
+a zinc salt of a tricarboxylic acid, 
+C.
+a taste modulator selected from 
+pantolactone, dihydroactinidiolide, or both, 
+and 
+D.
+monomenthyl succinate.
+What is a claim?
+A
+B
+C
+D
+28
+INTELLECTUAL PROPERTY BASICS (US)
+Confidential | December 2018
+Step 1:  Claim construction:
+
+Begin with the words of the claim itself.
+−
+The words of the claim should be given their ordinary and customary meaning.
+
+Review the rest of the patent (specification and drawings).
+−
+Claims terms are not interpreted in isolation.
+ Defined terms
+ Intentional disclaimers
+
+US 
+−
+May consult patent prosecution history and/or extrinsic evidence.
+Step 2:  Read the claim(s) onto the accused product/process:
+ Assess whether each of the recited elements are present (actually or inherently)in the accused 
+product/process.
+ Claim charts are useful tools for analyzing and presenting information regarding a patent claim.
+PATENT INFRINGEMENT - 35 U.S.C. § 271 
+Steps for assessing infringement of a claim
+Infringement assessment is an element-by-element comparison of the claim vis-à-vis the accused product/process.
+29
+INTELLECTUAL PROPERTY BASICS (US)
+Confidential | December 2018
+Literal infringement - Statutory
+ 35 USC §271(a) or (g)
+− Accused infringer practices each element of the patent holder’s patent claim - “All elements rule”
+− Importation of a good manufactured abroad using a patented process 
+− See Also
+ Article 64(1) EPC
+ Article 25, Industrial Property Law (Mexico)
+ Section 106, The Patents Act (India)
+Nonliteral infringement – Case law
+ Called the “Doctrine of Equivalents” 
+− US, CN, JP - “triple identity” or insubstantial differences test … "performs substantially the same function in 
+substantially the same way to obtain the same result“ as an element of the patented invention.
+− EP – The same function, the same technical effect 
+− India – similar to US
+− Does not exist in Mexico
+DIRECT PATENT INFRINGEMENT
+DOE attempts to combine a fair protection for the patentee with a reasonable degree of certainty for third parties.
+30
+INTELLECTUAL PROPERTY BASICS (US)
+Confidential | December 2018
+Literal infringement
+ Granted Claim
+− A flavour composition comprising a high-intensity sweetener, an zinc salt of a tricarboxylic acid, a taste 
+modulator selected from pantolactone, dihydroactinidiolide, or both, and monomenthyl succinate.
+ Alleged infringing product
+− A flavor composition containing rebaudioside A, zinc citrate, pantolactone, Physcool®, menthol, spearmint 
+EO, …..
+Nonliteral infringement
+ Granted Claim (Cadbury)
+− A chewing gum composition capable of providing long-lasting, breath freshening perception without 
+bitterness comprising:
+a gum base;
+a sweetener; and
+a cooling composition comprising menthol and an N-substituted-p-menthane carboxamide of … 
+[a specified formula that included WS-3).
+ Alleged infringing product (Wrigley)
+− A chewing gum made of a gum base; a mixture of sweeteners; and a mixture of N-2,3-trimethyl-2-isopropyl 
+butanamide (WS-23) and menthol.
+[Wm. Wrigley Jr. Co. v. Cadbury Adams USA LLC, 103 U.S.P.Q.2d 1130, 683 F.3d 1356 (Cir. 2012)]
+DIRECT PATENT INFRINGEMENT
+31
+INTELLECTUAL PROPERTY BASICS (US)
+Confidential | December 2018
+Indirect infringement
+ Provides a remedy for acts occurring prior to an act of direct infringement.
+ Generally relates to supply of or offer to supply a means relating to an essential element of the invention, 
+with the exception of where the essential means is a staple commercial product.
+ Some jurisdictions do not require the knowledge of the existence of the patent.
+ Some jurisdictions have a double territorial requirement, in that both the supply and the end use must 
+occur in the same jurisdiction.
+INDIRECT PATENT INFRINGEMENT
+It is important for MANE to be aware, if possible, of our customer’s intended use of the products we supply to them.
+32
+INTELLECTUAL PROPERTY BASICS (US)
+Confidential | December 2018
+Inducement [35 USC §271(b)]
+ Inducement requires that the alleged infringer knowingly induced infringement and possessed specific 
+intent to encourage another's infringement.
+− The knowledge requirement may be satisfied by either a showing of actual knowledge or willful blindness.
+ (1) the defendant must subjectively believe that there is a high probability that a fact exists and (2) the defendant must take deliberate 
+actions to avoid learning of that fact.
+− Global-Tech Appliances, Inc. v. SEB S. A., 131 S.Ct. 2060 (2011)
+Contributory [35 USC §271(c)]
+ Selling or offering to sell a component that is a material part of a patented invention, where the component 
+does not have any substantial non-infringing uses.
+ Supplier must have knowledge must know "that the combination for which his component was especially 
+designed was both patented and infringing.
+− Does not encompass sale of a staple article of commerce.
+ Customer then proceeds to directly infringe a patent using the supplied material part.
+− Life Techs. Corp. v. Promega Corp.,137 S.Ct. 734 (2017)
+INDIRECT PATENT INFRINGEMENT
+US law
+It is important for MANE to be aware, if possible, of our customer’s intended use of the products we supply to them.
+33
+INTELLECTUAL PROPERTY BASICS (US)
+Confidential | December 2018
+“If I do X, will I risk liability for infringing another’s patent?”
+The proposed activity must be complete and detailed.
+An FTO study is confined to analysis of the claims of enforceable patents.  To search 
+claims, specific details must be known.
+There is no such thing as a “broad FTO.”
+If commercial embodiment is not set, consider requesting a patent landscape report 
+(PLR):
+1. Formal request to patent counsel 
+2. Informal request to MANE’s documentalist Didier Geraud.
+FREEDOM TO OPERATE INVESTIGATIONS
+A specific and closed question:
+34
+INTELLECTUAL PROPERTY BASICS (US)
+Confidential | December 2018
+FREEDOM TO OPERATE INVESTIGATIONS
+Freedom to Operate Study Request form
+http://mosscorp.emea.sesam.mane.com/LegalIP/IP/Patents%20study%20forms/Forms/AllItems.aspx
+35
+INTELLECTUAL PROPERTY BASICS (US)
+Confidential | December 2018
+Procedure:
+1.
+Study FTO Request form containing specific embodiment(s).
+2.
+Develop search strategy based on the specified embodiment(s) and known prior art.
+3.
+Collect search results and analyze claims of patent documents to establish relevancy to 
+proposed project.
+4.
+Assess status of any relevant patent documents
+2.
+Render a written opinion providing FTO guidance
+a. The project/invention is free to operate, meaning that no enforceable patents or 
+pending patent applications hinder Mane’s right to exploit said specified 
+embodiments.
+b. If enforceable patents or pending patent applications block our FTO
+i.
+If available, commercialize in alternative countries.
+ii.
+Monitor problematic patent documents for abandonment, invalidation, etc.
+iii.
+Work with researchers to develop design around strategies, if possible.
+MANE FTO policy is to respect valid third party patents and patent applications.
+FREEDOM TO OPERATE INVESTIGATIONS
+36
+INTELLECTUAL PROPERTY BASICS (US)
+Confidential | December 2018
+Monetary Damages
+ Lost profits
+ Royalties
+− Attempt to determine what a fair agreement would have been if negotiations had 
+taken place.
+ Enhanced damages
+− Willful, wanton, malicious, bad-faith, deliberate, consciously wrongful, flagrant, or—
+indeed—characteristic of a pirate (Up to 3X!)
+ Attorney’s fees
+− Willful infringement, inequitable conduct, bad actor in litigation
+Injunctions
+ Preliminary
+− (1) that it is likely to succeed on the merits; 
+− (2) that it is likely to suffer irreparable harm in the absence of preliminary relief; 
+− (3) that the balance of equities tips in its favor; and 
+− (4) that an injunction is in the public interest.
+ Permanent
+REMEDIES
+Potential Patent Infringement Remedies
+37
+INTELLECTUAL PROPERTY BASICS (US)
+Confidential | December 2018
+
+Non-infringement
+−
+Patent Counsel Opinion
+
+Invalidity based on prior art (anticipation or obviousness)
+−
+Patent Counsel Opinion
+
+A defense of inequitable conduct
+
+Prior commercial use or offer to sell
+
+Patent misuse
+
+Patent Exhaustion
+
+Estoppel
+
+Licensing
+
+Experimental use
+
+Failure to meet statutory limits (laches)
+
+Failure to meet the statutory requirements
+DEFENSES
+Potential Patent Infringement Defenses
+38
+INTELLECTUAL PROPERTY BASICS (US)
+Confidential | December 2018
+Know the patent literature and what you can rightfully use at MANE
+Be aware of what tools belong to former/current employer
+− Just because you could use “it” before you came to MANE…
+Identify infringement risks
+Core business ≠ patent litigation
+−New products and processes should be vetted for infringement risks
+ Identify commercial embodiment
+ Identify customer’s intended use, if possible
+ Identify countries into which we will commercialize 
+Identify contract risks
+No indemnifications … especially for patent infringement
+Limits of Liability
+Warranties
+FINAL REMARKS
+39
+INTELLECTUAL PROPERTY BASICS (US)
+Confidential | December 2018
+QUESTIONS?
+FOR MORE
+INFORMATION,
+CONTACT US
+www.mane.com
+James.CAREY@mane.com
++513-239-2254

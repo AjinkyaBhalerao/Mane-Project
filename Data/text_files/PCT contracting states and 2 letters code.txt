@@ -1,0 +1,229 @@
+PCT Contracting States and Two-letter Codes (146 on 7 June 2012)
+1
+Only international applications filed on or after 1 May 2010 include the designation of this State for a European patent.
+2
+Extension of European patent possible; in the case of Albania and Serbia, only for international applications filed before
+1 May 2010 and 1 October 2010, respectively.
+3
+May only be designated for a regional patent (the “national route” via the PCT has been closed).
+4
+Only international applications filed on or after 24 March 2010 include the designation of this State for an ARIPO patent.
+5
+International applications filed before 26 April 2012 include the designation of this State for a Eurasian patent.
+6
+Only international applications filed on or after 1 October 2010 include the designation of this State for a European patent.
+7
+Only international applications filed on or after 24 September 2011 include the designation of this State for an ARIPO patent.
+Where a State can be designated for a regional patent, the two-letter code for the regional patent concerned is indicated in parenthe-
+ses (AP = ARIPO patent, EA = Eurasian patent, EP = European patent, OA = OAPI patent).
+Important:  This list includes all States that have adhered to the PCT by the date shown in the heading. Any State indicated in bold
+italics has adhered to the PCT but will only become bound by the PCT on the date shown in parentheses; it will not be considered to
+have been designated in international applications filed before that date.
+Note that even though the filing of a request constitutes under PCT Rule 4.9(a) the designation of all Contracting States bound by the
+PCT on the international filing date, for the grant of every kind of protection available and, where applicable, for the grant of both regional
+and national patents, applicants should always use the latest versions of the request form (PCT/RO/101) and demand form
+(PCT/IPEA/401)(the latest versions are dated January 2010 and July 2011, respectively) or, if filing the request using the PCT-EASY
+features of the PCT-SAFE software, the latest version of that software (which is available at: http://www.wipo.int/pct-safe/en/). The
+request and demand forms can be printed from the website, in editable PDF format, at: http://www.wipo.int/pct/en/forms/, or obtained
+from receiving Offices or the International Bureau, or, in the case of the demand form, also from International Preliminary Examining Authorities.
+AE United Arab
+Emirates
+AG Antigua and Barbuda
+AL
+Albania (EP)1,2
+AM Armenia (EA)
+AO Angola
+AT
+Austria (EP)
+AU Australia
+AZ
+Azerbaijan (EA)
+BA Bosnia and
+Herzegovina2
+BB Barbados
+BE Belgium (EP)3
+BF
+Burkina Faso (OA)3
+BG Bulgaria (EP)
+BH Bahrain
+BJ
+Benin (OA)3
+BN Brunei Darussalam
+(from 24 July 2012)
+BR Brazil
+BW Botswana (AP)
+BY Belarus (EA)
+BZ
+Belize
+CA Canada
+CF Central African
+Republic (OA)3
+CG Congo (OA)3
+CH Switzerland (EP)
+CI
+Côte d’Ivoire (OA)3
+CL
+Chile
+CM Cameroon (OA)3
+CN China
+CO Colombia
+CR Costa Rica
+CU Cuba
+CY Cyprus (EP)3
+CZ Czech Republic (EP)
+DE Germany (EP)
+DK Denmark (EP)
+DM Dominica
+DO Dominican Republic
+DZ Algeria
+EC Ecuador
+EE Estonia (EP)
+EG Egypt
+ES Spain (EP)
+FI
+Finland (EP)
+FR France (EP)3
+GA Gabon (OA)3
+GB United Kingdom (EP)
+GD Grenada
+GE Georgia
+GH Ghana (AP)
+GM Gambia (AP)
+GN Guinea (OA)3
+GQ Equatorial Guinea (OA)3
+GR Greece (EP)3
+GT Guatemala
+GW Guinea-Bissau (OA)3
+HN Honduras
+HR Croatia (EP)
+HU Hungary (EP)
+ID
+Indonesia
+IE
+Ireland (EP)3
+IL
+Israel
+IN
+India
+IS
+Iceland (EP)
+IT
+Italy (EP)3
+JP
+Japan
+KE Kenya (AP)
+KG Kyrgyzstan (EA)
+KM Comoros
+KN Saint Kitts and Nevis
+KP Democratic People’s
+Republic of Korea
+KR Republic of Korea
+KZ
+Kazakhstan (EA)
+LA
+Lao People’s Demo-
+cratic Republic
+LC
+Saint Lucia
+LI
+Liechtenstein (EP)
+LK
+Sri Lanka
+LR
+Liberia (AP)4
+LS
+Lesotho (AP)
+LT
+Lithuania (EP)
+LU
+Luxembourg (EP)
+LV
+Latvia (EP)3
+LY
+Libya
+MA Morocco
+MC Monaco (EP)3
+MD Republic of
+Moldova5
+ME Montenegro2
+MG Madagascar
+MK The former Yugoslav
+Republic of
+Macedonia (EP)
+ML Mali (OA)3
+MN Mongolia
+MR Mauritania (OA)3
+MT Malta (EP)3
+MW Malawi (AP)
+MX Mexico
+MY Malaysia
+MZ Mozambique (AP)
+NA Namibia (AP)
+NE Niger (OA)3
+NG Nigeria
+NI
+Nicaragua
+NL
+Netherlands (EP)3
+NO Norway (EP)
+NZ New Zealand
+OM Oman
+PA
+Panama (from
+7 September 2012)
+PE Peru
+PG Papua New Guinea
+PH Philippines
+PL
+Poland (EP)
+PT
+Portugal (EP)
+QA Qatar
+RO Romania (EP)
+RS Serbia (EP)2,6
+RU Russian
+Federation (EA)
+RW Rwanda (AP)7
+SC Seychelles
+SD Sudan (AP)
+SE Sweden (EP)
+SG Singapore
+SI
+Slovenia (EP)3
+SK Slovakia (EP)
+SL
+Sierra Leone (AP)
+SM San Marino (EP)
+SN Senegal (OA)3
+ST
+Sao Tome and
+Principe
+SV El Salvador
+SY Syrian Arab Republic
+SZ
+Swaziland (AP)3
+TD Chad (OA)3
+TG Togo (OA)3
+TH Thailand
+TJ
+Tajikistan (EA)
+TM Turkmenistan (EA)
+TN Tunisia
+TR Turkey (EP)
+TT
+Trinidad and Tobago
+TZ
+United Republic of
+Tanzania (AP)
+UA Ukraine
+UG Uganda (AP)
+US United States of
+America
+UZ Uzbekistan
+VC Saint Vincent and
+the Grenadines
+VN Viet Nam
+ZA
+South Africa
+ZM Zambia (AP)
+ZW Zimbabwe (AP)

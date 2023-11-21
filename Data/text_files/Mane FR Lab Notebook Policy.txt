@@ -1,0 +1,466 @@
+ 
+Enregistrement des Travaux de R&D (Cahier 
+de Laboratoire et Identification des 
+Echantillons) 
+IN-DS-001/01 
+Date d’application : 
+12/05/2014 
+Approbateur : 
+ORSONI Franck 
+Page 1 sur 10 
+ 
+Anciennement : ITG-DS-001 
+Objet : Cette procédure a pour objet la présentation des consignes relatives à :  
+o la tenue des cahiers de laboratoire, pour une consignation formalisée des expériences et des analyses menées 
+dans les laboratoires de V. MANE FILS, 
+o l'attribution et la conservation des cahiers de laboratoire, 
+o l'identification des échantillons pour analyse et/ou évaluation. 
+Domaine d’application : Cette procédure concerne les Services de Recherche des sites de Bar-sur-Loup et de Quéven 
+représentés au sein soit du Comité Scientifique, soit du Comité d'Innovation. 
+Référence(s) Normative(s) : / 
+Table des matières : 
+I. 
+Cahier de laboratoire ...................................................................................................................................................... 2 
+1. 
+Rôle et objectifs .......................................................................................................................................................... 2 
+2. 
+Modèle et stockage .................................................................................................................................................... 2 
+3. 
+Attribution et numérotation ....................................................................................................................................... 2 
+4. 
+Propriété et confidentialité ........................................................................................................................................ 3 
+II. 
+Consignation des informations ....................................................................................................................................... 3 
+1. 
+Règles générales quant à la forme ............................................................................................................................. 3 
+2. 
+Règles générales quant au fond ................................................................................................................................. 5 
+3. 
+Dispositions à respecter pour l’attribution d’une date .............................................................................................. 5 
+a. 
+A la charge du rédacteur ......................................................................................................................................... 5 
+b. 
+A la charge du témoin ............................................................................................................................................. 6 
+III. 
+Certification ................................................................................................................................................................ 6 
+IV. 
+Archivage .................................................................................................................................................................... 7 
+V. 
+Numérotation des échantillons (pour Chimie et Biotechnologies) ................................................................................ 7 
+1. 
+Pour analyse ou évaluation au Bar-sur-Loup .............................................................................................................. 7 
+2. 
+Pour analyse à Quéven ............................................................................................................................................... 8 
+VI. 
+Consignes d’utilisation du cahier de laboratoire R&D ................................................................................................ 9 
+ 
+ 
+ 
+ 
+Enregistrement des Travaux de R&D (Cahier 
+de Laboratoire et Identification des 
+Echantillons) 
+IN-DS-001/01 
+Date d’application : 
+12/05/2014 
+Approbateur : 
+ORSONI Franck 
+Page 2 sur 10 
+ 
+I. Cahier de laboratoire 
+1. Rôle et objectifs 
+Les cahiers de laboratoire sont avant tout un outil de travail permettant à leurs détenteurs (chercheurs, ingénieurs, 
+techniciens, stagiaires… laboratoires, entreprises) de consigner leurs travaux. A cet égard, ils permettent notamment : 
+o de rendre compte du cheminement intellectuel et technique correspondant à chaque projet mené, 
+o de justifier la manière dont les résultats ont été obtenus et d’assurer la reproductibilité des expériences, 
+o d’assurer la transmission des informations aussi bien en interne que vers l’extérieur (rédaction de publications 
+scientifiques, préparation d’exposés, rédaction de demandes de brevet, transfert de technologie…). 
+Les cahiers de laboratoire permettent ainsi de capitaliser les connaissances et le savoir-faire des 
+chercheurs/laboratoires/entreprises. A ce titre, ils sont une composante essentielle du patrimoine de V. MANE FILS.  
+Par le formalisme et la rigueur prescrits pour leur tenue, les cahiers de laboratoire ont également vocation à faire office 
+d’outil probatoire lors d’éventuels litiges, contestations, revendications… A l’occasion, ils permettront : 
+o de certifier qu’à une date certaine, leurs détenteurs disposaient effectivement des informations qui y sont 
+reportées (résultats expérimentaux, observations et constatations scientifiques, hypothèses de travail…), 
+o de définir l’(les) auteur(s) d’une hypothèse de travail, d’une réflexion, d’un résultat expérimental… et ainsi, de 
+déterminer la propriété des droits sur les résultats d’un programme de recherche, sur le dépôt d’une demande 
+de brevet… 
+o d’estimer le degré de participation/contribution intellectuelle et matérielle d’un individu et/ou d’une entreprise 
+dans la conception d’une invention, dans l’engagement pris dans le cadre d’un partenariat. 
+2. Modèle et stockage 
+Le modèle de cahier est défini et est identique pour tout le personnel de V. MANE FILS. 
+Les cahiers neufs sont achetés par la Secrétaire Scientifique et stockés par la Documentation Scientifique au Bar-sur-
+Loup. 
+3. Attribution et numérotation 
+Chaque nouveau cahier devra être retiré à la Documentation Scientifique, où un numéro lui sera affecté. Le numéro du 
+cahier ainsi que le nom de la personne à qui il a été remis sont consignés dans un registre tenu conjointement par la 
+Secrétaire Scientifique et la Documentation Scientifique. 
+Note 1 : Les sites de Quéven et Noisiel expriment à la Secrétaire Scientifique leurs besoins de façon centralisée afin 
+d’éviter des expéditions unitaires. 
+Ce numéro est constitué de trois chiffres correspondant au numéro d’ordre d’ouverture des cahiers de laboratoire, 
+suivis d’une barre de séparation et de deux chiffres correspondant à l’année de mise en circulation (ex : 002/08). 
+Ce numéro est porté sur la tranche du cahier et à l’intérieur du cahier, sur la première page ainsi que sur toutes les 
+pages sur lesquelles débutent un nouveau programme, un nouvel essai… 
+Sur la première page seront mentionnés : 
+ 
+Enregistrement des Travaux de R&D (Cahier 
+de Laboratoire et Identification des 
+Echantillons) 
+IN-DS-001/01 
+Date d’application : 
+12/05/2014 
+Approbateur : 
+ORSONI Franck 
+Page 3 sur 10 
+ 
+o le numéro de cahier, 
+o la date de sa mise en circulation,  
+o le nom de l’employé auquel le cahier été attribué (chercheur, ingénieur, technicien), 
+o le service et le nom du responsable hiérarchique, 
+o le nom de V. MANE FILS et ses coordonnées (adresse, n° tél. et fax). 
+Note 2 : Un cahier de laboratoire peut être attribué à toute une équipe, tout un service. Le cas échéant, lors de 
+l'ouverture de ce cahier, un responsable est désigné. La première page est remplie avec les informations qui lui 
+correspondent. Chaque rédacteur doit s’identifier sur la page 6. 
+Les consignes d’utilisation du cahier (voir en fin de procédure), collées en pages 2 et 3, doivent être connues de chaque 
+rédacteur. Par sa signature, chaque rédacteur atteste avoir pris connaissance de ces consignes ainsi que de la présente 
+IN-DS-001, et s'engage à se conformer aux règles et principes définis. 
+Lors de la mise en service du cahier, le rédacteur principal, à qui le cahier a été remis, date et signe les présentes 
+consignes, dans la case qui lui est consacrée. Les autres rédacteurs éventuels datent et signent à cheval sur les consignes 
+et la page support.  
+4. Propriété et confidentialité 
+Les cahiers de laboratoire et leur contenu demeurent, en toutes circonstances, la propriété exclusive de V. MANE FILS. 
+Ils sont soumis à une obligation de confidentialité et ne doivent pas être communiqués à un tiers sans autorisation 
+expresse d’un représentant habilité de V. MANE FILS. 
+Jusqu’à leur restitution à l’Ingénieur Brevet pour archivage, la conservation des cahiers de laboratoire reste à la charge 
+de leurs détenteurs et/ou du laboratoire concerné.  
+En cas de cessation de sa fonction au sein de V. MANE FILS, le détenteur devra remettre chacun de ses cahiers de 
+laboratoire à son superviseur à qui incombera la charge de l’archivage. 
+II. Consignation des informations 
+De manière générale, le rédacteur du cahier de laboratoire y enregistre au fur et à mesure ses travaux (hypothèses de 
+travail, méthodes et moyens utilisés, résultats obtenus, conclusions tirées…), de façon suffisamment complète, claire et 
+précise pour permettre à une personne, de compétence au moins équivalente à la sienne, de reproduire les travaux 
+consignés et d’obtenir des résultats au moins similaires. 
+1. Règles générales quant à la forme 
+o La langue du cahier de laboratoire est le français, éventuellement l’anglais. 
+o Les informations sont consignées directement dans le cahier de laboratoire, datées (jour-mois-année) et, si 
+possible, référencées avec le numéro de projet et/ou une référence interne propre au manipulateur.  
+o La consignation d’informations manuscrites se fait directement et uniquement sur les lignes imprimées des 
+pages du cahier, en respectant la pleine largeur des pages. 
+L’insertion d’informations (notamment une précision, une correction) dans un recoin de page laissé libre n’est pas 
+autorisée. 
+ 
+Enregistrement des Travaux de R&D (Cahier 
+de Laboratoire et Identification des 
+Echantillons) 
+IN-DS-001/01 
+Date d’application : 
+12/05/2014 
+Approbateur : 
+ORSONI Franck 
+Page 4 sur 10 
+ 
+Note 3 : Si la nécessité d’une telle insertion ultérieure se présente, il conviendra d’utiliser les lignes entières encore 
+inutilisées de la page, et de pointer les passages concernés. 
+Si sur cette page, aucune ligne n’est disponible, on utilisera la case « Amendements / Amendments » qui renverra à une 
+page subséquente sur laquelle sera rédigée l’information à intégrer. 
+Une flèche, un astérisque… peuvent être utilisés pour repérer les parties concernées par la précision ou la correction à 
+apporter. 
+o La consignation d’informations peut également se faire au moyen de pièces rapportées, intégrées par collage 
+dans le cahier (par exemple, comptes-rendus dactylographiés, schémas, diagrammes, données en sortie 
+d’appareillages d’analyse, photos, publications scientifiques…). On prendra soin de coller les pièces rapportées, 
+à même les pages du cahier et le long de la marge de gauche. 
+Deux pièces rapportées successives doivent être collées l’une en dessous de l’autre (ou sur deux pages successives) et 
+non côte à côte. 
+Chaque pièce rapportée doit être visée aussi bien par le rédacteur que par le témoin (chacun date et appose sa 
+signature, à cheval sur la pièce collée et sur la page support).  
+Les annotations manuscrites (autres que les dates et visas du rédacteur et du témoin) réalisées sur les pièces rapportées 
+ne sont pas autorisées. Comme toute écriture manuscrite, elles doivent être réalisées directement sur les lignes 
+imprimées des pages du cahier.  
+Note 4 : Dans le cas d’une réelle nécessité à annoter une pièce rapportée (par exemple, pour des raisons de clarté), la 
+pièce « originale » doit être annotée puis photocopiée ; la photocopie correspondante est ensuite collée dans le cahier. 
+Note 5 : Les données brutes et sorties d’appareillage dont il est fait mention ne doivent pas nécessairement être 
+intégrées dans le cahier de laboratoire. Par exemple, en cas de volume trop important, le rédacteur s’assurera qu’elles 
+sont conservées soigneusement avec leurs référencements pour pouvoir compléter le contenu du cahier de laboratoire si 
+nécessaire. 
+Note 6 : Plutôt que l’original d’un matériel expérimental, une photographie ou une reproduction numérisée doit être 
+utilisée, notamment dans le cas d’un gel, d’une membrane ou autoradiographie ou ticket thermosensible. 
+o Les espaces vides significatifs, entre deux consignations d’informations (par exemple, successions de lignes 
+vierges, sauts de page, pages laissées blanches) ou à droite d’une pièce rapportée, doivent être barrés au 
+moyen d’un « Z » (préférablement tracé à la règle) afin que rien ne puisse y être écrit ou collé a posteriori. 
+o La rédaction manuscrite se fait uniquement avec une encre indélébile.  
+Il n’y a pas de restriction sur le choix des couleurs d’encre à utiliser, dès lors que les informations consignées restent 
+parfaitement lisibles et compréhensibles en totalité, après une reproduction en noir et blanc, réalisée au moyen d’une 
+photocopieuse standard.  
+Toute codification d’informations au moyen de couleurs spécifiques est à proscrire. Si pour la réalisation de 
+diagrammes, de schémas, d’illustrations… l’emploi de couleurs ne peut être évité, le choix des couleurs et/ou des 
+textures doit être fait avec lucidité et discernement eu égard à une éventuelle nécessité de reproduction ultérieure en 
+noir et blanc, réalisée au moyen d’une photocopieuse standard.  
+ 
+Enregistrement des Travaux de R&D (Cahier 
+de Laboratoire et Identification des 
+Echantillons) 
+IN-DS-001/01 
+Date d’application : 
+12/05/2014 
+Approbateur : 
+ORSONI Franck 
+Page 5 sur 10 
+ 
+o L’utilisation de crayon de papier, d’effaceur, de blanc correcteur n’est pas autorisée. Les textes et mentions 
+barrés doivent rester lisibles (toute rature doit être visée et datée, aussi bien par le rédacteur que par le 
+témoin). 
+o Pour toute nouvelle page entamée, il convient de réinscrire le n° du cahier, le nom du projet et la page à la suite 
+de laquelle s’inscrit la continuité du travail rapporté (sauf s’il s’agit de la précédente). 
+o La suppression de toute page du cahier de laboratoire est strictement interdite, sous peine de nullité de 
+l’intégralité du cahier. 
+2. Règles générales quant au fond 
+o Chaque essai, test, analyse, ayant trait aux travaux, qu’il soit positif ou négatif, doit faire l’objet d’un compte-
+rendu consigné dans le cahier de laboratoire. Autant que faire se peut, on prendra soin de faire apparaître, de 
+façon claire et précise, notamment les éléments suivants : 
+• 
+le contexte dans lequel les travaux ont été effectués, les objectifs fixés et/ou le problème à résoudre, les 
+hypothèses de travail… 
+• 
+les conditions expérimentales utilisées (protocoles, paramètres particuliers et matériel utilisé…), 
+• 
+les résultats obtenus, leur interprétation éventuelle, ainsi que toute idée, réflexion ou commentaire s’y 
+rapportant, 
+Note 7 : Si un protocole a déjà été décrit précédemment, dans ce même cahier ou dans un autre, il est possible de ne pas 
+le réécrire mais de s’y référer en indiquant précisément le numéro du cahier de laboratoire, le nom du rédacteur et les 
+pages concernées. N’oubliez pas de mentionner les éventuelles modifications, adaptations effectuées). De même, il est 
+possible de faire référence à une publication ou à un ouvrage en l’identifiant sans ambiguïté.  
+o Les abréviations utilisées, lorsqu’elles ne sont pas consacrées par le domaine scientifique concerné, doivent être 
+définies lors de leur première utilisation. Abréviations et définitions sont également à reporter dans les pages 7 
+à 9 du cahier. 
+Note 8 : Il est possible de créer un cahier de laboratoire, auquel il pourra être fait référence, ce cahier regroupant la 
+signification des codes utilisés, par exemple pour les noms de code des molécules chimiques, des ingrédients ou des 
+milieux de culture. 
+3. Dispositions à respecter pour l’attribution d’une date 
+a. A la charge du rédacteur 
+o Chaque consignation doit être datée. 
+o Chaque page du cahier de laboratoire, dès qu’elle est terminée, doit être datée et signée par le rédacteur, dans 
+la case prévue à cet effet. 
+o Toute rature et toute pièce rapportée, dès qu’elles apparaissent dans le cahier de laboratoire, doivent être 
+datées et signées par le rédacteur. 
+o Afin de faire attester la réalité de l’enregistrement, le rédacteur devra faire signer par un témoin, chacune des 
+pages de son cahier de laboratoire, dans un délai maximum de 4 semaines après la rédaction de chacune de ces 
+pages. 
+Note 9 : Le choix du témoin n’est pas anodin. Le témoin ne doit pas avoir la qualité de co-auteur des informations 
+consignées ni pouvoir être considéré comme co-inventeur d’une invention découlant pour tout ou pour partie desdites 
+ 
+Enregistrement des Travaux de R&D (Cahier 
+de Laboratoire et Identification des 
+Echantillons) 
+IN-DS-001/01 
+Date d’application : 
+12/05/2014 
+Approbateur : 
+ORSONI Franck 
+Page 6 sur 10 
+ 
+informations. A cet égard, le témoin ne doit pas collaborer sur les mêmes projets que le rédacteur. De préférence, il sera 
+choisi dans une autre équipe, un autre service.  
+o Aucune nouvelle mention ou intégration de données ne peut être faite sur une page déjà signée par un témoin. 
+Aucune insertion d’informations (notamment une précision, une correction) dans un recoin de page laissé libre n’est 
+autorisée (même si cette page n’a pas encore été visée par le témoin - cf. Note 2). 
+Si de telles erreurs sont constatées, les informations indûment consignées devront être reportées sur des lignes ou sur 
+une page subséquentes (si nécessaire, la case « Amendements / Amendments » sera utilisée). Il conviendra également 
+de mentionner la date à laquelle l’erreur a été constatée (et corrigée) et la date à laquelle elle a été commise.  
+b. A la charge du témoin 
+o Le rôle du témoin est de vérifier que le processus qualité en matière de rédaction et de tenue du cahier de 
+laboratoire a bien été respecté par le(s) rédacteur(s) des pages qu’il a visées, en datant et en y apposant sa 
+signature. 
+Par sa signature, le témoin n’entend pas manifester son consentement à un contenu technique qu’il n’a pas forcément 
+compétence à valider (cette mission appartenant au « superviseur » éventuel du rédacteur). Le témoin ne pourra donc 
+être tenu responsable ni des erreurs ni des inexactitudes qui pourraient être ultérieurement constatées dans les 
+données et informations techniques consignées.  
+Le témoin doit toutefois lire avec attention les pages qu’il vise afin de vérifier que les informations qui y sont consignées 
+sont compréhensibles au moins du point de vue de la syntaxe. Par la mention « lu et compris », le témoin atteste avoir 
+rempli sa mission et appose son visa dans la case « Témoin » qui lui est réservée. 
+En cas de compréhension jugée insuffisante ou d’erreurs constatées dans la tenue du cahier de laboratoire, le témoin en 
+informe le rédacteur. Il signera la page, une fois que la rectification/précision attendue aura été apportée par le 
+rédacteur (ou par son superviseur). 
+o Le témoin ne peut viser que les pages remplies dans leur totalité (avec éventuellement un ou plusieurs « Z » 
+tracés pour marquer les espaces laissés vides). 
+o Le témoin vise également les pièces rapportées qui sont collées dans le cahier de laboratoire. La date et sa 
+signature doivent être apposées à cheval sur la pièce rapportée et sur la page support. 
+o Le témoin vise également toutes les ratures faites par le rédacteur. 
+III. Certification 
+o Le détenteur d’un cahier de laboratoire doit faire certifier celui-ci par huissier, et ce, deux fois par an à 
+l’occasion de sessions de certification organisées en mai et en novembre. 
+o Les cahiers de laboratoire en cours et terminés devront être déposés auprès de l’Ingénieur Brevet dans les jours 
+précédents la certification. Auparavant, le détenteur d’un cahier de laboratoire devra s’être assuré de la bonne 
+consignation des informations dans ledit cahier, et devra notamment barrer tout espace vide significatif d’un 
+« Z ». 
+o Lors de cette certification, chaque cahier de laboratoire est inspecté sur la forme par l’huissier qui, au terme de 
+son inspection, appose la date, sa signature ainsi que son cachet. 
+o A l’issue de chaque certification, les cahiers devront être récupérés auprès de l’Ingénieur Brevet, idéalement le 
+jour même de la certification. 
+ 
+Enregistrement des Travaux de R&D (Cahier 
+de Laboratoire et Identification des 
+Echantillons) 
+IN-DS-001/01 
+Date d’application : 
+12/05/2014 
+Approbateur : 
+ORSONI Franck 
+Page 7 sur 10 
+ 
+IV. Archivage 
+o Le détenteur d’un cahier de laboratoire en est responsable jusqu’à son archivage. Il doit veiller à ce que son/ses 
+cahier(s) de laboratoire soi(en)t détenu(s) dans des conditions de sécurité suffisantes pour prévenir toute perte, 
+vol ou dégradation. Si l’un de ces événements devait survenir, il devrait immédiatement en avertir son 
+responsable hiérarchique et établir un rapport décrivant les circonstances dans lesquelles le préjudice a été 
+constaté. 
+ 
+o La table des matières (index du cahier, pages 10 à 16) doit être impérativement complétée avant archivage, puis 
+une copie doit en être transmise à la Secrétaire Scientifique qui l’archivera (disposition applicable pour les sites 
+du Bar-sur-Loup, Noisiel et Quéven). 
+ 
+o Au Bar-sur-Loup, une fois le cahier terminé et certifié par huissier, ledit cahier est conservé par son détenteur 
+pour une durée « tampon » d’environ 6 mois (pré-archivage). Cette durée de 6 mois correspond à la période 
+s’étalant entre 2 certifications des cahiers de laboratoire par huissier,  
+ 
+o Une fois le délai « tampon » expiré, c'est-à-dire à l’occasion de la certification par huissier suivante, les cahiers 
+de laboratoire pré-archivés accompagnés du formulaire d’archivage complété par son détenteur, sont confiés 
+pour archivage à l’Ingénieur Brevet. Les cahiers de laboratoire seront ainsi archivés dans un lieu sécurisé (local à 
+proximité du poste de garde) pour une durée illimitée. La consultation est également possible sur demande 
+auprès du Service Reprographie.  
+ 
+o Pour les sites de Quéven et Noisiel, la procédure est identique à l’exception du fait que les cahiers de 
+laboratoire sont conservés dans un coffre-fort dont la clé est détenue par le responsable R&D. 
+V. Numérotation des échantillons (pour Chimie et Biotechnologies) 
+1. Pour analyse ou évaluation au Bar-sur-Loup 
+Tous les échantillons qui sont transmis soit au LCA pour enregistrement d'analyses soit au CRDA et/ou CRP pour 
+évaluation devront être accompagnés par une fiche de suivi (FO-DS-004 ou FO-DS-006 ou FO-DS-007) et identifiés par le 
+numéro de projet et le numéro de molécule attribué, la référence de l’essai (n° de cahier/initiales/page) et la date (cf. ci-
+dessous).  
+Si plusieurs échantillons sont isolés au cours du même essai, ils seront identifiés avec une lettre et renseignés dans le 
+cahier de laboratoire. Ces échantillons seront enregistrés au Secrétariat de la Direction Scientifique avant transmission. 
+ 
+Enregistrement des Travaux de R&D (Cahier 
+de Laboratoire et Identification des 
+Echantillons) 
+IN-DS-001/01 
+Date d’application : 
+12/05/2014 
+Approbateur : 
+ORSONI Franck 
+Page 8 sur 10 
+ 
+01010/07
+125/01  MHS  085
+n° de cahier labo
+n° de page cahier labo
+initiales du manipulateur
+n° de molécule
+n° de projet
+ 
+ 
+o Les échantillons conservés au laboratoire seront identifiés de la même manière que ci-dessus. 
+2. Pour analyse à Quéven 
+Tous les échantillons qui seront transmis au SCQS pour analyses, seront accompagnés des fiches de demandes 
+d’analyses (IN-CQS-092). L’identification de l’échantillon suivra cette numérotation. L’émetteur remplira sa partie. 
+ 
+ 
+ 
+Enregistrement des Travaux de R&D (Cahier 
+de Laboratoire et Identification des 
+Echantillons) 
+IN-DS-001/01 
+Date d’application : 
+12/05/2014 
+Approbateur : 
+ORSONI Franck 
+Page 9 sur 10 
+ 
+VI. Consignes d’utilisation du cahier de laboratoire R&D 
+Les cahiers de laboratoire sont un moyen de capitaliser les connaissances et le savoir-faire des chercheurs/laboratoires/entreprises. 
+Ils permettent de rendre compte du cheminement intellectuel et technique de chaque projet, de justifier la manière dont les 
+résultats ont été obtenus, d’assurer la reproductibilité des expériences et la transmission des informations.  
+A l’occasion d’éventuels litiges, contestations, revendications… ils permettront de certifier qu’à une date certaine, leurs détenteurs 
+disposaient effectivement des informations qui y sont reportées, de déterminer la propriété des droits sur les résultats d’un 
+programme de recherche, d’estimer le degré de participation/contribution intellectuelle et matérielle d’un individu et/ou d’une 
+entreprise dans la conception d’une invention. 
+La tenue des cahiers de laboratoire requiert ainsi un certain formalisme et une rigueur particulière. 
+A cet égard, à la mise en service du cahier, le détenteur (rédacteur principal ou responsable désigné, dans le cas d'un cahier 
+commun) complète la première page et s'identifie à la page 6. Il colle sur les pages 2 et 3 les deux présentes feuilles de consignes, 
+qu'il date et signe dans la case qui lui est consacrée. Par la suite, chaque autre rédacteur éventuel de ce cahier s'identifie en page 6, 
+date et signe les présentes consignes (à cheval sur les consignes et sur la page support). Par sa signature, chaque rédacteur atteste 
+avoir pris connaissance de ces consignes ainsi que de l’ITG-DS-001/07, et s'engage à se conformer aux règles et principes définis et 
+ci-après résumés. 
+oOo 
+1) Consignez au fur et à mesure dans le cahier, vos travaux et les résultats obtenus, ainsi que les éventuels 
+commentaires/interprétations s’y rapportant. La date de rédaction (jour, mois, année) doit être clairement mentionnée.  
+2) Rédigez vos comptes-rendus en français ou en anglais, de façon suffisamment complète, claire et précise pour permettre à une 
+personne, de compétence au moins équivalente à la vôtre, de reproduire vos travaux. Détaillez les conditions opératoires 
+(protocoles, matériel utilisé…). Si possible, relatez aussi le contexte dans lequel les travaux ont été effectués, en mentionnant les 
+objectifs fixés, le problème à résoudre, les hypothèses de travail… 
+Étayez la rédaction avec tout élément (schéma, diagramme, tableau de données, image… rapport d’activité ou de suivi de vos 
+projets…) que vous jugez pertinent pour la compréhension. 
+Si un protocole a déjà été décrit précédemment, dans ce même cahier de laboratoire ou dans un autre, pour ne pas avoir à le 
+réécrire, vous pouvez vous y référer en indiquant le numéro du cahier, le nom du rédacteur et les pages concernées. N’oubliez pas 
+de préciser les éventuelles modifications, adaptations apportées. Vous pouvez aussi faire référence à une publication ou à un 
+ouvrage en l’identifiant sans ambiguïté. 
+Définissez, lors de leur première utilisation dans le cahier de laboratoire, chaque abréviation ou terme non usuel. Reportez, en 
+pages 7 et 8, les abréviations et leur signification. Si des codes internes sont utilisés, il convient également de les expliciter.  
+3) Si vous rédigez vos comptes-rendus de façon manuscrite, écrivez uniquement sur les lignes imprimées, en respectant la pleine 
+largeur des pages.  
+Écrivez avec une encre indélébile. Choisissez toujours une couleur d’encre autorisant une reproduction en noir et blanc, réalisée 
+avec une photocopieuse standard. L’utilisation de crayon de papier, d’effaceur, de blanc correcteur n’est pas autorisée.  
+Les informations peuvent également être consignées au moyen de pièces rapportées (comptes-rendus dactylographiés, schémas, 
+diagrammes, photos, photocopies…). Auquel cas, collez-les (éventuellement pliées) à même les pages du cahier et le long de la 
+marge de gauche. Deux pièces rapportées successives doivent être collées l’une en dessous de l’autre (ou sur deux pages 
+successives) et non côte à côte. Datez et visez chaque pièce rapportée dès leur intégration dans le cahier (date et signature, à cheval 
+sur ladite pièce et sur la page support). 
+ 
+Enregistrement des Travaux de R&D (Cahier 
+de Laboratoire et Identification des 
+Echantillons) 
+IN-DS-001/01 
+Date d’application : 
+12/05/2014 
+Approbateur : 
+ORSONI Franck 
+Page 10 sur 10 
+ 
+Les données brutes et sorties d’appareillage ne doivent pas systématiquement être intégrées directement dans le cahier de 
+laboratoire. Plutôt que l’original d’un matériel expérimental, une photographie ou une reproduction numérisée peut être utilisée, 
+surtout dans le cas d’un gel, d’une membrane ou autoradiographie ou ticket thermosensible. 
+4) Barrez au moyen d’un « Z », préférablement tracé à la règle, tout espace vide significatif laissé entre deux zones d’informations, 
+ou laissé à droite d’une pièce rapportée.  
+5) L’insertion d’informations (par exemple, dans le cas d’une précision ou d’une correction à apporter) dans un recoin de page n’est 
+pas autorisée. 
+N’écrivez rien sur les pièces rapportées (vous ne devez écrire que directement sur les lignes imprimées des pages du cahier). 
+Préférez coller dans votre cahier une photocopie du document que vous aurez préalablement annoté.  
+Les textes et mentions barrés doivent rester lisibles. Datez et visez chaque rature dès leur apparition dans le cahier. 
+6) Chaque page du cahier, dès qu’elle est terminée, doit être datée et signée par le rédacteur, dans la case prévue à cet effet. 
+Pour toute nouvelle page entamée, il convient de réinscrire le n° du cahier, le nom du projet et la page à la suite de laquelle s’inscrit 
+la continuité du travail rapporté (sauf s’il s’agit de la précédente). 
+7) La suppression de toute page du cahier de laboratoire est strictement interdite. 
+8) Faites viser par un témoin chacune des pages de votre cahier, dans un délai maximum de 4 semaines après la rédaction de 
+chacune d’elles. Aucune nouvelle mention ou intégration de données ne peut être faite sur une page déjà visée par un témoin. 
+Choisissez un témoin qui ne travaille pas sur les mêmes sujets que vous. Préférez un témoin appartenant à une autre équipe, un 
+autre service. Lors de la première intervention sur le cahier, chaque témoin doit s’identifier à la page 6 (nom, prénom, paraphe, 
+signature). 
+Le rôle du témoin est de vérifier que le processus qualité en matière de rédaction et de tenue du cahier de laboratoire a bien été 
+respecté, et que les informations consignées sont compréhensibles au moins du point de vue de la syntaxe. Il visera également 
+chacune des pièces rapportées collées dans le cahier (la date et sa signature devront être apposées à cheval sur la pièce rapportée 
+et sur la page support) et toutes les ratures constatées. 
+Par la mention « lu et compris », il attestera avoir rempli sa mission et apposera son visa dans la case « Témoin » qui lui est 
+consacrée. Ce faisant, il n’entend pas manifester son consentement à un contenu technique qu’il n’a pas forcément compétence à 
+valider, et ne sera pas inquiété en cas de constatation ultérieure d’erreurs ou inexactitudes dans les données et informations 
+techniques consignées. 
+9) Les cahiers de laboratoire et leur contenu sont la propriété exclusive de V. MANE FILS et doivent être traités comme 
+confidentiels. Vous ne devez en aucun cas le communiquer à un tiers ou en divulguer la teneur sans l’autorisation expresse d’un 
+représentant habilité de V. MANE FILS. 
+10) Vous êtes entièrement responsable de votre cahier jusqu’à son archivage. Veillez à ce qu’il soit détenu dans des conditions de 
+sécurité suffisante pour prévenir toute perte, vol ou dégradation. Si l’un de ces événements devait survenir, avertissez 
+immédiatement votre responsable hiérarchique et remettez lui un rapport décrivant les circonstances dans lesquelles le préjudice a 
+été constaté. Vous pouvez conserver votre cahier aussi longtemps que vous y trouverez une utilité sérieuse à le faire, pour vous-
+même et/ou pour votre équipe. Une fois cette conservation jugée inutile, envoyez votre cahier à l’archivage. 
+11) En cas de cessation de vos fonctions au sein de V. MANE FILS, remettez votre cahier à votre supérieur hiérarchique ou à la 
+Direction Scientifique à qui appartiendra la décision de l’archivage. 
+Consignes lues et comprises par : 
+Date : 
+Signature : 

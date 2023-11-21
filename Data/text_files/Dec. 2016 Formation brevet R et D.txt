@@ -1,0 +1,462 @@
+PATENTABILITY AND 
+FREEDOM TO OPERATE 
+STUDIES
+Page
+2
+CONTENT
+01. REMINDERS
+02. PATENTABILITY STUDY
+03. FREEDOM TO OPERATE 
+STUDY 
+Legal and IP Department | Confidential
+08.12.2016
+Page
+3
+Legal and IP Department | Confidential
+1
+REMINDERS
+08.12.2016
+Page
+4
+Legal and IP Department | Confidential
+REMINDERS
+08.12.2016
+A. Overview of industrial property
+Legal right
+What for?
+How?
+Copyright
+Original creative or 
+artistic forms
+Trade marks
+Distinctive identification 
+of  products or services
+Use and/or
+registration
+Registered 
+designs
+Registration*
+Patents
+New inventions
+Application and 
+examination
+Exists 
+automatically
+Trade secrets
+External appearance
+Valuable information 
+not known to the public
+Reasonable efforts 
+to keep secret
+Page
+5
+Legal and IP Department | Confidential
+B. Rights conferred by a patent
+� Prevent others from making, using, offering for sale, selling or importing
+infringing products in the country where the patent was granted.
+LIMITED MONOPOLY
+� The patent does not grant the right to use the invention!
+� For up to 20 years from the date of filing of the patent application.
+� Right to assign or transfer ownership of a patent and to conclude licensing
+contracts.
+� Presumption of validity of a granted patent until it is challenged in a court.
+REMINDERS
+08.12.2016
+PATENT = RIGHT TO FORBID, NOT TO EXPLOIT
+Page
+6
+Legal and IP Department | Confidential
+C.What is an invention or not?
+� The following subject-matter can be considered as an invention:
+- a product, e.g. a composition, a chemical formula, a device etc;
+- a process, e.g. process of manufacturing something, the use of a specific composition or
+device, a method for increasing sweetness etc;
+- provided that it is new, involves an inventive step and is susceptible of industrial
+application;
+- in "all fields of technology”.
+An invention is a technical solution to a technical problem.
+� Are not considered as inventions as such:
+� discoveries, scientific theories and mathematical methods ;
+� aesthetic creations;
+� schemes, rules and methods for performing mental acts, playing games or doing
+business, and programs for computers;
+� presentations of information.
+REMINDERS
+08.12.2016
+Page
+7
+Legal and IP Department | Confidential
+1
+CHAPTER TITLE
+2
+PATENTABILITY 
+STUDY
+08.12.2016
+Page
+8
+Legal and IP Department | Confidential
+A. PATENTABILITY STUDY
+� Why assessing the patentability of an “innovation”?
+� To check if said “innovation” is patentable.
+� 2 points need to be studied:
+- a) is said innovation a real “invention” ? This means that we need
+to check if the innovation of interest is something that can be considered as
+an invention or not (meaning excluded from the scope of patentability).
+- b) is said innovation patentable, i.e. answers to the patentability
+requirements ?
+PATENTABILITY STUDY
+08.12.2016
+Patentability study request form that you can
+find on our Legal and IP Sharepoint
+http://mosscorp.emea.sesam.mane.com/LegalIP/IP/Patents%20studies/Forms/AllItems.aspx
+Page
+9
+Legal and IP Department | Confidential
+PATENTABILITY STUDY
+08.12.2016
+Page
+10
+Legal and IP Department | Confidential
+B.Studying the patentability of an invention
+� Studying the patentability of an invention means checking in 3 steps that the 3
+conditions of patentability are respected:
+� Step 1: Novelty / anticipation (US terminology);
+� Step 2: Inventive step / non-obviousness;
+� Step 3: Industrial application / utility
+� In order to do so, it is necessary to have:
+� a complete and detailed description of the invention, and;
+� the relevant prior art
+PATENTABILITY STUDY
+08.12.2016
+Page
+11
+Legal and IP Department | Confidential
+C.Detailed description of the invention
+� In order to do so, it is necessary to have:
+� Please describe as detailed as possible the invention:
+-
+its intrinsic characteristics;
+-
+the technical effects of the invention. For example, for a new captive, its olfactive
+description; for a new device, its utilization; for a process, its advantages in terms of yield
+or implementation; for a composition comprising a specific compound, its particular effect
+etc.;
+-
+its advantages compared with the existing prior art;
+-
+the aimed applications or uses of the invention;
+-
+add drawings if necessary;
+-
+for a composition, please indicate each components, their nature and their level of
+use (or a range of use). Please indicate also their use/action in said composition.
+o
+Feel free to add any other important information according to you
+PATENTABILITY STUDY
+08.12.2016
+This is
+your job!
+Page
+12
+Legal and IP Department | Confidential
+D.Known prior art (1/2)
+� In order to do so, it is necessary to have:
+� Please indicate the references of any type of relevant prior art document.
+� These searches allow you to check roughly if your invention does not exist already.
+� Also, these searches will allow you to have an idea of the technical environment
+around said invention.
+� You can perform any kind of prior art search using keywords related to your
+invention (patent database, patent offices websites, Google, books, publications…).
+PATENTABILITY STUDY
+08.12.2016
+Page
+13
+Legal and IP Department | Confidential
+D.Known prior art (2/2)
+� In order to do so, it is necessary to have:
+� By prior art or “state of the art”, we mean everything made available to the public
+(written or oral description, by use, or in any other way) before the filing date of
+the patent application:
+� “Public”, means that a disclosure to only one person is novelty destroying (when there is no
+confidentiality agreement);
+� “Made available”, means that the public must have the capacity to understand the
+information, or the product, or when the analysis of the invention allows a specialist to identify
+its essential characteristics.
+� For a prior art disclosure:
+- there is no limitation in time and space;
+- there is no limitation concerning the way the disclosure has occurred;
+PATENTABILITY STUDY
+08.12.2016
+Page
+14
+Legal and IP Department | Confidential
+E. Assessing the patentability of an invention (1/5)
+� Step 1: studying novelty of an invention (1/2)
+� The purpose of the novelty requirement is to prevent the prior art from being patented again.
+� In Europe and in the main countries, an invention must be new at the date of filing a
+patent application (absolute novelty). An invention shall be considered as "novel" if it
+does not form part of the "state of the art“.
+� To this end, it is thus necessary to have a complete and detailed description of the
+invention of interest and an as possible complete state of the art.
+-
+Additional prior art searches are asked to our Documentalist, using additional specific
+keywords. Indeed, often, new relevant documents are identified.
+PATENTABILITY STUDY
+08.12.2016
+This is
+my job!
+Page
+15
+Legal and IP Department | Confidential
+E. Assessing the patentability of an invention (2/5)
+� Step 1: studying novelty of an invention (2/2)
+� Each element of the invention, each technical effect identified previously by the inventor(s)
+is compared to the disclosure of the prior art document.
+� If the invention taken as a whole is not found in one and unique disclosure, clearly and
+explicitly, thus said invention is novel.
+� In order to be novelty destroying, a prior art disclosure must be:
+- complete, meaning that all the elements of an invention must be found completely in said prior art
+disclosure;
+- sufficient, meaning that said disclosure should allow the man skilled in the art reproducing the
+invention;
+- certain and sure, regarding its content, its date, its existence;
+- taken as such, meaning that the disclosure must not be implicit.
+� If the invention is novel (and only if it is the case) it is possible to go to step 2, i.e. studying
+the inventiveness of said invention.
+PATENTABILITY STUDY
+08.12.2016
+Page
+16
+Legal and IP Department | Confidential
+E. Assessing the patentability of an invention (3/5)
+� Step 2: studying the inventiveness of an invention (1/2)
+� The purpose of the inventiveness (or obviousness) requirement is to be sure that with
+respect to the prior art, an invention would not be obvious for a person skilled in the art.
+� The final purpose of this requirement is to prevent rewarding a third party with an exclusive
+right (a patent) for a straightforward modification of the existing prior art.
+� Any novel invention must be inventive, i.e. it must:
+� Bring a solution to a technical problem
+� Not be obvious for the man skilled in the art
+� For any invention, and thus for any technical domain, there is a specific man or person
+skilled in the art.
+PATENTABILITY STUDY
+08.12.2016
+Page
+17
+Legal and IP Department | Confidential
+E. Assessing the patentability of an invention (4/5)
+� Step 2: studying the inventiveness of an invention (2/2)
+� For assessing the inventiveness of an invention, each technical effects (as provided
+previously by the inventor(s)) is evaluated in view of the closest prior art document.
+� A specific approach, which is different depending on the country, is followed. For example, in
+Europe, the approach is called “problem-solution approach” and consists mainly in:
+-
+Identifying the closest prior art;
+-
+Determining the objective technical problem to be solved by the invention, and;
+-
+Examining whether or not the claimed solution to said objective technical problem is
+obvious for the person skilled in the art.
+� If the person skilled in the art would have been prompted to modify the closest prior art in
+such a way as to arrive at something falling within the terms of the claims, then the invention
+does not involve an inventive step.
+� Finally, if the invention is novel and inventive, utility (step 3) can be evaluated.
+PATENTABILITY STUDY
+08.12.2016
+Page
+18
+Legal and IP Department | Confidential
+E. Assessing the patentability of an invention (5/5)
+� Step 3: studying the utility of an invention
+� An invention must be capable of industrial application (utility), i.e., it is must be made or
+used in any type of industry.
+- This condition avoid patenting theories.
+- Most of the time, there is no utility issue in our technical domain.
+PATENTABILITY STUDY
+08.12.2016
+Page
+19
+Legal and IP Department | Confidential
+F. Results of the patentability study
+� After assessing the novelty, inventiveness and utility of an invention, it is possible
+to conclude that:
+� The invention is novel and inventive. In this case, a patent application can be filed (before
+or after having reviewed our freedom to operate) and could be considered, a priori, as
+“strong”.
+� The invention is novel, but not inventive. In this case, the advice is not to patent. Indeed,
+the inventive step (or obviousness) bar is quite high in Europe, in the U.S., or in Japan, and
+the risk is to disclose our innovation for “nothing”.
+� MANE patents strategy is to file only “strong” (a priori) patent applications for
+protecting inventions that will be commercialized.
+PATENTABILITY STUDY
+08.12.2016
+Page
+20
+Legal and IP Department | Confidential
+1
+CHAPTER TITLE
+3
+FREEDOM TO 
+OPERATE STUDY
+08.12.2016
+Page
+21
+Legal and IP Department | Confidential
+FREEDOM TO OPERATE STUDY
+08.12.2016
+A.FREEDOM TO OPERATE STUDY
+� Why assessing our freedom to operate (FTO) for an invention/project ?
+� To check if a product, process, device, or use is not within the scope of
+a third party patent or application, i.e. if we are not infringing any patent
+or application.
+� What is particularly studied is the claims scope of the relevant patents
+and/or applications.
+http://mosscorp.emea.sesam.mane.com/LegalIP/IP/Patents%20studies/Forms/AllItems.aspx
+Freedom to operate study request form that
+you can find on our Legal and IP Sharepoint
+Page
+22
+Legal and IP Department | Confidential
+FREEDOM TO OPERATE STUDY
+08.12.2016
+Page
+23
+Legal and IP Department | Confidential
+FREEDOM TO OPERATE STUDY
+08.12.2016
+Page
+24
+Legal and IP Department | Confidential
+B.Studying the FTO of a particular invention/project
+� Studying the FTO of an invention, or for a project means interpreting the claims of
+the previously identified relevant patents and/or applications.
+� if necessary, the interpretation is made in light of the description of said relevant
+patents and/or applications.
+� In order to do so, it is necessary to have:
+� a brief and a more detailed description of the invention/project;
+� a geographical scope and;
+� the relevant prior art.
+FREEDOM TO OPERATE STUDY
+08.12.2016
+Page
+25
+Legal and IP Department | Confidential
+C.Brief and detailed description of the project
+� Please describe as detailed as possible the project of interest:
+-
+its intrinsic characteristics;
+-
+the technical effects of the invention. For example, for a new captive, its olfactive
+description; for a new device, its utilization; for a process, its advantages in terms of yield
+or implementation; for a composition comprising a specific compound, its particular effect
+etc.;
+-
+its advantages compared with the existing prior art;
+-
+the aimed applications or uses of the invention;
+-
+add drawings if necessary;
+-
+for a composition, please indicate each components, their nature and their level of
+use (or a range of use). Please indicate also their use/action in said composition.
+o
+Feel free to add any other important information according to you
+FREEDOM TO OPERATE STUDY
+08.12.2016
+This is
+your job!
+Page
+26
+Legal and IP Department | Confidential
+D.Geographical scope
+� It is necessary to provide an exact list of countries of interest for the
+invention/project. Must be considered:
+� the countries where the invention will be produced, or a process implemented and;
+� the countries where the invention will be commercialized.
+� Indeed, it is important to bear in mind that the patent protection is territorial.
+Thus, an invention could be patented (and the patent being in force) in France but
+not in Italy for example.
+FREEDOM TO OPERATE STUDY
+08.12.2016
+Page
+27
+Legal and IP Department | Confidential
+E. Known prior art
+� For a FTO study, only the patents and/or patent applications, respectively in
+force or pending are considered.
+� Thus, when doing your prior art searches, please focus on patents and/or
+applications only! These type of prior art searches can be done by the inventor(s)
+and/or our Documentalist on patent office databases or Google Patent.
+� Please indicate in the FTO study request form, the references of any relevant
+patents and/or applications document.
+FREEDOM TO OPERATE STUDY
+08.12.2016
+Page
+28
+Legal and IP Department | Confidential
+F. Assessing the FTO of an invention/project (1/2)
+� Step 1: a complementary prior art search
+� Additional prior art searches are asked to our Documentalist in order not to avoid any
+relevant patent and/or application which could be relevant. Indeed, the keywords used in the
+case of a FTO study are most of the times different from the ones used when performing a
+“classic” prior art search.
+� Indeed, a patent or application could be relevant while the keywords directed to the
+invention/project are not the same.
+� Step 2: checking the status of the relevant patents and/or applications
+� Only the patents in force, i.e. not abandoned, refused, revoked, and not in the public domain
+(i.e. having more than 20 years), and the pending patent applications, i.e. currently under
+examination, are taken into account and studied.
+� Each status is verified country by country.
+FREEDOM TO OPERATE STUDY
+08.12.2016
+This is
+my job!
+Page
+29
+Legal and IP Department | Confidential
+F. Assessing the FTO of an invention/project (2/2)
+� Step 3: studying the relevant patents and/or applications
+� Only the claims are analyzed when assessing a FTO study, always country by country. For
+your information, claim 1 of a patent or application always has the larger scope. However, all
+independent claims are studied in order to check all the “objects” (product, use, method…)
+protected by said patent or application.
+� In case of lake of clarity for example, the claims could be interpreted in light of the
+description.
+� In the case of granted patents, it is often necessary to review the complete examination
+history which has conducted the patent application to be granted.
+� It is important to keep in mind that a definitive FTO opinion can be given only when
+considering granted patents. When the relevant document is a patent application,
+only a preliminary FTO opinion can be given. Indeed, the definitive scope of
+protection of the claims of a patent application will be known only at the end of the
+examination process by the patent office.
+FREEDOM TO OPERATE STUDY
+08.12.2016
+Page
+30
+Legal and IP Department | Confidential
+G.Results of the FTO study
+� After assessing the FTO of an invention/project, one can conclude that:
+� The invention/project is free to operate and that no patents and/or patent applications
+hamper our right to exploit said invention.
+� The invention/project is not free to operate :
+-
+Because of relevant patent applications. In this case, it could be interesting to monitor
+said applications and check regularly if said applications are refused, or abandoned. In
+this case, said applications would not be anymore a bar to our FTO.
+-
+Because of relevant granted patents. In this case, it could be also interesting to monitor
+said patents and check regularly if said patents are challenged by third parties (through
+an opposition for example), or abandoned. As soon as said patents are no more in force
+because of an abandonment, said patents would not be anymore a bar to our FTO.
+� MANE FTO policy is to always respect third party patents and patent applications.
+It is not useful to say that “said patent or application does not look strong, or novel,
+or inventive…” just in order to avoid a negative FTO opinion.
+FREEDOM TO OPERATE STUDY
+08.12.2016
+Page
+31
+Legal and IP Department | Confidential
+1
+CHAPTER TITLE
+Thanks !
+08.12.2016

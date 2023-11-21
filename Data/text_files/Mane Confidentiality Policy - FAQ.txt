@@ -41,7 +41,7 @@ Yes, please use the amendment template to renew a CDA in French, English or Span
 Is it possible to add another party to a CDA already signed?
 Yes, please use the amendment template to renew a CDA in French, English or Spanish on SharePoint and register it like any other CDA.
 
- What if Mane already has a CDA with the counterparty?
+What if Mane already has a CDA with the counterparty?
 It must be checked to confirm: (i) the “subject matter” statement (i.e. scope) is broad enough to protect the contemplated confidential exchange; (ii) it remains active and will continue to be valid during the period needed for the particular project.  Even if a new CDA is needed, it may nevertheless be necessary to state in the new contract that the old CDA remains valid, so it is not superseded. If any doubts, confer with the Legal & IP Department.
 
 Is a CDA needed for a facility visit?

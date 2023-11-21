@@ -1,0 +1,613 @@
+PATENTS: KEYS FOR 
+UNDERSTANDING
+Page
+2
+CONTENT
+01. GENERAL INFORMATION
+02. PATENTABILITY 
+REQUIREMENTS
+03. FORMAL REQUIREMENTS
+04. PATENT PROCEDURE FOR 
+GRANTING
+Legal and IP Department | Confidential
+16.02.2015
+Page
+3
+Legal and IP Department | Confidential
+1
+GENERAL 
+INFORMATION
+16.02.2015
+Page
+4
+Legal and IP Department | Confidential
+GENERAL INFORMATION
+16.02.2015
+A. Overview of industrial property
+Legal right
+What for?
+How?
+Copyright
+Original creative or 
+artistic forms
+Trade marks
+Distinctive identification 
+of  products or services
+Use and/or
+registration
+Registered 
+designs
+Registration*
+Patents
+New inventions
+Application and 
+examination
+Exists 
+automatically
+Trade secrets
+External appearance
+Valuable information 
+not known to the public
+Reasonable efforts 
+to keep secret
+Page
+5
+Legal and IP Department | Confidential
+Patents: it is a give and take system
+GENERAL INFORMATION
+16.02.2015
+Extrait du livre « Innover grâce au brevet », Y. de Kermadec, Insep Consulting Editions
+Page
+6
+Legal and IP Department | Confidential
+B. Roles of the patent system
+� Encourage technological innovation by rewarding intellectual creativity
+�
+in providing protection for the invention to the patent owner, patents provide
+incentives to individuals by offering them recognition for their creativity and the
+possibility of obtaining financial rewards if they commercialize or exploit their
+inventions
+� Promote competition and investment
+�
+in developing new or improved products or processes by encouraging research
+and development
+� Encourage dissemination of information
+�
+because information disclosed in patents is published and that may be of benefit to
+society
+� Promote technology transfer
+�
+because anyone can find patented technologies that they may want to get access
+to and use themselves
+GENERAL INFORMATION
+16.02.2015
+Page
+7
+Legal and IP Department | Confidential
+C. Rights conferred by a patent
+� Prevent others from making, using, offering for sale, selling or importing
+infringing products in the country where the patent was granted.
+LIMITED MONOPOLY
+� The patent does not grant the right to use the invention!
+� For up to 20 years from the date of filing of the patent application.
+� Right to assign or transfer ownership of a patent and to conclude licensing
+contracts.
+� Presumption of validity of a granted patent until it is challenged in a court.
+GENERAL INFORMATION
+16.02.2015
+PATENT = RIGHT TO FORBID, NOT TO EXPLOIT
+Page
+8
+Legal and IP Department | Confidential
+1
+CHAPTER TITLE
+2
+PATENTABILITY 
+REQUIREMENTS
+16.02.2015
+Page
+9
+Legal and IP Department | Confidential
+A.What cannot be patented (1/2)?
+� The following are not considered to be inventions for the purposes of granting
+patents (notably in Europe):
+� Discoveries, scientific theories and mathematical methods;
+� Aesthetic creations;
+� Schemes,
+rules
+and
+methods
+for
+performing
+mental
+acts,
+playing games or doing business, and programs for computers;
+� Presentations of information.
+PATENTABILITY REQUIREMENTS
+16.02.2015
+Page
+10
+Legal and IP Department | Confidential
+A.What cannot be patented (2/2)?
+� Inventions
+whose
+commercial
+exploitation
+would
+be
+contrary
+to
+"ordre public" or morality.
+� Plant
+or
+animal
+varieties
+or
+essentially
+biological
+processes
+for the production of plants or animals.
+� Methods for treatment of the human or animal body by surgery or therapy and
+diagnostic methods practised on the human or animal body.
+� This
+applies
+only
+if
+the
+patent
+claim
+relates
+to
+that
+subject-matter
+or activities "as such“.
+� A patent claim that includes a mix of both patentable, technical,
+and excluded,
+non-technical, subject-matter can be regarded as an invention and may be
+patented after all.
+PATENTABILITY REQUIREMENTS
+16.02.2015
+Page
+11
+Legal and IP Department | Confidential
+B.What can be patented?
+� Patents are granted for any invention whether the invention is a product or a
+process, e.g. process of manufacturing something, in "all fields of technology”.
+� An invention is a technical solution to a technical problem.
+� Provided that said invention is compliant with the 3 conditions of patentability
+which are:
+� Novelty / anticipation (US terminology)
+� Inventive step / non-obviousness
+� Industrial application / utility
+■ 2 additional conditions:
+� Enablement
+� Clarity / definiteness
+PATENTABILITY REQUIREMENTS
+16.02.2015
+Page
+12
+Legal and IP Department | Confidential
+C.Novelty
+� In Europe and in the main countries, an invention must be new at the date of
+filing a patent application (absolute novelty). An invention shall be considered
+"new" if it does not form part of the "state of the art“.
+� "State
+of
+the
+art"
+means
+everything
+made
+available
+to
+the
+public
+(written or oral description, by use, or in any other way) before the filing date of
+the patent application.
+� There
+must
+have
+been
+no
+public
+disclosure
+of
+an
+invention
+before the filing date of the patent application.
+So keep your invention confidential!
+PATENTABILITY REQUIREMENTS
+16.02.2015
+Page
+13
+Legal and IP Department | Confidential
+PATENTABILITY REQUIREMENTS
+16.02.2015
+What not to do when considering filing a patent application
+•
+No publication prior to filing
+e.g. no article, press release, conference 
+presentation/poster/proceedings or blog entry
+•
+No sale of products incorporating the invention prior 
+to filing, no samples
+•
+No lecture or presentation prior to filing 
+except under a non-disclosure agreement (NDA)
+•
+File before others do!
+Source: EPO web site
+Page
+14
+Legal and IP Department | Confidential
+D.Inventive step and utility
+� Inventive step
+� An invention must be inventive, i.e. it must:
+� Bring a solution to a technical problem
+� Not be obvious for the man skilled in the art
+� For any invention there is a man skilled in the art.
+� Utility
+� An invention must be capable of industrial application (utility), i.e., it is must be made or
+used in any type of industry.
+� This condition avoid patenting theories.
+PATENTABILITY REQUIREMENTS
+16.02.2015
+Page
+15
+Legal and IP Department | Confidential
+1
+CHAPTER TITLE
+3
+FORMAL 
+REQUIREMENTS
+16.02.2015
+Page
+16
+Legal and IP Department | Confidential
+A. Structure of a patent
+� A patent application must comprise:
+� Bibliographic information:
+- inventor, patent assignee, date of filing, technology class, etc.
+� Abstract:
+- around 150 words as a search aid for other patent applications.
+� Description comprises:
+- a summary of prior art (i.e. the technology known to exist);
+- the problem that the invention is supposed to solve;
+- an explanation and at least one way of carrying out the invention.
+� Claims:
+- to define the scope of the aimed patent protection.
+� Drawings:
+- to illustrate the claims and description.
+FORMAL REQUIREMENTS
+16.02.2015
+Page
+17
+Legal and IP Department | Confidential
+FORMAL REQUIREMENTS
+16.02.2015
+Publication number
+and status
+Potential
+geographical scope
+Assignee
+Inventors and 
+inventors/applicant
+in the US
+Abstract
+Filing number
+Publication date
+Priority date
+B. Bibliographic information and abstract
+Page
+18
+Legal and IP Department | Confidential
+FORMAL REQUIREMENTS
+16.02.2015
+A documents
+A1
+European patent appl. published with search report
+A2 
+European patent appl. published without the search report (not available at the 
+publication date)
+A3
+Separate publication of the European search report
+A4
+Supplementary search report
+Corrected A documents
+A8
+Corrected title page of an A document, i.e. A1 or A2
+A9
+Complete reprint of an A document, i.e. A1, A2 or A3
+B documents
+B1
+European patent specification (granted patent)
+B2
+New European patent specification (amended specification of a granted patent)
+B3
+European patent specification after a limiting procedure
+Corrected B documents
+B8
+Corrected title page of a B document, i.e. B1 or B2 document
+B9
+Complete reprint of a B document, i.e. B1 or B2 document
+Patent status
+classification 
+Keep in mind:
+- A = patent appli.
+- B = granted patent
+Page
+19
+Legal and IP Department | Confidential
+C. Description of a patent application (1/7)
+� Description of a patent application comprises at least:
+� Part 1: identification of the prior art disclosed before the date of filing;
+� Part 2: statements about the technical problem to be solved by the invention;
+� Part 3: disclosure of the invention generally and in details, with the best mode. Must be
+done in the right way because if not, the claims might be not supported by the patent
+specification;
+� Part 4: Examples. Description of at least one detailed embodiment of the invention that will
+allow the man skilled in the art to reproduce the invention. But one example is often
+insufficient;
+� Part 5: the claims, i.e. the aimed scope of protection of the invention. Almost the more
+important part of a patent. Claims must be clear, concise and supported by the patent
+specification.
+■ Drawings are optional.
+FORMAL REQUIREMENTS
+16.02.2015
+Page
+20
+Legal and IP Department | Confidential
+� Part 1: identification of the prior art disclosed
+before
+the date of filing;
+� Part 2: statements about the technical problem to be
+solved by the invention;
+� Part 3: disclosure of the invention generally and in
+details, with the best mode. Must be done in the right
+way because if not, the claims might be not supported
+by the patent specification;
+� Part 4: description of at least one detailed embodiment
+of the invention that will allow the man skilled in the art
+to reproduce the invention. But one example is often
+insufficient;
+� Part 5: the claims, i.e. the aimed scope of protection of
+the invention. Almost the more important part of a
+patent. Claims must be clear, concise and supported
+by the patent specification.
+■
+Drawings are optional.
+FORMAL REQUIREMENTS
+16.02.2015
+C. Description of a patent application (2/7)
+Page
+21
+Legal and IP Department | Confidential
+� Part 1: identification of the prior art disclosed
+before
+the date of filing;
+� Part 2: statements about the technical problem to be
+solved by the invention;
+� Part 3: disclosure of the invention generally and in
+details, with the best mode. Must be done in the right
+way because if not, the claims might be not supported
+by the patent specification;
+� Part 4: description of at least one detailed embodiment
+of the invention that will allow the man skilled in the art
+to reproduce the invention. But one example is often
+insufficient;
+� Part 5: the claims, i.e. the aimed scope of protection of
+the invention. Almost the more important part of a
+patent. Claims must be clear, concise and supported
+by the patent specification.
+■
+Drawings are optional.
+FORMAL REQUIREMENTS
+16.02.2015
+C. Description of a patent application (3/7)
+Page
+22
+Legal and IP Department | Confidential
+� Part 1: identification of the prior art disclosed
+before
+the date of filing;
+� Part 2: statements about the technical problem to be
+solved by the invention;
+� Part 3: disclosure of the invention generally and in
+details, with the best mode.
+� Part 4: description of at least one detailed embodiment
+of the invention that will allow the man skilled in the art
+to reproduce the invention. But one example is often
+insufficient;
+� Part 5: the claims, i.e. the aimed scope of protection of
+the invention. Almost the more important part of a
+patent. Claims must be clear, concise and supported
+by the patent specification.
+■
+Drawings are optional.
+FORMAL REQUIREMENTS
+16.02.2015
+C. Description of a patent application (4/7)
+Page
+23
+Legal and IP Department | Confidential
+� Part 1: identification of the prior art disclosed
+before
+the date of filing;
+� Part 2: statements about the technical problem to be
+solved by the invention;
+� Part 3: disclosure of the invention generally and in
+details, with the best mode. Must be done in the right
+way because if not, the claims might be not supported
+by the patent specification;
+� Part 4: the examples. Description of at least one
+detailed embodiment of the invention that will allow the
+man skilled in the art to reproduce the invention.
+� Part 5: the claims, i.e. the aimed scope of protection of
+the invention. Almost the more important part of a
+patent. Claims must be clear, concise and supported
+by the patent specification.
+■
+Drawings are optional.
+FORMAL REQUIREMENTS
+16.02.2015
+C. Description of a patent application (5/7)
+Page
+24
+Legal and IP Department | Confidential
+� Part 1: identification of the prior art disclosed
+before
+the date of filing;
+� Part 2: statements about the technical problem to be
+solved by the invention;
+� Part 3: disclosure of the invention generally and in
+details, with the best mode. Must be done in the right
+way because if not, the claims might be not supported
+by the patent specification;
+� Part 4: description of at least one detailed embodiment
+of the invention that will allow the man skilled in the art
+to reproduce the invention. But one example is often
+insufficient;
+� Part 5: the claims, i.e. the aimed scope of protection of
+the invention.
+■
+Drawings are optional.
+FORMAL REQUIREMENTS
+16.02.2015
+C. Description of a patent application (6/7)
+Page
+25
+Legal and IP Department | Confidential
+� Part 1: identification of the prior art disclosed
+before
+the date of filing;
+� Part 2: statements about the technical problem to be
+solved by the invention;
+� Part 3: disclosure of the invention generally and in
+details, with the best mode. Must be done in the right
+way because if not, the claims might be not supported
+by the patent specification;
+� Part 4: description of at least one detailed embodiment
+of the invention that will allow the man skilled in the art
+to reproduce the invention. But one example is often
+insufficient;
+� Part 5: the claims, i.e. the aimed scope of protection of
+the invention. Almost the more important part of a
+patent. Claims must be clear, concise and supported
+by the patent specification.
+■
+Drawings are optional.
+FORMAL REQUIREMENTS
+16.02.2015
+C. Description of a patent application (7/7)
+Page
+26
+Legal and IP Department | Confidential
+1
+CHAPTER TITLE
+4
+PATENT 
+PROCEDURE 
+FOR GRANTING
+16.02.2015
+Page
+27
+Legal and IP Department | Confidential
+A. Where to file a patent application?
+� There are different routes to patent protection:
+� National patent offices
+- National patent valid only in the country where it is granted
+- Non-nationals can also apply for a patent
+- One year of "priority" for subsequent applications
+� European Patent Office (EPO)
+- A "European patent" is equivalent to national patents in the countries for which it was
+granted
+- The applicant chooses the countries
+- The cost depends on the number of countries designated
+� Patent Cooperation Treaty (PCT)
+- Just one initial application for more than 140 contracting states
+- After the international phase, the international application leads to multiple national patent
+examination procedures
+- Costly patenting decisions can be delayed by up to 30-31 months after filing
+- No international patent, but an international patent application procedure
+- PCT application can be filed at a national patent office, EPO or WIPO
+PATENT PROCEDURE FOR GRANTING
+16.02.2015
+Page
+28
+Legal and IP Department | Confidential
+B. European patent procedure for granting
+� Examination on filing and formalities examination
+-
+Check of the formal requirements, attribution of a filing date and filing number.
+� Search report
+-
+Drawing up of a search report that allows an appreciation of the patentability of the
+invention (novelty and inventive step) 9 months after application filing. Classification of
+the prior art documents as X (novelty), Y (inventive step), A (technological background)…
+� Publication of application and search report
+-
+Publication 18 months after the patent filing date (or priority date).
+� Substantive examination
+-
+Examination by the patent office by an Examiner. Discussion about the patentability of the
+claimed invention.
+� Grant of the patent and validation
+- Choice of the countries where protection is effectively aimed between the 35 European
+countries.
+PATENT PROCEDURE FOR GRANTING
+16.02.2015
+Page
+29
+Legal and IP Department | Confidential
+C. The PCT procedure
+PATENT PROCEDURE FOR GRANTING
+16.02.2015
+Possible prior patent application (priority)
+PCT patent application
+Applicant decides: preliminary examination?
+22 months after priority date
+Direct entry into
+national/regional phase
+Preliminary
+examination
+Publication
+18 months after priority date
+National phase:
+30-31 months after first filing
+No
+Yes
+Page
+30
+Legal and IP Department | Confidential
+D.
+General
+overview
+of
+the
+procedure
+for
+one
+invention
+PATENT PROCEDURE FOR GRANTING
+16.02.2015
+Priority filing (France)
+Filing in countries outside PCT
+PCT 
+Filing
+National phases of PCT (ex: US, CA, JP, AU)
+EP phase
+Validations EP (FR, DE, UK,..)
+Division/CIP 
+T0
+One invention = 
+One patent 
+family
+comprising
+several patents 
+Page
+31
+Legal and IP Department | Confidential
+1
+CHAPTER TITLE
+Thanks !
+16.02.2015
