@@ -1,0 +1,4 @@
+sentence-transformers
+torch
+streamlit
+#pip install -r requirements.txt
