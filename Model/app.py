@@ -6,7 +6,7 @@ import time
 
 tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
 model = BertModel.from_pretrained('bert-base-uncased')
-with open('modified_faq_data.json', 'r') as json_file:
+with open('Model\modified_faq_data.json', 'r') as json_file:
     data = json.load(json_file)
 
 # Streamlit UI
