@@ -1,0 +1,326 @@
+[
+    {
+        "filename": "PD FLASH 1",
+        "context": "The document provides information about the General Data Protection Regulation (GDPR), also known as Regulation (EU) 2016/679, which governs the processing of personal data in the European Union since May 25, 2018. It emphasizes the importance of demonstrating compliance with GDPR and mentions the role of DP Coordinator within the MANE Group.",
+        "question": "What is the purpose of the PD FLASH emails mentioned in the document?",
+        "answer": "The PD FLASH emails serve as regular reminders and updates for DP Coordinators within the MANE Group regarding their responsibilities and compliance with GDPR."
+    },
+    {
+        "filename": "PD FLASH 1",
+        "context": "The document mentions that DP Coordinators who have not attended training sessions since 2018 will be invited to new sessions in February.",
+        "question": "Why are DP Coordinators invited to new training sessions in February?",
+        "answer": "DP Coordinators are invited to new training sessions in February to ensure that they receive updated information and guidance on compliance with GDPR, emphasizing the importance of staying informed and trained in data protection."
+    },
+    {
+        "filename": "PD FLASH 1",
+        "context": "The document highlights the need for DP Coordinators to demonstrate the compliance of MANE Group to the GDPR when processing personal data.",
+        "question": "What is the significance of DP Coordinators demonstrating compliance with GDPR for MANE Group?",
+        "answer": "DP Coordinators demonstrating compliance with GDPR play a crucial role in ensuring that MANE Group follows the regulations and guidelines related to the processing of personal data, thereby maintaining data protection standards."
+    },
+    {
+        "filename": "PD FLASH 1",
+        "context": "The document mentions that Mane procedures applicable to the protection of personal data in their English versions are attached and sent to the DP Coordinators.",
+        "question": "What information is provided in the attached Mane procedures for the protection of personal data?",
+        "answer": "The attached Mane procedures provide information and guidelines on the protection of personal data, specifically in their English versions, serving as a reference for DP Coordinators within the MANE Group."
+    },
+    {
+        "filename": "PD FLASH 2",
+        "context": "The document mentions that personal data must allow individuals to retain control over them.",
+        "question": "Why is it mentioned that personal data must allow individuals to retain control over them?",
+        "answer": "It is mentioned to highlight the importance of individuals having control over their personal data. GDPR emphasizes the protection of individuals' rights and privacy, and ensuring control over personal data is a fundamental aspect to achieve optimal data protection."
+    },
+    {
+        "filename": "PD FLASH 2",
+        "context": "The document provides examples of how a natural person can be identified, both directly and indirectly.",
+        "question": "What are examples of indirect identifiers mentioned in the document?",
+        "answer": "Examples of indirect identifiers mentioned in the document include a telephone number, license plate, social security number, postal or email address, voice, or image. These indirect identifiers contribute to the identification of a natural person."
+    },
+    {
+        "filename": "PD FLASH 2",
+        "context": "The document specifies that company contact details, such as those of 'Company A' with its postal address, switchboard telephone number, and a generic contact email, are not considered personal data.",
+        "question": "Why are company contact details not considered personal data according to the document?",
+        "answer": "Company contact details are not considered personal data because they are associated with a corporate entity rather than an individual. The GDPR focuses on the protection of individuals' privacy, and company-related information falls outside the scope of personal data in this 'context'."
+    },
+    {
+        "filename": "PD FLASH 3",
+        "context": "The document, dated February 19, 2020, addresses common questions about the processing of personal data and the role of the data controller. It provides essential definitions for these concepts.",
+        "question": "How does the document define personal data processing?",
+        "answer": "The document defines personal data processing as all operations related to personal data, regardless of the method used. It includes activities such as saving, organizing, storing, modifying, comparing to other data, and transmitting personal data. The scope of personal data processing extends beyond computerized processes to include various methods like databases, Excel tables, video surveillance installations, credit card payments, biometric recognition systems, smartphone applications, etc."
+    },
+    {
+        "filename": "PD FLASH 3",
+        "context": "The document mentions that personal data processing can be computerized or not, providing examples of both.",
+        "question": "Can you provide examples of non-computerized personal data processing mentioned in the document?",
+        "answer": "Examples of non-computerized personal data processing mentioned in the document include organizing a paper document according to a filing plan and classifying candidate application forms in alphabetical or chronological order. These activities demonstrate that personal data processing is not limited to digital formats."
+    },
+    {
+        "filename": "PD FLASH 3",
+        "context": "The document defines the data controller as the legal person (company, public authority, etc.) or natural person who determines the purposes and means of personal data processing.",
+        "question": "Who or what is identified as the data controller within MANE Group according to the document?",
+        "answer": "According to the document, within MANE Group, the data controller is not an individual or department but the body corporate of MANE Group. It is the legal entity, such as the company itself, that determines the purposes and means of personal data processing within the organization."
+    },
+    {
+        "filename": "PD FLASH 3",
+        "context": "The document mentions that it is the responsibility of the controller to define the purpose and method of carrying out personal data processing.",
+        "question": "Why is it emphasized that the controller defines the purpose and method of carrying out personal data processing?",
+        "answer": "It is emphasized to highlight the key role of the data controller in personal data processing. The controller's responsibility in defining the purpose and method ensures clarity, accountability, and compliance with data protection regulations."
+    },
+    {
+        "filename": "PD FLASH 4",
+        "context": "The document, dated February 28, 2020, provides information about the sanctions under the General Data Protection Regulation (GDPR) and the implementation of new rules within MANE Group.",
+        "question": "What was the purpose of refraining from sanctioning non-compliance with GDPR until the end of 2018, as mentioned by CNIL?",
+        "answer": "According to the document, the CNIL refrained from sanctioning non-compliance with GDPR until the end of 2018 to allow data controllers, including MANE Group, to gradually understand and assimilate the requirements of the GDPR adopted in 2016."
+    },
+    {
+        "filename": "PD FLASH 4",
+        "context": "The document mentions the first major sanctions applied by CNIL in 2019, including those against Google, Futura International, and Sergic.",
+        "question": "What were the amounts of the sanctions applied by CNIL in 2019 against Google, Futura International, and Sergic?",
+        "answer": "In 2019, CNIL applied a sanction of 50 million euros against Google, 500,000 euros against Futura International, and 400,000 euros against Sergic."
+    },
+    {
+        "filename": "PD FLASH 4",
+        "context": "The document states that the maximum sanction for MANE Group under GDPR is 55 million euros.",
+        "question": "What is the significance of the maximum sanction amount mentioned for MANE Group under GDPR?",
+        "answer": "The maximum sanction amount of 55 million euros serves as a potential financial penalty for MANE Group in case of GDPR violations. It emphasizes the importance of compliance with GDPR rules to avoid significant financial consequences."
+    },
+    {
+        "filename": "PD FLASH 4",
+        "context": "The document mentions that significant financial penalties and reputational damage can result from GDPR violations.",
+        "question": "Why does the document suggest redoubling the commitment to compliance despite believing that GDPR rules are in the best interests of employees, customers, and partners?",
+        "answer": "The document suggests redoubling the commitment to compliance because, despite the belief that GDPR rules are in the best interests of employees, customers, and partners, the potential for significant financial penalties and reputational damage from GDPR violations underscores the need for continuous vigilance and adherence to data protection regulations."
+    },
+    {
+        "filename": "PD FLASH 5",
+        "context": "The document, dated March 4, 2020, outlines the definitions of data protection rights under the General Data Protection Regulation (GDPR) and highlights the various rights individuals have to control their personal data.",
+        "question": "According to the document, what must accompany the collection of personal data to be considered fair and lawful?",
+        "answer": "According to the document, the collection of personal data must be accompanied by a prior, clear, and concise explanation to the persons whose personal data are processed to be considered fair and lawful."
+    },
+    {
+        "filename": "PD FLASH 5",
+        "context": "The document discusses the collection of express consent by the data controller and specifies situations where consent is required.",
+        "question": "In what situations is consent required for the collection of personal data, according to the document?",
+        "answer": "Consent is required for the collection of personal data in situations such as the collection of sensitive data, re-use of data for other purposes, use of cookies, and the use of personal data for prospecting purposes electronically."
+    },
+    {
+        "filename": "PD FLASH 5",
+        "context": "The document mentions the right to object and specifies the conditions under which people can object to the re-use of their personal data.",
+        "question": "Under what conditions can individuals exercise their right to object to the re-use of their personal data?",
+        "answer": "Individuals can exercise their right to object for legitimate reasons to the processing of their data, unless it is necessary to meet a legal obligation."
+    },
+    {
+        "filename": "PD FLASH 5",
+        "context": "The document outlines the rights of access and rectification and introduces the concept of the 'right to be forgotten.'",
+        "question": "What does the 'right to be forgotten' entail, according to the document?",
+        "answer": "The 'right to be forgotten' entails the right of any person to demand that their data be rectified, supplemented, updated, or deleted. It allows individuals to have control over the information concerning them, including the option to have their data deleted."
+    },
+    {
+        "filename": "PD FLASH 5",
+        "context": "The document discusses the obligation of the data controller to respond to data subject requests within a specified timeframe.",
+        "question": "According to the document, what is the timeframe within which the data controller must respond to data subject requests?",
+        "answer": "According to the document, the data controller must respond to data subject requests within one month. However, there are exceptions, including situations where the requests are manifestly abusive or when the data controller has no data on the requesting person. In case of refusal of an access request, it must be duly justified and accompanied by information on the procedures and time limits for appeals."
+    },
+    {
+        "filename": "PD FLASH 6",
+        "context": "The document addresses the necessity of keeping a record of processing activities to measure the impact of the General Data Protection Regulation (GDPR) on Mane Group's activities. It emphasizes the importance of identifying and documenting the processing of personal data performed by each department within the organization.",
+        "question": "According to the document, why is it necessary to keep a register of personal data processing activities?",
+        "answer": "According to the document, keeping a register of personal data processing activities is necessary to concretely measure the impact of the GDPR on Mane Group's activities. It allows for the precise identification of the processing of personal data, mapping of processing activities, and justification of personal data processing."
+    },
+    {
+        "filename": "PD FLASH 6",
+        "context": "The document outlines the specific details that need to be identified in the Personal Data Processing Register.",
+        "question": "What information is necessary to identify precisely in the Personal Data Processing Register, according to the document?",
+        "answer": "According to the document, it is necessary to identify precisely in the Personal Data Processing Register:\n1. The different processing of personal data,\n2. The categories of personal data processed,\n3. The objectives pursued by the data processing operations,\n4. The persons (internal or external) who process this data,\n5. The chain of custody of personal data, particularly to identify any data transfers outside the European Union."
+    },
+    {
+        "filename": "PD FLASH 6",
+        "context": "The document emphasizes the importance of the participation of each department and subsidiary in the inventory, declaration, and updating of processing operations.",
+        "question": "What is the role of each service or subsidiary, as mentioned in the document, regarding personal data processing registration?",
+        "answer": "According to the document, each service or subsidiary, through its DP Coordinator, is responsible for participating in the inventory, declaration, and updating of processing operations. It is their responsibility to transmit their personal data processing registration to the Data Protection Officer (DPO) at the specified address, using the validation procedure for the processing of personal data file."
+    },
+    {
+        "filename": "PD FLASH 6",
+        "context": "The document provides an email address (dpo@mane.com) for the submission of personal data processing registrations.",
+        "question": "How are departments and subsidiaries instructed to submit their personal data processing registrations, according to the document?",
+        "answer": "According to the document, departments and subsidiaries are instructed to submit their personal data processing registrations to the Data Protection Officer (DPO) at the email address dpo@mane.com. The document specifies the use of the validation procedure for the processing of personal data file as an attachment for reminder during the submission process."
+    },
+    {
+        "filename": "PD FLASH 7",
+        "context": "The document, titled 'The good habits to protect personal data,' emphasizes the importance of informing individuals about the collection and processing of their personal data and respecting their rights. It outlines good habits to be adopted for proper processing of personal data at MANE.",
+        "question": "According to the document, what are some good habits to be adopted for the proper processing of personal data at MANE?",
+        "answer": "According to the document, some good habits to be adopted for the proper processing of personal data at MANE include:\n1. Collecting only the personal data strictly necessary.\n2. Being transparent by providing clear and complete information to the persons whose personal data is collected.\n3. Respecting the rights of individuals, such as the right to object, rectify, access, and delete their data.\n4. Identifying risks and contacting the Data Protection Officer (DPO) if processing a lot of personal data or sensitive data.\n5. Securing data through both IT and physical measures to ensure the conservation and confidentiality of processed personal data."
+    },
+    {
+        "filename": "PD FLASH 7",
+        "context": "The document mentions the rights of individuals regarding their personal data.",
+        "question": "What are the rights of individuals mentioned in the document regarding their personal data?",
+        "answer": "According to the document, the rights of individuals regarding their personal data include the right to object, rectify, access, and delete their data. In case of a request for the application of any of these rights, individuals are instructed to contact dpo@mane.com, and a response will be provided within one month."
+    },
+    {
+        "filename": "PD FLASH 7",
+        "context": "The document advises contacting the DPO if processing a lot of personal data or sensitive data.",
+        "question": "When does the document suggest contacting the DPO, and why?",
+        "answer": "The document suggests contacting the Data Protection Officer (DPO) if processing a lot of personal data or sensitive data. This is recommended because specific measures may need to be adopted to address the risks associated with processing a significant amount of personal or sensitive data."
+    },
+    {
+        "filename": "PD FLASH 7",
+        "context": "The document highlights the importance of securing data for the conservation and confidentiality of processed personal data.",
+        "question": "What measures does the document suggest for securing data, as mentioned for the conservation and confidentiality of processed personal data?",
+        "answer": "According to the document, both IT and physical measures must be taken to ensure the conservation and confidentiality of the personal data that is processed. The document emphasizes the need for comprehensive security measures to safeguard the integrity and privacy of the collected and processed personal data."
+    },
+    {
+        "filename": "PD FLASH 8",
+        "context": "The document, titled 'Application of GDPR regulations to an international group,' discusses the importance of ensuring compliance with the General Data Protection Regulation (GDPR) at the level of the entire international group, especially beyond French and European establishments. It emphasizes the concept of co-responsibility and the need for effective compliance for subsidiaries, both within and outside the European Union.",
+        "question": "According to the document, what is the potential impact on MANE if a violation occurs by one of its subsidiaries in terms of GDPR compliance?",
+        "answer": "According to the document, if a violation occurs by one of MANE's subsidiaries, the penalty for the violation would be set as a percentage of the revenue of the entire Group. This could generate a major financial and image impact for MANE."
+    },
+    {
+        "filename": "PD FLASH 8",
+        "context": "The document introduces the concept of co-responsibility and designates the parent company V. MANE FILS as the 'responsible for processing' personal data.",
+        "question": "According to the document, who is considered the 'responsible for processing' personal data in the 'context' of co-responsibility?",
+        "answer": "According to the document, the parent company V. MANE FILS is considered the 'responsible for processing' personal data in the 'context' of co-responsibility. It must guarantee to the authorities that all its subsidiaries, designated as co-processors, comply with the GDPR to ensure the overall compliance of the entire group."
+    },
+    {
+        "filename": "PD FLASH 8",
+        "context": "The document outlines the entities for which effective compliance with GDPR must be ensured.",
+        "question": "According to the document, what entities must ensure effective compliance with GDPR?",
+        "answer": "According to the document, effective compliance with GDPR must be ensured for:\n1. All European subsidiaries directly subject to GDPR regulations.\n2. All subsidiaries outside the European Union that process personal data of European nationals.\n3. All providers of V. MANE FILS (VMF) or MANE subsidiaries when they subcontract personal data of European nationals on behalf of subsidiaries."
+    },
+    {
+        "filename": "PD FLASH 8",
+        "context": "The document specifies the types of personal data processed by subsidiaries outside the European Union that require effective compliance.",
+        "question": "What types of personal data processed by subsidiaries outside the European Union require effective compliance, according to the document?",
+        "answer": "According to the document, subsidiaries outside the European Union must ensure effective compliance when processing personal data of European nationals. This includes data concerning expats, contacts in the outlook of European colleagues, contacts and other information about employees, service providers, suppliers, distributors, or European customers, as well as all personal data of European nationals collected by VMF or European subsidiaries and transmitted to subsidiaries outside the European Union."
+    },
+    {
+        "filename": "PD FLASH 9",
+        "context": "The document, titled 'Data Processing Agreement,' provides guidance on the transmission of personal data to third parties within MANE Group. It emphasizes the importance of ensuring that the processing of personal data is covered by a contract with external entities and outlines the obligations of data processors within the framework of the General Data Protection Regulation (GDPR).",
+        "question": "According to the document, what should be ensured before transmitting personal data to third parties within MANE Group?",
+        "answer": "According to the document, before transmitting personal data to third parties within MANE Group (service providers, data hosts, etc.), it should be ensured that the processing of this personal data has not only been the subject of a processing sheet but is also well covered by a contract with the external entity concerned."
+    },
+    {
+        "filename": "PD FLASH 9",
+        "context": "The document introduces the concept of a data processor within the meaning of the GDPR.",
+        "question": "According to the document, what is the role of a data processor within the meaning of the GDPR?",
+        "answer": "According to the document, a data processor, within the meaning of the GDPR, is a natural or legal person (company or public entity) who processes data on behalf of another physical or legal entity (the data controller) as part of a service."
+    },
+    {
+        "filename": "PD FLASH 9",
+        "context": "The document discusses the logic of accountability established by the GDPR and the obligations of all actors involved in the processing of personal data, including data processors.",
+        "question": "What logic of accountability is established by the GDPR, according to the document?",
+        "answer": "According to the document, the GDPR establishes a logic of accountability for all actors involved in the processing of personal data, including data processors. This means that all involved parties must actively and permanently bring their processing into compliance with GDPR requirements."
+    },
+    {
+        "filename": "PD FLASH 9",
+        "context": "The document emphasizes the importance of a specific contractual commitment from data processors.",
+        "question": "Why does the document stress the need for a specific contractual commitment from data processors?",
+        "answer": "The document stresses the need for a specific contractual commitment from data processors to guarantee the confidentiality of the personal data transmitted, ensure their compliance with the GDPR for the sub-processing of this personal data, and, at the same time, ensure the overall compliance of MANE Group with the GDPR."
+    },
+    {
+        "filename": "PD FLASH 9",
+        "context": "The document provides information on how to request the drafting or reviewing of a contract for the sub-processing of personal data.",
+        "question": "What should individuals do if they have a request for drafting or reviewing a contract for the sub-processing of personal data, according to the document?",
+        "answer": "According to the document, individuals with a request for drafting or reviewing a contract for the sub-processing of personal data, or including a clause relating to the sub-processing of personal data, should complete and send the attached document to dpo@mane.com."
+    },
+    {
+        "filename": "PD FLASH 10",
+        "context": "The document, dated May 12, 2020, focuses on protecting the personal data of MANE employees during and after their employment. It emphasizes the importance of safeguarding personal data to build trust within the MANE Group and provides advice on handling employee data responsibly.",
+        "question": "According to the document, why is protecting the personal data of MANE employees important for the proper functioning of the MANE Group?",
+        "answer": "According to the document, protecting the personal data of MANE employees is important for the proper functioning of the MANE Group because it contributes to strengthening the bond of trust necessary for the group's proper functioning."
+    },
+    {
+        "filename": "PD FLASH 10",
+        "context": "The document provides advice on handling employee data responsibly.",
+        "question": "What advice does the document give regarding the collection of employee information?",
+        "answer": "According to the document, the advice for handling employee data responsibly includes asking employees only for necessary information for business purposes and avoiding processing so-called 'sensitive' data, such as health, union activity, political opinions, religion, and ethnic origin. Special obligations apply if sensitive data must be processed, and these are addressed by policy."
+    },
+    {
+        "filename": "PD FLASH 10",
+        "context": "The document emphasizes confidentiality, security, and measures to ensure the conservation and confidentiality of employee data.",
+        "question": "What measures does the document recommend to ensure the confidentiality and security of employee data?",
+        "answer": "According to the document, measures recommended to ensure the confidentiality and security of employee data include allowing only authorized persons to have access, recording actions on data carried out by authorized persons (knowing who connects to what, when, and to do what), and implementing both logical and physical measures to ensure the conservation and confidentiality of the data."
+    },
+    {
+        "filename": "PD FLASH 10",
+        "context": "The document highlights the importance of informing employees whenever their personal data is processed.",
+        "question": "When does the document suggest informing employees about the processing of their personal data?",
+        "answer": "According to the document, employees should be informed each time their personal data is processed. This includes situations such as updating administrative data, training requests, and evaluation interview forms."
+    },
+    {
+        "filename": "PD FLASH 10",
+        "context": "The document mentions that employees can request a copy of all their personal data.",
+        "question": "According to the document, what can employees request regarding their personal data, and how can this request be made?",
+        "answer": "According to the document, employees can request a copy of all their personal data held by the company. This request can include documents like a pay slip, statement of a time-savings account, telephone records, card reader statements, or messages sent via professional email. Employees, including ex-employees, can make this request."
+    },
+    {
+        "filename": "PD FLASH 10",
+        "context": "The document provides a contact point for inquiries about the legitimacy, declaration, retention, or securing of the processing of personal data of an employee.",
+        "question": "In case of doubt about the legitimacy, declaration, retention, or securing of the processing of personal data of an employee, who should be contacted, and how?",
+        "answer": "In case of doubt about the legitimacy, declaration, retention, or securing of the processing of personal data of an employee by a MANE department or subsidiary, individuals should contact the Data Protection Officer (DPO) at MANE, and the contact email provided is dpo@mane.com."
+    },
+    {
+        "filename": "PD FLASH 11",
+        "context": "The document, dated May 27, 2020, focuses on respecting personal data after the departure of an employee from MANE. It addresses the rights of employees regarding the privacy of their personal correspondence, outlines guidelines for handling personal emails and files, and provides information on the deletion of mailbox and workstation data.",
+        "question": "According to the document, how should MANE employees identify their personal emails or files to ensure their protection?",
+        "answer": "According to the document, MANE employees should identify their personal emails or files by specifying 'Personal' or 'Private' in the subject/title or storing them in a directory entitled 'Personal' or 'Private' to ensure their protection."
+    },
+    {
+        "filename": "PD FLASH 11",
+        "context": "The document discusses the handling of personal emails and files that have not been identified by employees as personal.",
+        "question": "According to the document, what is the status of emails or files that have not been identified by an employee as personal?",
+        "answer": "According to the document, any email or file that has not been identified by an employee as personal will fail to be considered professional in nature and will be freely viewable by MANE."
+    },
+    {
+        "filename": "PD FLASH 11",
+        "context": "The document outlines specific actions that employees must take before leaving the company in relation to their personal data.",
+        "question": "What actions does the document instruct employees to take before leaving the company regarding their personal data?",
+        "answer": "According to the document, before leaving the company, employees are instructed to:\n1. Retrieve and delete any file or personal email.\n2. Empty the 'NoBackup' directory on their workstation (sub-folder located in 'My Documents').\n3. Not delete any professional data that could be useful to the company.\n4. Return all documents, information, or material belonging to V. MANE FILS."
+    },
+    {
+        "filename": "PD FLASH 11",
+        "context": "The document provides information on the deletion of the mailbox after an employee's departure.",
+        "question": "When will the mailbox of an employee be deleted after their departure, according to the document?",
+        "answer": "According to the document, the mailbox of an employee will be deleted the day after the user's departure."
+    },
+    {
+        "filename": "PD FLASH 11",
+        "context": "The document describes the process of making a temporary copy of the data before final deletion and its availability to the line manager.",
+        "question": "What is the process of making a temporary copy of the data before final deletion, and who has access to this copy?",
+        "answer": "According to the document, before the final deletion of the mailbox, a temporary copy of the data will be made and kept for one month. The copy of the data will be made available to the line manager by request made to the helpdesk during the one-month retention period, unless the Human Resources Department has instructions to the contrary and has legitimate reasons for objecting to the transmission of this copy to the line manager."
+    },
+    {
+        "filename": "PD FLASH 11",
+        "context": "The document provides information on the retention and accessibility of workstation data before final deletion.",
+        "question": "How long will workstation data, excluding the 'NoBackup' directory, be retained, and who has access to this data?",
+        "answer": "According to the document, workstation data, excluding the 'NoBackup' directory, will be copied and retained for one month on a secure space. The line manager can request access to this data by making a request to the helpdesk during the one-month retention period, after which the data will be deleted."
+    },
+    {
+        "filename": "FLASH DP 12",
+        "context": "The document, titled 'Informing data subjects of the processing of their personal data,' discusses the transparency obligation imposed by the General Data Protection Regulation (GDPR). It emphasizes the need for collectors and processors to provide concise, transparent, and easily accessible information to individuals whose data is being processed. The document outlines the importance of transparency in helping individuals understand the purpose of data collection and treatment and facilitating the exercise of their rights.",
+        "question": "According to the document, what does transparency allow individuals concerned by data processing to do?",
+        "answer": "According to the document, transparency allows individuals concerned by data processing to:\n1. Know the reason for collecting the various data concerning them.\n2. Understand the treatment that will be made of their data.\n3. Ensure control of their data by facilitating the exercise of their rights."
+    },
+    {
+        "filename": "FLASH DP 12",
+        "context": "The document highlights the methods of providing and presenting information under the transparency obligation of the GDPR.",
+        "question": "What does the document mention about the methods of providing and presenting information under the transparency obligation of the GDPR?",
+        "answer": "According to the document, the methods of providing and presenting information under the transparency obligation of the GDPR must be adapted to the 'context'. The document emphasizes the importance of providing concise, transparent, understandable, and easily accessible information to individuals concerned by data processing."
+    },
+    {
+        "filename": "FLASH DP 12",
+        "context": "The document emphasizes the importance of informing individuals whose data is being processed beforehand.",
+        "question": "When does the document recommend informing individuals whose data is being processed, and what methods are suggested?",
+        "answer": "According to the document, individuals whose data is being processed should be informed beforehand in the 'context' of the activity of the service or the company. Effective means of informing include sending an email, delivering an information note by hand, or drafting a clause in a contract. This information must be provided prior to the collection of personal data for a new processing or when personal data, already collected and processed, are again processed for another purpose than that initially indicated to the data subject."
+    },
+    {
+        "filename": "FLASH DP 12",
+        "context": "The document mentions the transparency obligation defined in Articles 12, 13, and 14 of the GDPR.",
+        "question": "What does the document say about the transparency obligation defined in Articles 12, 13, and 14 of the GDPR?",
+        "answer": "According to the document, the transparency obligation defined in Articles 12, 13, and 14 of the GDPR requires collectors and processors to provide concise, transparent, understandable, and easily accessible information to individuals concerned by data processing."
+    },
+    {
+        "filename": "FLASH DP 12",
+        "context": "The document refers to an attached template of an information note.",
+        "question": "What does the document say about the attached template of an information note?",
+        "answer": "According to the document, an attached template of an information note is provided, which can be adapted to each type of treatment. This template is intended to be sent to the persons who need to be informed about the processing of their personal data."
+    }
+]
