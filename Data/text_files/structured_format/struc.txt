@@ -1,0 +1,735 @@
+filename: Patents and Process - Nov 2017
+context:A patent is an exclusive right for a limited period of time in exchange for detailed public disclosure of an invention.
+question: What is the fundamental trade-off involved in obtaining a patent?
+answer: A patent grants exclusive rights for a limited time in exchange for detailed public disclosure of an invention. This means that while a patent provides the right to exclude others from using, making, selling, or importing the patented invention during the patent's term, it requires a detailed disclosure of the invention to the public.
+
+filename: Patents and Process - Nov 2017
+context:A patent provides, from a legal standpoint, the right to exclude others from making, using, 
+selling, offering for sale, or importing the patented invention for the term of the patent, which is 
+usually 20 years from the filing date, subject to the payment of maintenance fees.A patent does not give a right to make or use or sell an invention.
+question: What rights does a patent confer from a legal standpoint?
+answer: From a legal standpoint, a patent grants the holder the right to exclude others from making, using, selling, offering for sale, or importing the patented invention for the duration of the patent term, typically 20 years from the filing date, contingent upon the payment of maintenance fees.
+
+filename: Patents and Process - Nov 2017
+context:An invention is a unique or novel device, method, composition or process.
+Novel and Useful (35 U.S.C. §101, see also EPC Art. 54, 57)
+question: What are the criteria for an invention to be considered patentable?
+answer: For an invention to be patentable, it must fulfill certain criteria. It needs to be novel, useful, and non-obvious. Novelty implies uniqueness or novelty in the device, method, composition, or process. Usefulness refers to the invention having utility or practical application. The non-obvious requirement means that the invention's differences from existing knowledge must not be obvious to a person skilled in the relevant field.
+
+filename: Patents and Process - Nov 2017
+context:PATENT ELIGIBLE SUBJECT MATTER
+ Is the invention directed to one of the four patent-eligible subject matter categories?
+Process (or method) 
+− E.g., A method of preparing a rapidly water-soluble hard capsule having a core comprising … (USPN 
+7,744,922)
+Machine (or device)
+− E.g., A removable device for preserving and releasing a product contained in a reservoir having a 
+rupturable wall for releasing said product, … (USPN 8,584,839)
+Manufacture (or article of manufacture)
+− E.g., An article of manufacture useful for adding creamer base to a hot beverage, comprising: … USPN 
+7,445,804)
+Composition of matter
+− E.g., A flavoring composition which comprises from 1-80% by weight of a coolant … (USPN 5,725,865)
+question: What is the scope of patent-eligible subject matter as outlined in the document?
+answer: The document highlights four categories of patent-eligible subject matters: Process or method, Machine or device, Manufacture or article of manufacture, and Composition of matter. These categories encompass various inventions, such as methods of preparation, devices for preservation, articles of manufacture for specific purposes, and compositions with specified ingredients or characteristics.
+
+filename: Patents and Process - Nov 2017
+context:The U.S. Supreme Court has held that Congress intended patentable subject matter to 
+"include anything under the sun that is made by man,” but acknowledges that there are 
+limits or exceptions.  
+See Diamond v. Chakrabarty, 447 U.S. 303 (1980).
+question: What principle did the U.S. Supreme Court establish regarding patentable subject matter?
+answer: The U.S. Supreme Court, in Diamond v. Chakrabarty (1980), articulated that patentable subject matter was intended by Congress to encompass "anything under the sun that is made by man." However, the court also acknowledged that there are limits or exceptions to what can be patented.
+
+
+filename: Patents and Process - Nov 2017
+context: PATENT BASICS
+question: What are the four categories that an invention must fall under to be considered patentable?
+answer: An invention must belong to one of these four categories: Process or method, Machine or device, Manufacture or article of manufacture, and Composition of matter.
+
+filename: Patents and Process - Nov 2017
+context:PATENTS AND OTHER INTELLECTUAL PROPERTY MATTERS
+Confidential | November 2017
+ U.S. JUDICIAL EXCEPTIONS TO THE FOUR CATEGORIES
+−
+Does the claimed invention wholly embrace a judicially-recognized exception? 
+− Examples
+Law of Nature:  “Einstein could not patent his celebrated law that E=mc2; nor could Newton have 
+patented the law of gravity.” Diamond v. Chakrabarty, 447 U.S. 303, 309 (1980).
+Natural Phenomena:  “A new mineral discovered in the earth or a new plant found in the wild is not 
+patentable subject matter.” Diamond v. Chakrabarty, 447 U.S. 303, 309 (1980).
+Abstract Idea:  “Even though a phenomenon of nature or mathematical formula may be well known, 
+an inventive application of the principle may be patented. Conversely, the discovery of such a 
+phenomenon cannot support a patent unless there is some other inventive concept in its application.”
+question: Enumerate the judicially recognized exceptions to patent claims and provide an example for each.
+answer: The judicially recognized exceptions are: Law of Nature (example: Einstein's E=mc²), Natural Phenomena (example: a new mineral discovered in the earth), and Abstract Idea (example: inventive application of a well-known phenomenon).
+
+filename: Patents and Process - Nov 2017
+context:PATENT BASICS
+To be patentable, a claim directed to one of the judicial exceptions must recite something significantly different.
+question: What requirement must a claim directed to a judicial exception meet to be considered patentable?
+answer: For a claim directed to a judicial exception to be patentable, it must include something significantly different from the exception itself.
+
+filename: Patents and Process - Nov 2017
+context: Types of a patent application
+question: What components constitute a complete non-provisional patent application in the United States?
+answer: A complete non-provisional patent application includes a specification, claims, drawings (if necessary), a formal oath or declaration, and prescribed fees.
+
+filename: Patents and Process - Nov 2017
+context: Parts of a patent application
+question: Describe the purpose and recommended length of an abstract in a patent application.
+answer: An abstract in a patent application aims to give a quick overview of the technical disclosure within 150 words or less, aiding both the Office and the public in understanding the invention.
+
+filename: Patents and Process - Nov 2017
+context: Parts of a patent application
+question: Explain the role of the detailed description in a patent application and what it should enable.
+answer: The detailed description should enable any skilled person in the relevant field to make and use the invention without extensive experimentation. It should establish enablement by providing examples and experimental details.
+
+filename: Patents and Process - Nov 2017
+context: Types of Patent applications
+question: What is the Patent Cooperation Treaty (PCT), and what does filing a PCT application entail?
+answer: The PCT offers a unified procedure for filing patent applications across multiple contracting states. A PCT application doesn't grant an international patent but allows applicants to seek protection in different countries, involving an international search and a written opinion on patentability.
+
+filename: Patents and Process - Nov 2017
+context: Patenting Process - US and abroad
+question: Outline the steps involved in the patent examination process.
+answer: The patent examination process includes determining the invention, conducting a prior art search, evaluating compliance with various sections of patent law, assessing novelty and non-obviousness, and communicating findings and conclusions.
+
+filename: Patents and Process - Nov 2017
+context: Patenting Process - US and abroad
+question: Explain the significance of novelty and non-obviousness in the patent application process.
+answer: Novelty involves ensuring that the invention hasn't been disclosed previously, while non-obviousness checks if the invention is sufficiently different from existing knowledge that an ordinary skilled person in the field wouldn't find it obvious.
+
+filename: Patents and Process - Nov 2017
+context: Inventorship
+question: What is inventorship, and what criteria define it?
+answer: Inventorship is a legal determination based on conception, where conception involves the complete mental formation of the invention, defining it clearly enough that it could be reduced to practice without extensive experimentation.
+
+filename: Patents and Process - Nov 2017
+context: Duty of disclosure.
+question: Discuss the duty of disclosure in the patent application process.
+answer: The duty of disclosure requires all individuals involved in the patent application to act with candor and good faith, disclosing any information material to the patentability of the claims.
+
+filename: Patents and Process - Nov 2017
+context: PATENTING PROCESS: US AND ABROAD
+question : What outcomes can result from the patent application examination process?
+answer: The patent examination process can conclude with either the granting of a patent if all requirements are met or abandonment if rejections cannot be overcome.
+
+filename: payment term comparision
+context: German law  
+question: What provision addresses default payment terms in German law?  
+answer: Provision: Art 286 BGB
+
+filename: payment term comparision
+context: Swiss Law  
+question: What is the default payment term according to Swiss law?  
+answer: Swiss law does not provide for any standard payment term. In the absence of a contractually agreed payment term, a creditor may usually request immediate payment.
+
+filename: payment term comparision
+context: French Law  
+question: Are there any specific regulations regarding payment terms in French law?  
+answer: Art L441-10 of the French commercial code mandates rules which cannot be bypassed by French companies submitting supply agreements to another applicable law than French law.
+
+filename: payment term comparision
+context: Dutch law  
+question: What is the default payment term according to Dutch law?  
+answer: Article 6:119a(4) of the Dutch Civil Code states that a payment is always due immediately if the parties have not agreed to specific deviating payment terms.
+
+filename: payment term comparision
+context: Laws of Ohio, New Jersey, New York, Delaware  
+question: What is the payment term under the UCC 2-320 in these states?  
+answer: Payment is due upon the later of delivery or end of the inspection period as per UCC 2-320 enacted in each state.
+
+filename: payment term comparision
+context: Legislation based on EU Directive 2011/7/EU on combating late payments in commercial transactions  
+question: Are there penalties for breaching payment terms under this legislation?  
+answer: Penalties for breach: The creditor would be entitled to statutory interest at the rate of 9%.
+
+filename: payment term comparision
+context: Confidential - for internal purposes only  
+question: What observation has been made about contractual freedom in payment terms across different countries?  
+answer: It was observed that contractual freedom is present in every country except in France, where payment terms cannot exceed 60 days.
+
+filename: payment term comparision
+context: Confidential - for internal purposes only  
+question: In the DSM-Firmenich merger, how does the Dutch entity compare to the Swiss entity in terms of contractual freedom regarding payment terms?  
+answer: The Firmenich's Dutch entity is not at a disadvantage compared to when the entity was Swiss, indicating contractual freedom of the parties regarding payment terms and their extension.
+
+filename:PCT Contracting States and Two-letter Codes
+context: Albania (EP)
+question: When is the extension of a European patent possible in Albania?
+answer: Extension of a European patent is possible only for international applications filed before 1 May 2010.
+
+filename:PCT Contracting States and Two-letter Codes
+context: Austria (EP)
+question: Which two-letter code is associated with Austria in terms of patent designation?
+answer: Austria's two-letter code for patent designation is EP (European Patent).
+
+filename:PCT Contracting States and Two-letter Codes
+context: Belgium (EP)
+question: Which region's "national route" via the PCT has been closed for Belgium?
+answer: Belgium's "national route" via the PCT has been closed, and its two-letter code for patent designation is EP (European Patent).
+
+filename:PCT Contracting States and Two-letter Codes
+context: Bosnia and Herzegovina
+question: Is there any special condition associated with Bosnia and Herzegovina's patent designation?
+answer: Bosnia and Herzegovina's patent designation is possible, but this state may only be designated for a regional patent.
+
+filename:PCT Contracting States and Two-letter Codes
+context: Brazil
+question: What kind of protection is available for Brazil?
+answer: Brazil is a Contracting State bound by the PCT for the grant of every kind of protection available.
+
+filename:PCT Contracting States and Two-letter Codes
+context: Canada
+question: What is Canada's two-letter code for patent designation under the PCT?
+answer: Canada's two-letter code for patent designation is CA.
+
+filename:PCT Contracting States and Two-letter Codes
+context: China
+question: Is China bound by the PCT for the grant of regional patents?
+answer: China is a Contracting State bound by the PCT for the grant of regional patents.
+
+filename:PCT Contracting States and Two-letter Codes
+context: France (EP)
+question: What is the two-letter code associated with France for patent designation?
+answer: France's two-letter code for patent designation is EP (European Patent).
+
+filename:PCT Contracting States and Two-letter Codes
+context: Germany (EP)
+question: What is the two-letter code for patent designation in Germany?
+answer: Germany's two-letter code for patent designation is EP (European Patent).
+
+filename:PCT Contracting States and Two-letter Codes
+context: India
+question: Is India a Contracting State under the PCT?
+answer: Yes, India is a Contracting State bound by the PCT.
+
+filename: Patents FAQs
+context:
+question: What is a patent? 
+answer: A patent is an exclusive right granted for an invention, which is a product or a process that provides, in general, a new way of doing something, or offers a new technical solution to a problem. A few exemplary inventions include 1) a new process for making seamless capsules, 2) a new fragrance molecule, or 3) a new composition that blocks bitterness taste of high intensity sweeteners. Patent protection means an invention cannot be commercially made, used, distributed or sold without the patent owner’s consent. Patent rights are usually enforced in courts that, in most systems, hold the authority to stop patent infringement. Conversely, a court can also declare a patent invalid upon a successful challenge by a third party. 
+
+filename: Patents FAQs
+context: 
+question: What is patentable? 
+answer: An invention must, in general, fulfill the following conditions to be protected by a patent. 1. Industrially applicable (useful): It must be of practical use. 2. New: It must show an element of “novelty”, meaning some new characteristic that is not part of the body of existing knowledge in its particular technical field. That body of existing knowledge is called “prior art”. 3. Inventive (not obvious):  It must show an “inventive step” that is not obvious or routine by a person with average knowledge of the technical field. The subject matter of the invention must also be accepted as “patentable” under the patent laws of a given county. In many countries, scientific theories, mathematical methods, plant or animal varieties, discoveries of natural substances, commercial methods or methods of medical treatment (as opposed to medical products) are not generally patentable. For example abstract ideas (Einstein's equation E=mc2), laws of nature (gravity), or natural occurring phenomena (a chemical found in nature) are not patentable, but specific applications of these things could be patentable. 
+
+filename: Patents FAQs
+context: 
+question: How long does a patent last? 
+answer: Patent rights may last for up to 20 years, IF renewal or maintenance fees are paid in a timely manner. 
+
+filename: Patents FAQs
+context:
+question: Which countries are covered by a patent? 
+answer: Patents are granted by national patent offices or by regional offices that carry out examination work for a group of countries – for example, the European Patent Office (EPO) and the African Intellectual Property Organization (OAPI). Under such regional systems, an applicant requests protection for an invention in one or more countries, and each country decides 
+whether to offer patent protection within its borders. The WIPO-administered Patent Cooperation Treaty (PCT) provides for the filing of a single international patent application that has the same effect as national applications filed in the designated countries. However, in order to obtain a patent in a PCT member nation, a patent application must be filed and prosecuted in the PCT member nation. 
+ 
+filename: Patents FAQs
+context:
+question: What is patent infringement? 
+answer: Patent infringement is the commission of a prohibited act with respect to a patented invention without permission from the patent holder. Permission may typically be granted in the form of a license. The definition of patent infringement may vary by jurisdiction, but it typically includes using or selling the patented invention. In many countries, a use is required to be commercial (or to have a commercial purpose) to constitute patent infringement. The scope of the patented invention or the extent of protection is defined in the claims of the granted patent. In other words, the terms of the claims inform the public of what is not allowed without the permission of the patent holder. Patents are territorial, and infringement is only possible in a country where a patent is in force. 
+  
+filename: Patents FAQs
+context:
+question: What do I do if I think I have an invention? 
+answer: Do not disclose your invention to anyone outside of the company, and contact Mane's Legal and IP Department. 
+
+filename: YOUSIGN_MANE solution_ENG
+context: YOUSIGN Definition
+question: What certifications does YOUSIGN comply with?
+answer: YOUSIGN is fully compliant with the European Regulation 910/2014 and has eIDAS certifications (electronic IDentification, Authentication, and trust Services).
+
+filename: YOUSIGN_MANE solution_ENG
+context: YOUSIGN Features
+question: What languages are available on the YOUSIGN platform?
+answer: The YOUSIGN platform offers interface languages in English, French, Spanish, Portuguese, German, Italian, and Dutch.
+
+filename: YOUSIGN_MANE solution_ENG
+context: YOUSIGN Features
+question: What information is required before signing a document on YOUSIGN?
+answer: Prior to signature, mandatory information on the document includes the company name of the party(s), and the name, title, and contact details of each signatory.
+
+filename: YOUSIGN_MANE solution_ENG
+context: YOUSIGN Features
+question: What settings can be configured for document signing on YOUSIGN?
+answer: Users can save default settings as templates, including a signature deadline of 21 days, automatic reminders every two days, and activating the consent protocol option.
+
+filename: YOUSIGN_MANE solution_ENG
+context: YOUSIGN Features
+question: How long are documents accessible for after the end of the license on YOUSIGN?
+answer: Documents signed on YOUSIGN remain accessible for 10 years after the end of the license.
+
+filename: YOUSIGN_MANE solution_ENG
+context: YOUSIGN Features
+question: What is the cost of using YOUSIGN?
+answer: The cost is €480 excluding taxes per year per license, allowing for an unlimited number of signatures per user.
+
+filename: YOUSIGN_MANE solution_ENG
+context: YOUSIGN Features
+question: What should be added when a document on YOUSIGN spans multiple pages?
+answer: For documents longer than one page on YOUSIGN, initials need to be added, and if there's no single signature date, the term "Dated..." should be placed above each signature.
+
+filename: YOUSIGN_MANE solution_ENG
+context: YOUSIGN Features
+question: Who can sign documents on YOUSIGN?
+answer: MANE’s signatories must be authorized to sign by virtue of company articles of association or delegation of power.
+
+filename: Regulation (EU) No 12152012  on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+Context: Introduction and Purpose
+Question: What is the purpose of Regulation (EU) No 1215/2012?
+Answer: The purpose is to improve the application of certain provisions of Council Regulation (EC) No 44/2001 and to further facilitate the free circulation of judgments and enhance access to justice in civil and commercial matters.
+
+filename: Regulation (EU) No 12152012  on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Background on Previous Conventions and Regulations
+question: What are the key conventions and regulations related to this new Regulation?
+answer: The Brussels Convention on Jurisdiction and the Enforcement of Judgments in Civil and Commercial Matters (1968 Brussels Convention), the Lugano Convention (1988 Lugano Convention), and Regulation (EC) No 44/2001 are key predecessors.
+
+filename: Regulation (EU) No 12152012  on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Scope of the Regulation
+question: What matters are excluded from the scope of Regulation (EU) No 1215/2012?
+answer: Certain well-defined matters, particularly maintenance obligations, are excluded from the scope following the adoption of Council Regulation (EC) No 4/2009.
+
+filename: Regulation (EU) No 12152012  on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Exclusion of Arbitration from the Regulation
+question: Does the regulation cover arbitration-related matters?
+answer: No, the Regulation does not apply to arbitration. Courts of a Member State may refer parties to arbitration or stay proceedings if there is an arbitration agreement.
+
+filename: Regulation (EU) No 12152012  on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Connection Between Proceedings and Member States
+question: What connection should there be between proceedings and the territory of Member States?
+answer: There must be a connection between proceedings and the territory of the Member States for this Regulation to apply.
+
+filename: Regulation (EU) No 12152012  on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Rules of Jurisdiction
+question: What principle are the rules of jurisdiction based on?
+answer: The rules of jurisdiction are based on the principle that jurisdiction is generally based on the defendant’s domicile.
+
+filename: Regulation (EU) No 12152012  on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Alternative Grounds of Jurisdiction
+question: Apart from the defendant’s domicile, are there alternative grounds for jurisdiction?
+answer: Yes, alternative grounds of jurisdiction exist based on a close connection between the court and the action or to facilitate the sound administration of justice
+
+filename: Regulation (EU) No 12152012  on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Ensuring Legal Certainty
+question: Why is the existence of a close connection necessary in legal proceedings?
+answer: It is necessary to ensure legal certainty and avoid the possibility of the defendant being sued in a court of a Member State that they could not have reasonably foreseen. This is especially important in disputes concerning non-contractual obligations arising from violations of privacy and rights relating to personality, including defamation.
+
+filename: Regulation (EU) No 12152012  on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Cultural Object Recovery
+question: What provision does Regulation (EU) No 1215/2012 have for the recovery of cultural objects?
+answer: The Regulation allows the owner of a cultural object to initiate proceedings in the courts of the place where the object is situated for civil claims based on ownership. However, this should not prejudice proceedings under Directive 93/7/EEC on the return of cultural objects unlawfully removed from the territory of a Member State.
+
+filename: Regulation (EU) No 12152012  on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Protection in Contracts
+question: How does the Regulation protect the weaker party in insurance, consumer, and employment contracts?
+answer: In these contract types, rules of jurisdiction more favorable to the weaker party's interests are provided compared to the general rules.
+
+filename: Regulation (EU) No 12152012  on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Autonomy in Contracts
+question: Is the autonomy of parties respected in contracts other than insurance, consumer, or employment contracts?
+answer: Yes, subject to exclusive grounds of jurisdiction specified in the Regulation, the autonomy of parties in other contracts is respected.
+
+filename: Regulation (EU) No 12152012  on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Choice-of-Court Agreements
+question: How are choice-of-court agreements handled concerning their substantive validity?
+answer: Questions regarding the substantive validity of choice-of-court agreements in favor of a Member State's court are decided according to the law of that Member State, including its conflict-of-laws rules.
+
+filename: Regulation (EU) No 12152012  on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Mechanism for Resolving Concurrent Proceedings
+question: Why is it necessary to have a mechanism for resolving concurrent proceedings?
+answer: To ensure the harmonious administration of justice and prevent irreconcilable judgments in different Member States, a mechanism is needed to resolve cases of lis pendens and related actions.
+
+filename: Regulation (EU) No 12152012  on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Exception to the Lis Pendens Rule
+question: Are there exceptions to the general rule of lis pendens in concurrent proceedings?
+answer: Yes, an exception exists when a court not designated in an exclusive choice-of-court agreement is seised first, and the designated court is seised subsequently involving the same cause of action and parties. In this case, the court first seised should stay its proceedings until the designated court decides on its jurisdiction.
+
+filename: Regulation (EU) No 12152012  on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Fundamental Rights and Application Scope
+question: Which fundamental right recognized in the Charter of Fundamental Rights of the European Union does this Regulation respect, specifically mentioned in Article 47?
+answer: This Regulation respects the right to an effective remedy and to a fair trial guaranteed in Article 47 of the Charter of Fundamental Rights of the European Union.
+
+filename: Regulation (EU) No 12152012  on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Participation of Member States
+question: Which countries are part of the Regulation (EC) No 44/2001 adoption and application according to the provided text?
+answer: The United Kingdom and Ireland participated in the adoption and application of Regulation (EC) No 44/2001, whereas Denmark is not bound by or subject to its application but may apply the amendments as per the Agreement of 19 October 2005 between the European Community and the Kingdom of Denmark.
+
+filename: Regulation (EU) No 12152012  on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Scope and Definitions
+question: What matters are explicitly excluded from the scope of this Regulation, as stated in Article 1(2)?
+answer: This Regulation does not apply to various matters, including bankruptcy, social security, arbitration, maintenance obligations from family relationships, and wills and succession, among others, as detailed in Article 1(2).
+
+filename: Regulation (EU) No 12152012  on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Jurisdiction Criteria for Tort or Delict Matters
+question: What criteria determine the jurisdiction in matters related to tort, delict, or quasi-delict, according to Article 7 of the Regulation?
+answer: In matters related to tort, delict, or quasi-delict, a person domiciled in a Member State may be sued in the courts for the place where the harmful event occurred or may occur, as stated in Article 7(2).
+
+filename: Regulation (EU) No 12152012  on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Jurisdictional Rules for Contracts
+question: How are jurisdictional rules established concerning contracts in the Regulation?
+answer: Article 7 of the Regulation specifies that a person domiciled in a Member State may be sued in another Member State concerning matters relating to a contract in the courts for the place of performance of the obligation in question, outlining specific criteria for sales of goods and provision of services.
+
+filename: Regulation (EU) No 12152012  on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Jurisdiction in matters relating to insurance
+question: According to Article 11, where can an insurer who is not domiciled in a Member State but has a branch, agency, or other establishment in one of the Member States be sued?
+answer: An insurer not domiciled in a Member State but having a branch, agency, or other establishment in one of the Member States may be sued in disputes arising out of the operations of the branch, agency, or establishment, and shall be deemed to be domiciled in that Member State, as stated in Article 11(2).
+
+filename: Regulation (EU) No 12152012  on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Jurisdiction over consumer contracts
+question: What conditions determine the jurisdiction in matters relating to a contract concluded by a consumer for a purpose outside their trade or profession as per Article 17?
+answer: The jurisdiction in matters relating to a contract concluded by a consumer for a purpose outside their trade or profession is determined by Article 17. It applies if the contract is for the sale of goods on credit, a loan for financing the sale of goods, or if the contract is concluded with a party pursuing commercial activities directed to the consumer's Member State.
+
+filename: Regulation (EU) No 12152012  on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Jurisdiction over individual contracts of employment
+question: According to Article 20, where can an employer be sued in matters relating to individual contracts of employment?
+answer: An employer may be sued either in the courts of the Member State in which the employer is domiciled or, in another Member State, in the courts for the place where the employee habitually carries out work or in the courts for the last place where the employee did so, as outlined in Article 20(1)(b).
+
+filename: Regulation (EU) No 12152012  on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Exclusive jurisdiction
+question: What are the instances where the courts of a Member State shall have exclusive jurisdiction, as mentioned in Article 24?
+answer: The courts of a Member State shall have exclusive jurisdiction in various cases, such as proceedings concerning rights in rem in immovable property, the validity of companies or legal persons, entries in public registers, registration or validity of patents, trademarks, designs, and the enforcement of judgments, as detailed in Article 24(1)-(5).
+
+filename: Regulation (EU) No 12152012  on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Prorogation of jurisdiction
+question: According to Article 25, under what conditions does an agreement conferring jurisdiction become exclusive, and what forms can such an agreement take?
+answer: An agreement conferring jurisdiction becomes exclusive if the parties have agreed to settle disputes in a particular Member State, and this agreement can be in writing, evidenced in writing, in accordance with established practices between parties, or in a form recognized in international trade or commerce, as stated in Article 25(1).
+
+filename: Regulation (EU) No 12152012  on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Jurisdiction in matters relating to insurance
+question: What determines the jurisdiction for an insurer domiciled in a Member State, as per Article 11?
+answer: An insurer domiciled in a Member State may be sued in the courts of that Member State where they are domiciled (Article 11(1)(a)), or in another Member State where actions are brought by the policyholder, insured, or beneficiary, in the courts for the place where the claimant is domiciled (Article 11(1)(b)).
+
+filename: Regulation (EU) No 12152012  on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Jurisdiction over consumer contracts
+question: According to Article 18, where can a consumer bring proceedings against the other party to a contract?
+answer: A consumer can bring proceedings against the other party to a contract either in the courts of the Member State where that party is domiciled or, regardless of the domicile of the other party, in the courts for the place where the consumer is domiciled (Article 18(1)).
+
+filename: Regulation (EU) No 12152012  on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Jurisdiction over individual contracts of employment
+question: Under what circumstances can an employer bring proceedings in matters relating to individual contracts of employment, according to Article 22?
+answer: An employer may bring proceedings only in the courts of the Member State in which the employee is domiciled (Article 22(1)).
+
+filename: Regulation (EU) No 12152012  on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Exclusive jurisdiction
+question: In what types of proceedings do the courts of a Member State have exclusive jurisdiction as per Article 24?
+answer: The courts of a Member State have exclusive jurisdiction in various proceedings, such as those concerning rights in rem in immovable property, validity of companies or legal persons, entries in public registers, registration or validity of patents, trademarks, designs, and the enforcement of judgments (Article 24(1)-(5)).
+
+filename: Regulation (EU) No 12152012  on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Prorogation of jurisdiction
+question: What are the conditions under which an agreement conferring jurisdiction may be deemed invalid as per Article 25?
+answer: An agreement conferring jurisdiction shall be considered invalid if it contradicts Articles 15, 19, or 23, or if it attempts to exclude the jurisdiction of courts that have exclusive jurisdiction by virtue of Article 24 (Article 25(4)).
+
+filename: Regulation (EU) No 12152012  on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Jurisdiction based on appearance and exclusive jurisdiction
+question: Under what conditions does a court have jurisdiction if a defendant enters an appearance, as per Article 26?
+answer: A court of a Member State, before which a defendant enters an appearance, has jurisdiction unless the appearance was entered to contest jurisdiction or where another court has exclusive jurisdiction by virtue of Article 24 (Article 26(1)).
+
+filename: Regulation (EU) No 12152012  on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Examination as to jurisdiction and admissibility
+question: When should a court declare of its own motion that it has no jurisdiction if seised of a claim concerning a matter with exclusive jurisdiction in another Member State, as per Article 27?
+answer: A court seised of a claim principally concerned with a matter over which the courts of another Member State have exclusive jurisdiction by virtue of Article 24 shall declare of its own motion that it has no jurisdiction (Article 27).
+
+filename: Regulation (EU) No 12152012  on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Lis pendens — related actions
+question: What does Article 29 specify regarding the proceedings in cases where similar actions are brought in courts of different Member States?
+answer: Article 29 specifies that any court, other than the court first seised, shall stay its proceedings if similar actions involving the same cause of action and between the same parties are brought in courts of different Member States until the jurisdiction of the court first seised is established.
+
+filename: Regulation (EU) No 12152012  on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Lis pendens — related actions
+question: Under what circumstances may a court decline jurisdiction if related actions are pending in courts of different Member States, as per Article 30?
+answer: Any court other than the court first seised may decline jurisdiction if the action in the court first seised is pending at first instance, and the court first seised has jurisdiction over the actions in question and its law permits the consolidation thereof (Article 30(2)).
+
+filename: Regulation (EU) No 12152012  on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Jurisdiction in cases involving courts of third States
+question: What conditions must be met for a court in a Member State to stay proceedings when similar actions are pending in a court of a third State, according to Article 33?
+answer: A court in a Member State may stay proceedings if it is expected that the court of the third State will give a judgment capable of recognition and, where applicable, of enforcement in that Member State, and if the court is satisfied that a stay is necessary for the proper administration of justice (Article 33(1))
+
+filename: Regulation (EU) No 1215/2012 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Article 34(1)(a)-(c)
+question: What conditions must be met for a court in a Member State to stay proceedings related to an action pending in a third State's court?
+answer: The court of the Member State may stay the proceedings if it's expedient to hear related actions together, to avoid irreconcilable judgments, if the third State's court is expected to provide a judgment capable of recognition and enforcement, and if the stay is necessary for the proper administration of justice.
+
+filename: Regulation (EU) No 1215/2012 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Article 36(1)-(2)
+question: What is required for the enforcement of a judgment given in a Member State in another Member State?
+answer: A judgment given in a Member State shall be recognized in the other Member States without any special procedure being required. Any interested party may apply for a decision that there are no grounds for refusal of recognition.
+
+filename: Regulation (EU) No 1215/2012 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Article 39(1)
+question: Under what circumstances can a judgment be refused recognition or enforcement?
+answer: A judgment shall not be recognized or enforced if such recognition is manifestly contrary to public policy in the Member State where recognition is sought.
+
+filename: Regulation (EU) No 1215/2012 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Article 40(1)
+question: What grounds might be used to refuse recognition or enforcement of a judgment?
+answer: Recognition or enforcement of a judgment may be refused if it would be manifestly contrary to public policy in the Member State addressed.
+
+filename: Regulation (EU) No 1215/2012 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Article 41(1)
+question: What is the time limit for an application for refusal of recognition or enforcement?
+answer: The application for refusal of recognition or enforcement must be made within one month of the date of service.
+
+filename: Regulation (EU) No 1215/2012 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Article 45(1)
+question: Is it possible to challenge a declaration of enforceability?
+answer: Yes, a declaration of enforceability may be challenged by means of an ordinary appeal.
+
+filename: Regulation EU) No 1215/2012 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Article 53(1)
+question: What is the duration of validity of a judgment?
+answer: A judgment shall be valid for the purpose of enforcement for a period of 10 years from the date of its delivery.
+
+filename: Regulation (EU) No 1215/2012 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Article 59(1)
+question: What is the procedure for appealing a decision on a European Enforcement Order?
+answer: The appeal procedure is governed by the law of the Member State addressed.
+
+filename: Regulation (EU) No 1215/2012 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Article 61(1)
+question: What are the grounds for refusing the European Enforcement Order?
+answer: The grounds for refusal are limited and include public policy considerations and specific circumstances as listed in the regulation.
+
+filename: Regulation (EU) No 1215/2012 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Article 65(1)
+question: What is the procedure for rectification, suspension, or withdrawal of a European Enforcement Order?
+answer: The procedure for rectification, suspension, or withdrawal is governed by the law of the Member State addressed.
+
+filename: Regulation (EU) No 1215/2012 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Article 67(1)
+question: What is the process for the updating or withdrawal of information related to a European Enforcement Order?
+answer: Information related to a European Enforcement Order may be updated or withdrawn according to the procedure of the Member State addressed.
+
+filename: Regulation (EU) No 1215/2012 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Article 70(1)
+question: Is there a requirement for translation of the European Enforcement Order?
+answer: No, there is no requirement for translation of the European Enforcement Order when used in another Member State.
+
+filename: Regulation (EU) No 1215/2012 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Article 72(1)
+question: What is the definition of "court" in relation to the European Enforcement Order?
+answer: "Court" means any judicial authority competent under the law of the Member State where the enforcement is sought.
+
+filename: Regulation (EU) No 1215/2012 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Article 74(1)
+question: What is the language for the certificate related to the European Enforcement Order?
+answer: The certificate shall be drawn up in the language of the Member State of origin or in another language agreed upon by the parties.
+
+filename: Regulation (EU) No 1215/2012 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Article 77(1)
+question: Is there a form for the certificate related to the European Enforcement Order?
+answer: Yes, the form for the certificate is set out in Annex V to the regulation.
+
+filename: Regulation (EU) No 1215/2012 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Article 80(1)
+question: What is the procedure for the correction of the certificate related to the European Enforcement Order?
+answer: The correction procedure is governed by the law of the Member State addressed.
+
+filename: Regulation (EU) No 1215/2012 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Article 82(1)
+question: Can the information contained in the certificate related to the European Enforcement Order be updated?
+answer: Yes, the information in the certificate may be updated according to the procedure of the Member State addressed.
+
+filename: Regulation (EU) No 1215/2012 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+context: Article 85(1)
+question: What is the procedure for the withdrawal of the European Enforcement Order?
+answer: The withdrawal procedure is governed by the law of the Member State addressed.
+
+filename: Regulation (EU) No 386/2012 on the enforcement of IP rights, including the assembling of public and private-sector representatives as a European Observatory
+context: Article 1
+question: What is the subject matter and scope of Regulation (EU) No 386/2012?
+answer: This regulation entrusts the Office for Harmonization in the Internal Market (Trade Marks and Designs) with tasks aimed at facilitating and supporting the activities of national authorities, the private sector, and the Union institutions in the fight against infringements of the intellectual property rights covered by Directive 2004/48/EC.
+
+filename: Regulation (EU) No 386/2012 on the enforcement of IP rights, including the assembling of public and private-sector representatives as a European Observatory
+context: Article 2(1)(a)
+question: What is one of the tasks of the Office mentioned in Article 2?
+answer: One of the tasks includes improving understanding of the value of intellectual property.
+
+filename: Regulation (EU) No 386/2012 on the enforcement of IP rights, including the assembling of public and private-sector representatives as a European Observatory
+context: Article 2(1)(b)
+question: What aspect of intellectual property rights does the Office aim to enhance understanding of, as stated in Article 2?
+answer: The scope and impact of infringements of intellectual property rights.
+
+filename: Regulation (EU) No 386/2012 on the enforcement of IP rights, including the assembling of public and private-sector representatives as a European Observatory
+context: Article 2(1)(d)
+question: How does the Office aim to assist in raising awareness of the impact of infringements of intellectual property rights?
+answer: By enhancing the expertise of persons involved in the enforcement of intellectual property rights.
+
+filename: Regulation (EU) No 386/2012 on the enforcement of IP rights, including the assembling of public and private-sector representatives as a European Observatory
+context: Article 2(1)(g)
+question: What role does the Office play in facilitating information exchange among Member States' authorities dealing with intellectual property rights?
+answer: It provides mechanisms to improve the online exchange of information relating to the enforcement of such rights.
+
+filename: Regulation (EU) No 386/2012 on the enforcement of IP rights, including the assembling of public and private-sector representatives as a European Observatory
+context: Article 2(1)(h)
+question: What is one of the tasks of the Office regarding international cooperation?
+answer: Working to foster international cooperation with intellectual property offices in third countries.
+
+filename: Regulation (EU) No 386/2012 on the enforcement of IP rights, including the assembling of public and private-sector representatives as a European Observatory
+context: Article 2(2)(c)
+question: What kind of data is the Office mandated to collect and disseminate regarding the economic value of intellectual property?
+answer: Relevant objective, comparable, and reliable data.
+
+filename: Regulation (EU) No 386/2012 on the enforcement of IP rights, including the assembling of public and private-sector representatives as a European Observatory
+context: Article 2(2)(f)
+question: What does the Office aim to improve knowledge of regarding the enforcement of intellectual property rights?
+answer: Technical tools to prevent and tackle infringements of intellectual property rights.
+
+filename: Regulation (EU) No 386/2012 on the enforcement of IP rights, including the assembling of public and private-sector representatives as a European Observatory
+context: Article 2(2)(i)
+question: What activities might the Office carry out to support its work under the Regulation?
+answer: Organizing ad hoc meetings of experts, including academic experts and relevant representatives of civil society.
+
+filename: Regulation (EU) No 386/2012 on the enforcement of IP rights, including the assembling of public and private-sector representatives as a European Observatory
+context: Article 4(1)
+question: How often does the Office invite representatives to meetings of the Observatory as per Article 4?
+answer: At least once per year.
+
+filename: Regulation (EU) No 386/2012 on the enforcement of IP rights, including the assembling of public and private-sector representatives as a European Observatory
+context: Article 4(3)
+question: What responsibility do Member States have regarding the representation in the Observatory’s work?
+answer: Ensuring continuity in the Observatory’s work.
+
+filename: Regulation (EU) No 386/2012 on the enforcement of IP rights, including the assembling of public and private-sector representatives as a European Observatory
+context: Article 4(5)
+question: Who are invited to the meetings of the Observatory in addition to representatives from public administrations and the private sector?
+answer: Members or other representatives of the European Parliament and representatives from the Commission.
+
+filename: Regulation (EU) No 386/2012 on the enforcement of IP rights, including the assembling of public and private-sector representatives as a European Observatory
+context: Article 5(1)(b)
+question: What information are Member States required to provide to the Office concerning intellectual property rights?
+answer: Available statistical data on infringements of intellectual property rights.
+
+filename: Regulation (EU) No 386/2012 on the enforcement of IP rights, including the assembling of public and private-sector representatives as a European Observatory
+context: Article 5(2)(b)
+question: What data should private-sector representatives provide to the Office regarding intellectual property rights?
+answer: Statistical data on infringements of intellectual property rights in their field of activity.
+
+filename: Regulation (EU) No 386/2012 on the enforcement of IP rights, including the assembling of public and private-sector representatives as a European Observatory
+context: Article 6(1)
+question: What provisions apply to the carrying-out of tasks and activities under this Regulation?
+answer: The relevant provisions of Title XII of Regulation (EC) No 207/2009.
+
+filename: Regulation (EU) No 386/2012 on the enforcement of IP rights, including the assembling of public and private-sector representatives as a European Observatory
+context: Article 6(2)
+question: What power does the President of the Office have regarding the internal administrative instructions?
+answer: To adopt the internal administrative instructions necessary for the fulfilment of the tasks entrusted to the Office.
+
+filename: Regulation (EU) No 386/2012 on the enforcement of IP rights, including the assembling of public and private-sector representatives as a European Observatory
+context: Article 7(1)
+question: What must the Office draw up annually in line with the Union's policies and priorities in the field of protection of intellectual property rights?
+answer: An annual work programme that prioritizes the activities under this Regulation and for the meetings of the Observatory.
+
+filename: Regulation (EU) No 386/2012 on the enforcement of IP rights, including the assembling of public and private-sector representatives as a European Observatory
+context: Article 7(3)(e)
+question: Besides reviewing main activities and achieved results, what else should the management report contain?
+answer: Observations on the enforcement of intellectual property rights and potential future policies and strategies.
+
+filename: Regulation (EU) No 386/2012 on the enforcement of IP rights, including the assembling of public and private-sector representatives as a European Observatory
+context: Article 8(1)
+question: By when should the Commission adopt a report evaluating the application of this Regulation?
+answer: By 6 June 2017.
+
+filename: Regulation (EU) No 386/2012 on the enforcement of IP rights, including the assembling of public and private-sector representatives as a European Observatory
+context: Article 8(2)
+question: What is the primary focus of the evaluation report by the Commission?
+answer: Its impact on the enforcement of intellectual property rights in the internal market.
+
+filename: Regulation (EU) No 386/2012 on the enforcement of IP rights, including the assembling of public and private-sector representatives as a European Observatory
+context: Article 2(1)(e)
+question: How does the Office aim to enhance the expertise of individuals involved in the enforcement of intellectual property rights?
+answer: By offering appropriate training measures.
+
+filename: Regulation (EU) No 386/2012 on the enforcement of IP rights, including the assembling of public and private-sector representatives as a European Observatory
+context: Article 2(2)(h)
+question: What does the Office aim to develop in consultation with the Member States?
+answer: Programmes for providing technical assistance to third countries.
+
+filename: Regulation (EU) No 386/2012 on the enforcement of IP rights, including the assembling of public and private-sector representatives as a European Observatory
+context: Article 4(7)
+question: What information regarding meetings of the Observatory is made publicly available?
+answer: The names of representatives attending, the agenda, and the minutes of the meetings.
+
+filename: Regulation (EU) No 386/2012 on the enforcement of IP rights, including the assembling of public and private-sector representatives as a European Observatory
+context: Article 5(1)(c)
+question: Apart from statistical data, what other important information should Member States inform the Office of concerning intellectual property rights?
+answer: Important case-law.
+
+filename: Regulation (EU) No 386/2012 on the enforcement of IP rights, including the assembling of public and private-sector representatives as a European Observatory
+context: Article 6(2)
+question: What authority does the President of the Office have regarding the necessary administrative instructions?
+answer: To publish the notices necessary for the fulfilment of all tasks entrusted to the Office.
+
+filename: Regulation (EU) No 386/2012 on the enforcement of IP rights, including the assembling of public and private-sector representatives as a European Observatory
+context: Article 7(2)
+question: Who is the annual work programme submitted to for information?
+answer: The Office's Administrative Board.
+
+filename: Regulation (EU) No 386/2012 on the enforcement of IP rights, including the assembling of public and private-sector representatives as a European Observatory
+context: Article 7(3)(d)
+question: Besides an overall assessment, what else does the management report include concerning the Office's tasks?
+answer: An overview of the activities the Office intends to undertake in the future.
+
+filename: Regulation (EU) No 386/2012 on the enforcement of IP rights, including the assembling of public and private-sector representatives as a European Observatory
+context: Article 8(3)
+question: Whom does the Commission consult when preparing the evaluation report?
+answer: The Office, the Member States, and the representatives meeting as the Observatory.
+
+filename: Regulation (EU) No 386/2012 on the enforcement of IP rights, including the assembling of public and private-sector representatives as a European Observatory
+context: Article 8(4)
+question: After transmitting the evaluation report, what does the Commission do as part of the evaluation process?
+answer: Undertakes a broad consultation among stakeholders on the evaluation report.
+
+filename: Regulation (EU) No 386/2012 on the enforcement of IP rights, including the assembling of public and private-sector representatives as a European Observatory
+context: Article 9
+question: When does this Regulation enter into force after its publication?
+answer: On the twentieth day following its publication in the Official Journal of the European Union.
+
+filename: Regulation EU No 5932008  on the law applicable to contractual obligations
+context: regulation (ec) no 593/2008 of the european parliament and of the council of 17 june 2008 on the law applicable to contractual obligations (rome i)
+question:what is the title and subject of regulation (ec) no 593/2008?
+answer:the title of regulation (ec) no 593/2008 is "on the law applicable to contractual obligations (rome i)." it concerns the rules governing the law applicable to contractual obligations in the european union.
+
+filename: Regulation EU No 5932008  on the law applicable to contractual obligations
+context:regulation (ec) no 593/2008, commonly referred to as rome i, is a regulation adopted by the european parliament and the council. it aims to establish uniform rules for determining the law applicable to contractual obligations in situations involving a cross-border element within the european union.
+question:what is the purpose of regulation (ec) no 593/2008, also known as rome i?
+answer:the purpose of regulation (ec) no 593/2008, or rome i, is to provide uniform rules within the european union for determining the applicable law concerning contractual obligations in cross-border situations.
+
+filename: Regulation EU No 5932008  on the law applicable to contractual obligations
+context:regulation (ec) no 593/2008 emphasizes the importance of predictability and certainty in determining the applicable law for contractual obligations within the internal market of the european union. it aligns with other regulations, such as regulation (ec) no 44/2001 (brussels i) and regulation (ec) no 864/2007 (rome ii), to ensure consistency in legal matters across member states.
+question:which regulations does regulation (ec) no 593/2008 (rome i) seek to maintain consistency with?
+answer:regulation (ec) no 593/2008, known as rome i, aims to maintain consistency with other regulations such as regulation (ec) no 44/2001 (brussels i) and regulation (ec) no 864/2007 (rome ii) in matters related to contractual obligations and jurisdiction within the european union.
+
+filename: Regulation EU No 5932008  on the law applicable to contractual obligations
+context:regulation (ec) no 593/2008 addresses various aspects, including the freedom of parties to choose the applicable law, exclusive jurisdiction agreements, and the incorporation of non-state laws or international conventions into contracts. it also defines rules for determining applicable law when there is no explicit choice made by the parties involved.
+question:what aspects of contractual obligations does regulation (ec) no 593/2008 cover?
+answer:regulation (ec) no 593/2008, or rome i, covers several aspects of contractual obligations. These include parties' freedom to choose the applicable law, exclusive jurisdiction agreements, the incorporation of non-state laws or international conventions, and rules for determining applicable law in the absence of explicit choice by the involved parties.
+
+filename: Regulation EU No 5932008  on the law applicable to contractual obligations
+context:regulation (ec) no 593/2008 establishes rules for determining the applicable law based on factors such as the parties' choice, habitual residence, and the country most closely connected to the contract. It also accounts for specific situations like consumer contracts, insurance contracts, and contracts involving weaker parties.
+question:what factors does regulation (ec) no 593/2008 consider in determining the applicable law for contracts?
+answer:regulation (ec) no 593/2008 considers various factors in determining the applicable law for contracts. These include the parties' choice, habitual residence, the country most closely connected to the contract, and specific situations such as consumer contracts, insurance contracts, and contracts involving weaker parties.
+
+filename: Regulation EU No 5932008  on the law applicable to contractual obligations
+context:Regulation (EC) No 593/2008, commonly known as Rome I, is a legislative act enacted by the European Parliament and the Council. It aims to establish uniform rules to determine which law applies to contractual obligations in situations involving cross-border elements within the European Union (EU).
+question:What is the primary objective of Regulation (EC) No 593/2008, also called Rome I?
+answer:The main goal of Regulation (EC) No 593/2008, known as Rome I, is to create consistent and predictable rules for ascertaining the applicable law concerning contractual obligations in cross-border situations within the European Union.
+
+filename: Regulation EU No 5932008  on the law applicable to contractual obligations
+context:Regulation (EC) No 593/2008 is aligned with other regulations, such as Regulation (EC) No 44/2001 (Brussels I) and Regulation (EC) No 864/2007 (Rome II), ensuring coherence in legal matters across EU member states. It emphasizes the significance of certainty and predictability in determining applicable law in contractual matters within the internal market of the European Union.
+question:How does Regulation (EC) No 593/2008 (Rome I) maintain consistency in legal matters within the European Union?
+answer:Regulation (EC) No 593/2008, known as Rome I, maintains consistency in legal matters within the European Union by aligning itself with other regulations like Regulation (EC) No 44/2001 (Brussels I) and Regulation (EC) No 864/2007 (Rome II). It emphasizes the importance of certainty and predictability in determining applicable law in contractual matters across EU member states.
+
+filename: Regulation EU No 5932008  on the law applicable to contractual obligations
+context:Regulation (EC) No 593/2008 covers various aspects related to contractual obligations, encompassing the freedom of parties to select applicable law, exclusive jurisdiction agreements, and the inclusion of non-state laws or international conventions into contracts. It defines rules for determining applicable law when parties do not explicitly choose.
+question:What does Regulation (EC) No 593/2008 (Rome I) encompass in terms of contractual obligations?
+answer:Regulation (EC) No 593/2008, also known as Rome I, encompasses multiple aspects of contractual obligations. These include parties' freedom to choose applicable law, exclusive jurisdiction agreements, the incorporation of non-state laws or international conventions, and guidelines for determining applicable law when parties do not explicitly select one.
+
+filename: Regulation EU No 5932008  on the law applicable to contractual obligations
+context: regulation (EC) No 593/2008 considers several factors in determining the applicable law for contracts. These include parties' choice, habitual residence, the country most closely connected to the contract, and specific scenarios like consumer contracts, insurance contracts, and contracts involving weaker parties.
+question:What factors does Regulation (EC) No 593/2008 (Rome I) take into account when determining the applicable law for contracts?
+answer:Regulation (EC) No 593/2008, or Rome I, considers various factors when determining the applicable law for contracts. These factors include parties' choice, habitual residence, the country most closely connected to the contract, and specific situations such as consumer contracts, insurance contracts, and contracts involving weaker parties.
+
+
+
