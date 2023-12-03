@@ -24,7 +24,7 @@ question: How does the participation of each department and subsidiary contribut
 answer: Each department and subsidiary is responsible for participating in the inventory, declaration, and updating of processing operations by transmitting its personal data processing registration to the DPO at dpo@mane.com. This involvement is crucial for keeping the mapping current.
 
 filename: PD FLASH 6 - Record of processing activities
-context:"In order to keep this mapping of personal data processed by the Mane Group up to date, the participation of each department and each subsidiary in the inventory, declaration and updating of processing operations is fundamental. It is therefore up to each service or subsidiary, through its DP Coordinator, to transmit its personal data processing registration to the DPO at the address dpo@mane.com, using the validation procedure for the processing of personal data file (as an attachment for reminder)."
+context: "In order to keep this mapping of personal data processed by the Mane Group up to date, the participation of each department and each subsidiary in the inventory, declaration and updating of processing operations is fundamental. It is therefore up to each service or subsidiary, through its DP Coordinator, to transmit its personal data processing registration to the DPO at the address dpo@mane.com, using the validation procedure for the processing of personal data file (as an attachment for reminder)."
 question: What is the role of the DP Coordinator in the context of the Personal Data Processing Register?
 answer: The DP Coordinator, representing each service or subsidiary, is responsible for transmitting its personal data processing registration to the DPO at dpo@mane.com. They play a crucial role in the validation procedure for the processing of personal data file.
 
@@ -704,7 +704,7 @@ question: How to put successive insert into the notebook ?
 answer: For two successive inserts, the second must be affixed below the other (or on two successive pages) and not side by side. Each taped or glued insert must be signed and dated by both the writer and the witness (each signature should traverse at least one of the seams between the insert and the support page). Other than the aforementioned dates and signatures, no other handwritten annotations on the insert are permitted.
 
 filename: Questions that can be added IP + LEGAL
-context:"If the need for a later entry or amendment arises, it is advisable to use unmarked section of the page immediately below, and particularly point out the passage(s) concerned. Where no such unmarked section is available, one should make the entry/amendment on a subsequent page, and record the subsequent page number on the instant page. An arrow, asterisk, etc. can be used to precisely identify the section being amended or corrected."
+context: "If the need for a later entry or amendment arises, it is advisable to use unmarked section of the page immediately below, and particularly point out the passage(s) concerned. Where no such unmarked section is available, one should make the entry/amendment on a subsequent page, and record the subsequent page number on the instant page. An arrow, asterisk, etc. can be used to precisely identify the section being amended or corrected."
 question: Would it be possible to add information to the laboratory notebook or to make an amendment? 
 answer: If the need for a later entry or amendment arises, it is advisable to use unmarked section of the page immediately below, and particularly point out the passage(s) concerned. Where no such unmarked section is available, one should make the entry/amendment on a subsequent page, and record the subsequent page number on the instant page. An arrow, asterisk, etc. can be used to precisely identify the section being amended or corrected.
 
@@ -890,99 +890,332 @@ filename: Regional patent organizations
 context: "Main non-PCT contracting states: AR(Argentina)"
 question: Which is one of the main non-PCT contracting states listed in the document?
 answer: Argentina (AR) is mentioned as one of the main non-PCT contracting states in the document.
+filename: Presentation Patents for Research and Devt
+context: "Trade marks are identified through their distinctive association with products or services, and they may be used and/or registered for legal protection."
+question: How can trade marks be identified?
+answer: Trade marks are identified through their distinctive association with products or services, and they may be used and/or registered for legal protection.
 
 filename: Presentation Patents for Research and Devt
-context: "Patents: it is a give and take system"
-question: what are Patents ?
-answer: Patents: it is a give and take system
+context: "Patents are granted to protect new inventions, and the protection involves an application and examination process."
+question: How are patents related to new inventions?
+answer: Patents are granted to protect new inventions, and the protection involves an application and examination process.
 
 filename: Presentation Patents for Research and Devt
-context: ""
-question:
-answer:
+context: "Trade secrets must be kept confidential, and reasonable efforts should be made to maintain their secrect."
+Question: Does trade secrets protection require efforts to maintain secrect?
+Answer: Trade secrets must be kept confidential, and reasonable efforts should be made to maintain their secrect.
 
 filename: Presentation Patents for Research and Devt
-context: ""
-question:
-answer:
+context: "Copyright protection exists automatically once a work is created."
+Question: Is the existence of copyright automatic?
+Answer: Copyright protection exists automatically once a work is created.
 
 filename: Presentation Patents for Research and Devt
-context: ""
-question:
-answer:
+context: "Trade secrets can encompass a wide range of valuable information not known to the public."
+Question: Can trade secrets include various types of information?
+Answer: Trade secrets can encompass a wide range of valuable information not known to the public.
 
 filename: Presentation Patents for Research and Devt
-context: ""
-question:
-answer:
+context: "Registered designs are protected through a formal registration process."
+Question: What is the process for protecting registered designs?
+Answer: Registered designs are protected through a formal registration process.
 
 filename: Presentation Patents for Research and Devt
-context: ""
-question:
-answer:
+context: "The legal right associated with new inventions is a patent. It is obtained through the application and examination process."
+Question: What is the legal right associated with new inventions, and how is it obtained?
+Answer: The legal right associated with new inventions is a patent. It is obtained through the application and examination process.
 
 filename: Presentation Patents for Research and Devt
-context: ""
-question:
-answer:
+context: "Original creative or artistic forms are automatically protected under copyright."
+Question: What type of creations are automatically protected under copyright?
+Answer: Original creative or artistic forms are automatically protected under copyright.
 
 filename: Presentation Patents for Research and Devt
-context: ""
-question:
-answer:
+context: "Distinctive identifications of products or services are protected through trademarks. The key requirement is the use and/or registration of the trademark."
+Question: How are distinctive identifications of products or services protected, and what is the key requirement?
+Answer: Distinctive identifications of products or services are protected through trademarks. The key requirement is the use and/or registration of the trademark.
 
 filename: Presentation Patents for Research and Devt
-context: ""
-question:
-answer:
+context: "The legal protection for the external appearance of a product is provided through registered designs. It is acquired through the registration process."
+Question: What is the legal protection for the external appearance of a product, and how is it acquired?
+Answer: The legal protection for the external appearance of a product is provided through registered designs. It is acquired through the registration process.
 
 filename: Presentation Patents for Research and Devt
-context: ""
-question:
-answer:
+context: "Trade secrets refer to valuable information not known to the public. The key condition for maintaining their protection is making reasonable efforts to keep them secret."
+Question: Define trade secrets and explain the key condition for maintaining their protection.
+Answer: Trade secrets refer to valuable information not known to the public. The key condition for maintaining their protection is making reasonable efforts to keep them secret.
 
 filename: Presentation Patents for Research and Devt
-context: ""
-question:
-answer:
+context: "Industrial property rights serve as legal protections for various forms of intellectual property, safeguarding innovations and creations in the business and commercial domain."
+Question: What is the purpose of industrial property rights?
+Answer: Industrial property rights serve as legal protections for various forms of intellectual property, safeguarding innovations and creations in the business and commercial domain.
 
-filename: Presentation - Global Laboratory Notebook Policy - NOV 2017
-context: ""
-question: 
-answer:
+filename: Presentation Patents for Research and Devt
+context: "Patents are legal rights granted to inventors for new inventions. They provide exclusive rights to the inventor, preventing others from making, using, or selling the patented invention for a specified period. Patents are obtained through a formal application and examination process."
+Question: How do patents work, and what are they used for?
+Answer: Patents are legal rights granted to inventors for new inventions. They provide exclusive rights to the inventor, preventing others from making, using, or selling the patented invention for a specified period. Patents are obtained through a formal application and examination process.
 
-filename: Presentation - Global Laboratory Notebook Policy - NOV 2017
-context: ""
-question: 
-answer:
+filename: Presentation Patents for Research and Devt
+context: "Trademarks serve as distinctive identifiers for products or services, distinguishing them from others in the market. They can be protected through use in commerce and/or formal registration."
+Question: In what way do trademarks function, and why are they important?
+Answer: Trademarks serve as distinctive identifiers for products or services, distinguishing them from others in the market. They can be protected through use in commerce and/or formal registration.
 
-filename: Presentation - Global Laboratory Notebook Policy - NOV 2017
-context: ""
-question: 
-answer:
+filename: Presentation Patents for Research and Devt
+context: "Registered designs protect the external appearance of a product. To obtain protection, one must go through a formal registration process. This helps prevent others from using similar designs for their products, offering a competitive edge in the market."
+Question: What is the significance of registered designs, and how are they acquired?
+Answer: Registered designs protect the external appearance of a product. To obtain protection, one must go through a formal registration process. This helps prevent others from using similar designs for their products, offering a competitive edge in the market.
 
-filename: Presentation - Global Laboratory Notebook Policy - NOV 2017
-context: ""
-question: 
-answer:
+filename: Presentation Patents for Research and Devt
+context: "Trade secrets encompass valuable information not known to the public. To safeguard them, owners must take reasonable efforts to keep the information secret. Unlike patents, copyrights, and trademarks, trade secrets rely on maintaining confidentiality rather than formal registration."
+Question: What defines trade secrets, and how are they safeguarded?
+Answer: Trade secrets encompass valuable information not known to the public. To safeguard them, owners must take reasonable efforts to keep the information secret. Unlike patents, copyrights, and trademarks, trade secrets rely on maintaining confidentiality rather than formal registration.
 
-filename: Presentation - Global Laboratory Notebook Policy - NOV 2017
-context: ""
-question: 
-answer:
+filename: Presentation Patents for Research and Devt
+context: "The patent system roles are :  Encourage technological innovation by rewarding intellectual creativity; Promote competition and investment;  Encourage dissemination of information; Promote technology transfer."
+Question: What are the roles of the patent system?
+Answer: The patent system roles are :  Encourage technological innovation by rewarding intellectual creativity; Promote competition and investment;  Encourage dissemination of information; Promote technology transfer.
 
-filename: Presentation - Global Laboratory Notebook Policy - NOV 2017
-context: ""
-question: 
-answer:
+filename: Presentation Patents for Research and Devt
+context: "In providing protection for the invention to the patent owner, patents provide
+incentives to individuals by offering them recognition for their creativity and the
+possibility of obtaining financial rewards if they commercialize or exploit their
+inventions"
+Question: How does the patent system contribute to Encourage technological innovation by rewarding intellectual creativity?
+Answer: The patent system serves to encourage technological innovation by providing protection for inventions. This encourages individuals to pursue intellectual creativity by offering recognition and the potential for financial rewards if they commercialize or exploit their inventions.
 
-filename: Presentation - Global Laboratory Notebook Policy - NOV 2017
-context: ""
-question: 
-answer:
+filename: Presentation Patents for Research and Devt
+context: "In developing new or improved products or processes by encouraging research
+and development"
+Question: How does the patent system contribute to promoting competition and investment?
+Answer: The patent system promotes competition and investment by incentivizing research and development. Individuals and companies are encouraged to invest in developing new or improved products and processes, fostering innovation within industries.
 
-filename: Presentation - Global Laboratory Notebook Policy - NOV 2017
-context: ""
-question: 
-answer:
+filename: Presentation Patents for Research and Devt
+context: "Because information disclosed in patents is published and that may be of benefit to society"
+Question: In what way does the patent system facilitate the dissemination of information?
+Answer: The patent system encourages the dissemination of information because the details of patented inventions are published. This information, made public through patents, can benefit society by providing insights into technological advancements and breakthroughs.
 
+filename: Presentation Patents for Research and Devt
+context: "Because anyone can find patented technologies that they may want to get access
+to and use themselves"
+Question: How does the patent system play a role in promoting technology transfer?
+Answer: The patent system promotes technology transfer by allowing anyone to access and use patented technologies. This openness enables individuals or entities to find patented technologies that they may want to acquire or use for their own purposes, fostering broader technological adoption and development.
+
+filename: Presentation Patents for Research and Devt
+context: "Prevent others from making, using, offering for sale, selling or importing
+infringing products in the country where the patent was granted. LIMITED MONOPOLY. The patent does not grant the right to use the invention!"
+Question: What rights does a patent confer in terms of preventing infringement?
+Answer: A patent grants the patent owner the right to prevent others from making, using, offering for sale, selling, or importing infringing products in the country where the patent was granted, establishing a form of limited monopoly.
+
+filename: Presentation Patents for Research and Devt
+context: "Prevent others from making, using, offering for sale, selling or importing
+infringing products in the country where the patent was granted. LIMITED MONOPOLY. The patent does not grant the right to use the invention! PATENT = RIGHT TO FORBID, NOT TO EXPLOIT"
+Question: What is the nature of the monopoly granted by a patent?
+Answer: The monopoly granted by a patent is limited in scope. While it prevents others from engaging in certain activities related to the patented invention, it does not provide the right to use the invention. A patent is essentially a right to forbid, not to exploit the invention.
+
+filename: Presentation Patents for Research and Devt
+context: "For up to 20 years from the date of filing of the patent application."
+Question: What is the duration of the rights conferred by a patent?
+Answer: The rights conferred by a patent last for up to 20 years from the date of filing of the patent application. This limited duration allows for a balance between rewarding inventors and ensuring that inventions eventually enter the public domain.
+
+filename: Presentation Patents for Research and Devt
+context: "Right to assign or transfer ownership of a patent and to conclude licensing
+contracts."
+Question: Apart from preventing infringement, what other rights does a patent owner have?
+Answer: In addition to preventing infringement, a patent owner has the right to assign or transfer ownership of the patent. Furthermore, they can enter into licensing contracts, allowing others to use the patented invention under specified terms.
+
+filename: Presentation Patents for Research and Devt
+context: "Presumption of validity of a granted patent until it is challenged in a court."
+Question: How does the legal system view the validity of a granted patent?
+Answer: A granted patent carries a presumption of validity until it is challenged in a court. This means that, by default, a patent is considered valid and enforceable, but its validity can be contested through legal proceedings.
+
+filename: Presentation Patents for Research and Devt
+context: "The following are not considered to be inventions for the purposes of granting
+patents (notably in Europe): Discoveries, scientific theories and mathematical methods; Aesthetic creations; Schemes, rules and methods for performing mental acts, playing games or doing business, and programs for computers; Presentations of information."
+Question: What falls outside the scope of patentability according to European standards (Cannot be patented)? 
+Answer: The following are not considered inventions for the purpose of granting patents in Europe: discoveries, scientific theories, and mathematical methods; aesthetic creations; schemes, rules, and methods for mental acts, playing games, or doing business, and computer programs; presentations of information.
+
+filename: Presentation Patents for Research and Devt
+context: "Inventions whose commercial exploitation would be contrary to
+"ordre public" or morality.Plant or animal varieties or essentially biological processes
+for the production of plants or animals. Methods for treatment of the human or animal body by surgery or therapy and diagnostic methods practised on the human or animal body. This applies only if the patent claim relates to that subject-matter or activities "as such"."
+Question: What are the criteria for patent ineligibility in terms of morality and public order(Cannot be patented)? 
+Answer: Inventions whose commercial exploitation would be contrary to "ordre public" or morality are not eligible for patents. Additionally, plant or animal varieties or essentially biological processes for their production are excluded. Methods for the treatment of the human or animal body by surgery or therapy, as well as diagnostic methods, are ineligible unless the patent claim relates to that subject matter or activities "as such."
+
+filename: Presentation Patents for Research and Devt
+context: "A patent claim that includes a mix of both patentable, technical, and excluded,
+non-technical, subject-matter can be regarded as an invention and may be
+patented after all."
+Question: Can a patent claim that includes a mix of both patentable and excluded subject matter be granted(Cannot be patented)? 
+Answer: A patent claim that includes a combination of patentable, technical, and excluded, non-technical, subject matter can be regarded as an invention and may be granted a patent. However, this applies only if the patent claim relates to the subject matter or activities "as such," demonstrating a balance between patentable and non-patentable elements. 
+
+filename: Presentation Patents for Research and Devt
+context: "Patents are granted for any invention whether the invention is a product or a
+process, e.g. process of manufacturing something, in "all fields of technology”"
+Question: What types of inventions are eligible for patents?
+Answer: Patents can be granted for any invention, whether it is a product or a process, covering "all fields of technology." This includes inventions like manufacturing processes. 
+
+filename: Presentation Patents for Research and Devt
+context: "An invention is a technical solution to a technical problem."
+Question: How is an invention defined in the context of patentability?
+Answer: An invention is defined as a technical solution to a technical problem.
+
+filename: Presentation Patents for Research and Devt
+context: "Provided that said invention is compliant with the 3 conditions of patentability
+which are: Novelty / anticipation (US terminology); Inventive step / non-obviousness; Industrial application / utility"
+Question: What are the three primary conditions of patentability?
+Answer: The three conditions of patentability are novelty (anticipation in US terminology), inventive step (non-obviousness), and industrial application (utility). For a patent to be granted, the invention must meet all three of these criteria.
+
+filename: Presentation Patents for Research and Devt
+context: "2 additional conditions: Enablement; Clarity / definiteness"
+Question: Are there additional conditions that an invention must meet to be eligible for a patent?
+Answer: Yes, in addition to the primary conditions, there are two additional conditions for patentability. These are enablement, ensuring that the invention is described in a manner that enables a person skilled in the art to carry it out, and clarity or definiteness, requiring a clear and well-defined description of the invention. These conditions contribute to the overall patentability of an invention.
+
+filename: Presentation Patents for Research and Devt
+context: "In Europe and in the main countries, an invention must be new at the date of
+filing a patent application (absolute novelty). An invention shall be considered
+"new" if it does not form part of the "state of the art"."
+Question: What is the requirement for novelty in the context of patent applications in Europe and other major countries?
+Answer: In Europe and many other countries, an invention must be new at the time of filing a patent application, adhering to the principle of absolute novelty. An invention is considered "new" if it does not form part of the "state of the art."
+
+filename: Presentation Patents for Research and Devt
+context: "State of the art,  means everything made available to the public
+(written or oral description, by use, or in any other way) before the filing date of
+the patent application."
+Question: What does the term "state of the art" mean in the context of patent law?
+Answer: The "state of the art" refers to everything made available to the public, whether through written or oral description, use, or any other means, before the filing date of the patent application. This encompasses existing knowledge and technology relevant to the invention.
+
+filename: Presentation Patents for Research and Devt
+context: "There must have been no public disclosure of an invention before the filing date of the patent application.So keep your invention confidential!"
+Question: What is the significance of public disclosure concerning the novelty of an invention?
+Answer: To maintain novelty, there must be no public disclosure of the invention before the filing date of the patent application. Public disclosure includes any information made available to the public, and keeping the invention confidential is crucial to meeting the requirement of novelty.
+
+filename: Presentation Patents for Research and Devt
+context: "It is essential to avoid any publication prior to filing, including articles, press releases, conference presentations, posters, proceedings, or blog entries that disclose details of the invention. No sale of products incorporating the invention prior to filing, no samples, No lecture or presentation prior to filing except under a non-disclosure agreement (NDA),File before others do!"
+Question: What is a crucial consideration when contemplating filing a patent application?
+Answer: It is essential to avoid any publication prior to filing, including articles, press releases, conference presentations, posters, proceedings, or blog entries that disclose details of the invention. No sale of products incorporating the invention prior to filing, no samples, No lecture or presentation prior to filing except under a non-disclosure agreement (NDA)and stop file before others do!
+
+filename: Presentation Patents for Research and Devt
+context: "For an invention to be patentable, it must possess an inventive step. This means that the invention must bring a solution to a technical problem and should not be obvious to a person skilled in the art, who is considered knowledgeable in the relevant field."
+Question: What is the requirement for inventive step in the context of patentability?
+Answer: For an invention to be patentable, it must possess an inventive step. This means that the invention must bring a solution to a technical problem and should not be obvious to a person skilled in the art, who is considered knowledgeable in the relevant field.
+
+filename: Presentation Patents for Research and Devt
+context: "An invention must be capable of industrial application, meaning it must have utility. This condition ensures that the invention is made or used in any type of industry, preventing the patenting of mere theories or concepts without practical application."
+Question: What is the utility requirement for patentability?
+Answer: An invention must be capable of industrial application, meaning it must have utility. This condition ensures that the invention is made or used in any type of industry, preventing the patenting of mere theories or concepts without practical application.
+
+filename: Presentation Patents for Research and Devt
+context: "A patent application must comprise : Bibliographic information (inventor, patent assignee, date of filing, technology class, etc.); Abstract (around 150 words as a search aid for other patent applications); Description comprise (a summary of prior art (i.e. the technology known to exist); the problem that the invention is supposed to solve; an explanation and at least one way of carrying out the invention.); Claims (to define the scope of the aimed patent protection.); Drawings (to illustrate the claims and description.)"
+question: what is the structure of a patent application ?
+answer: A patent application must comprise : Bibliographic information (inventor, patent assignee, date of filing, technology class, etc.); Abstract (around 150 words as a search aid for other patent applications); Description comprise (a summary of prior art (i.e. the technology known to exist); the problem that the invention is supposed to solve; an explanation and at least one way of carrying out the invention.); Claims (to define the scope of the aimed patent protection.); Drawings (to illustrate the claims and description.)
+
+filename: Presentation Patents for Research and Devt
+context: "Essential bibliographic information includes the publication date, publication number and status, filing number, priority date, potential geographical scope, assignee, inventors, and abstract. Additionally, patent status classification is crucial."
+Question: What bibliographic information is essential when considering a patent application?
+Answer: Essential bibliographic information includes the publication date, publication number and status, filing number, priority date, potential geographical scope, assignee, inventors, and abstract. Additionally, patent status classification is crucial.
+
+filename: Presentation Patents for Research and Devt
+context: "In patent documents, A refers to patent applications, while B designates granted patents. Understanding these classifications helps in distinguishing between documents at different stages of the patent process."
+Question: Can you explain the significance of A and B classifications in patent documents?
+Answer: In patent documents, A refers to patent applications, while B designates granted patents. Understanding these classifications helps in distinguishing between documents at different stages of the patent process.
+
+filename: Presentation Patents for Research and Devt
+context: " A documents
+A1 European patent appl. published with search report
+A2 European patent appl. published without the search report (not available at the publication date)
+A3 Separate publication of the European search report
+A4 Supplementary search report 
+Corrected A documents
+A8 Corrected title page of an A document, i.e. A1 or A2
+A9 Complete reprint of an A document, i.e. A1, A2 or A3
+B documents
+B1 European patent specification (granted patent)
+B2 New European patent specification (amended specification of a granted patent)
+B3 European patent specification after a limiting procedure
+Corrected B documents
+B8 Corrected title page of a B document, i.e. B1 or B2 document
+B9 Complete reprint of a B document, i.e. B1 or B2 document"
+Question: Give me all the patent status and classification ?
+Answer: A documents
+A1 European patent appl. published with search report
+A2 European patent appl. published without the search report (not available at the publication date)
+A3 Separate publication of the European search report
+A4 Supplementary search report 
+Corrected A documents
+A8 Corrected title page of an A document, i.e. A1 or A2
+A9 Complete reprint of an A document, i.e. A1, A2 or A3
+B documents
+B1 European patent specification (granted patent)
+B2 New European patent specification (amended specification of a granted patent)
+B3 European patent specification after a limiting procedure
+Corrected B documents
+B8 Corrected title page of a B document, i.e. B1 or B2 document
+B9 Complete reprint of a B document, i.e. B1 or B2 document
+
+filename: Presentation Patents for Research and Devt
+context: " Description of a patent application comprises at least:
+Part 1: identification of the prior art disclosed before the date of filing;
+Part 2: statements about the technical problem to be solved by the invention;
+Part 3: disclosure of the invention generally and in details, with the best mode. Must be
+done in the right way because if not, the claims might be not supported by the patent
+specification;
+Part 4: Examples. Description of at least one detailed embodiment of the invention that will
+allow the man skilled in the art to reproduce the invention. But one example is often
+insufficient;
+Part 5: the claims, i.e. the aimed scope of protection of the invention. Almost the more
+important part of a patent. Claims must be clear, concise and supported by the patent
+specification.
+Drawings are optional."
+Question: Describe the components of a Descriotion of a patent application ?
+Answer: Description of a patent application comprises at least:
+Part 1: identification of the prior art disclosed before the date of filing;
+Part 2: statements about the technical problem to be solved by the invention;
+Part 3: disclosure of the invention generally and in details, with the best mode. Must be
+done in the right way because if not, the claims might be not supported by the patent
+specification;
+Part 4: Examples. Description of at least one detailed embodiment of the invention that will
+allow the man skilled in the art to reproduce the invention. But one example is often
+insufficient;
+Part 5: the claims, i.e. the aimed scope of protection of the invention. Almost the more
+important part of a patent. Claims must be clear, concise and supported by the patent
+specification.
+Drawings are optional.
+
+filename: Presentation Patents for Research and Devt
+context: "National patent valid only in the country where it is granted; Non-nationals can also apply for a patent; One year of "priority" for subsequent applications."
+Question: What are the characteristics of national patents obtained through national patent offices?
+Answer:National Patent Offices: These grant patents valid only in the country where they are issued. Non-nationals can also apply, and there is a one-year "priority" window for subsequent applications.
+
+filename: Presentation Patents for Research and Devt
+context: "A "European patent" is equivalent to national patents in the countries for which it was granted; The applicant chooses the countries; The cost depends on the number of countries designated."
+Question: How does the European Patent Office (EPO) function, and what is the nature of a "European patent" obtained through this route?
+Answer: European Patent Office (EPO): A "European patent" obtained through the EPO is equivalent to national patents in the countries for which it was granted. Applicants choose the countries they want protection in, and the cost depends on the number of designated countries.
+
+filename: Presentation Patents for Research and Devt
+context: "Just one initial application for more than 140 contracting states; After the international phase, the international application leads to multiple national patent examination procedures; Costly patenting decisions can be delayed by up to 30-31 months after filing; No international patent, but an international patent application procedure; PCT application can be filed at a national patent office, EPO or WIPO"
+Question: What is the Patent Cooperation Treaty (PCT), and how does it simplify the patenting process for applicants?
+Answer: Patent Cooperation Treaty (PCT): The PCT allows for a single initial application covering more than 140 contracting states. After the international phase, the application leads to multiple national patent examination procedures. The PCT application can be filed at a national patent office, EPO, or WIPO.
+
+filename: Presentation Patents for Research and Devt
+context: "Examination on filing and formalities examination: Check of the formal requirements, attribution of a filing date and filing number.
+Search report: Drawing up of a search report that allows an appreciation of the patentability of the invention (novelty and inventive step) 9 months after application filing. Classification of the prior art documents as X (novelty), Y (inventive step), A (technological background)…
+Publication of application and search report: Publication 18 months after the patent filing date (or priority date).
+Substantive examination: Examination by the patent office by an Examiner. Discussion about the patentability of the claimed invention.
+Grant of the patent and validation: Choice of the countries where protection is effectively aimed between the 35 European countries"
+Question: What is involved in the European patent procedure for granting, and what are the key steps outlined in the document?
+Answer: European Patent Procedure for Granting: The procedure involves examination on filing and foalities examination, a search report to assess patentability, publication of the application and search report, substantive examination by a patent office examiner, and finally, the grant of the patent with the choice of countries for protection.
+
+filename: Presentation Patents for Research and Devt
+context: " PCT Procedure for Granting: The PCT procedure involves a possible prior patent application, PCT patent application, publication 18 months after the priority date, a decision on preliminary examination, and entry into the national/regional phase at 30-31 months after the first filing."
+Question: What are the steps in the PCT procedure for granting a patent, and how does it differ from direct entry into the national/regional phase?
+Answer: PCT Procedure for Granting: The PCT procedure involves a possible prior patent application, PCT patent application, publication 18 months after the priority date, a decision on preliminary examination, and entry into the national/regional phase at 30-31 months after the first filing.
+
+filename: Presentation Patents for Research and Devt
+context: "General Overview of the Procedure for One Invention: The procedure starts with a priority filing, followed by filing in countries outside PCT, the PCT filing, national phases of PCT, and finally, EP phase validations in chosen European countries, potentially leading to division or continuation applications."
+Question: Can you provide a general overview of the patent procedure for granting, considering one invention, and how it progresses through various phases?
+Answer: General Overview of the Procedure for One Invention: The procedure starts with a priority filing, followed by filing in countries outside PCT, the PCT filing, national phases of PCT, and finally, EP phase validations in chosen European countries, potentially leading to division or continuation applications.
+
+filename: Presentation Patents for Research and Devt
+context: "There are different routes to patent protection: National patent offices; European Patent Office (EPO); Patent Cooperation Treaty (PCT)"
+Question: What are the different routes for patent protection, and where can one file a patent application?
+Answer: There are various routes for patent protection, including national patent offices, the European Patent Office (EPO), and the Patent Cooperation Treaty (PCT). National patents are valid in the country where granted, while a European patent covers chosen countries, and the PCT allows for a single initial application for over 140 contracting states.
