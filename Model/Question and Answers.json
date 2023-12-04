@@ -322,5 +322,185 @@
         "context": "The document refers to an attached template of an information note.",
         "question": "What does the document say about the attached template of an information note?",
         "answer": "According to the document, an attached template of an information note is provided, which can be adapted to each type of treatment. This template is intended to be sent to the persons who need to be informed about the processing of their personal data."
+    },
+    {
+        "filename": "Mane Confidentiality Policy",
+        "context": "Access to the updated templates and to the central register listing all the confidentiality agreements issued in the Mane Group is restricted.",
+        "question": "What steps should be taken if someone does not visualize the register and templates in the Corporate/Legal&IP/Legal/Confidentiality sharepoint site?",
+        "answer": "If someone does not visualize the register and templates, it means they have not been given access. In such a case, they need to contact one of the persons having access in their department."
+    },
+    {
+        "filename": "Mane Confidentiality Policy",
+        "context": "Mane templates are to be used for establishing confidentiality agreements and must never be provided to a person outside of Mane without the details being FULLY COMPLETED AND REGISTERED first.",
+        "question": "What are the requirements before providing Mane templates to a person outside of Mane?",
+        "answer": "Details must be fully completed and registered before providing Mane templates to a person outside of Mane."
+    },
+    {
+        "filename": "Mane Confidentiality Policy",
+        "context": "Those templates are updated on-line here, and have to be used each time a new agreement is issued in order to always use the last available version.",
+        "question": "How often should Mane templates be used for establishing confidentiality agreements?",
+        "answer": "Mane templates should be used each time a new agreement is issued to always use the last available version."
+    },
+    {
+        "filename": "Mane Confidentiality Policy",
+        "context": "In case the confidentiality requirement is specific, for instance: audit, study analysis, toll manufacturing, due diligence, etc, please consult the Legal & IP Department.",
+        "question": "What should be done in case the confidentiality requirement is specific, such as for audit, study analysis, toll manufacturing, due diligence, etc?",
+        "answer": "Consult the Legal & IP Department and explain the particular reason for such requirements."
+    },
+    {
+        "filename": "Mane Confidentiality Policy",
+        "context": "Any person outside of Mane Group (client/customer/vendor/third party auditor, etc) will be provided accessibility/ visit to Mane’s facilities only upon signing the Facility Visitor Form.",
+        "question": "Under what conditions will a person outside of Mane Group be provided accessibility/visit to Mane’s facilities?",
+        "answer": "They will be provided accessibility/visit only upon signing the Facility Visitor Form."
+    },
+    {
+        "filename": "Mane Confidentiality Policy",
+        "context": "Each agreement draft must be registered as soon as it is issued (project stage) by the person who initiated such draft at Mane in order to be identified through a reference number.",
+        "question": "When should an agreement draft be registered, and who is responsible for registration?",
+        "answer": "An agreement draft must be registered as soon as it is issued, and the person who initiated the draft at Mane is responsible for registration."
+    },
+    {
+        "filename": "Mane Confidentiality Policy",
+        "context": "Once signed, a confidentiality agreement must be followed-up: (i) check its expiration date for a potential renewal, and (ii) check that the subject matter indeed covers the information we wish to disclose or are required to disclose.",
+        "question": "What steps should be taken once a confidentiality agreement is signed?",
+        "answer": "Check its expiration date for a potential renewal and ensure that the subject matter covers the information Mane wishes to disclose or is required to disclose."
+    },
+    {
+        "filename": "Mane Confidentiality Policy",
+        "context": "The parts highlighted in blue must be completed, the parts highlighted in yellow must be checked and/or adapted before being sent out.",
+        "question": "What must be done with the parts highlighted in blue and yellow in the confidentiality agreement templates?",
+        "answer": "The parts highlighted in blue must be completed, and the parts highlighted in yellow must be checked and/or adapted before being sent out. These colors are internal guidance only and should be deleted once completed, especially on the final signed document."
+    },
+    {
+        "filename": "Mane Confidentiality Policy",
+        "context": "Our templates are to be used in priority and by anticipation to any other template which could be submitted to us.",
+        "question": "What is the priority given to Mane templates in comparison to other templates?",
+        "answer": "Mane templates are to be used in priority and by anticipation to any other template submitted to us."
+    },
+    {
+        "filename": "Mane Confidentiality Policy",
+        "context": "In case of UD confidentiality agreement: (1) formula disclosure is permitted only for toxicological, safety and regulatory compliance evaluation purposes, and (2) the completed Appendix must be carefully checked before Mane’s signature.",
+        "question": "What are the conditions for formula disclosure in a UD confidentiality agreement?",
+        "answer": "Formula disclosure is permitted only for toxicological, safety, and regulatory compliance evaluation purposes in a UD confidentiality agreement. The completed Appendix must be carefully checked before Mane’s signature."
+    },
+    {
+        "filename": "Mane Confidentiality Policy",
+        "context": "If an agreement draft is no longer intended to be signed, the status of the form must be modified in the register through the modification of its status from « Draft » to « Abandoned » without deleting the agreement registration itself.",
+        "question": "What should be done if an agreement draft is no longer intended to be signed?",
+        "answer": "The status of the form must be modified in the register from « Draft » to « Abandoned » without deleting the agreement registration itself."
+    },
+    {
+        "filename": "Mane Confidentiality Policy",
+        "context": "It will be the responsibility of Mane’s representatives to ensure that the visitor duly provides all necessary details, signs and submits the Facility Visitor Form before entering the facility.",
+        "question": "Whose responsibility is it to ensure that a visitor provides all necessary details, signs, and submits the Facility Visitor Form before entering the facility?",
+        "answer": "It will be the responsibility of Mane’s representatives to ensure that the visitor duly provides all necessary details, signs, and submits the Facility Visitor Form before entering the facility."
+    },
+    {
+        "filename": "Mane Confidentiality Policy",
+        "context": "If in the Corporate/Legal&IP/Legal/Confidentiality sharepoint site, you do not visualize the register and the templates, it means that you have not been given access.",
+        "question": "What does it mean if someone does not visualize the register and templates in the Corporate/Legal&IP/Legal/Confidentiality sharepoint site?",
+        "answer": "It means that they have not been given access, and in such a case, they need to contact one of the persons having access in their department."
+    },
+    {
+        "filename": "Mane Confidentiality Policy",
+        "context": "Printing a scan of the agreement is not issuing a hard copy.",
+        "question": "What is the difference between printing a scan of the agreement and issuing a hard copy?",
+        "answer": "Printing a scan of the agreement is not issuing a hard copy."
+    },
+    {
+        "filename": "Nov. 2017 IP Basics for Sales",
+        "context": "INTELLECTUAL PROPERTY (IP) generally refers to creations of the mind, such as inventions; literary and artistic works; designs; symbols, names, and images used in commerce.",
+        "question": "What does INTELLECTUAL PROPERTY (IP) generally refer to?",
+        "answer": "INTELLECTUAL PROPERTY (IP) generally refers to creations of the mind, such as inventions; literary and artistic works; designs; symbols, names, and images used in commerce."
+    },
+    {
+        "filename": "Nov. 2017 IP Basics for Sales",
+        "context": "INTELLECTUAL PROPERTY (IP) is generally divided into two branches: 1. Copyrights and 2. Industrial Property. Industrial Property covers a range of subject areas, notably: 1. Trademarks 2. Registered designs 3. Trade secrets 4. Patents",
+        "question": "How is INTELLECTUAL PROPERTY (IP) generally divided?",
+        "answer": "INTELLECTUAL PROPERTY (IP) is generally divided into two branches: Copyrights and Industrial Property. Industrial Property covers a range of subject areas, notably Trademarks, Registered designs, Trade secrets, and Patents."
+    },
+    {
+        "filename": "Nov. 2017 IP Basics for Sales",
+        "context": "Protects original works of authorship, such as literary works, music, dramatic works, sculptural, pictorial and graphic works, sound recordings, artistic works, architectural works, and computer software.",
+        "question": "What does Copyright protect?",
+        "answer": "Copyright protects original works of authorship, such as literary works, music, dramatic works, sculptural, pictorial and graphic works, sound recordings, artistic works, architectural works, and computer software."
+    },
+    {
+        "filename": "Nov. 2017 IP Basics for Sales",
+        "context": "The right exists from the moment the work is created. To provide public notice of copyright, published works must be marked “©, date and owner”. If registered, certain statutory rights are available.",
+        "question": "When does the right to copyright exist?",
+        "answer": "The right to copyright exists from the moment the work is created. To provide public notice of copyright, published works must be marked “©, date and owner”. If registered, certain statutory rights are available."
+    },
+    {
+        "filename": "Nov. 2017 IP Basics for Sales",
+        "context": "A Registered Design is the ornamental or aesthetic aspect of an article. Ornamental and aesthetic aspect may depend on the shape, pattern or color of the article.",
+        "question": "What is a Registered Design?",
+        "answer": "A Registered Design is the ornamental or aesthetic aspect of an article. Ornamental and aesthetic aspect may depend on the shape, pattern, or color of the article."
+    },
+    {
+        "filename": "Nov. 2017 IP Basics for Sales",
+        "context": "Trade or Service Mark is a distinctive sign which identifies certain products or services as those produced or provided by a specific person, company or a group, allowing the consumer to distinguish them from goods or services of others.",
+        "question": "What is a Trade or Service Mark?",
+        "answer": "A Trade or Service Mark is a distinctive sign which identifies certain products or services as those produced or provided by a specific person, company or a group, allowing the consumer to distinguish them from goods or services of others."
+    },
+    {
+        "filename": "Nov. 2017 IP Basics for Sales",
+        "context": "TRADE SECRETS\nA Trade Secret is any confidential business information which provides an enterprise a competitive edge. Trade secrets encompass manufacturing or industrial secrets and any commercial secrets. The unauthorized use of such information by persons other than the holders regarded as an unfair practice and a violation of the trade secret.",
+        "question": "What is a Trade Secret?",
+        "answer": "A Trade Secret is any confidential business information which provides an enterprise a competitive edge. Trade secrets encompass manufacturing or industrial secrets and any commercial secrets. The unauthorized use of such information by persons other than the holders is regarded as an unfair practice and a violation of the trade secret."
+    },
+    {
+        "filename": "Nov. 2017 IP Basics for Sales",
+        "context": "PATENTS: GENERAL INFORMATION: ROLES OF THE PATENT SYSTEM\nEncourage technological innovation by rewarding intellectual creativity in providing protection for the invention to the patent owner, patents provide incentives to individuals by offering them recognition for their creativity and the possibility of obtaining financial rewards if they commercialize or exploit their inventions. Promote competition and investment in developing new or improved products or processes by encouraging research and development. Encourage dissemination of information because information disclosed in patents is published and that may be of benefit to society. Promote technology transfer because anyone can find patented technologies that they may want to get access to and use themselves.",
+        "question": "What are the roles of the patent system?",
+        "answer": "The roles of the patent system are to encourage technological innovation by rewarding intellectual creativity, provide protection for the invention to the patent owner, offer recognition and financial rewards for individuals who commercialize or exploit their inventions, promote competition and investment in developing new or improved products or processes, encourage dissemination of information by publishing patents, and promote technology transfer by making patented technologies accessible."
+    },
+    {
+        "filename": "Nov. 2017 IP Basics for Sales",
+        "context": "RIGHTS CONFERRED BY A PATENT: Prevent others from making, using, offering for sale, selling or importing infringing products in the country where the patent was granted.\nLIMITED MONOPOLY\nThe patent does not grant the right to use the invention!\nPATENT = RIGHT TO FORBID, NOT TO EXPLOIT\nFor up to 20 years from the date of filing of the patent application. Right to assign or transfer ownership of a patent and to conclude licensing contracts. Presumption of validity of a granted patent until it is challenged in a court.",
+        "question": "What rights are conferred by a patent?",
+        "answer": "A patent confers the right to prevent others from making, using, offering for sale, selling, or importing infringing products in the country where the patent was granted. It provides a limited monopoly, but it does not grant the right to use the invention. A patent is a right to forbid, not to exploit, for up to 20 years from the date of filing of the patent application. The patent owner has the right to assign or transfer ownership of the patent and to conclude licensing contracts. There is a presumption of validity of a granted patent until it is challenged in a court."
+    },
+    {
+        "filename": "Nov. 2017 IP Basics for Sales",
+        "context": "WHAT CANNOT BE PATENTED ?: The following are not considered to be inventions for the purposes of granting patents (notably in Europe): Discoveries, scientific theories and mathematical methods; Aesthetic creations; Schemes, rules and methods for performing mental acts, playing games or doing business, and programs for computers; Presentations of information Inventions whose commercial exploitation would be contrary to 'ordre public' or morality. Plant or animal varieties or essentially biological processes for the production of plants or animals. Methods for treatment of the human or animal body by surgery or therapy and diagnostic methods practised on the human or animal body. This applies only if the patent claim relates to that subject-matter or activities 'as such'. A patent claim that includes a mix of both patentable, technical, and excluded, non-technical, subject-matter can be regarded as an invention and may be patented after all.",
+        "question": "What cannot be patented?",
+        "answer": "The following cannot be patented: Discoveries, scientific theories, and mathematical methods; Aesthetic creations; Schemes, rules, and methods for performing mental acts, playing games, or doing business, and programs for computers; Presentations of information; Inventions whose commercial exploitation would be contrary to 'ordre public' or morality; Plant or animal varieties or essentially biological processes for the production of plants or animals; Methods for treatment of the human or animal body by surgery or therapy and diagnostic methods practised on the human or animal body. These apply only if the patent claim relates to that subject-matter or activities 'as such'. A patent claim that includes a mix of both patentable, technical, and excluded, non-technical, subject-matter can be regarded as an invention and may be patented after all."
+    },
+    {
+        "filename": "Nov. 2017 IP Basics for Sales",
+        "context": "WHAT CAN BE PATENTED ?: Patents are granted for any invention whether the invention is a product or a process, e.g. process of manufacturing something, in 'all fields of technology'. An invention is a technical solution to a technical problem. Provided that said invention is compliant with the 3 conditions of patentability which are: 1. NOVELTY / anticipation (US terminology) 2. INVENTIVE STEP / non-obviousness 3. INDUSTRIAL APPLICATION / utility 2 additional conditions: 1. Enablement 2. Clarity / definiteness",
+        "question": "What can be patented?",
+        "answer": "Patents are granted for any invention, whether the invention is a product or a process, in all fields of technology. An invention is a technical solution to a technical problem, provided that said invention is compliant with the 3 conditions of patentability: 1. NOVELTY / anticipation (US terminology) 2. INVENTIVE STEP / non-obviousness 3. INDUSTRIAL APPLICATION / utility. There are two additional conditions: 1. Enablement and 2. Clarity / definiteness."
+    },
+    {
+        "filename": "Nov. 2017 IP Basics for Sales",
+        "context": "TRADE SECRETS: A Trade Secret is any confidential business information which provides an enterprise a competitive edge. Trade secrets encompass manufacturing or industrial secrets and any commercial secrets. The unauthorized use of such information by persons other than the holders regarded as an unfair practice and a violation of the trade secret.",
+        "question": "Why is the unauthorized use of trade secrets considered unfair?",
+        "answer": "The unauthorized use of trade secrets is considered unfair because it violates the trade secret, which is any confidential business information providing a company a competitive edge."
+    },
+    {
+        "filename": "Nov. 2017 IP Basics for Sales",
+        "context": "PATENTS: GENERAL INFORMATION: ROLES OF THE PATENT SYSTEM\nEncourage technological innovation by rewarding intellectual creativity in providing protection for the invention to the patent owner, patents provide incentives to individuals by offering them recognition for their creativity and the possibility of obtaining financial rewards if they commercialize or exploit their inventions. Promote competition and investment in developing new or improved products or processes by encouraging research and development. Encourage dissemination of information because information disclosed in patents is published and that may be of benefit to society. Promote technology transfer because anyone can find patented technologies that they may want to get access to and use themselves.",
+        "question": "How does the patent system encourage technological innovation?",
+        "answer": "The patent system encourages technological innovation by rewarding intellectual creativity, providing protection for the invention to the patent owner, offering recognition and financial rewards for individuals who commercialize or exploit their inventions, promoting competition and investment in developing new or improved products or processes, encouraging research and development, disseminating information through published patents, and facilitating technology transfer."
+    },
+    {
+        "filename": "Nov. 2017 IP Basics for Sales",
+        "context": "RIGHTS CONFERRED BY A PATENT: Prevent others from making, using, offering for sale, selling or importing infringing products in the country where the patent was granted.\nLIMITED MONOPOLY\nThe patent does not grant the right to use the invention!\nPATENT = RIGHT TO FORBID, NOT TO EXPLOIT\nFor up to 20 years from the date of filing of the patent application. Right to assign or transfer ownership of a patent and to conclude licensing contracts. Presumption of validity of a granted patent until it is challenged in a court.",
+        "question": "What is the duration of the limited monopoly granted by a patent?",
+        "answer": "The limited monopoly granted by a patent lasts for up to 20 years from the date of filing of the patent application. During this time, the patent owner has the right to prevent others from making, using, offering for sale, selling, or importing infringing products in the country where the patent was granted."
+    },
+    {
+        "filename": "Nov. 2017 IP Basics for Sales",
+        "context": "WHAT CANNOT BE PATENTED ?: The following are not considered to be inventions for the purposes of granting patents (notably in Europe): Discoveries, scientific theories and mathematical methods; Aesthetic creations; Schemes, rules and methods for performing mental acts, playing games or doing business, and programs for computers; Presentations of information Inventions whose commercial exploitation would be contrary to 'ordre public' or morality. Plant or animal varieties or essentially biological processes for the production of plants or animals. Methods for treatment of the human or animal body by surgery or therapy and diagnostic methods practised on the human or animal body. This applies only if the patent claim relates to that subject-matter or activities 'as such'. A patent claim that includes a mix of both patentable, technical, and excluded, non-technical, subject-matter can be regarded as an invention and may be patented after all.",
+        "question": "What are some examples of things that cannot be patented?",
+        "answer": "Discoveries, scientific theories, and mathematical methods; aesthetic creations; schemes, rules, and methods for performing mental acts, playing games, or doing business, and programs for computers; presentations of information; inventions whose commercial exploitation would be contrary to 'ordre public' or morality; plant or animal varieties or essentially biological processes for the production of plants or animals; and methods for treatment of the human or animal body by surgery or therapy and diagnostic methods practised on the human or animal body cannot be patented."
+    },
+    {
+        "filename": "Nov. 2017 IP Basics for Sales",
+        "context": "WHAT CAN BE PATENTED ?: Patents are granted for any invention whether the invention is a product or a process, e.g. process of manufacturing something, in 'all fields of technology'. An invention is a technical solution to a technical problem. Provided that said invention is compliant with the 3 conditions of patentability which are: 1. NOVELTY / anticipation (US terminology) 2. INVENTIVE STEP / non-obviousness 3. INDUSTRIAL APPLICATION / utility 2 additional conditions: 1. Enablement 2. Clarity / definiteness",
+        "question": "What are the conditions of patentability for an invention?",
+        "answer": "The conditions of patentability for an invention are novelty/anticipation, inventive step/non-obviousness, and industrial application/utility. Two additional conditions are enablement and clarity/definiteness. An invention is a technical solution to a technical problem, and it can be a product or a process in all fields of technology."
     }
 ]
