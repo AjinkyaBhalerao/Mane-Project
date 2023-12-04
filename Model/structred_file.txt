@@ -24,7 +24,7 @@ question: How does the participation of each department and subsidiary contribut
 answer: Each department and subsidiary is responsible for participating in the inventory, declaration, and updating of processing operations by transmitting its personal data processing registration to the DPO at dpo@mane.com. This involvement is crucial for keeping the mapping current.
 
 filename: PD FLASH 6 - Record of processing activities
-context:"In order to keep this mapping of personal data processed by the Mane Group up to date, the participation of each department and each subsidiary in the inventory, declaration and updating of processing operations is fundamental. It is therefore up to each service or subsidiary, through its DP Coordinator, to transmit its personal data processing registration to the DPO at the address dpo@mane.com, using the validation procedure for the processing of personal data file (as an attachment for reminder)."
+context: "In order to keep this mapping of personal data processed by the Mane Group up to date, the participation of each department and each subsidiary in the inventory, declaration and updating of processing operations is fundamental. It is therefore up to each service or subsidiary, through its DP Coordinator, to transmit its personal data processing registration to the DPO at the address dpo@mane.com, using the validation procedure for the processing of personal data file (as an attachment for reminder)."
 question: What is the role of the DP Coordinator in the context of the Personal Data Processing Register?
 answer: The DP Coordinator, representing each service or subsidiary, is responsible for transmitting its personal data processing registration to the DPO at dpo@mane.com. They play a crucial role in the validation procedure for the processing of personal data file.
 
@@ -704,7 +704,7 @@ question: How to put successive insert into the notebook ?
 answer: For two successive inserts, the second must be affixed below the other (or on two successive pages) and not side by side. Each taped or glued insert must be signed and dated by both the writer and the witness (each signature should traverse at least one of the seams between the insert and the support page). Other than the aforementioned dates and signatures, no other handwritten annotations on the insert are permitted.
 
 filename: Questions that can be added IP + LEGAL
-context:"If the need for a later entry or amendment arises, it is advisable to use unmarked section of the page immediately below, and particularly point out the passage(s) concerned. Where no such unmarked section is available, one should make the entry/amendment on a subsequent page, and record the subsequent page number on the instant page. An arrow, asterisk, etc. can be used to precisely identify the section being amended or corrected."
+context: "If the need for a later entry or amendment arises, it is advisable to use unmarked section of the page immediately below, and particularly point out the passage(s) concerned. Where no such unmarked section is available, one should make the entry/amendment on a subsequent page, and record the subsequent page number on the instant page. An arrow, asterisk, etc. can be used to precisely identify the section being amended or corrected."
 question: Would it be possible to add information to the laboratory notebook or to make an amendment? 
 answer: If the need for a later entry or amendment arises, it is advisable to use unmarked section of the page immediately below, and particularly point out the passage(s) concerned. Where no such unmarked section is available, one should make the entry/amendment on a subsequent page, and record the subsequent page number on the instant page. An arrow, asterisk, etc. can be used to precisely identify the section being amended or corrected.
 
@@ -890,99 +890,423 @@ filename: Regional patent organizations
 context: "Main non-PCT contracting states: AR(Argentina)"
 question: Which is one of the main non-PCT contracting states listed in the document?
 answer: Argentina (AR) is mentioned as one of the main non-PCT contracting states in the document.
+filename: Presentation Patents for Research and Devt
+context: "Trade marks are identified through their distinctive association with products or services, and they may be used and/or registered for legal protection."
+question: How can trade marks be identified?
+answer: Trade marks are identified through their distinctive association with products or services, and they may be used and/or registered for legal protection.
 
 filename: Presentation Patents for Research and Devt
-context: "Patents: it is a give and take system"
-question: what are Patents ?
-answer: Patents: it is a give and take system
+context: "Patents are granted to protect new inventions, and the protection involves an application and examination process."
+question: How are patents related to new inventions?
+answer: Patents are granted to protect new inventions, and the protection involves an application and examination process.
 
 filename: Presentation Patents for Research and Devt
-context: ""
-question:
-answer:
+context: "Trade secrets must be kept confidential, and reasonable efforts should be made to maintain their secrect."
+question: Does trade secrets protection require efforts to maintain secrect?
+answer: Trade secrets must be kept confidential, and reasonable efforts should be made to maintain their secrect.
 
 filename: Presentation Patents for Research and Devt
-context: ""
-question:
-answer:
+context: "Copyright protection exists automatically once a work is created."
+question: Is the existence of copyright automatic?
+answer: Copyright protection exists automatically once a work is created.
 
 filename: Presentation Patents for Research and Devt
-context: ""
-question:
-answer:
+context: "Trade secrets can encompass a wide range of valuable information not known to the public."
+question: Can trade secrets include various types of information?
+answer: Trade secrets can encompass a wide range of valuable information not known to the public.
 
 filename: Presentation Patents for Research and Devt
-context: ""
-question:
-answer:
+context: "Registered designs are protected through a formal registration process."
+question: What is the process for protecting registered designs?
+answer: Registered designs are protected through a formal registration process.
 
 filename: Presentation Patents for Research and Devt
-context: ""
-question:
-answer:
+context: "The legal right associated with new inventions is a patent. It is obtained through the application and examination process."
+question: What is the legal right associated with new inventions, and how is it obtained?
+answer: The legal right associated with new inventions is a patent. It is obtained through the application and examination process.
 
 filename: Presentation Patents for Research and Devt
-context: ""
-question:
-answer:
+context: "Original creative or artistic forms are automatically protected under copyright."
+question: What type of creations are automatically protected under copyright?
+answer: Original creative or artistic forms are automatically protected under copyright.
 
 filename: Presentation Patents for Research and Devt
-context: ""
-question:
-answer:
+context: "Distinctive identifications of products or services are protected through trademarks. The key requirement is the use and/or registration of the trademark."
+question: How are distinctive identifications of products or services protected, and what is the key requirement?
+answer: Distinctive identifications of products or services are protected through trademarks. The key requirement is the use and/or registration of the trademark.
 
 filename: Presentation Patents for Research and Devt
-context: ""
-question:
-answer:
+context: "The legal protection for the external appearance of a product is provided through registered designs. It is acquired through the registration process."
+question: What is the legal protection for the external appearance of a product, and how is it acquired?
+answer: The legal protection for the external appearance of a product is provided through registered designs. It is acquired through the registration process.
 
 filename: Presentation Patents for Research and Devt
-context: ""
-question:
-answer:
+context: "Trade secrets refer to valuable information not known to the public. The key condition for maintaining their protection is making reasonable efforts to keep them secret."
+question: Define trade secrets and explain the key condition for maintaining their protection.
+answer: Trade secrets refer to valuable information not known to the public. The key condition for maintaining their protection is making reasonable efforts to keep them secret.
 
 filename: Presentation Patents for Research and Devt
-context: ""
-question:
-answer:
+context: "Industrial property rights serve as legal protections for various forms of intellectual property, safeguarding innovations and creations in the business and commercial domain."
+question: What is the purpose of industrial property rights?
+answer: Industrial property rights serve as legal protections for various forms of intellectual property, safeguarding innovations and creations in the business and commercial domain.
+
+filename: Presentation Patents for Research and Devt
+context: "Patents are legal rights granted to inventors for new inventions. They provide exclusive rights to the inventor, preventing others from making, using, or selling the patented invention for a specified period. Patents are obtained through a formal application and examination process."
+question: How do patents work, and what are they used for?
+answer: Patents are legal rights granted to inventors for new inventions. They provide exclusive rights to the inventor, preventing others from making, using, or selling the patented invention for a specified period. Patents are obtained through a formal application and examination process.
+
+filename: Presentation Patents for Research and Devt
+context: "Trademarks serve as distinctive identifiers for products or services, distinguishing them from others in the market. They can be protected through use in commerce and/or formal registration."
+question: In what way do trademarks function, and why are they important?
+answer: Trademarks serve as distinctive identifiers for products or services, distinguishing them from others in the market. They can be protected through use in commerce and/or formal registration.
+
+filename: Presentation Patents for Research and Devt
+context: "Registered designs protect the external appearance of a product. To obtain protection, one must go through a formal registration process. This helps prevent others from using similar designs for their products, offering a competitive edge in the market."
+question: What is the significance of registered designs, and how are they acquired?
+answer: Registered designs protect the external appearance of a product. To obtain protection, one must go through a formal registration process. This helps prevent others from using similar designs for their products, offering a competitive edge in the market.
+
+filename: Presentation Patents for Research and Devt
+context: "Trade secrets encompass valuable information not known to the public. To safeguard them, owners must take reasonable efforts to keep the information secret. Unlike patents, copyrights, and trademarks, trade secrets rely on maintaining confidentiality rather than formal registration."
+question: What defines trade secrets, and how are they safeguarded?
+answer: Trade secrets encompass valuable information not known to the public. To safeguard them, owners must take reasonable efforts to keep the information secret. Unlike patents, copyrights, and trademarks, trade secrets rely on maintaining confidentiality rather than formal registration.
+
+filename: Presentation Patents for Research and Devt
+context: "The patent system roles are :  Encourage technological innovation by rewarding intellectual creativity; Promote competition and investment;  Encourage dissemination of information; Promote technology transfer."
+question: What are the roles of the patent system?
+answer: The patent system roles are :  Encourage technological innovation by rewarding intellectual creativity; Promote competition and investment;  Encourage dissemination of information; Promote technology transfer.
+
+filename: Presentation Patents for Research and Devt
+context: "In providing protection for the invention to the patent owner, patents provide
+incentives to individuals by offering them recognition for their creativity and the
+possibility of obtaining financial rewards if they commercialize or exploit their
+inventions"
+question: How does the patent system contribute to Encourage technological innovation by rewarding intellectual creativity?
+answer: The patent system serves to encourage technological innovation by providing protection for inventions. This encourages individuals to pursue intellectual creativity by offering recognition and the potential for financial rewards if they commercialize or exploit their inventions.
+
+filename: Presentation Patents for Research and Devt
+context: "In developing new or improved products or processes by encouraging research
+and development"
+question: How does the patent system contribute to promoting competition and investment?
+answer: The patent system promotes competition and investment by incentivizing research and development. Individuals and companies are encouraged to invest in developing new or improved products and processes, fostering innovation within industries.
+
+filename: Presentation Patents for Research and Devt
+context: "Because information disclosed in patents is published and that may be of benefit to society"
+question: In what way does the patent system facilitate the dissemination of information?
+answer: The patent system encourages the dissemination of information because the details of patented inventions are published. This information, made public through patents, can benefit society by providing insights into technological advancements and breakthroughs.
+
+filename: Presentation Patents for Research and Devt
+context: "Because anyone can find patented technologies that they may want to get access
+to and use themselves"
+question: How does the patent system play a role in promoting technology transfer?
+answer: The patent system promotes technology transfer by allowing anyone to access and use patented technologies. This openness enables individuals or entities to find patented technologies that they may want to acquire or use for their own purposes, fostering broader technological adoption and development.
+
+filename: Presentation Patents for Research and Devt
+context: "Prevent others from making, using, offering for sale, selling or importing
+infringing products in the country where the patent was granted. LIMITED MONOPOLY. The patent does not grant the right to use the invention!"
+question: What rights does a patent confer in terms of preventing infringement?
+answer: A patent grants the patent owner the right to prevent others from making, using, offering for sale, selling, or importing infringing products in the country where the patent was granted, establishing a form of limited monopoly.
+
+filename: Presentation Patents for Research and Devt
+context: "Prevent others from making, using, offering for sale, selling or importing
+infringing products in the country where the patent was granted. LIMITED MONOPOLY. The patent does not grant the right to use the invention! PATENT = RIGHT TO FORBID, NOT TO EXPLOIT"
+question: What is the nature of the monopoly granted by a patent?
+answer: The monopoly granted by a patent is limited in scope. While it prevents others from engaging in certain activities related to the patented invention, it does not provide the right to use the invention. A patent is essentially a right to forbid, not to exploit the invention.
+
+filename: Presentation Patents for Research and Devt
+context: "For up to 20 years from the date of filing of the patent application."
+question: What is the duration of the rights conferred by a patent?
+answer: The rights conferred by a patent last for up to 20 years from the date of filing of the patent application. This limited duration allows for a balance between rewarding inventors and ensuring that inventions eventually enter the public domain.
+
+filename: Presentation Patents for Research and Devt
+context: "Right to assign or transfer ownership of a patent and to conclude licensing
+contracts."
+question: Apart from preventing infringement, what other rights does a patent owner have?
+answer: In addition to preventing infringement, a patent owner has the right to assign or transfer ownership of the patent. Furthermore, they can enter into licensing contracts, allowing others to use the patented invention under specified terms.
+
+filename: Presentation Patents for Research and Devt
+context: "Presumption of validity of a granted patent until it is challenged in a court."
+question: How does the legal system view the validity of a granted patent?
+answer: A granted patent carries a presumption of validity until it is challenged in a court. This means that, by default, a patent is considered valid and enforceable, but its validity can be contested through legal proceedings.
+
+filename: Presentation Patents for Research and Devt
+context: "The following are not considered to be inventions for the purposes of granting
+patents (notably in Europe): Discoveries, scientific theories and mathematical methods; Aesthetic creations; Schemes, rules and methods for performing mental acts, playing games or doing business, and programs for computers; Presentations of information."
+question: What falls outside the scope of patentability according to European standards (Cannot be patented)? 
+answer: The following are not considered inventions for the purpose of granting patents in Europe: discoveries, scientific theories, and mathematical methods; aesthetic creations; schemes, rules, and methods for mental acts, playing games, or doing business, and computer programs; presentations of information.
+
+filename: Presentation Patents for Research and Devt
+context: "Inventions whose commercial exploitation would be contrary to
+"ordre public" or morality.Plant or animal varieties or essentially biological processes
+for the production of plants or animals. Methods for treatment of the human or animal body by surgery or therapy and diagnostic methods practised on the human or animal body. This applies only if the patent claim relates to that subject-matter or activities "as such"."
+question: What are the criteria for patent ineligibility in terms of morality and public order(Cannot be patented)? 
+answer: Inventions whose commercial exploitation would be contrary to "ordre public" or morality are not eligible for patents. Additionally, plant or animal varieties or essentially biological processes for their production are excluded. Methods for the treatment of the human or animal body by surgery or therapy, as well as diagnostic methods, are ineligible unless the patent claim relates to that subject matter or activities "as such."
+
+filename: Presentation Patents for Research and Devt
+context: "A patent claim that includes a mix of both patentable, technical, and excluded,
+non-technical, subject-matter can be regarded as an invention and may be
+patented after all."
+question: Can a patent claim that includes a mix of both patentable and excluded subject matter be granted(Cannot be patented)? 
+answer: A patent claim that includes a combination of patentable, technical, and excluded, non-technical, subject matter can be regarded as an invention and may be granted a patent. However, this applies only if the patent claim relates to the subject matter or activities "as such," demonstrating a balance between patentable and non-patentable elements. 
+
+filename: Presentation Patents for Research and Devt
+context: "Patents are granted for any invention whether the invention is a product or a
+process, e.g. process of manufacturing something, in "all fields of technology”"
+question: What types of inventions are eligible for patents?
+answer: Patents can be granted for any invention, whether it is a product or a process, covering "all fields of technology." This includes inventions like manufacturing processes. 
+
+filename: Presentation Patents for Research and Devt
+context: "An invention is a technical solution to a technical problem."
+question: How is an invention defined in the context of patentability?
+answer: An invention is defined as a technical solution to a technical problem.
+
+filename: Presentation Patents for Research and Devt
+context: "Provided that said invention is compliant with the 3 conditions of patentability
+which are: Novelty / anticipation (US terminology); Inventive step / non-obviousness; Industrial application / utility"
+question: What are the three primary conditions of patentability?
+answer: The three conditions of patentability are novelty (anticipation in US terminology), inventive step (non-obviousness), and industrial application (utility). For a patent to be granted, the invention must meet all three of these criteria.
+
+filename: Presentation Patents for Research and Devt
+context: "2 additional conditions: Enablement; Clarity / definiteness"
+question: Are there additional conditions that an invention must meet to be eligible for a patent?
+answer: Yes, in addition to the primary conditions, there are two additional conditions for patentability. These are enablement, ensuring that the invention is described in a manner that enables a person skilled in the art to carry it out, and clarity or definiteness, requiring a clear and well-defined description of the invention. These conditions contribute to the overall patentability of an invention.
+
+filename: Presentation Patents for Research and Devt
+context: "In Europe and in the main countries, an invention must be new at the date of
+filing a patent application (absolute novelty). An invention shall be considered
+"new" if it does not form part of the "state of the art"."
+question: What is the requirement for novelty in the context of patent applications in Europe and other major countries?
+answer: In Europe and many other countries, an invention must be new at the time of filing a patent application, adhering to the principle of absolute novelty. An invention is considered "new" if it does not form part of the "state of the art."
+
+filename: Presentation Patents for Research and Devt
+context: "State of the art,  means everything made available to the public
+(written or oral description, by use, or in any other way) before the filing date of
+the patent application."
+question: What does the term "state of the art" mean in the context of patent law?
+answer: The "state of the art" refers to everything made available to the public, whether through written or oral description, use, or any other means, before the filing date of the patent application. This encompasses existing knowledge and technology relevant to the invention.
+
+filename: Presentation Patents for Research and Devt
+context: "There must have been no public disclosure of an invention before the filing date of the patent application.So keep your invention confidential!"
+question: What is the significance of public disclosure concerning the novelty of an invention?
+answer: To maintain novelty, there must be no public disclosure of the invention before the filing date of the patent application. Public disclosure includes any information made available to the public, and keeping the invention confidential is crucial to meeting the requirement of novelty.
+
+filename: Presentation Patents for Research and Devt
+context: "It is essential to avoid any publication prior to filing, including articles, press releases, conference presentations, posters, proceedings, or blog entries that disclose details of the invention. No sale of products incorporating the invention prior to filing, no samples, No lecture or presentation prior to filing except under a non-disclosure agreement (NDA),File before others do!"
+question: What is a crucial consideration when contemplating filing a patent application?
+answer: It is essential to avoid any publication prior to filing, including articles, press releases, conference presentations, posters, proceedings, or blog entries that disclose details of the invention. No sale of products incorporating the invention prior to filing, no samples, No lecture or presentation prior to filing except under a non-disclosure agreement (NDA)and stop file before others do!
+
+filename: Presentation Patents for Research and Devt
+context: "For an invention to be patentable, it must possess an inventive step. This means that the invention must bring a solution to a technical problem and should not be obvious to a person skilled in the art, who is considered knowledgeable in the relevant field."
+question: What is the requirement for inventive step in the context of patentability?
+answer: For an invention to be patentable, it must possess an inventive step. This means that the invention must bring a solution to a technical problem and should not be obvious to a person skilled in the art, who is considered knowledgeable in the relevant field.
+
+filename: Presentation Patents for Research and Devt
+context: "An invention must be capable of industrial application, meaning it must have utility. This condition ensures that the invention is made or used in any type of industry, preventing the patenting of mere theories or concepts without practical application."
+question: What is the utility requirement for patentability?
+answer: An invention must be capable of industrial application, meaning it must have utility. This condition ensures that the invention is made or used in any type of industry, preventing the patenting of mere theories or concepts without practical application.
+
+filename: Presentation Patents for Research and Devt
+context: "A patent application must comprise : Bibliographic information (inventor, patent assignee, date of filing, technology class, etc.); Abstract (around 150 words as a search aid for other patent applications); Description comprise (a summary of prior art (i.e. the technology known to exist); the problem that the invention is supposed to solve; an explanation and at least one way of carrying out the invention.); Claims (to define the scope of the aimed patent protection.); Drawings (to illustrate the claims and description.)"
+question: what is the structure of a patent application ?
+answer: A patent application must comprise : Bibliographic information (inventor, patent assignee, date of filing, technology class, etc.); Abstract (around 150 words as a search aid for other patent applications); Description comprise (a summary of prior art (i.e. the technology known to exist); the problem that the invention is supposed to solve; an explanation and at least one way of carrying out the invention.); Claims (to define the scope of the aimed patent protection.); Drawings (to illustrate the claims and description.)
+
+filename: Presentation Patents for Research and Devt
+context: "Essential bibliographic information includes the publication date, publication number and status, filing number, priority date, potential geographical scope, assignee, inventors, and abstract. Additionally, patent status classification is crucial."
+question: What bibliographic information is essential when considering a patent application?
+answer: Essential bibliographic information includes the publication date, publication number and status, filing number, priority date, potential geographical scope, assignee, inventors, and abstract. Additionally, patent status classification is crucial.
+
+filename: Presentation Patents for Research and Devt
+context: "In patent documents, A refers to patent applications, while B designates granted patents. Understanding these classifications helps in distinguishing between documents at different stages of the patent process."
+question: Can you explain the significance of A and B classifications in patent documents?
+answer: In patent documents, A refers to patent applications, while B designates granted patents. Understanding these classifications helps in distinguishing between documents at different stages of the patent process.
+
+filename: Presentation Patents for Research and Devt
+context: " A documents
+A1 European patent appl. published with search report
+A2 European patent appl. published without the search report (not available at the publication date)
+A3 Separate publication of the European search report
+A4 Supplementary search report 
+Corrected A documents
+A8 Corrected title page of an A document, i.e. A1 or A2
+A9 Complete reprint of an A document, i.e. A1, A2 or A3
+B documents
+B1 European patent specification (granted patent)
+B2 New European patent specification (amended specification of a granted patent)
+B3 European patent specification after a limiting procedure
+Corrected B documents
+B8 Corrected title page of a B document, i.e. B1 or B2 document
+B9 Complete reprint of a B document, i.e. B1 or B2 document"
+question: Give me all the patent status and classification ?
+answer: A documents
+A1 European patent appl. published with search report
+A2 European patent appl. published without the search report (not available at the publication date)
+A3 Separate publication of the European search report
+A4 Supplementary search report 
+Corrected A documents
+A8 Corrected title page of an A document, i.e. A1 or A2
+A9 Complete reprint of an A document, i.e. A1, A2 or A3
+B documents
+B1 European patent specification (granted patent)
+B2 New European patent specification (amended specification of a granted patent)
+B3 European patent specification after a limiting procedure
+Corrected B documents
+B8 Corrected title page of a B document, i.e. B1 or B2 document
+B9 Complete reprint of a B document, i.e. B1 or B2 document
+
+filename: Presentation Patents for Research and Devt
+context: " Description of a patent application comprises at least:
+Part 1: identification of the prior art disclosed before the date of filing;
+Part 2: statements about the technical problem to be solved by the invention;
+Part 3: disclosure of the invention generally and in details, with the best mode. Must be
+done in the right way because if not, the claims might be not supported by the patent
+specification;
+Part 4: Examples. Description of at least one detailed embodiment of the invention that will
+allow the man skilled in the art to reproduce the invention. But one example is often
+insufficient;
+Part 5: the claims, i.e. the aimed scope of protection of the invention. Almost the more
+important part of a patent. Claims must be clear, concise and supported by the patent
+specification.
+Drawings are optional."
+question: Describe the components of a Descriotion of a patent application ?
+answer: Description of a patent application comprises at least:
+Part 1: identification of the prior art disclosed before the date of filing;
+Part 2: statements about the technical problem to be solved by the invention;
+Part 3: disclosure of the invention generally and in details, with the best mode. Must be
+done in the right way because if not, the claims might be not supported by the patent
+specification;
+Part 4: Examples. Description of at least one detailed embodiment of the invention that will
+allow the man skilled in the art to reproduce the invention. But one example is often
+insufficient;
+Part 5: the claims, i.e. the aimed scope of protection of the invention. Almost the more
+important part of a patent. Claims must be clear, concise and supported by the patent
+specification.
+Drawings are optional.
+
+filename: Presentation Patents for Research and Devt
+context: "National patent valid only in the country where it is granted; Non-nationals can also apply for a patent; One year of "priority" for subsequent applications."
+question: What are the characteristics of national patents obtained through national patent offices?
+answer:National Patent Offices: These grant patents valid only in the country where they are issued. Non-nationals can also apply, and there is a one-year "priority" window for subsequent applications.
+
+filename: Presentation Patents for Research and Devt
+context: "A "European patent" is equivalent to national patents in the countries for which it was granted; The applicant chooses the countries; The cost depends on the number of countries designated."
+question: How does the European Patent Office (EPO) function, and what is the nature of a "European patent" obtained through this route?
+answer: European Patent Office (EPO): A "European patent" obtained through the EPO is equivalent to national patents in the countries for which it was granted. Applicants choose the countries they want protection in, and the cost depends on the number of designated countries.
+
+filename: Presentation Patents for Research and Devt
+context: "Just one initial application for more than 140 contracting states; After the international phase, the international application leads to multiple national patent examination procedures; Costly patenting decisions can be delayed by up to 30-31 months after filing; No international patent, but an international patent application procedure; PCT application can be filed at a national patent office, EPO or WIPO"
+question: What is the Patent Cooperation Treaty (PCT), and how does it simplify the patenting process for applicants?
+answer: Patent Cooperation Treaty (PCT): The PCT allows for a single initial application covering more than 140 contracting states. After the international phase, the application leads to multiple national patent examination procedures. The PCT application can be filed at a national patent office, EPO, or WIPO.
+
+filename: Presentation Patents for Research and Devt
+context: "Examination on filing and formalities examination: Check of the formal requirements, attribution of a filing date and filing number.
+Search report: Drawing up of a search report that allows an appreciation of the patentability of the invention (novelty and inventive step) 9 months after application filing. Classification of the prior art documents as X (novelty), Y (inventive step), A (technological background)…
+Publication of application and search report: Publication 18 months after the patent filing date (or priority date).
+Substantive examination: Examination by the patent office by an Examiner. Discussion about the patentability of the claimed invention.
+Grant of the patent and validation: Choice of the countries where protection is effectively aimed between the 35 European countries"
+question: What is involved in the European patent procedure for granting, and what are the key steps outlined in the document?
+answer: European Patent Procedure for Granting: The procedure involves examination on filing and foalities examination, a search report to assess patentability, publication of the application and search report, substantive examination by a patent office examiner, and finally, the grant of the patent with the choice of countries for protection.
+
+filename: Presentation Patents for Research and Devt
+context: " PCT Procedure for Granting: The PCT procedure involves a possible prior patent application, PCT patent application, publication 18 months after the priority date, a decision on preliminary examination, and entry into the national/regional phase at 30-31 months after the first filing."
+question: What are the steps in the PCT procedure for granting a patent, and how does it differ from direct entry into the national/regional phase?
+answer: PCT Procedure for Granting: The PCT procedure involves a possible prior patent application, PCT patent application, publication 18 months after the priority date, a decision on preliminary examination, and entry into the national/regional phase at 30-31 months after the first filing.
+
+filename: Presentation Patents for Research and Devt
+context: "General Overview of the Procedure for One Invention: The procedure starts with a priority filing, followed by filing in countries outside PCT, the PCT filing, national phases of PCT, and finally, EP phase validations in chosen European countries, potentially leading to division or continuation applications."
+question: Can you provide a general overview of the patent procedure for granting, considering one invention, and how it progresses through various phases?
+answer: General Overview of the Procedure for One Invention: The procedure starts with a priority filing, followed by filing in countries outside PCT, the PCT filing, national phases of PCT, and finally, EP phase validations in chosen European countries, potentially leading to division or continuation applications.
+
+filename: Presentation Patents for Research and Devt
+context: "There are different routes to patent protection: National patent offices; European Patent Office (EPO); Patent Cooperation Treaty (PCT)"
+question: What are the different routes for patent protection, and where can one file a patent application?
+answer: There are various routes for patent protection, including national patent offices, the European Patent Office (EPO), and the Patent Cooperation Treaty (PCT). National patents are valid in the country where granted, while a European patent covers chosen countries, and the PCT allows for a single initial application for over 140 contracting states.
+
+filename: Presentation - Global Laboratory Notebook Policy - NOV 2017
+context: "The primary purpose of a laboratory notebook is to preserve and protect intellectual property rights in all new and improved products, processes, or equipment by serving as a record and archive for all research and development work (ideas, experiments, formulations, etc.)."
+question: What is the primary purpose of a laboratory notebook according to the Global Laboratory Notebook Policy?
+answer: The primary purpose of a laboratory notebook is to preserve and protect intellectual property rights in all new and improved products, processes, or equipment by serving as a record and archive for all research and development work.
+
+filename: Presentation - Global Laboratory Notebook Policy - NOV 2017
+context: "A properly executed laboratory notebook may be used as legal evidence with respect to various aspects of the new or improved methods/products, such as conception and/or reduction to practice of an invention and date(s) corresponding thereto, test results, and the like."
+question: How is a laboratory notebook used as legal evidence in patent and trade secret matters?
+answer: A properly executed laboratory notebook may be used as legal evidence with respect to various aspects of the new or improved methods/products, such as conception and/or reduction to practice of an invention, test results, and more.
+
+filename: Presentation - Global Laboratory Notebook Policy - NOV 2017
+context: " It is Critical and Required! Recording what you did, so you or others can repeat the experiments.Good records make it easier to publish or share results.Troubleshooting: help find mistakes, bad materials, etc. Legal document for evidence in patent and trade secret matters. Defense against accusations of fraud or lawsuits.
+Your data should be able to be explained, defended, reconstructed, or repeated without your assistance. "
+question: Why is it critical to record information in a laboratory notebook?
+answer: Recording information in a laboratory notebook is critical for several reasons, including the ability record what you did, so you or others can repeat the experiments, easier publication of results, troubleshooting (help find mistakes, bad materials, etc.), serving as a legal document for evidence in patent and trade secret matters and Defense against accusations of fraud or lawsuits.
+
+filename: Presentation - Global Laboratory Notebook Policy - NOV 2017
+context: "Since 2012, over 30 federal cases have been decided where laboratory notebooks were amongst the evidence considered by the court and referenced in the court’s opinion.
+Used as evidence to show: Conception date of an invention; Reduction to practice date of an embodiment of an invention; Date of first observation or discovery of a new polymorph; Date that a research idea was shared with a colleague (who later tried to patent himself).
+Notable excerpts:“an unwitnessed entry in an inventor's laboratory notebook was insufficient, without more, to corroborate the inventor's testimony that he had conceived of the invention.”, “… whiteboard photos are analogous to the unwitnessed pages of a laboratory notebook and would therefore likely be insufficient on their own to corroborate inventor’s testimony of prior conception.”, “…had not signed his laboratory notebook for nine months, then curiously signed his
+notebook…”"
+question: How has US case law cited the use of laboratory notebooks?
+answer: Since 2012, over 30 federal cases have cited laboratory notebooks as evidence, showing conception dates of inventions, reduction to practice dates, observation dates of new polymorphs, and instances where research ideas were shared with colleagues.
+
+filename: Presentation - Global Laboratory Notebook Policy - NOV 2017
+context: "Key elements to record for an experiment include the start date, title, WHY(rationale, hypothesis, objects), methods (Standard Operating Procedures (SOPs) with references, Planned protocol modification, why, and approval, Calculations: MW, concentrations, dilutions, formula), What Happened (Sample preparation, Experiment /test conditions, Results, including unexpected results or observations, Document critical events to prove compliance with SOPs) , result interpretation, Potential uses, future plans, and any unexpected observations."
+question: What are some key elements to record for an experiment in a laboratory notebook?
+answer: Key elements to record for an experiment include the start date, title, WHY(rationale, hypothesis, objects), methods (Standard Operating Procedures (SOPs) with references, Planned protocol modification, why, and approval, Calculations: MW, concentrations, dilutions, formula), What Happened (Sample preparation, Experiment /test conditions, Results, including unexpected results or observations, Document critical events to prove compliance with SOPs) , result interpretation, Potential uses, future plans, and any unexpected observations.
+
+filename: Presentation - Global Laboratory Notebook Policy - NOV 2017
+context: "Preferably, the language of the laboratory notebook is English, but French or Spanish may be acceptable alternatives depending on the location of the Mane Innovation center. The information is recorded directly in the laboratory booklet, dated (using two digits for the day, at least three letters to uniquely identify the month, and four digits for the year, e.g., 20 MAY 2017 or 05 NOV 2017), and referenced with its company project name or number and/or an internal reference specific to the researcher. The recording of handwritten information is done directly and only on the printed lines of the pages of the notebook, respecting the full width of the pages. The insertion of information near the internal margin is to be avoided, as information may be difficult to capture accurately during scanning. Recording data can also be carried out by means of inserting preprinted information in the notebook (for example, typed reports, diagrams, diagrams, output datum of equipment of analysis, photographs, etc.). The preprinted information should not exceed the dimensions of the page, nor cover any information already entered on the page. Transparent tape or other adhesive should be utilized to affix the inserted information to the page surface. For two successive inserts, the second must be affixed below the other (or on two successive pages) and not side by side. Each taped or glued insert must be signed and dated by both the writer and the witness (each signature should traverse at least one of the seams between the insert and the support page). Other than the aforementioned dates and signatures, no other handwritten annotations on the insert are permitted."
+question: What are the general rules regarding the form of information in a laboratory notebook?
+answer: Information in a laboratory notebook should preferably be in English, dated, and referenced with the project name or number. Handwritten entries must be made directly on the lines, avoiding the internal margin. Handwritten information should be recorded on designated lines, avoiding the internal margin to facilitate scanning. Amendments can be made in unmarked sections on the same page or on subsequent pages, with clear indications. Preprinted information may be inserted, taped or glued, below each other, with signatures and dates. No additional handwritten annotations on inserts are allowed. If needed, annotations should be made on the original preprinted copy, photocopied, and then attached to the notebook. Not all data needs to be integrated; large datasets can be archived separately, referencing file numbers. Additionally, photographs or digitized reproductions may substitute for original experimental materials in certain cases, such as chromatography plates or gels.
+
+filename: Presentation - Global Laboratory Notebook Policy - NOV 2017
+context: "Examples of information that can be inserted include computer-generated data, datasheet templates, emails, notes of discussions and conversations, photographs, printed graphs, product labels, and related papers and readings. If items are too large, they may be kept in a separate folder, and it's essential to record the date and other identifying information."
+question: What examples of information can be inserted (taped) into the laboratory notebook and what if the items are too large?
+answer: Examples of information that can be inserted include computer-generated data, datasheet templates, emails, notes of discussions and conversations, photographs, printed graphs, product labels, and related papers and readings. If items are too large, they may be kept in a separate folder, and it's essential to record the date and other identifying information.
+
+filename: Presentation - Global Laboratory Notebook Policy - NOV 2017
+context: "Black or dark blue inks are recommended. The use of erasable ink, pencil, or "white correction fluid" is not allowed. The texts and entries must be legible (any erasure must be referred to and dated, both by the editor and the witness)."
+question: What is the recommended color for handwritten entries in the laboratory notebook?
+answer: Black or dark blue inks are recommended for handwritten entries in the laboratory notebook. The use of erasable ink, pencil, or "white correction fluid" is not allowed. Handwritten entries must be made using permanent ink, and any erasures must be referred to and dated by both the editor and the witness.
+
+filename: Presentation - Global Laboratory Notebook Policy - NOV 2017
+context: "Significant blank spaces between two information entries (for example, successions of blank lines, page breaks, pages left blank) or to the right of an insert, must be crossed out by means of a "Z", so that no information may be subsequently added. The removal of any laboratory notebook page is strictly prohibited, as doing so may jeopardize the integrity of the entire notebook."
+question: How should significant blank spaces on a page or to the right of an insert be treated in the laboratory notebook?
+answer: Significant blank spaces, such as successions of blank lines, page breaks, or pages left blank, must be crossed out with a "Z" to prevent subsequent additions. The removal of any laboratory notebook page is strictly prohibited, as it may jeopardize the integrity of the entire notebook.
+
+filename: Presentation - Global Laboratory Notebook Policy - NOV 2017
+context: "When recording a test, experiment, or analysis in the laboratory notebook, it is crucial to clearly and precisely state the context in which the work was carried out, the objectives, the experimental conditions used, and the results obtained. Abbreviations may be used, but non-standard abbreviations must be defined at their first appearance."
+question: What elements should be clearly and precisely stated when recording a test, experiment, or analysis in the laboratory notebook?
+answer: When recording a test, experiment, or analysis in the laboratory notebook, it is crucial to clearly and precisely state the context in which the work was carried out, the objectives, the experimental conditions used, and the results obtained. Abbreviations may be used, but non-standard abbreviations must be defined at their first appearance.
+
+filename: Presentation - Global Laboratory Notebook Policy - NOV 2017
+context: "If a protocol has already been previously described, in the same or different laboratory notebook, it is not necessary to reproduce the entire information for a new entry. Rather, it is sufficient to simply reference the previous occurrence with particularity, i.e., the laboratory notebook number and page(s) concerned along with the name of its author. All modifications, changes, or adaptations to the referenced information must be sufficiently described. Referencing scientific publications or books is permissible if identified unambiguously using a full bibliographical citation.  It is possible to create a separate laboratory notebook specifically reserved for recording
+standard laboratory or testing procedures and protocols, abbreviations, etc., and then make
+an appropriate reference to this separate laboratory notebook."
+question: Is it necessary to reproduce the entire information for a new entry if a protocol has already been described in a previous laboratory notebook?
+answer: No, it is not necessary to reproduce the entire information for a new entry if a protocol has already been described in a previous laboratory notebook. It is sufficient to reference the previous occurrence with specificity, including the laboratory notebook number, page(s), and the name of the author. Any modifications, changes, or adaptations to the referenced information must be sufficiently described.
 
 filename: Presentation - Global Laboratory Notebook Policy - NOV 2017
 context: ""
-question: 
-answer:
+question: What are the duties of the author in maintaining a laboratory notebook?
+answer: The author is responsible for meticulously maintaining a dated and signed record in the laboratory book. Each completed page must bear the author's signature, and any errors or crossed-out entries must be promptly dated and signed. Corrections should be made below the identified error or on a subsequent page with a proper reference. The author should avoid inserting information in the corners of pages not yet countersigned by a witness. Unused lines or space at the page bottom should be marked with a "Z," and a witness must sign each page within four weeks of its completion to certify the accuracy of the recording. No new information can be added to pages already signed by a witness. 
 
 filename: Presentation - Global Laboratory Notebook Policy - NOV 2017
-context: ""
-question: 
-answer:
+context: "The witness is tasked with evaluating the author's/researcher's entered information to ensure it provides sufficient detail for reproduction by someone with ordinary skills in the relevant field. They must co-sign all taped or glued inserts, ensuring that the date and signature span both the insert and its supporting page surface. The witness is also responsible for verifying the information's quality, ensuring adherence to Mane's Laboratory Notebook Policy and the laboratory recordkeeping procedures outlined at the notebook's front."
+question: What are the duties of the witness in maintaining a laboratory notebook?
+answer: The witness is tasked with evaluating the author's/researcher's entered information to ensure it provides sufficient detail for reproduction by someone with ordinary skills in the relevant field. They must co-sign all taped or glued inserts, ensuring that the date and signature span both the insert and its supporting page surface. The witness is also responsible for verifying the information's quality, ensuring adherence to Mane's Laboratory Notebook Policy and the laboratory recordkeeping procedures outlined at the notebook's front.
 
 filename: Presentation - Global Laboratory Notebook Policy - NOV 2017
-context: ""
-question: 
-answer:
+context: "The holder/assignee of a laboratory notebook is required to have it certified twice a year during organized sessions in May and November by a member of Mane's Legal and IP Department. All laboratory notebooks, whether in progress or completed, must be submitted to the Legal and IP Department on the working day before the certification date. Before submission, the notebook holder must ensure correct recording of information, mark out significant empty spaces (e.g., with a "Z"), update the table of contents, and arrange for proper witnessing. The certification involves an inspection for policy compliance, with the reviewer making an entry and affixing a stamp, date, and signature. Certified notebooks are promptly returned to the assignee, ideally within the next working day. For remote Innovation sites, arrangements are made based on the volume of notebooks to facilitate the certification process without undue time or resource expense."
+question: What is the certification process for a laboratory notebook?
+answer: The holder/assignee of a laboratory notebook is required to have it certified twice a year during organized sessions in May and November by a member of Mane's Legal and IP Department. All laboratory notebooks, whether in progress or completed, must be submitted to the Legal and IP Department on the working day before the certification date. Before submission, the notebook holder must ensure correct recording of information, mark out significant empty spaces (e.g., with a "Z"), update the table of contents, and arrange for proper witnessing. The certification involves an inspection for policy compliance, with the reviewer making an entry and affixing a stamp, date, and signature. Certified notebooks are promptly returned to the assignee, ideally within the next working day. For remote Innovation sites, arrangements are made based on the volume of notebooks to facilitate the certification process without undue time or resource expense.
 
 filename: Presentation - Global Laboratory Notebook Policy - NOV 2017
-context: ""
-question: 
-answer:
+context: "Each individual assigned to a laboratory notebook is responsible for its maintenance and must store it securely to prevent loss, theft, or degradation. In case of loss, theft, or damage, the assigned person should promptly inform their supervisor. Before preserving an electronic copy, the holder must ensure that the notebook content meets policy standards and is certified. Once complete and certified, the holder coordinates with the VP of R&D to initiate the scanning/archiving process. After obtaining an electronic archival copy, the original hardcopy is returned to the holder for a reasonable period, not exceeding three years from the last entry. Following the retention period, the VP of R&D (or site Director) arranges for the long-term storage of the notebook in a fire-resistant container at the local Mane Innovation site."
+question: How is archiving handled for laboratory notebooks?
+answer: Each individual assigned to a laboratory notebook is responsible for its maintenance and must store it securely to prevent loss, theft, or degradation. In case of loss, theft, or damage, the assigned person should promptly inform their supervisor. Before preserving an electronic copy, the holder must ensure that the notebook content meets policy standards and is certified. Once complete and certified, the holder coordinates with the VP of R&D to initiate the scanning/archiving process. After obtaining an electronic archival copy, the original hardcopy is returned to the holder for a reasonable period, not exceeding three years from the last entry. Following the retention period, the VP of R&D (or site Director) arranges for the long-term storage of the notebook in a fire-resistant container at the local Mane Innovation site.
 
 filename: Presentation - Global Laboratory Notebook Policy - NOV 2017
-context: ""
-question: 
-answer:
+context: "Mane's Legal and IP Department conducts the certification of laboratory notebooks twice a year. The department inspects each notebook for compliance with the policy and affixes a stamp, date, and signature."
+question: What is the role of Mane's Legal and IP Department in the certification process?
+answer: Mane's Legal and IP Department conducts the certification of laboratory notebooks twice a year. The department inspects each notebook for compliance with the policy and affixes a stamp, date, and signature.
 
 filename: Presentation - Global Laboratory Notebook Policy - NOV 2017
-context: ""
-question: 
-answer:
-
-filename: Presentation - Global Laboratory Notebook Policy - NOV 2017
-context: ""
-question: 
-answer:
-
-filename: Presentation - Global Laboratory Notebook Policy - NOV 2017
-context: ""
-question: 
-answer:
-
+context: "After a notebook is complete and certified, the holder initiates the archival process with the VP of R&D. Once an electronic copy is secured, the original hardcopy is returned to the assigned holder for a reasonable period before long-term storage."
+question: How is the archival process initiated for a laboratory notebook, and what happens to the original hardcopy after archiving?
+answer: After a notebook is complete and certified, the holder initiates the archival process with the VP of R&D. Once an electronic copy is secured, the original hardcopy is returned to the assigned holder for a reasonable period before long-term storage.
