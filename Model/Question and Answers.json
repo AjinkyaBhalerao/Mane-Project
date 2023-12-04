@@ -640,5 +640,185 @@
         "context": "PRACTICAL CASE BETAHYDRANE AS A NEUTRALIZING ODOR COMPOUND IMPORTANT: If the molecule is marketed as a patented captive, it is important to check if a patent application/granted has been filed in said country(ies) If the molecule is marketed as a registered trademark, or the trademark is proposed to the customer, it is important to use the signs ® and ™, and to check before that if said mark has been filed and/or registered in said country(ies) If the customer needs something like a “Certificate” for the particular action of the captive or molecule, in this case it is necessary to check that specific analysis have been performed: With a specific range of use of the captive compounds If any, with a specific range of use of the perfume composition comprising the captive compounds in the final product comprising With the right application If any, in the right final product form or composition Case 1: we have analytical analysis: “MANE fragrance XXX FRESHPLEX E_XXX comprises x% of FRESHPLEX YYY which reduces malodours as demonstrated by MANE analytical tests and sensory tests following ASTM standardized protocols, particularly ASTM E1593 “Method for Assessing the Efficacy of Air Care Products in Reducing Sensorily Perceived Indoor Air Malodor Intensity” Case 2: we have analytical analysis and specific tests results on the customer’s product: “Based on Mane analytical tests, and on x% aerosol/reeds/wicks/air freshener plug in sensorial tests results which follow ASTM standardized protocols, particularly ASTM E1593 “Method for Assessing the Efficacy of Air Care Products in Reducing Sensorily Perceived Indoor Air Malodor Intensity, applied on the air freshener/detergent/deodorant base of [CUSTOMER PRODUCT NAME] provided by [CUSTOMER NAME], we can conclude that Mane fragrance composition E_XXX FRESHPLEX XXX, used at y% in your/the above mentioned air freshener/detergent/deodorant application reduces/eliminates the Kitchen/Bathroom/Body/Pet/Tobacco malodour.”",
         "question": "What should be checked if the customer needs a 'Certificate' for the particular action of the captive or molecule?",
         "answer": "If the customer requires a 'Certificate' for the particular action of the captive or molecule, it is necessary to check whether specific analyses have been performed. This includes confirming a specific range of use for the captive compounds, checking for a specific range of use of the perfume composition containing the captive compounds in the final product, and ensuring the right application and final product form or composition are considered."
-    }
+    },
+    {
+        "filename": "Patenting Process FAQs - 2FEB2021.txt",
+        "context": "At MANE, the patenting process begins with obtaining approval for a Patentability Study from one of the following committees: ComInnov - Innovation, Valorization and Transfer Committee - SP-DG-001/01 ComSci - Conception, Development and Industrialization Committee ‐ SP‐DS‐001/04",
+        "question": "Where does the patenting process at MANE start?",
+        "answer": "The patenting process at MANE begins with obtaining approval for a Patentability Study from committees like ComInnov or ComSci."
+      },
+      {
+        "filename": "Patenting Process FAQs - 2FEB2021.txt",
+        "context": "The purpose of a patentability study is to assess the likelihood of obtaining a granted patent having meaningful protection. Thus, in order to assess patentability of a new product or process, the inventors/contributors must provide patent counsel with specific details of the product or process, including an explanation of the technical problem being solved, successful and unsuccessful experiments, known prior art, and how the new product or process is different from old or known products or processes.",
+        "question": "Why do inventors need to provide specific details for a patentability study?",
+        "answer": "Inventors provide specific details for a patentability study to assess the likelihood of obtaining a granted patent with meaningful protection. This includes details about the product or process, technical problems, successful and unsuccessful experiments, known prior art, and differences from existing products or processes."
+      },
+      {
+        "filename": "Patenting Process FAQs - 2FEB2021.txt",
+        "context": "After studying the provided details, the new product or process is defined by one or more hypothetical claims, which are then evaluated by comparing the hypothetical claim(s) to the prior art. Prior art is any evidence (information) that the invention was already publicly known or available, in whole or in part, before the effective filing date of the patent application, and includes publicly available information, such as published patent documents, scientific journal articles, web pages, technical data sheets, etc.",
+        "question": "How is a new product or process defined after studying provided details in a patentability study?",
+        "answer": "After studying the details, the new product or process is defined by one or more hypothetical claims, which are then evaluated by comparing them to the prior art."
+      },
+      {
+        "filename": "Patenting Process FAQs - 2FEB2021.txt",
+        "context": "At MANE, the patenting process begins with obtaining approval for a Patentability Study from one of the following committees: ComInnov - Innovation, Valorization and Transfer Committee - SP-DG-001/01 ComSci - Conception, Development and Industrialization Committee ‐ SP‐DS‐001/04",
+        "question": "What committees are involved in approving the Patentability Study at MANE?",
+        "answer": "ComInnov and ComSci are the committees involved in approving the Patentability Study at MANE."
+      },
+      {
+        "filename": "Patenting Process FAQs - 2FEB2021.txt",
+        "context": "The purpose of a patentability study is to assess the likelihood of obtaining a granted patent having meaningful protection. Thus, in order to assess patentability of a new product or process, the inventors/contributors must provide patent counsel with specific details of the product or process, including an explanation of the technical problem being solved, successful and unsuccessful experiments, known prior art, and how the new product or process is different from old or known products or processes.",
+        "question": "What is the primary purpose of a patentability study?",
+        "answer": "The primary purpose of a patentability study is to assess the likelihood of obtaining a granted patent with meaningful protection."
+      },
+      {
+        "filename": "Patenting Process FAQs - 2FEB2021.txt",
+        "context": "After studying the provided details, the new product or process is defined by one or more hypothetical claims, which are then evaluated by comparing the hypothetical claim(s) to the prior art. Prior art is any evidence (information) that the invention was already publicly known or available, in whole or in part, before the effective filing date of the patent application, and includes publicly available information, such as published patent documents, scientific journal articles, web pages, technical data sheets, etc.",
+        "question": "What is the role of hypothetical claims in the patenting process?",
+        "answer": "Hypothetical claims define the new product or process and are evaluated by comparing them to prior art in the patenting process."
+      },
+      {
+        "filename": "Patenting Process FAQs - 2FEB2021.txt",
+        "context": "After studying the provided details, the new product or process is defined by one or more hypothetical claims, which are then evaluated by comparing the hypothetical claim(s) to the prior art. Prior art is any evidence (information) that the invention was already publicly known or available, in whole or in part, before the effective filing date of the patent application, and includes publicly available information, such as published patent documents, scientific journal articles, web pages, technical data sheets, etc.",
+        "question": "What constitutes prior art in the patenting process?",
+        "answer": "Prior art includes any evidence that the invention was publicly known or available before the effective filing date, such as published patent documents, scientific journal articles, web pages, technical data sheets, etc."
+      },
+      {
+        "filename": "Patenting Process FAQs - 2FEB2021.txt",
+        "context": "At the conclusion of the patentability study, patent counsel will prepare a final written patentability report, which shall include a description of the invention, the hypothetical claim(s), a listing of the relevant prior art document(s) found in the prior art search, and an analysis as to the novelty and inventiveness of the hypothetical claim(s) vis-à-vis the relevant prior art document(s). The report will conclude with a recommendation to proceed (or not) with the preparation and filing of patent application.",
+        "question": "What does the final written patentability report include?",
+        "answer": "The final written patentability report includes a description of the invention, hypothetical claim(s), a listing of relevant prior art documents, and an analysis of the novelty and inventiveness of the hypothetical claim(s) in comparison to the prior art."
+      },
+      {
+        "filename": "Patenting Process FAQs - 2FEB2021.txt",
+        "context": "Because the patenting system requires disclosure of the technical details of the invention in exchange for a chance at obtaining patent rights, there is a risk of disclosure without any patent rights. As such, in some instances and prior to making a favorable recommendation, R&D may be asked to perform additional testing or experiments to enhance MANE's chances for obtaining a granted patent.",
+        "question": "Why might R&D be asked to perform additional testing or experiments after a patentability study?",
+        "answer": "R&D may be asked to perform additional testing or experiments after a patentability study to enhance MANE's chances of obtaining a granted patent, considering the risk of disclosure without patent rights."
+      },
+      {
+        "filename": "Patenting Process FAQs - 2FEB2021.txt",
+        "context": "The process for preparing a patent application involves a collaboration between patent counsel and the inventor(s). Patent counsel will generally begin the process by preparing a set of claims describing the metes and bounds of the invention, and then build the remaining sections of the patent application therefrom to provide the requisite antecedent basis for the claims.",
+        "question": "How does the process for preparing a patent application start?",
+        "answer": "The process for preparing a patent application starts with patent counsel preparing a set of claims describing the metes and bounds of the invention."
+      },
+      {
+        "filename": "Patenting Process FAQs - 2FEB2021.txt",
+        "context": "Since the draft patent application needs to be approved by the inventor(s), another important piece of information that should accompany the invention disclosure is a listing of persons who materially contributed to the creation of the invention. From the listing of contributors, MANE patent counsel will conduct an inquiry into the nature of each contributor's involvement and make a legal determination as to whose contribution rises to the level of 'inventorship.'",
+        "question": "Why is it important to provide a listing of contributors along with the invention disclosure for a patent application?",
+        "answer": "Providing a listing of contributors is important for MANE patent counsel to determine the nature of each contributor's involvement and make a legal determination regarding whose contribution rises to the level of 'inventorship' before the draft patent application is approved by the inventor(s)."
+      },
+      {
+        "filename": "Patenting Process FAQs - 2FEB2021.txt",
+        "context": "It is globally accepted that an inventor must have contributed to the conception of some aspect of the inventive features (i.e., novel and/or non-obvious) of the invention. Conception, which is the key to inventorship, may be defined as the formation in the mind of an inventor of a definite and permanent idea of the complete and operative invention as it is thereafter put into practice. And because inventions are defined by the claims, an inventor must be able to point to at least one element in at least one claim that (s)he conceived. Additionally, those claim element(s) must be one of the inventive elements.",
+        "question": "What is the key to inventorship in the patenting process?",
+        "answer": "The key to inventorship in the patenting process is the contribution to the conception of some aspect of the inventive features of the invention. Conception is defined as the formation in the mind of an inventor of a definite and permanent idea of the complete and operative invention."
+      },
+      {
+        "filename": "Patenting Process FAQs - 2FEB2021.txt",
+        "context": "To be co-inventors, the contributions of each person need not be equal or the same. All that is required is collaboration and contribution to the conception of at least one of the claims in the patent application. Please note that being present during a meeting, providing research support, setting up experiments at the instruction of another, or sensory/analytical testing, does not by itself indicate a contribution to the conception of the invention.",
+        "question": "What is required for individuals to be considered co-inventors in the patent application process?",
+        "answer": "To be co-inventors, individuals need to collaborate and contribute to the conception of at least one of the claims in the patent application. Equality or similarity in contributions is not a requirement."
+      },
+      {
+        "filename": "Patenting Process FAQs - 2FEB2021.txt",
+        "context": "While rare at this stage, R&D may be asked to perform additional experiments, but only if absolutely necessary prior to filing. At the end of the review/revision process, a final draft of the patent application must be approved by the inventor(s) prior to filing.",
+        "question": "Under what circumstances might R&D be asked to perform additional experiments in the patent application process?",
+        "answer": "R&D may be asked to perform additional experiments in the patent application process only if absolutely necessary prior to filing, and such instances are considered rare at this stage."
+      },
+      {
+        "filename": "Patenting Process FAQs - 2FEB2021.txt",
+        "context": "What is the final step before filing a patent application?",
+        "question": "The final step before filing a patent application is the approval of the final draft by whom?",
+        "answer": "The final step before filing a patent application is the approval of the final draft by the inventor(s)."
+      },
+      {
+        "filename": "Patenting Process FAQs - 2FEB2021.txt",
+        "context": "Since a patent application serves to provide a written description describing and enabling others to practice and use the invention, the inventors must provide patent counsel with sufficient details to create the application. The detailed invention disclosure provided to patent counsel will be used to create the basic parts (sections) of a patent application, which include Title, Abstract, Background, Summary of the Invention, Brief Description of the Drawings (if applicable), Detailed Description of the Invention, and the Claims.",
+        "question": "What are the basic parts or sections of a patent application?",
+        "answer": "The basic parts or sections of a patent application include Title, Abstract, Background, Summary of the Invention, Brief Description of the Drawings (if applicable), Detailed Description of the Invention, and the Claims."
+      },
+      {
+        "filename": "Patenting Process FAQs - 2FEB2021.txt",
+        "context": "The initial filing (or so-called 'priority filing') is typically performed where the invention is made.",
+        "question": "Where is the initial patent application filed?",
+        "answer": "The initial patent application is typically filed where the invention is made, and this is known as the 'priority filing.'"
+      },
+      {
+        "filename": "Patenting Process FAQs - 2FEB2021.txt",
+        "context": "The filing of a patent application is not the end of the process, but really the beginning of a formal examination process. Moreover, it is necessary to make decisions regarding the filing of one or more foreign patent applications. Under the Paris Convention, the priority filing permits the applicant to file one or more corresponding patent application in additional countries, within 12 months from the priority filing date.",
+        "question": "What decisions need to be made after filing a patent application?",
+        "answer": "After filing a patent application, decisions need to be made regarding the filing of one or more foreign patent applications. Under the Paris Convention, the priority filing allows the applicant to file corresponding patent applications in additional countries within 12 months from the priority filing date."
+      },
+      {
+        "filename": "Patenting Process FAQs - 2FEB2021.txt",
+        "context": "Under the Patent Cooperation Treaty (PCT), which is another international treaty concluded in 1970, a single filing of a PCT application may be made with a Receiving Office (RO) in one language. A PCT application does not itself result in the grant of a patent, since there is no such thing as an 'international patent.' Instead, a PCT application serves to establish a filing date in all contracting states, and must be followed up one or more national or regional phase applications to proceed towards grant of one or more patents.",
+        "question": "What does a PCT application serve to establish?",
+        "answer": "A PCT application serves to establish a filing date in all contracting states and does not itself result in the grant of a patent. It must be followed up with one or more national or regional phase applications to proceed towards the grant of one or more patents."
+      },
+      {
+        "filename": "Patenting Process FAQs - 2FEB2021.txt",
+        "context": "After 18 months from the earliest priority date, the application publishes and thus the invention is available to the public.",
+        "question": "When does a patent application typically publish, making the invention available to the public?",
+        "answer": "A patent application typically publishes and makes the invention available to the public 18 months from the earliest priority date."
+      },
+      {
+        "filename": "Patenting Process FAQs - 2FEB2021.txt",
+        "context": "After 18 months from the earliest priority date, the application publishes and thus the invention is available to the public.",
+        "question": "Why does a patent application publish after 18 months?",
+        "answer": "A patent application publishes after 18 months to make the invention information available to the public."
+      },
+      {
+        "filename": "Patenting Process FAQs - 2FEB2021.txt",
+        "context": "In each jurisdiction, the claims of the patent application are evaluated for clarity, novelty, and inventiveness.",
+        "question": "What aspects are evaluated in the claims of a patent application during the examination process?",
+        "answer": "The claims of a patent application are evaluated for clarity, novelty, and inventiveness during the examination process in each jurisdiction."
+      },
+      {
+        "filename": "Patenting Process FAQs - 2FEB2021.txt",
+        "context": "Under the Patent Cooperation Treaty (PCT), a PCT application does not itself result in the grant of a patent, since there is no such thing as an 'international patent.'",
+        "question": "Why doesn't a PCT application result in the grant of an 'international patent'?",
+        "answer": "A PCT application doesn't result in the grant of an 'international patent' because there is no such thing as an international patent. It serves to establish a filing date in all contracting states and must be followed up with national or regional phase applications for the grant of patents."
+      },
+      {
+        "filename": "Patenting Process FAQs - 2FEB2021.txt",
+        "context": "The detailed invention disclosure provided to patent counsel will be used to create the basic parts (sections) of a patent application, which include Title, Abstract, Background, Summary of the Invention, Brief Description of the Drawings (if applicable), Detailed Description of the Invention, and the Claims.",
+        "question": "What role does the detailed invention disclosure play in creating a patent application?",
+        "answer": "The detailed invention disclosure provided to patent counsel is used to create the basic parts or sections of a patent application, including the Title, Abstract, Background, Summary of the Invention, Brief Description of the Drawings (if applicable), Detailed Description of the Invention, and the Claims."
+      },
+      {
+        "filename": "Patenting Process FAQs - 2FEB2021.txt",
+        "context": "Under the Paris Convention, the priority filing permits the applicant to file one or more corresponding patent application in additional countries, within 12 months from the priority filing date.",
+        "question": "What is the timeframe allowed under the Paris Convention for filing corresponding patent applications in additional countries?",
+        "answer": "Under the Paris Convention, the priority filing allows the applicant to file corresponding patent applications in additional countries within 12 months from the priority filing date."
+      },
+      {
+        "filename": "Patenting Process FAQs - 2FEB2021.txt",
+        "context": "The examination of a patent application begins with an examiner reviewing the clarity, novelty, and inventiveness of the claims vis-à-vis the prior art. The examiner then issues an office action, which in most cases includes a rejection/objection of one or more of the pending claims. An applicant is given a limited period of time (e.g., 3-4 months) to respond to the office action, which may include arguments, claim amendments, and/or evidence supporting the patentability of the pending claims.",
+        "question": "What is the first step in the examination of a patent application?",
+        "answer": "The first step in the examination of a patent application is the examiner reviewing the clarity, novelty, and inventiveness of the claims vis-à-vis the prior art."
+      },
+      {
+        "filename": "Patenting Process FAQs - 2FEB2021.txt",
+        "context": "Depending on the nature of the rejection/objection, the inventor(s) may be consulted for technical input to assist patent counsel with developing claim amendments/rebuttal arguments to overcome the examiner's rejection(s)/objection(s). Ideally, the inventor(s) should also be aware of what embodiments are being utilized in MANE's commercial product/process.",
+        "question": "Why might the inventor(s) be consulted during the patent examination process?",
+        "answer": "The inventor(s) may be consulted for technical input to assist patent counsel with developing claim amendments/rebuttal arguments to overcome the examiner's rejection(s)/objection(s) depending on the nature of the rejection/objection. Ideally, the inventor(s) should also be aware of what embodiments are being utilized in MANE's commercial product/process."
+      },
+      {
+        "filename": "Patenting Process FAQs - 2FEB2021.txt",
+        "context": "Thus, this collaboration between patent counsel and the inventor(s) should provide MANE the best opportunity to obtain commercially-relevant granted patents.",
+        "question": "What is the expected outcome of the collaboration between patent counsel and the inventor(s) during the patent examination process?",
+        "answer": "The collaboration between patent counsel and the inventor(s) is expected to provide MANE the best opportunity to obtain commercially-relevant granted patents."
+      },
+      {
+        "filename": "Patenting Process FAQs - 2FEB2021.txt",
+        "context": "An applicant is given a limited period of time (e.g., 3-4 months) to respond to the office action, which may include arguments, claim amendments, and/or evidence supporting the patentability of the pending claims.",
+        "question": "How much time is typically given to an applicant to respond to an office action during the patent examination process?",
+        "answer": "An applicant is typically given a limited period of time, such as 3-4 months, to respond to an office action during the patent examination process."
+      },
+      {
+        "filename": "Patenting Process FAQs - 2FEB2021.txt",
+        "context": "The examiner then issues an office action, which in most cases includes a rejection/objection of one or more of the pending claims.",
+        "question": "What does an office action issued by the examiner during the patent examination process typically include?",
+        "answer": "An office action issued by the examiner typically includes a rejection/objection of one or more of the pending claims in most cases."
+      }
 ]
