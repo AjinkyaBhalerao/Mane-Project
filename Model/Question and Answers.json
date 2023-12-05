@@ -646,179 +646,485 @@
         "context": "At MANE, the patenting process begins with obtaining approval for a Patentability Study from one of the following committees: ComInnov - Innovation, Valorization and Transfer Committee - SP-DG-001/01 ComSci - Conception, Development and Industrialization Committee ‐ SP‐DS‐001/04",
         "question": "Where does the patenting process at MANE start?",
         "answer": "The patenting process at MANE begins with obtaining approval for a Patentability Study from committees like ComInnov or ComSci."
-      },
-      {
+    },
+    {
         "filename": "Patenting Process FAQs - 2FEB2021.txt",
         "context": "The purpose of a patentability study is to assess the likelihood of obtaining a granted patent having meaningful protection. Thus, in order to assess patentability of a new product or process, the inventors/contributors must provide patent counsel with specific details of the product or process, including an explanation of the technical problem being solved, successful and unsuccessful experiments, known prior art, and how the new product or process is different from old or known products or processes.",
         "question": "Why do inventors need to provide specific details for a patentability study?",
         "answer": "Inventors provide specific details for a patentability study to assess the likelihood of obtaining a granted patent with meaningful protection. This includes details about the product or process, technical problems, successful and unsuccessful experiments, known prior art, and differences from existing products or processes."
-      },
-      {
+    },
+    {
         "filename": "Patenting Process FAQs - 2FEB2021.txt",
         "context": "After studying the provided details, the new product or process is defined by one or more hypothetical claims, which are then evaluated by comparing the hypothetical claim(s) to the prior art. Prior art is any evidence (information) that the invention was already publicly known or available, in whole or in part, before the effective filing date of the patent application, and includes publicly available information, such as published patent documents, scientific journal articles, web pages, technical data sheets, etc.",
         "question": "How is a new product or process defined after studying provided details in a patentability study?",
         "answer": "After studying the details, the new product or process is defined by one or more hypothetical claims, which are then evaluated by comparing them to the prior art."
-      },
-      {
+    },
+    {
         "filename": "Patenting Process FAQs - 2FEB2021.txt",
         "context": "At MANE, the patenting process begins with obtaining approval for a Patentability Study from one of the following committees: ComInnov - Innovation, Valorization and Transfer Committee - SP-DG-001/01 ComSci - Conception, Development and Industrialization Committee ‐ SP‐DS‐001/04",
         "question": "What committees are involved in approving the Patentability Study at MANE?",
         "answer": "ComInnov and ComSci are the committees involved in approving the Patentability Study at MANE."
-      },
-      {
+    },
+    {
         "filename": "Patenting Process FAQs - 2FEB2021.txt",
         "context": "The purpose of a patentability study is to assess the likelihood of obtaining a granted patent having meaningful protection. Thus, in order to assess patentability of a new product or process, the inventors/contributors must provide patent counsel with specific details of the product or process, including an explanation of the technical problem being solved, successful and unsuccessful experiments, known prior art, and how the new product or process is different from old or known products or processes.",
         "question": "What is the primary purpose of a patentability study?",
         "answer": "The primary purpose of a patentability study is to assess the likelihood of obtaining a granted patent with meaningful protection."
-      },
-      {
+    },
+    {
         "filename": "Patenting Process FAQs - 2FEB2021.txt",
         "context": "After studying the provided details, the new product or process is defined by one or more hypothetical claims, which are then evaluated by comparing the hypothetical claim(s) to the prior art. Prior art is any evidence (information) that the invention was already publicly known or available, in whole or in part, before the effective filing date of the patent application, and includes publicly available information, such as published patent documents, scientific journal articles, web pages, technical data sheets, etc.",
         "question": "What is the role of hypothetical claims in the patenting process?",
         "answer": "Hypothetical claims define the new product or process and are evaluated by comparing them to prior art in the patenting process."
-      },
-      {
+    },
+    {
         "filename": "Patenting Process FAQs - 2FEB2021.txt",
         "context": "After studying the provided details, the new product or process is defined by one or more hypothetical claims, which are then evaluated by comparing the hypothetical claim(s) to the prior art. Prior art is any evidence (information) that the invention was already publicly known or available, in whole or in part, before the effective filing date of the patent application, and includes publicly available information, such as published patent documents, scientific journal articles, web pages, technical data sheets, etc.",
         "question": "What constitutes prior art in the patenting process?",
         "answer": "Prior art includes any evidence that the invention was publicly known or available before the effective filing date, such as published patent documents, scientific journal articles, web pages, technical data sheets, etc."
-      },
-      {
+    },
+    {
         "filename": "Patenting Process FAQs - 2FEB2021.txt",
         "context": "At the conclusion of the patentability study, patent counsel will prepare a final written patentability report, which shall include a description of the invention, the hypothetical claim(s), a listing of the relevant prior art document(s) found in the prior art search, and an analysis as to the novelty and inventiveness of the hypothetical claim(s) vis-à-vis the relevant prior art document(s). The report will conclude with a recommendation to proceed (or not) with the preparation and filing of patent application.",
         "question": "What does the final written patentability report include?",
         "answer": "The final written patentability report includes a description of the invention, hypothetical claim(s), a listing of relevant prior art documents, and an analysis of the novelty and inventiveness of the hypothetical claim(s) in comparison to the prior art."
-      },
-      {
+    },
+    {
         "filename": "Patenting Process FAQs - 2FEB2021.txt",
         "context": "Because the patenting system requires disclosure of the technical details of the invention in exchange for a chance at obtaining patent rights, there is a risk of disclosure without any patent rights. As such, in some instances and prior to making a favorable recommendation, R&D may be asked to perform additional testing or experiments to enhance MANE's chances for obtaining a granted patent.",
         "question": "Why might R&D be asked to perform additional testing or experiments after a patentability study?",
         "answer": "R&D may be asked to perform additional testing or experiments after a patentability study to enhance MANE's chances of obtaining a granted patent, considering the risk of disclosure without patent rights."
-      },
-      {
+    },
+    {
         "filename": "Patenting Process FAQs - 2FEB2021.txt",
         "context": "The process for preparing a patent application involves a collaboration between patent counsel and the inventor(s). Patent counsel will generally begin the process by preparing a set of claims describing the metes and bounds of the invention, and then build the remaining sections of the patent application therefrom to provide the requisite antecedent basis for the claims.",
         "question": "How does the process for preparing a patent application start?",
         "answer": "The process for preparing a patent application starts with patent counsel preparing a set of claims describing the metes and bounds of the invention."
-      },
-      {
+    },
+    {
         "filename": "Patenting Process FAQs - 2FEB2021.txt",
         "context": "Since the draft patent application needs to be approved by the inventor(s), another important piece of information that should accompany the invention disclosure is a listing of persons who materially contributed to the creation of the invention. From the listing of contributors, MANE patent counsel will conduct an inquiry into the nature of each contributor's involvement and make a legal determination as to whose contribution rises to the level of 'inventorship.'",
         "question": "Why is it important to provide a listing of contributors along with the invention disclosure for a patent application?",
         "answer": "Providing a listing of contributors is important for MANE patent counsel to determine the nature of each contributor's involvement and make a legal determination regarding whose contribution rises to the level of 'inventorship' before the draft patent application is approved by the inventor(s)."
-      },
-      {
+    },
+    {
         "filename": "Patenting Process FAQs - 2FEB2021.txt",
         "context": "It is globally accepted that an inventor must have contributed to the conception of some aspect of the inventive features (i.e., novel and/or non-obvious) of the invention. Conception, which is the key to inventorship, may be defined as the formation in the mind of an inventor of a definite and permanent idea of the complete and operative invention as it is thereafter put into practice. And because inventions are defined by the claims, an inventor must be able to point to at least one element in at least one claim that (s)he conceived. Additionally, those claim element(s) must be one of the inventive elements.",
         "question": "What is the key to inventorship in the patenting process?",
         "answer": "The key to inventorship in the patenting process is the contribution to the conception of some aspect of the inventive features of the invention. Conception is defined as the formation in the mind of an inventor of a definite and permanent idea of the complete and operative invention."
-      },
-      {
+    },
+    {
         "filename": "Patenting Process FAQs - 2FEB2021.txt",
         "context": "To be co-inventors, the contributions of each person need not be equal or the same. All that is required is collaboration and contribution to the conception of at least one of the claims in the patent application. Please note that being present during a meeting, providing research support, setting up experiments at the instruction of another, or sensory/analytical testing, does not by itself indicate a contribution to the conception of the invention.",
         "question": "What is required for individuals to be considered co-inventors in the patent application process?",
         "answer": "To be co-inventors, individuals need to collaborate and contribute to the conception of at least one of the claims in the patent application. Equality or similarity in contributions is not a requirement."
-      },
-      {
+    },
+    {
         "filename": "Patenting Process FAQs - 2FEB2021.txt",
         "context": "While rare at this stage, R&D may be asked to perform additional experiments, but only if absolutely necessary prior to filing. At the end of the review/revision process, a final draft of the patent application must be approved by the inventor(s) prior to filing.",
         "question": "Under what circumstances might R&D be asked to perform additional experiments in the patent application process?",
         "answer": "R&D may be asked to perform additional experiments in the patent application process only if absolutely necessary prior to filing, and such instances are considered rare at this stage."
-      },
-      {
+    },
+    {
         "filename": "Patenting Process FAQs - 2FEB2021.txt",
         "context": "What is the final step before filing a patent application?",
         "question": "The final step before filing a patent application is the approval of the final draft by whom?",
         "answer": "The final step before filing a patent application is the approval of the final draft by the inventor(s)."
-      },
-      {
+    },
+    {
         "filename": "Patenting Process FAQs - 2FEB2021.txt",
         "context": "Since a patent application serves to provide a written description describing and enabling others to practice and use the invention, the inventors must provide patent counsel with sufficient details to create the application. The detailed invention disclosure provided to patent counsel will be used to create the basic parts (sections) of a patent application, which include Title, Abstract, Background, Summary of the Invention, Brief Description of the Drawings (if applicable), Detailed Description of the Invention, and the Claims.",
         "question": "What are the basic parts or sections of a patent application?",
         "answer": "The basic parts or sections of a patent application include Title, Abstract, Background, Summary of the Invention, Brief Description of the Drawings (if applicable), Detailed Description of the Invention, and the Claims."
-      },
-      {
+    },
+    {
         "filename": "Patenting Process FAQs - 2FEB2021.txt",
         "context": "The initial filing (or so-called 'priority filing') is typically performed where the invention is made.",
         "question": "Where is the initial patent application filed?",
         "answer": "The initial patent application is typically filed where the invention is made, and this is known as the 'priority filing.'"
-      },
-      {
+    },
+    {
         "filename": "Patenting Process FAQs - 2FEB2021.txt",
         "context": "The filing of a patent application is not the end of the process, but really the beginning of a formal examination process. Moreover, it is necessary to make decisions regarding the filing of one or more foreign patent applications. Under the Paris Convention, the priority filing permits the applicant to file one or more corresponding patent application in additional countries, within 12 months from the priority filing date.",
         "question": "What decisions need to be made after filing a patent application?",
         "answer": "After filing a patent application, decisions need to be made regarding the filing of one or more foreign patent applications. Under the Paris Convention, the priority filing allows the applicant to file corresponding patent applications in additional countries within 12 months from the priority filing date."
-      },
-      {
+    },
+    {
         "filename": "Patenting Process FAQs - 2FEB2021.txt",
         "context": "Under the Patent Cooperation Treaty (PCT), which is another international treaty concluded in 1970, a single filing of a PCT application may be made with a Receiving Office (RO) in one language. A PCT application does not itself result in the grant of a patent, since there is no such thing as an 'international patent.' Instead, a PCT application serves to establish a filing date in all contracting states, and must be followed up one or more national or regional phase applications to proceed towards grant of one or more patents.",
         "question": "What does a PCT application serve to establish?",
         "answer": "A PCT application serves to establish a filing date in all contracting states and does not itself result in the grant of a patent. It must be followed up with one or more national or regional phase applications to proceed towards the grant of one or more patents."
-      },
-      {
+    },
+    {
         "filename": "Patenting Process FAQs - 2FEB2021.txt",
         "context": "After 18 months from the earliest priority date, the application publishes and thus the invention is available to the public.",
         "question": "When does a patent application typically publish, making the invention available to the public?",
         "answer": "A patent application typically publishes and makes the invention available to the public 18 months from the earliest priority date."
-      },
-      {
+    },
+    {
         "filename": "Patenting Process FAQs - 2FEB2021.txt",
         "context": "After 18 months from the earliest priority date, the application publishes and thus the invention is available to the public.",
         "question": "Why does a patent application publish after 18 months?",
         "answer": "A patent application publishes after 18 months to make the invention information available to the public."
-      },
-      {
+    },
+    {
         "filename": "Patenting Process FAQs - 2FEB2021.txt",
         "context": "In each jurisdiction, the claims of the patent application are evaluated for clarity, novelty, and inventiveness.",
         "question": "What aspects are evaluated in the claims of a patent application during the examination process?",
         "answer": "The claims of a patent application are evaluated for clarity, novelty, and inventiveness during the examination process in each jurisdiction."
-      },
-      {
+    },
+    {
         "filename": "Patenting Process FAQs - 2FEB2021.txt",
         "context": "Under the Patent Cooperation Treaty (PCT), a PCT application does not itself result in the grant of a patent, since there is no such thing as an 'international patent.'",
         "question": "Why doesn't a PCT application result in the grant of an 'international patent'?",
         "answer": "A PCT application doesn't result in the grant of an 'international patent' because there is no such thing as an international patent. It serves to establish a filing date in all contracting states and must be followed up with national or regional phase applications for the grant of patents."
-      },
-      {
+    },
+    {
         "filename": "Patenting Process FAQs - 2FEB2021.txt",
         "context": "The detailed invention disclosure provided to patent counsel will be used to create the basic parts (sections) of a patent application, which include Title, Abstract, Background, Summary of the Invention, Brief Description of the Drawings (if applicable), Detailed Description of the Invention, and the Claims.",
         "question": "What role does the detailed invention disclosure play in creating a patent application?",
         "answer": "The detailed invention disclosure provided to patent counsel is used to create the basic parts or sections of a patent application, including the Title, Abstract, Background, Summary of the Invention, Brief Description of the Drawings (if applicable), Detailed Description of the Invention, and the Claims."
-      },
-      {
+    },
+    {
         "filename": "Patenting Process FAQs - 2FEB2021.txt",
         "context": "Under the Paris Convention, the priority filing permits the applicant to file one or more corresponding patent application in additional countries, within 12 months from the priority filing date.",
         "question": "What is the timeframe allowed under the Paris Convention for filing corresponding patent applications in additional countries?",
         "answer": "Under the Paris Convention, the priority filing allows the applicant to file corresponding patent applications in additional countries within 12 months from the priority filing date."
-      },
-      {
+    },
+    {
         "filename": "Patenting Process FAQs - 2FEB2021.txt",
         "context": "The examination of a patent application begins with an examiner reviewing the clarity, novelty, and inventiveness of the claims vis-à-vis the prior art. The examiner then issues an office action, which in most cases includes a rejection/objection of one or more of the pending claims. An applicant is given a limited period of time (e.g., 3-4 months) to respond to the office action, which may include arguments, claim amendments, and/or evidence supporting the patentability of the pending claims.",
         "question": "What is the first step in the examination of a patent application?",
         "answer": "The first step in the examination of a patent application is the examiner reviewing the clarity, novelty, and inventiveness of the claims vis-à-vis the prior art."
-      },
-      {
+    },
+    {
         "filename": "Patenting Process FAQs - 2FEB2021.txt",
         "context": "Depending on the nature of the rejection/objection, the inventor(s) may be consulted for technical input to assist patent counsel with developing claim amendments/rebuttal arguments to overcome the examiner's rejection(s)/objection(s). Ideally, the inventor(s) should also be aware of what embodiments are being utilized in MANE's commercial product/process.",
         "question": "Why might the inventor(s) be consulted during the patent examination process?",
         "answer": "The inventor(s) may be consulted for technical input to assist patent counsel with developing claim amendments/rebuttal arguments to overcome the examiner's rejection(s)/objection(s) depending on the nature of the rejection/objection. Ideally, the inventor(s) should also be aware of what embodiments are being utilized in MANE's commercial product/process."
-      },
-      {
+    },
+    {
         "filename": "Patenting Process FAQs - 2FEB2021.txt",
         "context": "Thus, this collaboration between patent counsel and the inventor(s) should provide MANE the best opportunity to obtain commercially-relevant granted patents.",
         "question": "What is the expected outcome of the collaboration between patent counsel and the inventor(s) during the patent examination process?",
         "answer": "The collaboration between patent counsel and the inventor(s) is expected to provide MANE the best opportunity to obtain commercially-relevant granted patents."
-      },
-      {
+    },
+    {
         "filename": "Patenting Process FAQs - 2FEB2021.txt",
         "context": "An applicant is given a limited period of time (e.g., 3-4 months) to respond to the office action, which may include arguments, claim amendments, and/or evidence supporting the patentability of the pending claims.",
         "question": "How much time is typically given to an applicant to respond to an office action during the patent examination process?",
         "answer": "An applicant is typically given a limited period of time, such as 3-4 months, to respond to an office action during the patent examination process."
-      },
-      {
+    },
+    {
         "filename": "Patenting Process FAQs - 2FEB2021.txt",
         "context": "The examiner then issues an office action, which in most cases includes a rejection/objection of one or more of the pending claims.",
         "question": "What does an office action issued by the examiner during the patent examination process typically include?",
         "answer": "An office action issued by the examiner typically includes a rejection/objection of one or more of the pending claims in most cases."
-      }
+    }
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "Laboratory notebooks are first and foremost a working tool, enabling their owners to record their work. They report on the intellectual and technical progress of each project, justify the way in which results have been obtained, and ensure reproducibility of experiments.",
+        "question": "What is the primary purpose of laboratory notebooks?",
+        "answer": "The primary purpose of laboratory notebooks is to serve as a working tool for recording and reporting the intellectual and technical progress of each project, justifying the way in which results have been obtained, and ensuring the reproducibility of experiments."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "Laboratory notebooks are a means of capitalizing on the knowledge and know-how of researchers/laboratories/companies. They also serve as evidentiary tools in the event of disputes, challenges, claims, and can certify the availability of information at a certain date.",
+        "question": "How do laboratory notebooks serve as evidentiary tools?",
+        "answer": "Laboratory notebooks serve as evidentiary tools by certifying the availability of information at a certain date, making it possible to define authorship, and determining ownership of the rights to the results of a research program or a patent application."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "The notebook model is defined and identical for all V. MANE FILS personnel. New notebooks are purchased by the Scientific Secretary and stored by Documentation Scientifique in Bar-sur-Loup.",
+        "question": "Who defines the notebook model for V. MANE FILS personnel?",
+        "answer": "The notebook model for V. MANE FILS personnel is defined and identical for all, with new notebooks being purchased by the Scientific Secretary and stored by Documentation Scientifique in Bar-sur-Loup."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "Laboratory notebooks are intended to transmit information both internally and externally, including scientific publications, presentations, patent applications, and technology transfer. They are considered an essential part of the V. MANE FILS heritage.",
+        "question": "What are the external transmission purposes of laboratory notebooks?",
+        "answer": "Laboratory notebooks are intended for external transmission purposes, including scientific publications, presentations, patent applications, and technology transfer."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "Laboratory notebooks, due to their formalism and rigor, serve as evidentiary tools in the event of disputes. They can certify the availability of information at a certain date and help determine ownership of the rights to the results of a research program or a patent application.",
+        "question": "How do laboratory notebooks contribute to resolving disputes?",
+        "answer": "Laboratory notebooks contribute to resolving disputes by serving as evidentiary tools, certifying the availability of information at a certain date, and helping determine ownership of the rights to the results of a research program or a patent application."
+    },      
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "Laboratory notebooks are purchased by the Scientific Secretary and stored by Documentation Scientifique in Bar-sur-Loup. The notebook model is defined and identical for all V. MANE FILS personnel.",
+        "question": "Where are laboratory notebooks stored for V. MANE FILS personnel?",
+        "answer": "Laboratory notebooks for V. MANE FILS personnel are stored by Documentation Scientifique in Bar-sur-Loup."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "Each new notebook is collected from the Documentation Scientifique, assigned a number, and the notebook number and the recipient's name are recorded in a register jointly kept by the Scientific Secretary and Scientific Documentation. The notebook number consists of three digits for the opening number, followed by a separator bar and two digits for the year of issue (e.g., 002/08). The number is printed on the spine and inside the notebook. The first page contains information such as the book number, circulation date, assigned employee's name, department, line manager's name, and contact details of V. MANE FILS.",
+        "question": "How is the number assigned to a laboratory notebook composed?",
+        "answer": "The laboratory notebook number is composed of three digits for the opening number, a separator bar, and two digits for the year of issue (e.g., 002/08)."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "A laboratory notebook may be assigned to an entire team or department, and a designated person in charge is identified when the notebook is opened. The first page is filled with relevant information, and each writer must identify themselves on page 6. Editors must know the instructions for using the notebook, glued to pages 2 and 3, and certify their compliance by signing. The main editor, to whom the notebook is issued, dates and signs the instructions when the notebook is put into service.",
+        "question": "What information is recorded when a laboratory notebook is assigned to an entire team or department?",
+        "answer": "When a laboratory notebook is assigned to an entire team or department, the first page is filled with information, including the designation of a person in charge, and each writer must identify themselves on page 6."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "The instructions for using the notebook, glued to pages 2 and 3, must be known by each editor. Editors certify their compliance by signing. The main editor, to whom the notebook is issued, dates and signs the instructions when the notebook is put into service. Other editors, if any, also date and sign both the instructions and the support page.",
+        "question": "How do editors certify their compliance with the instructions for using the laboratory notebook?",
+        "answer": "Editors certify their compliance with the instructions by signing, with the main editor dating and signing when the notebook is put into service. Other editors, if any, also date and sign both the instructions and the support page."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "Laboratory notebooks and their contents are the exclusive property of V. MANE FILS and must remain confidential. They cannot be communicated to a third party without express authorization from an authorized representative of V. MANE FILS. The conservation of laboratory notebooks is the responsibility of their holders and/or the laboratory until they are returned to the Patent Engineer for archiving. If an individual ceases to work for V. MANE FILS, they must hand over each laboratory notebook to their supervisor for archiving.",
+        "question": "Who is responsible for the archiving of laboratory notebooks until they are returned to the Patent Engineer?",
+        "answer": "The responsibility for the archiving of laboratory notebooks until they are returned to the Patent Engineer lies with the holders and/or the laboratory concerned."
+    }, 
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "If an individual ceases to work for V. MANE FILS, they must hand over each of their laboratory notebooks to their supervisor, who will be responsible for archiving them. The ownership and confidentiality of laboratory notebooks remain in effect even after the individual ceases to work for the company.",
+        "question": "What should an individual do with their laboratory notebooks when they cease to work for V. MANE FILS?",
+        "answer": "When an individual ceases to work for V. MANE FILS, they must hand over each of their laboratory notebooks to their supervisor, who will be responsible for archiving them."
+    },      
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "Laboratory notebooks and their contents are subject to an obligation of confidentiality and cannot be communicated to a third party without express authorization from an authorized representative of V. MANE FILS. The exclusive ownership of laboratory notebooks by V. MANE FILS is emphasized, and individuals are prohibited from sharing the contents without proper authorization.",
+        "question": "What is the confidentiality requirement for laboratory notebooks?",
+        "answer": "Laboratory notebooks and their contents are subject to an obligation of confidentiality, and individuals cannot communicate them to a third party without express authorization from an authorized representative of V. MANE FILS."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "The writer of the laboratory notebook records work progress, including working hypotheses, methods, results, and conclusions. Information is recorded in a complete, clear, and precise manner to enable reproduction by someone of equivalent competence. General rules for form include using French or English, dating entries, and referencing with project numbers or internal references. Handwritten information is entered directly on printed lines, and insertions or annotations are allowed with specific guidelines.",
+        "question": "What are the general rules for the language and form of recording information in the laboratory notebook?",
+        "answer": "The language of the laboratory notebook is French, and English may also be used. Information should be recorded directly, dated, and referenced with project numbers or internal references. Handwritten information is entered directly on printed lines following specific rules."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "Significant blank spaces between entries or to the right of an insert should be crossed out with a 'Z' to prevent later additions. Handwriting is done using indelible ink, with no restrictions on ink color as long as the recorded information remains legible after reproduction. Pencils, erasers, or white-out are not permitted, and any crossed-out texts or comments must remain legible and be signed and dated by both the writer and the witness.",
+        "question": "What actions should be taken to prevent later additions to blank spaces in the laboratory notebook?",
+        "answer": "Significant blank spaces should be crossed out with a 'Z' to prevent later additions."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "For each new page started, the notebook number, the name of the project, and the page after which the work is to be continued should be re-entered. It is strictly forbidden to delete any page from the laboratory notebook, as it would invalidate the entire notebook.",
+        "question": "What should be done when starting a new page in the laboratory notebook?",
+        "answer": "For each new page started, re-enter the notebook number, the name of the project, and the page after which the work is to be continued. Deleting any page from the laboratory notebook is strictly forbidden as it would invalidate the entire notebook."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "Inserts, such as typed reports, diagrams, and photos, can be glued into the laboratory notebook. Each insert must be stamped by both the writer and the witness, with handwritten annotations only allowed on the printed lines of the notebook pages. Significant blank spaces or the right of an insert should be crossed out with a 'Z' to prevent additions. The use of color is allowed, but choices must consider potential black and white reproduction using a standard photocopier.",
+        "question": "How should handwritten annotations be made on inserts in the laboratory notebook?",
+        "answer": "Handwritten annotations on inserts in the laboratory notebook should be made only on the printed lines of the notebook pages. Each insert must be stamped by both the writer and the witness."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "The use of pencils, erasers, or white-out is not permitted in the laboratory notebook. Any crossed-out texts or comments must remain legible and be signed and dated by both the writer and the witness. Handwriting is done using indelible ink, with no restrictions on ink color, as long as the recorded information remains legible after reproduction in black and white using a standard photocopier.",
+        "question": "What restrictions exist regarding the use of pencils, erasers, or white-out in the laboratory notebook?",
+        "answer": "The use of pencils, erasers, or white-out is not permitted in the laboratory notebook. Any crossed-out texts or comments must remain legible and be signed and dated by both the writer and the witness."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "Raw data and equipment outputs mentioned do not necessarily have to be included in the laboratory notebook. The writer should ensure careful preservation with references, allowing completion of the notebook if necessary. Instead of original experimental material, a photograph or digitized reproduction is recommended, especially for items like gels, membranes, autoradiographs, or heat-sensitive tickets.",
+        "question": "Do raw data and equipment outputs have to be included in the laboratory notebook?",
+        "answer": "Raw data and equipment outputs mentioned do not necessarily have to be included in the laboratory notebook. The writer should ensure careful preservation with references for potential completion of the notebook if necessary."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "Information can be recorded using inserts, including typed reports, diagrams, and scientific publications. Inserts must be glued flush with the notebook pages, and each piece must be stamped by both the writer and the witness. Handwritten annotations on inserts, other than dates and endorsements, are not permitted. If a real need arises to annotate an insert, the 'original' insert should be annotated, photocopied, and the photocopy pasted into the notebook.",
+        "question": "How should handwritten annotations be handled on inserts in the laboratory notebook?",
+        "answer": "Handwritten annotations on inserts, other than dates and endorsements, are not permitted. If there is a real need to annotate an insert, the 'original' insert should be annotated, photocopied, and the photocopy pasted into the laboratory notebook."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "It is strictly forbidden to delete any page from the laboratory notebook, as it would invalidate the entire notebook. Handwriting is done using indelible ink, and there are no restrictions on ink colors, as long as the recorded information remains legible after reproduction in black and white using a standard photocopier. Any coding of information using specific colors is to be avoided, and the use of pencils, erasers, or white-out is not permitted.",
+        "question": "What is the consequence of deleting a page from the laboratory notebook?",
+        "answer": "It is strictly forbidden to delete any page from the laboratory notebook, as doing so would invalidate the entire notebook."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "The language of the laboratory notebook is French, and English may also be used. Handwritten information is entered directly on the printed lines of the notebook pages, respecting the full width of the pages. If there is a need for insertion at a later date, it's recommended to use the entire unused lines on the page, and if no lines are available, the 'Amendments / Amendements' box can be used for information integration on a subsequent page.",
+        "question": "In what languages can information be recorded in the laboratory notebook?",
+        "answer": "The language of the laboratory notebook is French, and English may also be used for recording information."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "Every trial, test, and analysis related to the work, whether positive or negative, must be recorded in the laboratory notebook. The context, objectives, working hypotheses, experimental conditions, results, interpretations, ideas, thoughts, and comments should be clearly and precisely recorded. Abbreviations not accepted by the scientific field must be defined when first used, and a reference to existing protocols, publications, or books can be made.",
+        "question": "What information should be recorded in the laboratory notebook regarding experimental conditions?",
+        "answer": "Experimental conditions, including protocols, specific parameters, and equipment used, should be clearly and precisely recorded in the laboratory notebook."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "If a protocol has already been described in this or another laboratory notebook, reference can be made to it instead of rewriting it. The reference should include the precise number of the laboratory notebook, the name of the author, and the pages concerned. Abbreviations not accepted by the scientific field must be defined when first used, and a reference to existing publications or books can be made by identifying them unambiguously.",
+        "question": "How should a protocol be referenced in the laboratory notebook if it has already been described elsewhere?",
+        "answer": "If a protocol has already been described in this or another laboratory notebook, reference can be made to it instead of rewriting it. The reference should include the precise number of the laboratory notebook, the name of the author, and the pages concerned."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "Abbreviations and definitions used in the laboratory notebook must be provided when first used. If abbreviations are not accepted by the scientific field concerned, they must be defined when first used. A reference booklet on pages 7 to 9 contains abbreviations and definitions, and it is also possible to create a laboratory notebook dedicated to the meaning of codes used, such as code names for chemical molecules, ingredients, or culture media.",
+        "question": "What is the protocol for using abbreviations in the laboratory notebook?",
+        "answer": "Abbreviations used in the laboratory notebook must be defined when first used. If they are not accepted by the scientific field concerned, they must be defined when first used. A reference booklet on pages 7 to 9 contains abbreviations and definitions, and a dedicated laboratory notebook can be created for the meaning of codes used, such as code names for chemical molecules, ingredients, or culture media."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "Every trial, test, and analysis, whether positive or negative, related to the work must be recorded in the laboratory notebook. The recording should include the context of the work, objectives, working hypotheses, experimental conditions, results, possible interpretations, and any thoughts or comments. Reference to existing protocols, publications, or books can be made, and when using abbreviations not accepted by the scientific field, they must be defined when first used.",
+        "question": "What should be recorded in the laboratory notebook regarding the context of the work?",
+        "answer": "The laboratory notebook should record the context of the work, including objectives, working hypotheses, and any thoughts or comments related to the trial, test, or analysis."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "Abbreviations not accepted by the scientific field must be defined when first used in the laboratory notebook. Additionally, a reference booklet on pages 7 to 9 contains abbreviations and definitions. It is permissible to create a dedicated laboratory notebook that contains the meaning of codes used, such as code names for chemical molecules, ingredients, or culture media.",
+        "question": "What is the guideline for using abbreviations not accepted by the scientific field in the laboratory notebook?",
+        "answer": "Abbreviations not accepted by the scientific field must be defined when first used in the laboratory notebook. A reference booklet on pages 7 to 9 contains abbreviations and definitions. Additionally, a dedicated laboratory notebook can be created for the meaning of codes used, such as code names for chemical molecules, ingredients, or culture media."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "It is possible to create a laboratory notebook specifically for the meaning of codes used, such as code names for chemical molecules, ingredients, or culture media. The guidelines for using abbreviations and definitions are found on pages 7 to 9 of the reference booklet. When referencing existing protocols or publications, it is important to provide precise details, including the laboratory notebook number, author's name, and relevant pages.",
+        "question": "How can information about the meaning of codes be organized in the laboratory notebook?",
+        "answer": "A dedicated laboratory notebook can be created for the meaning of codes used, such as code names for chemical molecules, ingredients, or culture media. Guidelines for using abbreviations and definitions are available on pages 7 to 9 of the reference booklet."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "Requirements for dates in the laboratory notebook include dating each consignment, dating and signing each completed page, and dating and signing all erasures and attachments as they appear. Pages must be signed by a witness no later than 4 weeks after being written. The witness must not have the status of a co-author or co-inventor and should preferably be from a different team or department. No new entries may be made on a page signed by a witness, and errors should be transferred to subsequent lines or pages.",
+        "question": "What are the requirements for dating and signing completed pages in the laboratory notebook?",
+        "answer": "Each completed page in the laboratory notebook must be dated and signed by the writer in the box provided. All erasures and attachments must also be dated and signed by the editor as they appear in the laboratory notebook."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "To certify the reality of the recording, each page of the laboratory notebook must be signed by a witness no later than 4 weeks after being written. The witness must not be a co-author or co-inventor, and preferably from a different team or department. No new entries or data integration may be made on a page already signed by a witness. Errors found should be transferred to subsequent lines or pages, and the date of detection and correction should be indicated.",
+        "question": "Why is it important to have each page of the laboratory notebook signed by a witness?",
+        "answer": "Each page of the laboratory notebook must be signed by a witness to certify the reality of the recording. The witness must not be a co-author or co-inventor and should preferably be from a different team or department."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "The role of the witness is to check that the quality process for writing and maintaining the laboratory notebook has been respected by the writer(s) of the pages he/she has checked, by dating and signing them. The witness does not express consent to technical content and is not held responsible for errors or inaccuracies. The witness must carefully read the pages, certify understanding by writing 'lu et compris' ('read and understood'), and affix his or her visa in the 'Témoin' box. In case of insufficient understanding or errors, the witness informs the editor and signs the page once corrections are made.",
+        "question": "What is the role of the witness in the laboratory notebook?",
+        "answer": "The role of the witness is to check that the quality process for writing and maintaining the laboratory notebook has been respected by the writer(s) of the pages he/she has checked, by dating and signing them. The witness does not express consent to technical content and is not held responsible for errors or inaccuracies."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "The witness must carefully read the pages being checked to ensure that the information contained is at least syntactically comprehensible. By writing 'lu et compris' ('read and understood'), the witness certifies that he or she has fulfilled the mission and affixes his or her visa in the 'Témoin' box. The witness cannot be held responsible for errors or inaccuracies in the technical data and information recorded. In the event of insufficient understanding or errors, the witness informs the editor and signs the page once expected corrections or accuracy has been made by the editor or supervisor.",
+        "question": "What does the witness certify by writing 'lu et compris' ('read and understood') in the laboratory notebook?",
+        "answer": "By writing 'lu et compris' ('read and understood'), the witness certifies that he or she has carefully read the pages being checked and ensures that the information contained is at least syntactically comprehensible. The witness affixes his or her visa in the 'Témoin' box to certify fulfillment of the mission."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "The witness can only look at pages that have been filled in completely, possibly with one or more 'Z's drawn in to mark empty spaces. The witness endorses inserts glued in the laboratory notebook, and the date and signature must straddle the patch and the backing page. The witness also refers to any erasures made by the writer. The witness is not responsible for technical content but ensures the quality process for writing and maintaining the laboratory notebook is respected.",
+        "question": "What are the limitations on the pages the witness can review in the laboratory notebook?",
+        "answer": "The witness can only look at pages that have been filled in completely, possibly with one or more 'Z's drawn in to mark empty spaces. The witness is not responsible for technical content but ensures the quality process for writing and maintaining the laboratory notebook is respected."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "The witness must inform the editor in case of insufficient understanding or errors in the laboratory notebook. Once expected corrections or accuracy has been made by the editor or supervisor, the witness signs the page. The witness also endorses inserts glued in the laboratory notebook, ensuring the date and signature straddle the patch and the backing page. The witness's role is to check that the quality process for writing and maintaining the laboratory notebook is respected by the writer(s) of the pages he/she has checked.",
+        "question": "What is the procedure if the witness encounters errors or insufficient understanding in the laboratory notebook?",
+        "answer": "If the witness encounters errors or insufficient understanding in the laboratory notebook, the witness must inform the editor. Once expected corrections or accuracy has been made by the editor or supervisor, the witness signs the page, ensuring the quality process is respected."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "The holder of a laboratory notebook is responsible for it until it is archived. The notebook must be held securely to prevent loss, theft, or damage. In case of any of these events, the holder should immediately notify the line manager and prepare a report describing the circumstances. The table of contents must be completed before archiving, and a copy sent to the Scientific Secretary for archiving. At Bar-sur-Loup, completed notebooks are kept by the owner for a 'buffer' period of around 6 months before being pre-archived by the Patent Engineer.",
+        "question": "What should the holder do in case of loss, theft, or damage to a laboratory notebook?",
+        "answer": "In case of loss, theft, or damage to a laboratory notebook, the holder should immediately notify the line manager and prepare a report describing the circumstances."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "The table of contents must be completed before archiving, and a copy sent to the Scientific Secretary for archiving, applicable to the Bar-sur-Loup, Noisiel, and Quéven sites. At Bar-sur-Loup, completed notebooks are pre-archived by the owner for a 'buffer' period of around 6 months. After this period, the pre-archived notebooks, along with the archiving form completed by the holder, are entrusted to the Patent Engineer for archiving in a secure location. For Quéven and Noisiel sites, the procedure is similar, but notebooks are kept in a safe, the key to which is held by the R&D manager.",
+        "question": "What steps are taken before archiving a laboratory notebook?",
+        "answer": "Before archiving a laboratory notebook, the table of contents must be completed, and a copy sent to the Scientific Secretary for archiving. At Bar-sur-Loup, completed notebooks are pre-archived by the owner for a 'buffer' period of around 6 months before being entrusted to the Patent Engineer for final archiving."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "At Bar-sur-Loup, pre-archived laboratory notebooks are certified by a bailiff, and after the 'buffer' period, they are entrusted to the Patent Engineer for archiving. The notebooks are archived in a secure location for an unlimited period, with consultation possible upon request from the Reprography Department. For Quéven and Noisiel sites, the procedure is identical, but laboratory notebooks are kept in a safe, the key to which is held by the R&D manager.",
+        "question": "What happens to pre-archived laboratory notebooks after the 'buffer' period at Bar-sur-Loup?",
+        "answer": "After the 'buffer' period at Bar-sur-Loup, pre-archived laboratory notebooks are entrusted to the Patent Engineer for archiving. The notebooks are archived in a secure location for an unlimited period, with consultation possible upon request from the Reprography Department."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "The holder of a laboratory notebook is responsible for ensuring its security to prevent loss, theft, or damage until it is archived. In case of any of these events, immediate notification to the line manager is required, along with a detailed report describing the circumstances. The completion of the table of contents is mandatory before archiving, and a copy must be sent to the Scientific Secretary for archiving. At Bar-sur-Loup, after completion and certification by a bailiff, notebooks are kept by the owner for a pre-archiving 'buffer' period of around 6 months.",
+        "question": "What is the mandatory step before archiving a laboratory notebook?",
+        "answer": "Before archiving a laboratory notebook, it is mandatory to complete the table of contents, and a copy must be sent to the Scientific Secretary for archiving."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "After the pre-archiving 'buffer' period at Bar-sur-Loup, completed notebooks, along with the archiving form completed by the holder, are entrusted to the Patent Engineer for final archiving. The notebooks are then stored in a secure location for an unlimited period, with the possibility of consultation upon request from the Reprography Department. For Quéven and Noisiel sites, the archiving procedure is similar, but laboratory notebooks are kept in a safe, the key to which is held by the R&D manager.",
+        "question": "What happens to completed laboratory notebooks after the pre-archiving 'buffer' period at Bar-sur-Loup?",
+        "answer": "After the pre-archiving 'buffer' period at Bar-sur-Loup, completed laboratory notebooks, along with the archiving form completed by the holder, are entrusted to the Patent Engineer for final archiving. The notebooks are stored in a secure location for an unlimited period, with the possibility of consultation upon request from the Reprography Department."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "For Quéven and Noisiel sites, the archiving procedure is identical to Bar-sur-Loup, except that laboratory notebooks are kept in a safe, and the key is held by the R&D manager. The holder of a laboratory notebook is responsible for its security until archiving, and any loss, theft, or damage should be immediately reported to the line manager with a detailed report.",
+        "question": "How does the archiving procedure differ for Quéven and Noisiel sites compared to Bar-sur-Loup?",
+        "answer": "The archiving procedure for Quéven and Noisiel sites is identical to Bar-sur-Loup, except that laboratory notebooks are kept in a safe, and the key is held by the R&D manager."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "Sample numbering procedures for Chemistry and Biotechnologies are outlined. For analysis or evaluation at Bar-sur-Loup, samples sent to the LCA or CRDA/CRP must be accompanied by a follow-up sheet (FO-DS-004, FO-DS-006, or FO-DS-007). Samples are identified by project number, assigned molecule number, trial reference (notebook/initials/page no.), and date. If multiple samples are isolated during the same test, they are identified with a letter and recorded in the laboratory notebook. Samples kept in the laboratory follow the same identification. For analysis in Quéven, samples sent to SCQS must be accompanied by an analysis request form (IN-CQS-092), and sample identification follows this numbering.",
+        "question": "What information is used to identify samples for analysis or evaluation at Bar-sur-Loup?",
+        "answer": "Samples for analysis or evaluation at Bar-sur-Loup are identified by project number, assigned molecule number, trial reference (notebook/initials/page no.), and date. If multiple samples are isolated during the same test, they are identified with a letter and recorded in the laboratory notebook. Samples kept in the laboratory follow the same identification."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "For samples sent to the LCA or CRDA/CRP in Bar-sur-Loup, the follow-up sheet includes information such as molecule number, project number, lab notebook number, manipulator's initials, and page number. If several samples are isolated during the same test, they will be identified with a letter and entered in the laboratory notebook. These samples will be registered with the Scientific Management Secretariat before transmission. Samples kept in the laboratory will also be identified in the same way.",
+        "question": "How are samples identified for analysis or evaluation at Bar-sur-Loup if multiple samples are isolated during the same test?",
+        "answer": "If multiple samples are isolated during the same test for analysis or evaluation at Bar-sur-Loup, they will be identified with a letter and entered in the laboratory notebook. These samples will be registered with the Scientific Management Secretariat before transmission."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "For analysis in Quéven, samples sent to SCQS must be accompanied by an analysis request form (IN-CQS-092), and sample identification follows this numbering. The issuer will fill in his part of the form for sample identification.",
+        "question": "What form is used for sample identification for analysis in Quéven?",
+        "answer": "For analysis in Quéven, samples sent to SCQS must be accompanied by an analysis request form (IN-CQS-092), and the issuer will fill in his part of the form for sample identification."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "Instructions for using the laboratory notebook R&D are outlined. The notebook serves to capitalize on the knowledge and know-how of researchers/laboratories/companies, recording intellectual and technical progress, justifying results, ensuring reproducibility, and facilitating information transmission. The formalism and rigor are emphasized, with guidelines for writing, recording, and handling the notebook. Specific instructions include recording work and results, writing reports in French or English, providing details of operating conditions, using indelible ink, avoiding erasures or white-out, and witnessing each page within 4 weeks of writing.",
+        "question": "What are some specific instructions for writing reports in the laboratory notebook?",
+        "answer": "Some specific instructions for writing reports in the laboratory notebook include writing in French or English, providing details of operating conditions, using indelible ink, and avoiding erasures or white-out. Reports should be sufficiently complete, clear, and precise to enable reproduction by a person of at least equivalent competence."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "The instructions also cover the use of attachments for recording information, such as typed reports, diagrams, photos, etc. Attachments should be glued flush with the notebook pages and along the left-hand margin. Crossouts with a 'Z' are recommended for significant empty spaces, and the insertion of information in a corner of a page is not permitted. The importance of having each page witnessed, no later than 4 weeks after writing, and the prohibition of deleting any page from the laboratory notebook are highlighted.",
+        "question": "What is recommended for significant empty spaces in the laboratory notebook?",
+        "answer": "For significant empty spaces in the laboratory notebook, it is recommended to cross them out with a 'Z', preferably drawn with a ruler, to prevent any later writing or pasting in those spaces."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "The instructions emphasize the confidentiality of laboratory notebooks and their contents as the exclusive property of V. MANE FILS. Communicating or divulging the contents without express authorization is strictly prohibited. The responsibility for the notebook's security lies with the individual until it is archived. In case of loss, theft, or damage, immediate notification to the line manager is required, accompanied by a detailed report. The individual is responsible for the notebook until archiving, and if leaving V. MANE FILS, the notebook should be handed over to the supervisor or Scientific Department.",
+        "question": "What is emphasized regarding the confidentiality of laboratory notebooks?",
+        "answer": "The confidentiality of laboratory notebooks and their contents is emphasized, stating that they are the exclusive property of V. MANE FILS. Communicating or divulging the contents without express authorization is strictly prohibited."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "The instructions further specify that laboratory notebooks and their contents can be used in litigation, disputes, claims, etc., to certify the possession of information at a certain date and determine ownership of the rights to the results of a research program. The degree of intellectual and material participation/contribution of an individual and/or a company in the design of an invention can also be estimated using laboratory notebooks. The importance of identifying the main editor or designated manager, completing the first page, and pasting instruction sheets on pages 2 and 3 is highlighted.",
+        "question": "How can laboratory notebooks be used in litigation, disputes, or claims?",
+        "answer": "Laboratory notebooks and their contents can be used in litigation, disputes, claims, etc., to certify the possession of information at a certain date and determine ownership of the rights to the results of a research program."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "The instructions stress the importance of witnesses in the laboratory notebook process, ensuring that the quality process for writing and maintaining the notebook is respected. Witnesses check the comprehensibility of information and endorse inserts glued into the notebook. The role of the witness is not to express consent to technical content but to certify that the quality process has been followed. The instructions also include guidelines for choosing a witness who does not work on the same subjects, and each witness must identify themselves on page 6.",
+        "question": "What is the role of a witness in the laboratory notebook process?",
+        "answer": "The role of a witness in the laboratory notebook process is to check that the quality process for writing and maintaining the notebook has been respected. They ensure the comprehensibility of information and endorse inserts glued into the notebook."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "Additionally, the instructions outline that laboratory notebooks and their contents are the exclusive property of V. MANE FILS and must be treated as confidential. The responsibility for the notebook's security is emphasized, and the individual must ensure it is kept in conditions to prevent loss, theft, or damage. If any of these events occur, immediate notification to the line manager and a detailed report are required. The individual is responsible for the notebook until it is archived, and upon leaving V. MANE FILS, the notebook should be handed over to the supervisor or the Scientific Department.",
+        "question": "What is the responsibility of the individual regarding the security of the laboratory notebook?",
+        "answer": "The individual is entirely responsible for the security of the laboratory notebook, ensuring it is kept in conditions to prevent loss, theft, or damage. In case of such events, immediate notification to the line manager and a detailed report are required."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "The instructions stress the importance of recording work and results in the laboratory notebook, along with any comments or interpretations. The date of writing must be clearly indicated, and reports should be written in a sufficiently complete, clear, and precise manner to enable reproduction by a person of at least equivalent competence. Operating conditions, protocols, and equipment used should be detailed. The context in which the work was carried out, including objectives, problems, and working hypotheses, should also be described.",
+        "question": "What details should be included when recording work and results in the laboratory notebook?",
+        "answer": "When recording work and results in the laboratory notebook, details such as the date of writing, operating conditions, protocols, equipment used, and the context of the work (objectives, problems, working hypotheses) should be included."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "Furthermore, the instructions provide guidelines for using indelible ink when writing reports by hand. The use of pencils, erasers, or white-out is strictly prohibited. Attachments, such as typed reports, diagrams, photos, etc., can be added to the notebook by gluing them flush with the pages and along the left-hand margin. Crossouts with a 'Z' are recommended for significant empty spaces, and the insertion of information in a corner of a page is not allowed. The instructions emphasize the importance of having each page witnessed within 4 weeks of writing.",
+        "question": "What is the recommendation regarding the use of ink when writing reports by hand in the laboratory notebook?",
+        "answer": "When writing reports by hand in the laboratory notebook, it is recommended to use indelible ink. The use of pencils, erasers, or white-out is strictly prohibited."
+    },
+    {
+        "filename": "Mane FR Lab Notebook Policy",
+        "context": "The instructions underscore the need to avoid deleting any page from the laboratory notebook, and each page must be dated and signed by the writer. For each new page started, the notebook number, the name of the project, and the page after which the work is to be continued should be re-entered. The importance of choosing a witness who does not work on the same subjects is highlighted, and each witness must identify themselves on page 6. The witness's role is to check the quality process for writing and maintaining the notebook.",
+        "question": "Why is it important to avoid deleting any page from the laboratory notebook?",
+        "answer": "It is important to avoid deleting any page from the laboratory notebook to maintain the integrity and validity of the entire notebook. Each page must be dated and signed by the writer, and the deletion of pages is strictly forbidden."
+    }
 ]
