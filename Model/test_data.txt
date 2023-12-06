@@ -1,92 +1,91 @@
 filename: "1-IP basics (US)- DEC 2018.txt"
 context: "It means acquisition of a trade secret of another by a person who knows or has reason to know that the trade secret was acquired by improper means."
-question: What is the meaning of trade secret misappropriation ?
-answer: It means acquisition of a trade secret of another by a person who knows or has reason to know that the trade secret was acquired by improper means.
+question: What is the meaning of trade secret misappropriation?
+answer: It means the acquisition of a trade secret of another by a person who knows or has reason to know that the trade secret was acquired by improper means.
 
 filename: "2019 Licensing Policy.txt"
-context: "You need to extract in collaboration with management : core patents, Defensive patents, Sufficiently exploited patents. These patents should not be proposed for licensing in/out."
-question: what should I do after doing the categorization of the portfolio ?
-answer: You need to extract in collaboration with management : core patents, Defensive patents, Sufficiently exploited patents. These patents should not be proposed for licensing in/out.
+context: "You need to extract in collaboration with management: core patents, Defensive patents, Sufficiently exploited patents. These patents should not be proposed for licensing in/out."
+question: what should I do after doing the categorization of the portfolio?
+answer: You need to extract in collaboration with management: core patents, Defensive patents, and Sufficiently exploited patents. These patents should not be proposed for licensing in/out.
 
 filename: "Agreement on Trade-Related Aspects of Intellectual Property Rights.txt"
-context: "Article 18 - Term of Protection: Initial registration, and each renewal of registration, of a trademark shall be for a term of no less than seven years. The registration of a trademark shall be renewable indefinitely."
+context: "Article 18 - Term of Protection: Initial registration, and each renewal of registration, of a trademark, shall be for a term of no less than seven years. The registration of a trademark shall be renewable indefinitely."
 question: How long is the duration of each renewal of registration for a trademark?
-answer: Article 18 - Term of Protection: Initial registration, and each renewal of registration, of a trademark shall be for a term of no less than seven years. The registration of a trademark shall be renewable indefinitely.
+answer: Article 18 - Term of Protection: Initial registration, and each renewal of registration, of a trademark, shall be for a term of no less than seven years. The registration of a trademark shall be renewable indefinitely.
 
 filename: "Code of Conduct Personal data protection.txt"
-context: "Any operation performed on personal data, such as collection, recording, organisation, storage, adaptation, alteration, retrieval, consultation, use, disclosure by transmission, dissemination or  otherwise making available, alignment or combination, blocking, erasure or destruction."
-question: what are the operations considered while processing of personal data ?
-answer:Any operation performed on personal data, such as collection, recording, organisation, storage, adaptation, alteration, retrieval, consultation, use, disclosure by transmission, dissemination or  otherwise making available, alignment or combination, blocking, erasure or destruction.
+context: "Any operation performed on personal data, such as collection, recording, organization, storage, adaptation, alteration, retrieval, consultation, use, disclosure by transmission, dissemination or  otherwise making available, alignment or combination, blocking, erasure or destruction."
+question: what are the operations considered while processing personal data?
+answer: Any operation performed on personal data, such as collection, recording, organization, storage, adaptation, alteration, retrieval, consultation, use, disclosure by transmission, dissemination or  otherwise making available, alignment or combination, blocking, erasure, or destruction.
 
 filename: "ComInnov Process - NOV 2017.txt"
 context: "ComInnov meets every two to three months."
-question: When the ComInnov meeting is held ?
+question: When the ComInnov meeting is held?
 answer: ComInnov meets every two to three months.
 
 filename: "Commercial Contract Review Procedure SP-SQ-012.txt"
-context: "The YOUSIGN device is to be used as a priority to the contracting parties, or DOCUSIGN."
-question: what are the devices used by MANE for electronic signature for contracts ?
+context: "The YOUSIGN device is to be used as a priority to the contracting parties, or DocuSign."
+question: what are the devices used by MANE for electronic signatures for contracts?
 answer: The YOUSIGN device is to be used as a priority to the contracting parties, or DOCUSIGN.
 
 filename: "Commercial Representative  Distribution Agreement - FAQ.txt"
-context: "A MANE Commercial Representative is appointes to assist for the promotion and sale of MANE's products within a limoted territory for a specific market and grow MANE's direct sales accordingly."
-question: what is the role of a commercial Representative ?
-answer: A MANE Commercial Representative is appointes to assist for the promotion and sale of MANE's products within a limoted territory for a specific market and grow MANE's direct sales accordingly.
+context: "A MANE Commercial Representative is appointed to assist in the promotion and sale of MANE's products within a limited territory for a specific market and grow MANE's direct sales accordingly."
+question: what is the role of a commercial Representative?
+answer: A MANE Commercial Representative is appointed to assist in the promotion and sale of MANE's products within a limited territory for a specific market and grow MANE's direct sales accordingly.
 
-filename: "Consolidated versions of the treaty on European Union and of the Treaty establishing the european community.txt"
-context: "Article 246 : The Court of Auditors shall carry out the audit."
-question: Which body is responsible for conducting the audit ?
-answer: Article 246 : The Court of Auditors shall carry out the audit.
+filename: "Consolidated versions of the treaty on European Union and the Treaty establishing the European community.txt"
+context: "Article 246: The Court of Auditors shall carry out the audit."
+question: Which body is responsible for conducting the audit?
+answer: Article 246: The Court of Auditors shall carry out the audit.
 
 filename: "CONTRACT REVIEW FAQ.txt"
 context: "The Legal & IP Department only reviews the contract once the Coordinator addresses it with all the comments and revisions gathered and will modify the agreement in compliance and operating methods of Mane."
-question: Hpw the legal and intellectual property department contribute to the process of reviewing contracts?
+question: How does the legal and intellectual property department contribute to the process of reviewing contracts?
 answer: The Legal & IP Department only reviews the contract once the Coordinator addresses it with all the comments and revisions gathered and will modify the agreement in compliance and operating methods of Mane.
 
 filename: "Dec. 2016 Formation brevet R et D.txt"
-context: "Studying novelty of an invention, studying the inventiveness of an invention and studying the utility of an invention."
-question: What are the steps for assessing the patentability of an invention ?
-answer: Studying novelty of an invention, studying the inventiveness of an invention and studying the utility of an invention.
+context: "Studying novelty of an invention, studying the inventiveness of an invention, and studying the utility of an invention."
+question: What are the steps for assessing the patentability of an invention?
+answer: Studying the novelty of an invention, studying the inventiveness of an invention, and studying the utility of an invention.
 
 filename: "Directive 2011_7_EU  on combating late payment in commercial transaction.txt"
-context: "Article 14 Entry into force : This Directive shall enter into force on the 20th day following  its publication in the Official Journal of the European Union."
-question: When is the entry into force of the directive ?
-answer: Article 14 Entry into force : This Directive shall enter into force on the 20th day following  its publication in the Official Journal of the European Union.
+context: "Article 14 Entry into force: This Directive shall enter into force on the 20th day following  its publication in the Official Journal of the European Union."
+question: When is the entry into force of the directive?
+answer: Article 14 Entry into force: This Directive shall enter into force on the 20th day following  its publication in the Official Journal of the European Union.
 
 filename: "Enforceability of patent and patent applications - ComInnov - 2020JUN16_JPC.txt"
 context: "YES, unless invalidated or expired!"
 question: Can the patent rights of a granted patent be enforced against a purported infringer?
 answer: YES, unless invalidated or expired!
 
-filename: "Directive 2016_943 EU on the protection of unidsclosed know-how business information (trade secrets) aigainst their unlawfu acquisition, use and disclosure.txt"
+filename: "Directive 2016_943 EU on the protection of undisclosed know-how business information (trade secrets) against their unlawful acquisition, use and disclosure.txt"
 context: "'trade secret holder' means any natural or legal person lawfully controlling a trade secret."
 question: what is the meaning of a trade secret holder?
 answer: 'trade secret holder' means any natural or legal person lawfully controlling a trade secret.
 
 filename: "Directive EU 2017_11323 relating to certain aspects of company law.txt"
-context: "Member States shall provide for appropriate penalties in the event of failure to disclose the matters set out in  Articles 29, 30, 31, 36, 37 and 38 and of omission from letters and order forms of the compulsory particulars provided for in Articles 35 and 39."
-question: what says the article about penalties ?
-answer: Member States shall provide for appropriate penalties in the event of failure to disclose the matters set out in  Articles 29, 30, 31, 36, 37 and 38 and of omission from letters and order forms of the compulsory particulars provided for in Articles 35 and 39. 
+context: "Member States shall provide for appropriate penalties in the event of failure to disclose the matters set out in  Articles 29, 30, 31, 36, 37, and 38 and of omission from letters and order forms of the compulsory particulars provided for in Articles 35 and 39."
+question: what is the article about penalties?
+answer: Member States shall provide for appropriate penalties in the event of failure to disclose the matters set out in  Articles 29, 30, 31, 36, 37, and 38 and of omission from letters and order forms of the compulsory particulars provided for in Articles 35 and 39. 
 
 filename: "GTCP Mane English December 17 2021.txt"
-context: "The Supplier shall be liable for any damages of any kind caused to the Buyer, the Buyer’s personnel and to any third party as well as to their properties, arising out of the performance of the order and resulting from any act of the Supplier, its personnel, its subcontractors or its material or caused directly or indirectly by the  Products."
+context: "The Supplier shall be liable for any damages of any kind caused to the Buyer, the Buyer’s personnel, and to any third party as well as to their properties, arising out of the performance of the order and resulting from any act of the Supplier, its personnel, its subcontractors or its material or caused directly or indirectly by the  Products."
 question: What is the Supplier's liability concerning damages arising from the performance of the order?
-answer: The Supplier shall be liable for any damages of any kind caused to the Buyer, the Buyer’s personnel and to any third party as well as to their properties, arising out of the performance of the order and resulting from any act of the Supplier, its personnel, its subcontractors or its material or caused directly or indirectly by the  Products.
-
+answer: The Supplier shall be liable for any damages of any kind caused to the Buyer, the Buyer’s personnel, and to any third party as well as to their properties, arising out of the performance of the order and resulting from any act of the Supplier, its personnel, its subcontractors or its material or caused directly or indirectly by the  Products.
 
 filename: "Fev. 2015 Formation brevet R et D.txt"
 context: "NO! It has the right to forbid, not to exploit."
-question: Does a patent garant the right to use an invention ? 
+question: Does a patent guarantee the right to use an invention? 
 answer: NO! It has the right to forbid, not to exploit.
 
 filename: "gtcs_mane.txt"
 context: "Orders are not subject to cancellation. Unless otherwise agreed in writing by the Seller, the minimum order is 2000 euros (taxes excluded), including 1000 euros per Product or the equivalent amount in the relevant currency if the price is not quoted in Euros."
-question: In which situation the orders of the buyer can be cancelled ?
+question: In which situation the orders of the buyer can be canceled?
 answer: Orders are not subject to cancellation. Unless otherwise agreed in writing by the Seller, the minimum order is 2000 euros (taxes excluded), including 1000 euros per Product or the equivalent amount in the relevant currency if the price is not quoted in Euros.
 
 filename: "gtcs_mane-INDIA.txt"
-context: The GTCS and all sales hereunder are governed by Indian laws. Any dispute arising out of or in connection with the execution and/or interpretation of the GTCS shall be subject to the exclusive jurisdiction of the COURTS OF MUMBAI (INDIA).""
-question: What are the applicable laws for sales within India ?
+context: "The GTCS and all sales hereunder are governed by Indian laws. Any dispute arising out of or in connection with the execution and/or interpretation of the GTCS shall be subject to the exclusive jurisdiction of the COURTS OF MUMBAI (INDIA)."
+question: What are the applicable laws for sales within India?
 answer: The GTCS and all sales hereunder are governed by Indian laws. Any dispute arising out of or in connection with the execution and/or interpretation of the GTCS shall be subject to the exclusive jurisdiction of the COURTS OF MUMBAI (INDIA).
 
 filename: "gtcs_mane-USA.txt"
@@ -96,15 +95,15 @@ answer: The Buyer shall neither transfer nor assign all or part of its rights an
 
 filename: "Guideline_ref to Mane Group GTCS.txt"
 context: "Offers from V. MANE FILS and its affiliates are subject to MANE General Terms and Conditions of Sale enclosed thereto."
-question: which clause should I insert in a commercial offer ?
+question: which clause should I insert in a commercial offer?
 answer: Offers from V. MANE FILS and its affiliates are subject to MANE General Terms and Conditions of Sale enclosed thereto.
 
 filename: "Guideline_ref to Mane GTCs US + Mane INC.txt"
-context: "The orders placed with MANE INC and MANE USA are subject to the General Terms and Conditions of Sale enclosed thereto. Any order confirmation implies the prior acceptation of MANE General Terms and Conditions of Sale by the buyer, unless otherwise agreed in writing between the parties."
-question: which clause should I insert in an Order Confirmation ?
-answer:The orders placed with MANE INC and MANE USA are subject to the General Terms and Conditions of Sale enclosed thereto. Any order confirmation implies the prior acceptation of MANE General Terms and Conditions of Sale by the buyer, unless otherwise agreed in writing between the parties.
+context: "The orders placed with MANE INC and MANE USA are subject to the General Terms and Conditions of Sale enclosed thereto. Any order confirmation implies the prior acceptation of MANE General Terms and Conditions of Sale by the buyer unless otherwise agreed in writing between the parties."
+question: which clause should I insert in an Order Confirmation?
+answer: The orders placed with MANE INC and MANE USA are subject to the General Terms and Conditions of Sale enclosed thereto. Any order confirmation implies the prior acceptance of MANE General Terms and Conditions of Sale by the buyer unless otherwise agreed in writing between the parties.
 
 filename: "Incoterms2020 _ introduction.txt"
 context: "The most important initiative behind the Incoterms 020 rules  has been to focus on how the presentation could be enhanced  to steer users towards the right Incoterms rule for their sale contract."
-question: what is the main difference between incoterms 2010 and 2020 ?
-answer:  The most important initiative behind the Incoterms 020 rules  has been to focus on how the presentation could be enhanced  to steer users towards the right Incoterms rule for their sale contract.
+question: what is the main difference between Incoterms 2010 and 2020?
+answer:  The most important initiative behind the Incoterms 020 rules  has been to focus on how the presentation could be enhanced  to steer users toward the right Incoterms rule for their sale contract.
