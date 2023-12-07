@@ -1,5 +1,251 @@
 [
   {
+    "filename": "1-IP basics (US)- DEC 2018.txt",
+    "context": "It means acquisition of a trade secret of another by a person who knows or has reason to know that the trade secret was acquired by improper means.",
+    "question": "What is the meaning of trade secret misappropriation?",
+    "answer": "It means the acquisition of a trade secret of another by a person who knows or has reason to know that the trade secret was acquired by improper means."
+  },
+  {
+    "filename": "2019 Licensing Policy.txt",
+    "context": "You need to extract in collaboration with management: core patents, Defensive patents, Sufficiently exploited patents. These patents should not be proposed for licensing in/out.",
+    "question": "what should I do after doing the categorization of the portfolio?",
+    "answer": "You need to extract in collaboration with management: core patents, Defensive patents, and Sufficiently exploited patents. These patents should not be proposed for licensing in/out."
+  },
+  {
+    "filename": "Agreement on Trade-Related Aspects of Intellectual Property Rights.txt",
+    "context": "Article 18 - Term of Protection: Initial registration, and each renewal of registration, of a trademark, shall be for a term of no less than seven years. The registration of a trademark shall be renewable indefinitely.",
+    "question": "How long is the duration of each renewal of registration for a trademark?",
+    "answer": "Article 18 - Term of Protection: Initial registration, and each renewal of registration, of a trademark, shall be for a term of no less than seven years. The registration of a trademark shall be renewable indefinitely."
+  },
+  {
+    "filename": "Code of Conduct Personal data protection.txt",
+    "context": "Any operation performed on personal data, such as collection, recording, organization, storage, adaptation, alteration, retrieval, consultation, use, disclosure by transmission, dissemination or  otherwise making available, alignment or combination, blocking, erasure or destruction.",
+    "question": "what are the operations considered while processing personal data?",
+    "answer": "Any operation performed on personal data, such as collection, recording, organization, storage, adaptation, alteration, retrieval, consultation, use, disclosure by transmission, dissemination or  otherwise making available, alignment or combination, blocking, erasure, or destruction."
+  },
+  {
+    "filename": "ComInnov Process - NOV 2017.txt",
+    "context": "ComInnov meets every two to three months.",
+    "question": "When the ComInnov meeting is held?",
+    "answer": "ComInnov meets every two to three months."
+  },
+  {
+    "filename": "Commercial Contract Review Procedure SP-SQ-012.txt",
+    "context": "The YOUSIGN device is to be used as a priority to the contracting parties, or DocuSign.",
+    "question": "what are the devices used by MANE for electronic signatures for contracts?",
+    "answer": "The YOUSIGN device is to be used as a priority to the contracting parties, or DOCUSIGN."
+  },
+  {
+    "filename": "Commercial Representative  Distribution Agreement - FAQ.txt",
+    "context": "A MANE Commercial Representative is appointed to assist in the promotion and sale of MANE's products within a limited territory for a specific market and grow MANE's direct sales accordingly.",
+    "question": "what is the role of a commercial Representative?",
+    "answer": "A MANE Commercial Representative is appointed to assist in the promotion and sale of MANE's products within a limited territory for a specific market and grow MANE's direct sales accordingly."
+  },
+  {
+    "filename": "Consolidated versions of the treaty on European Union and the Treaty establishing the European community.txt",
+    "context": "Article 246: The Court of Auditors shall carry out the audit.",
+    "question": "Which body is responsible for conducting the audit?",
+    "answer": "Article 246: The Court of Auditors shall carry out the audit."
+  },
+  {
+    "filename": "CONTRACT REVIEW FAQ.txt",
+    "context": "The Legal & IP Department only reviews the contract once the Coordinator addresses it with all the comments and revisions gathered and will modify the agreement in compliance and operating methods of Mane.",
+    "question": "How does the legal and intellectual property department contribute to the process of reviewing contracts?",
+    "answer": "The Legal & IP Department only reviews the contract once the Coordinator addresses it with all the comments and revisions gathered and will modify the agreement in compliance and operating methods of Mane."
+  },
+  {
+    "filename": "Dec. 2016 Formation brevet R et D.txt",
+    "context": "Studying novelty of an invention, studying the inventiveness of an invention, and studying the utility of an invention.",
+    "question": "What are the steps for assessing the patentability of an invention?",
+    "answer": "Studying the novelty of an invention, studying the inventiveness of an invention, and studying the utility of an invention."
+  },
+  {
+    "filename": "Directive 2011_7_EU  on combating late payment in commercial transaction.txt",
+    "context": "Article 14 Entry into force: This Directive shall enter into force on the 20th day following  its publication in the Official Journal of the European Union.",
+    "question": "When is the entry into force of the directive?",
+    "answer": "Article 14 Entry into force: This Directive shall enter into force on the 20th day following  its publication in the Official Journal of the European Union."
+  },
+  {
+    "filename": "Enforceability of patent and patent applications - ComInnov - 2020JUN16_JPC.txt",
+    "context": "YES, unless invalidated or expired!",
+    "question": "Can the patent rights of a granted patent be enforced against a purported infringer?",
+    "answer": "YES, unless invalidated or expired!"
+  },
+  {
+    "filename": "Directive 2016_943 EU on the protection of undisclosed know-how business information (trade secrets) against their unlawful acquisition, use and disclosure.txt",
+    "context": "'trade secret holder' means any natural or legal person lawfully controlling a trade secret.",
+    "question": "what is the meaning of a trade secret holder?",
+    "answer": "'trade secret holder' means any natural or legal person lawfully controlling a trade secret."
+  },
+  {
+    "filename": "Directive EU 2017_11323 relating to certain aspects of company law.txt",
+    "context": "Member States shall provide for appropriate penalties in the event of failure to disclose the matters set out in  Articles 29, 30, 31, 36, 37, and 38 and of omission from letters and order forms of the compulsory particulars provided for in Articles 35 and 39.",
+    "question": "what is the article about penalties?",
+    "answer": "Member States shall provide for appropriate penalties in the event of failure to disclose the matters set out in  Articles 29, 30, 31, 36, 37, and 38 and of omission from letters and order forms of the compulsory particulars provided for in Articles 35 and 39."
+  },
+  {
+    "filename": "GTCP Mane English December 17 2021.txt",
+    "context": "The Supplier shall be liable for any damages of any kind caused to the Buyer, the Buyer\u2019s personnel, and to any third party as well as to their properties, arising out of the performance of the order and resulting from any act of the Supplier, its personnel, its subcontractors or its material or caused directly or indirectly by the  Products.",
+    "question": "What is the Supplier's liability concerning damages arising from the performance of the order?",
+    "answer": "The Supplier shall be liable for any damages of any kind caused to the Buyer, the Buyer\u2019s personnel, and to any third party as well as to their properties, arising out of the performance of the order and resulting from any act of the Supplier, its personnel, its subcontractors or its material or caused directly or indirectly by the  Products."
+  },
+  {
+    "filename": "Fev. 2015 Formation brevet R et D.txt",
+    "context": "NO! It has the right to forbid, not to exploit.",
+    "question": "Does a patent guarantee the right to use an invention?",
+    "answer": "NO! It has the right to forbid, not to exploit."
+  },
+  {
+    "filename": "gtcs_mane.txt",
+    "context": "Orders are not subject to cancellation. Unless otherwise agreed in writing by the Seller, the minimum order is 2000 euros (taxes excluded), including 1000 euros per Product or the equivalent amount in the relevant currency if the price is not quoted in Euros.",
+    "question": "In which situation the orders of the buyer can be canceled?",
+    "answer": "Orders are not subject to cancellation. Unless otherwise agreed in writing by the Seller, the minimum order is 2000 euros (taxes excluded), including 1000 euros per Product or the equivalent amount in the relevant currency if the price is not quoted in Euros."
+  },
+  {
+    "filename": "gtcs_mane-INDIA.txt",
+    "context": "The GTCS and all sales hereunder are governed by Indian laws. Any dispute arising out of or in connection with the execution and/or interpretation of the GTCS shall be subject to the exclusive jurisdiction of the COURTS OF MUMBAI (INDIA).",
+    "question": "What are the applicable laws for sales within India?",
+    "answer": "The GTCS and all sales hereunder are governed by Indian laws. Any dispute arising out of or in connection with the execution and/or interpretation of the GTCS shall be subject to the exclusive jurisdiction of the COURTS OF MUMBAI (INDIA)."
+  },
+  {
+    "filename": "gtcs_mane-USA.txt",
+    "context": "The Buyer shall neither transfer nor assign all or part of its rights and obligations hereunder without the prior written consent of the Seller.",
+    "question": "What is the requirement for the Buyer to transfer its rights and obligations?",
+    "answer": "The Buyer shall neither transfer nor assign all or part of its rights and obligations hereunder without the prior written consent of the Seller."
+  },
+  {
+    "filename": "Guideline_ref to Mane Group GTCS.txt",
+    "context": "Offers from V. MANE FILS and its affiliates are subject to MANE General Terms and Conditions of Sale enclosed thereto.",
+    "question": "which clause should I insert in a commercial offer?",
+    "answer": "Offers from V. MANE FILS and its affiliates are subject to MANE General Terms and Conditions of Sale enclosed thereto."
+  },
+  {
+    "filename": "Guideline_ref to Mane GTCs US + Mane INC.txt",
+    "context": "The orders placed with MANE INC and MANE USA are subject to the General Terms and Conditions of Sale enclosed thereto. Any order confirmation implies the prior acceptation of MANE General Terms and Conditions of Sale by the buyer unless otherwise agreed in writing between the parties.",
+    "question": "which clause should I insert in an Order Confirmation?",
+    "answer": "The orders placed with MANE INC and MANE USA are subject to the General Terms and Conditions of Sale enclosed thereto. Any order confirmation implies the prior acceptance of MANE General Terms and Conditions of Sale by the buyer unless otherwise agreed in writing between the parties."
+  },
+  {
+    "filename": "Incoterms2020 _ introduction.txt",
+    "context": "The most important initiative behind the Incoterms 020 rules  has been to focus on how the presentation could be enhanced  to steer users towards the right Incoterms rule for their sale contract.",
+    "question": "what is the main difference between Incoterms 2010 and 2020?",
+    "answer": "The most important initiative behind the Incoterms 020 rules  has been to focus on how the presentation could be enhanced  to steer users toward the right Incoterms rule for their sale contract."
+  },
+  {
+    "filename": "'Intellectual Property FAQs.txt'",
+    "context": "copyright serves as a collection of exclusive rights bestowed upon the creator of an original work. These rights encompass a broad spectrum of creative expressions, including music compositions, song lyrics, films, novels, photographs, paintings, and web pages. The rights associated with copyright extend to various activities, notably encompassing the right to copy, distribute, and adapt the protected work. Similar to other intellectual property rights, copyright rights are flexible and can be managed through licensing, transfer, or assignment. This means that copyright holders possess the liberty to authorize or permit others to utilize their works under specific terms and conditions through licensing agreements. Additionally, they retain the option to transfer their rights wholly or partially to others, or assign these rights to third parties, thereby allowing others to exercise the exclusive rights granted by copyright law for a designated period or purpose.",
+    "question": "Explain Copyright",
+    "answer": "Copyright is the set of exclusive rights granted to the creator of an original work (e.g. a piece of music, song lyrics, films, novels, photographs, paintings, web pages) including the right to copy, distribute and adapt the work. Like all of the other IP rights, these rights can be licensed, transferred and/or assigned."
+  },
+  {
+    "filename": "'Inventorship FAQ - Who is an Inventor_12May2021.txt'",
+    "context": "The determination of inventorship is a critical legal conclusion that relies on factual evidence and specifics detailing the contributions of each participant involved in a project. This information is crucial and must be meticulously outlined in the Patentability Study Request Form to accurately reflect each contributor's involvement.While the majority of patent laws globally lack a precise definition of an 'inventor,' it is universally acknowledged that an inventor is someone who has contributed to the conception of a significant aspect of the inventive features\u2014elements that are novel and/or non-obvious\u2014comprising the invention.Conception, the linchpin of inventorship, can be described as the formation of a definite and lasting idea in the mind of an inventor, representing the complete and operative invention as it is later translated into practice. Since the definition of inventions is established by the claims, an inventor must be able to identify at least one element within a claim that they conceived. Furthermore, this claim element(s) must be one of the inventive aspects, either novel or non-obvious.If required, the project leader might be asked to provide evidence of each individual's contribution. This could include laboratory notebook pages or reports demonstrating the conception of at least one inventive element outlined in the claimed invention. These evidential documents play a crucial role in supporting claims of inventorship and the contribution of each involved party towards the creation and development of the patented invention",
+    "question": "How to identify an inventor?",
+    "answer": "The determination of inventorship is a legal conclusion based on facts. Accordingly, specific details characterizing each contributor's work on the project must be detailed in the Patentability Study Request Form.While most, if not all, patent statutes around the world fail to provide a precise definition of inventor, it is globally accepted that an inventor must have contributed to the conception of some aspect of the inventive features (i.e., novel and/or non-obvious) of the invention. Conception, which is the key to inventorship, may be defined as the formation in the mind of an inventor of a definite and permanent idea of the complete and operative invention as it is thereafter put into practice. And because inventions are defined by the claims, an inventor must be able to point to at least one element in at least one claim that (s)he conceived. Additionally, those claim element(s) must be one of the inventive (novel or non-obvious) elements.If requested, the project leader may be required to submit evidence of contribution for each person, e.g., laboratory notebook pages or reports, showing the conception of at least one inventive element of the claimed invention."
+  },
+  {
+    "filename": "'IP Basics (US) - NOV 2017.txt'",
+    "context": "Trade or service mark - a distinctive sign which identifies certain products or services as those produced or provided by a specific person, enterprise or a group of persons/enterprises allowing the consumer to distinguish them from goods or services of others.In order to qualify for protection, the mark must be distinctive and not merely descriptive. Scale for distinctiveness of a trademark: Fanciful, arbitrary, suggestive, descriptive, and generic. Marks that are fanciful, arbitrary, or suggestive are considered distinctive enough to function as trademarks.",
+    "question": "What qualities should the trademark have in order to qualify for the protection?",
+    "answer": "In order to qualify for protection, the mark must be distinctive and not merely descriptive. Scale for distinctiveness of a trademark: Fanciful, arbitrary, suggestive, descriptive, and generic. Marks that are fanciful, arbitrary, or suggestive are considered distinctive enough to function as trademarks."
+  },
+  {
+    "filename": "'LabNotebook Mane Group policy.txt'",
+    "context": "Research and development (R&D) refers to innovative activities toward developing new products, processes, or equipment, or improvements in existing products, processes, or equipment.  To that end, all R&D work involving new products, processes, equipment, or modification of existing products, processes, or equipment must be evaluated to assess novelty and obviousness (inventive step).  All Mane researchers, engineers, technicians, trainees, interns, in charge of product or production process development work shall utilize a company-issued laboratory notebook to record any R&D work that foreseeably involves the creation of new, nonobvious, and commercially relevant products, processes, or equipment.The primary purpose of a laboratory notebook is to preserve and protect intellectual property rights in all new and improved products, processes, or equipment by serving as a record and archive for all research and development work (ideas, experiments, formulations, etc.).  A laboratory notebook, when properly utilized, may be used as legal evidence with respect to various aspects of the new or improved methods/products, such as conception and/or reduction to practice of an invention and date(s)corresponding thereto, test results, and the like. ",
+    "question": "What are the objectives of MANE laboratory notebook policy?",
+    "answer": "The intent of this policy is to provide clear and consistent instructions regarding acceptable steps and measures for creating a permanent and legally-sufficient record of research and development activities by MANE group employees, contractors, interns, externs, or other persons conducting research related activities on behalf of the MANE group."
+  },
+  {
+    "filename": "'Mane Confidentiality Policy - FAQ.txt'",
+    "context": "Confidential or proprietary information encompasses a wide array of valuable assets crucial for businesses and organizations. Common examples include formulas, samples, processes, and know-how that are essential for operational success and market advantage.Moreover, other categories of confidential information may include methods, ideas, concepts, techniques, research findings, experimental work, developments, and inventions, whether or not they meet the criteria for patentability. Scientific and clinical information, design details, drawings, diagrams, engineering specifications, ingredients, chemical compositions, recipes, and customer or supplier data are also among the protected types of sensitive information.Additionally, confidential materials can extend to encompass various business records such as financial information, legal and corporate details, sales data, sales analyses, forecasts, and plans related to business, staffing, or product development. Information concerning prices, margins, strategy, equipment, technical specifications, incident reports, complaints, claims, business arrangements, contracts, contract terms, origin of products, and reports are equally regarded as confidential assets vital to an organization's competitive edge and operational integrity",
+    "question": "What is confidential information?",
+    "answer": "Formulas, samples, processes and know-how are common examples.  Others could include: methods, ideas, concepts, techniques, research, experimental work, developments, inventions (whether or not patentable), scientific and clinical information, design details, drawings, diagrams, engineering, specifications, ingredients, chemical composition, recipes, customer or/and supplier data, business records, financial information, legal and/or corporate information, sales data, sales analyses, forecasts, plans (business, staffing, product development, etc.), prices, margins, strategy, equipment, technical specifications incident reports, complaints, claims, business arrangements, contracts, contract terms, origin of products, and reports."
+  },
+  {
+    "filename": "'Mane Confidentiality Policy.txt'",
+    "context": "Once signed, a confidentiality agreement must be followed-up: (i) check its expiration date for a potential renewal, and (ii) check that the subject matter indeed covers the information we wish to disclose or are required to disclose. The designated representative (contact person managing the relationship) in the agreement (and mentioned in the register) is responsible for this follow-up at Mane and is to be distinguished from the authorized representative (signatory who is empowered to sign).",
+    "question": "Tell me about the follow-up of the CDA?",
+    "answer": "Once signed, a confidentiality agreement must be followed-up: (i) check its expiration date for a potential renewal, and (ii) check that the subject matter indeed covers the information we wish to disclose or are required to disclose. The designated representative (contact person managing the relationship) in the agreement (and mentioned in the register) is responsible for this follow-up at Mane and is to be distinguished from the authorized representative (signatory who is empowered to sign)."
+  },
+  {
+    "filename": "'Nov. 2017 IP Basics for Sales.txt'",
+    "context": "Preventing Infringement: A patent grants the patent holder exclusive rights within the country where it's granted. These rights enable the patent owner to prevent others from making, using, offering for sale, selling, or importing products or processes that infringe upon the patented invention. This protection ensures that others cannot exploit the invention without the patent holder's authorization.Limitations on Right to Use: Importantly, while a patent provides the exclusive right to prevent others from utilizing the patented invention without permission, it does not automatically grant the right for the patent holder to use the invention themselves. The patent holder still needs to ensure that their invention doesn't infringe on other existing patents or rights. Duration of Protection: Typically, a patent remains valid for up to 20 years from the filing date of the patent application. During this period, the patent holder has the exclusive right to prevent unauthorized use of their invention within the country where the patent was granted.Transfer of Rights: Patent owners have the liberty to assign or transfer ownership of their patent to others. They can also enter into licensing contracts, granting permission to others to use the patented invention under specific terms and conditions.Presumption of Validity: A granted patent is presumed to be valid until proven otherwise in a court of law. Challenges to a patent's validity can occur through legal proceedings, where the validity of the patent may be scrutinized and potentially invalidated based on evidence or claims presented during the court process.",
+    "question": "What are the rights conferred  by a patent?",
+    "answer": "Prevent others from making, using, offering for sale, selling or importing infringing products in the country where the patent was granted. The patent does not grant the right to use the invention! For up to 20 years from the date of filing of the patent application. Right to assign or transfer ownership of a patent and to conclude licensing contracts. Presumption of validity of a granted patent until it is challenged in a court."
+  },
+  {
+    "filename": "'Patenting Process  FAQs - 2FEB2021.txt'",
+    "context": "ComInnov - Innovation, Valorization, and Transfer Committee (Code: SP-DG-001/01): This committee is responsible for overseeing innovation-related matters, including the assessment of the patentability and potential transfer or valorization of inventions. It focuses on strategies for innovation, assessing the viability of patents, and exploring avenues for transferring or commercializing patented inventions. ComSci - Conception, Development, and Industrialization Committee (Code: SP-DS-001/04): The ComSci Committee handles aspects related to the conception, development, and industrialization of projects or inventions. It likely evaluates the technical aspects of inventions, their development process, and potential industrial applications before considering their suitability for patenting.",
+    "question": "How to create a patent application?",
+    "answer": "At MANE, the patenting process begins with obtaining approval for a Patentability Study from one of the following committees: ComInnov - Innovation, Valorization and Transfer Committee - SP-DG-001/01 ComSci - Conception, Development and Industrialization Committee \u2010 SP\u2010DS\u2010001/04"
+  },
+  {
+    "filename": "'Patents and Process - Nov 2017.txt'",
+    "context": "Whoever invents or discovers any new and useful process, machine, manufacture, or composition of matter, or any new and useful improvement thereof, may obtain a patent therefor, subject to the conditions and requirements of this title. Non-Obvious (35 U.S.C. \u00a7103, see also EPC Art. 56). A patent for a claimed invention may not be obtained, \u2026 if the differences between the claimed invention and the prior art are such that the claimed invention as a whole would have been obvious before the effective filing date of the claimed invention to a person having ordinary skill in the art to which the claimed invention pertains.",
+    "question": "When can a patent not be obtained?",
+    "answer": "A patent for a claimed invention may not be obtained, \u2026 if the differences between the claimed invention and the prior art are such that the claimed invention as a whole would have been obvious before the effective filing date of the claimed invention to a person having ordinary skill in the art to which the claimed invention pertains."
+  },
+  {
+    "filename": "'Patents FAQs - 2020.txt'",
+    "context": "Industrially Applicable (Useful): An invention must demonstrate practical utility or industrial applicability. It should have a practical use in industry or provide a tangible benefit or solution to a problem. Novelty (Newness): The invention must exhibit an element of novelty, meaning it introduces something new that is not part of the existing body of knowledge within its specific technical field. This existing knowledge, known as prior art, forms the basis against which the novelty of the invention is evaluated. Inventive (Not Obvious): The invention should involve an inventive step, meaning it must not be obvious or routine to a person with average knowledge in the relevant technical field. This aspect of non-obviousness distinguishes the invention from routine developments or modifications.",
+    "question": "What is Patentable?",
+    "answer": "An invention must, in general, fulfill the following conditions to be protected by a patent. 1. Industrially applicable (useful): It must be of practical use. 2. New: It must show an element of \u201cnovelty\u201d, meaning some new characteristic that is not part of the body of existing knowledge in its particular technical field. That body of existing knowledge is called \u201cprior art\u201d. 3. Inventive (not obvious):  It must show an \u201cinventive step\u201d that is not obvious or routine by a person with average knowledge of the technical field. The subject matter of the invention must also be accepted as \u201cpatentable\u201d under the patent laws of a given county. In many countries, scientific theories, mathematical methods, plant or animal varieties, discoveries of natural substances, commercial methods or methods of medical treatment (as opposed to medical products) are not generally patentable. For example abstract ideas (Einstein's equation E=mc2), laws of nature (gravity), or natural occurring phenomena (a chemical found in nature) are not patentable, but specific applications of these things could be patentable."
+  },
+  {
+    "filename": "'payment term comparision.txt'",
+    "context": "Penalties for breach of payment terms The creditor would be entitled to statutory interest at the rate of 9%Since there is no specific payment term legislation, there is no penalty imposed for breaching such legislation.An administrative fine up to \u20ac2 million and the publication of the sanction in case of an infringement of French payment terms legislationNo mandatory interest unless awarded by a court.The clause can be null and void and the creditor is entitled to a statutory interest at the rate of 9%. Confidential - for internal purposes onlyWe have analyzed the laws of the various countries in which our competitors are located to find out what their practices are in terms of payment terms. We can observe that contractual freedom is present in every countries except in France, where the payment terms cannnot exceed 60 days.",
+    "question": "What is the penalty for breaching the contract terms?",
+    "answer": "The creditor would be entitled to statutory interest at the rate of 9%Since there is no specific payment term legislation, there is no penalty imposed for breaching such legislation.An administrative fine up to \u20ac2 million and the publication of the sanction in case of an infringement of French payment terms legislationNo mandatory interest unless awarded by a court.The clause can be null and void and the creditor is entitled to a statutory interest at the rate of 9%"
+  },
+  {
+    "filename": "'PCT contracting states and 2 letters code.txt'",
+    "context": "The two letter code of Canada is CA",
+    "question": "What is the two letter code of canada?",
+    "answer": "CA"
+  },
+  {
+    "filename": "'PD FLASH 1 -  GDPR in a few words.txt'",
+    "context": "The general data protection regulation, better known as GDPR (Regulation (EU) 2016/679 of the European Parliament and of the Council of April 27, 2016), governs the processing of personal data notably throughout the territory of the European Union since May 25, 2018. In practice, we must be able to demonstrate to the supervisory authorities the compliance of MANE Group to the GDPR when employees have to process personal data. As such, you have a key role as DP Coordinator within the meaning of the MANE Group Code of Conduct for Personal Data (English version attached). This is the reason why, you will regularly receive summary information as a reminder via PD FLASH  emails, to complete the initial training provided to all of the MANE Group DP Coordinators. DP Coordinators who have not attended one of our training sessions since 2018 will be invited in the coming days to new sessions which will take place during the month of February.",
+    "question": "What is GDPR?",
+    "answer": "The general data protection regulation, better known as GDPR (Regulation (EU) 2016/679 of the European Parliament and of the Council of April 27, 2016), governs the processing of personal data notably throughout the territory of the European Union since May 25, 2018."
+  },
+  {
+    "filename": "'PD FLASH 2 -  What is meant by personal data.txt'",
+    "context": "A first fundamental step to understand better your rights and ensure the optimal protection of the personal data of your colleagues, customers, suppliers, service providers, external contacts, trainees and any person transmitting their personal data, is to define what personal data are, as opposed to what can be excluded from the sphere of application of GDPR. Personal data are any information related to an identified or identifiable natural person. But because they concern persons, they must retain control over them.",
+    "question": "What is personal data?",
+    "answer": "Personal data are any information related to an identified or identifiable natural person. But because they concern persons, they must retain control over them."
+  },
+  {
+    "filename": "'PD FLASH 3 - What is the processing of personal data and the data controller.txt'",
+    "context": "Computerized or not: a processing of personal data can be computerized or not. For example, a paper document might be organized according to a filing plan or candidate application forms classified in alphabetical or chronological order are also a processing of personal data. The controller is the legal person (company, public authority, etc.) or natural person who determines the purposes and means of a processing, defines the purpose and the method of carrying it out. Within MANE Group, it is not an individual or department, but the body corporate of MANE Group which processes personal data.",
+    "question": "Who is a data controller?",
+    "answer": "The controller is the legal person (company, public authority, etc.) or natural person who determines the purposes and means of a processing, defines the purpose and the method of carrying it out. Within MANE Group, it is not an individual or department, but the body corporate of MANE Group which processes personal data."
+  },
+  {
+    "filename": "'PD FLASH 4 - Sanctions under the GDPR.txt'",
+    "context": "The old legislation provided for relatively reduced sanctions and enforcement was infrequent. By refraining until the end of 2018 to sanction non-compliance with GDPR, the CNIL wanted to allow data controllers to gradually understand and assimilate the requirements of the GDPR adopted in 2016. This transition now complete, the first major sanctions were applied by the CNIL in 2019, starting with the exemplary one of 50 million euros against Google and then of 500,000 euros against the company Futura International and of 400,000 euros against Sergic.The maximum sanction for the MANE Group is 55 million euros. These sanctions can be made public.",
+    "question": "What were the first major sanctions applied by CNIL in 2019?",
+    "answer": "The first major sanctions were applied by the CNIL in 2019, starting with the exemplary one of 50 million euros against Google and then of 500,000 euros against the company Futura International and of 400,000 euros against Sergic."
+  },
+  {
+    "filename": "'PD FLASH 5 - Definitions of data protection rights.txt'",
+    "context": "Different types of rights: - The right to be informed: to be fair and lawful, the collection of personal data must be accompanied by prior, clear and concise explanation to the persons whose personal data are processed. - The collection of express consent by the data controller: consent\u00a0must be freely\u00a0given,\u00a0specific, informed and unambiguous. In order to obtain valid consent, it must be\u00a0given\u00a0on a voluntary basis. Online, consent can be given, for example, by ticked boxes, but not by pre-ticked boxes. The consent is not always required but it is in case of collection of sensitive data, re-use of data for other purposes, use of cookies and use of personal data for prospecting purposes electronically. - The right to object: people must be able to object to the re-use by the data controller of their personal data. Anyone has the right to object, for legitimate reasons, to the processing of their data, unless it is necessary to meet a legal obligation. - The rights of access and rectification: any person can access to all the information concerning him or her, know the origin of this information, access to the information upon which a decision concerning him or her was based, obtain a copy and demand that his or her data be rectified, supplemented, updated or deleted (right to be forgotten).",
+    "question": "What is the right to object?",
+    "answer": "The right to object: people must be able to object to the re-use by the data controller of their personal data. Anyone has the right to object, for legitimate reasons, to the processing of their data, unless it is necessary to meet a legal obligation."
+  },
+  {
+    "filename": "'PD FLASH 6 - Record of processing activities.txt'",
+    "context": "To concretely measure the impact of the GDPR on our activities, it was necessary to identify precisely the processing of personal data performed by each department within Mane group, at headquarters and in the subsidiaries. Keeping a register of personal data processing allows us to map our processing and to justify our personal data processing.In the Personal Data Processing Register, it is necessary to identify precisely: \u2022 The different processing of personal data, \u2022 The categories of personal data processed; \u2022 The objectives pursued by the data processing operations; \u2022 The persons (internal or external) who process this data; \u2022 The chain of custody of personal data, in particular to identify any data transfers outside the European Union. In order to keep this mapping of personal data processed by the Mane Group up to date, the participation of each department and each subsidiary in the inventory, declaration and updating of processing operations is fundamental. It is therefore up to each service or subsidiary, through its DP Coordinator, to transmit its personal data processing registration to the DPO at the address dpo@mane.com, using the validation procedure for the processing of personal data file (as an attachment for reminder).",
+    "question": "What is necessary to identify in personal data processing register?",
+    "answer": "In the Personal Data Processing Register, it is necessary to identify precisely: \u2022 The different processing of personal data, \u2022 The categories of personal data processed; \u2022 The objectives pursued by the data processing operations;  The persons (internal or external) who process this data; \u2022 The chain of custody of personal data, in particular to identify any data transfers outside the European Union."
+  },
+  {
+    "filename": "'PD FLASH 7 - The good habits to protect personal data.txt'",
+    "context": "Collecting and processing personal data in your job at MANE involves, above all, informing people about what you do with their data and respecting their rights. Some good habits must be adopted for proper processing of personal data: - Collect only the personal data strictly necessary; - Be transparent: clear and complete information must be provided to the persons whose personal data is collected; - Respect the rights of individuals: always bear in mind that the persons whose personal data are processed have the right to object, rectify, access and delete their data. In the event of a request of application of one of these rights, ask the person to contact dpo@mane.com and we will respond within one month; - Identify the risks: if you process a lot of personal data or sensitive data contact the DPO, specific measures may need to be adopted; - Secure data: IT but also physical measures must be taken to ensure the conservation and confidentiality of the personal data that you process.",
+    "question": "What are some good habits to protect personal data?",
+    "answer": "Some good habits must be adopted for proper processing of personal data: - Collect only the personal data strictly necessary; - Be transparent: clear and complete information must be provided to the persons whose personal data is collected; - Respect the rights of individuals: always bear in mind that the persons whose personal data are processed have the right to object, rectify, access and delete their data. In the event of a request of application of one of these rights, ask the person to contact dpo@mane.com and we will respond within one month; - Identify the risks: if you process a lot of personal data or sensitive data contact the DPO, specific measures may need to be adopted; - Secure data: IT but also physical measures must be taken to ensure the conservation and confidentiality of the personal data that you process."
+  },
+  {
     "filename": "PD FLASH 8 - Application of GDPR regulations to an international group.txt",
     "context": "Ensuring compliance is essential as the penalty for a violation is calculated as a percentage of the revenue of the entire Group, posing significant financial and image impact.",
     "question": "Why is ensuring compliance with GDPR crucial?",
@@ -74,7 +320,7 @@
   {
     "filename": "Presentation - Global Laboratory Notebook Policy - NOV 2017.txt",
     "context": "Certification is required twice a year (in May and November) to ensure compliance with the laboratory notebook policy. It involves inspection by a member of Mane's Legal and IP Department",
-    "question": "Why certification necessary?",
+    "question": "Why is certification necessary?",
     "answer": "Certification is required twice a year (in May and November) to ensure compliance with the laboratory notebook policy. It involves inspection by a member of Mane's Legal and IP Department."
   },
   {
