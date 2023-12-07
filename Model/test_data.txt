@@ -274,7 +274,7 @@ answer: The author must date and sign each page, correct mistakes promptly, and 
 
 filename: "Presentation - Global Laboratory Notebook Policy - NOV 2017.txt"
 context: "Certification is required twice a year (in May and November) to ensure compliance with the laboratory notebook policy. It involves inspection by a member of Mane's Legal and IP Department"
-question: Why certification necessary?
+question: Why is certification necessary?
 answer: Certification is required twice a year (in May and November) to ensure compliance with the laboratory notebook policy. It involves inspection by a member of Mane's Legal and IP Department.
 
 filename: "Presentation - Global Laboratory Notebook Policy - NOV 2017.txt"
