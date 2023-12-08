@@ -1021,7 +1021,10 @@
   },
   {
     "filename": "Fev. 2015 Formation brevet R et D.txt",
-    "context": "This document provides an overview of patent systems, focusing on aspects such as patentability requirements, formal requirements, and the procedure for granting patents. It discusses the roles of the patent system, the rights conferred by patents, what can and cannot be patented, and the structure of a patent application."
+    "context": "This document provides an overview of patent systems, focusing on aspects such as patentability requirements, formal requirements, and the procedure for granting patents. It discusses the roles of the patent system, the rights conferred by patents, what can and cannot be patented, and the structure of a patent application.",
+    "question": "What details does the document brevet research and development (R&D or R et D) entail?",
+    "answer": "This document provides an overview of patent systems, focusing on aspects such as patentability requirements, formal requirements, and the procedure for granting patents. It discusses the roles of the patent system, the rights conferred by patents, what can and cannot be patented, and the structure of a patent application."
+  
   },
   {
     "filename": "Fev. 2015 Formation brevet R et D.txt",
@@ -4621,7 +4624,8 @@
   {
     "filename": "Agreement on Trade-Related Aspects of Intellectual Property Rights.txt",
     "context": "The provided text is an excerpt from the Berne Convention, focusing on Article IV, which outlines the procedural requirements for granting licenses under Article II or Article III.",
-    "question": "Elaborate on the conditions specified in Article IV(6)(a) of the Berne Convention regarding just compensation for copyright holders when licenses are granted under Article II or Article III. answer: Article IV(6)(a) of the Berne Convention emphasizes the need for just compensation to be provided to copyright holders when licenses are granted under Article II or Article III. This compensation should align with the standards of royalties typically agreed upon in freely negotiated licenses between parties in the two involved countries. Additionally, the competent authority in the granting country should ensure the proper payment and transmittal of this compensation."
+    "question": "Elaborate on the conditions specified in Article IV(6)(a) of the Berne Convention regarding just compensation for copyright holders when licenses are granted under Article II or Article III.",
+    "answer" : "Article IV(6)(a) of the Berne Convention emphasizes the need for just compensation to be provided to copyright holders when licenses are granted under Article II or Article III. This compensation should align with the standards of royalties typically agreed upon in freely negotiated licenses between parties in the two involved countries. Additionally, the competent authority in the granting country should ensure the proper payment and transmittal of this compensation." 
   },
   {
     "filename": "Agreement on Trade-Related Aspects of Intellectual Property Rights.txt",
