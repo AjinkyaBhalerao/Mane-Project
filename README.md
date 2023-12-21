@@ -26,3 +26,7 @@ pip3 install -e ".[model_worker,webui]"
 
 
 Make sure to install the packages in requirements.txt
+
+```bash
+pip install -r requirements.txt
+```
