@@ -1,4 +1,4 @@
-sentence-transformers
-torch
-streamlit
-#pip install -r requirements.txt
+nltk==3.7
+sentence_transformers==2.2.2
+spacy==3.4.0
+streamlit==1.10.0
