@@ -11,14 +11,14 @@ import streamlit as st
 
 # Load the SentenceTransformer model
 
-model = SentenceTransformer('multi-qa-mpnet-base-dot-v1', device='cuda')
+model = SentenceTransformer('multi-qa-mpnet-base-dot-v1', device='cpu')
 
 # Load the FAQ data
-with open('/home/mane/Mane-Project/Model/faq_data.json', 'r') as file:
+with open('faq_data.json', 'r') as file:
     data = json.load(file)
     
-USER_image = "/home/mane/Mane-Project/Model/image.png"
-chatbot_image = "/home/mane/Mane-Project/Model/chatbot.png"
+USER_image = "image.png"
+chatbot_image = "chatbot.png"
 
 # Initialize spaCy for lemmatization
 nlp = spacy.load('en_core_web_sm')
@@ -38,7 +38,7 @@ combined_embeddings = model.encode(combined_context_questions)
 answer_embeddings = model.encode(answers)
 
 # Set the working directory to the FastChat folder
-fastchat_directory = '/home/mane/FastChat'
+fastchat_directory = '../FastChat'
 vicuna_model_path = 'lmsys/vicuna-7b-v1.5'
 
 # Streamlit UI
@@ -173,10 +173,10 @@ def process_initial_prompt(prompt):
             last_answered_filename = filename[most_similar_index]
         else:
                 # Set the working directory to the FastChat folder
-                os.chdir('/home/mane/FastChat')
+                os.chdir('../FastChat')
 
                 # Construct the command to run Vicuna with the USER's question
-                vicuna_command = ['python3', '-m', 'fastchat.serve.cli', '--model-path', f'lmsys/vicuna-7b-v1.5']
+                vicuna_command = ['python3', '-m', 'fastchat.serve.cli', '--model-path', f'lmsys/vicuna-7b-v1.5',' --device cpu ', ' --load-8bit']
                 try:
                     # Use subprocess to run Vicuna and capture its output
                     vicuna_process = subprocess.Popen(vicuna_command, stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
@@ -290,10 +290,10 @@ def handle_numeric_input(prompt):
   
 def handle_low_confidence(prompt):
     # Set the working directory to the FastChat folder
-    os.chdir('/home/mane/FastChat')
+    os.chdir('../FastChat')
 
     # Construct the command to run Vicuna with the USER's question
-    vicuna_command = ['python3', '-m', 'fastchat.serve.cli', '--model-path', f'lmsys/vicuna-7b-v1.5']
+    vicuna_command = ['python3', '-m', 'fastchat.serve.cli', '--model-path', f'lmsys/vicuna-7b-v1.5',' --device cpu ', ' --load-8bit']
 
     try:
         # Use subprocess to run Vicuna and capture its output
