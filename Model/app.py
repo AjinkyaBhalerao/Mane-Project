@@ -8,37 +8,55 @@ import os
 import subprocess
 import spacy
 import streamlit as st
+import pickle
 
 # Load the SentenceTransformer model
-
-model = SentenceTransformer('multi-qa-mpnet-base-dot-v1', device='cpu')
-
-# Load the FAQ data
-with open('faq_data.json', 'r') as file:
-    data = json.load(file)
     
-USER_image = "image.png"
-chatbot_image = "chatbot.png"
+USER_image = "/home/mane/Mane-Project/Model/image.png"
+chatbot_image = "/home/mane/Mane-Project/Model/chatbot.png"
 
 # Initialize spaCy for lemmatization
 nlp = spacy.load('en_core_web_sm')
+model = SentenceTransformer('multi-qa-mpnet-base-dot-v1', device='cuda')
 
-# Load the lemmatizer for word normalization
-lemmatizer = WordNetLemmatizer()
-# Extract questions and answers from the data
-filename = [entry['filename'] for entry in data]
-context = [entry['context'] for entry in data]
-questions = [entry.get('question', '') for entry in data]
-answers = [entry.get('answer', '') for entry in data]
+if (os.path.exists('/home/mane/Mane-Project/Model/embeddings.pkl')==False):
+    
+    # Load the FAQ data
+    with open('/home/mane/Mane-Project/Model/faq_data.json', 'r') as file:
+        data = json.load(file)
+        
+    # Load the lemmatizer for word normalization
+    lemmatizer = WordNetLemmatizer()
+    # Extract questions and answers from the data
+    filename = [entry['filename'] for entry in data]
+    context = [entry['context'] for entry in data]
+    questions = [entry.get('question', '') for entry in data]
+    answers = [entry.get('answer', '') for entry in data]
 
-# Encode questions and answers
-filename_embeddings = model.encode(filename)
-combined_context_questions = [context + " " + question for context, question in zip(context, questions)]
-combined_embeddings = model.encode(combined_context_questions)
-answer_embeddings = model.encode(answers)
+    # Encode questions and answers
+    filename_embeddings = model.encode(filename)
+    combined_context_questions = [context + " " + question for context, question in zip(context, questions)]
+    combined_embeddings = model.encode(combined_context_questions)
+    answer_embeddings = model.encode(answers)
+
+
+    #Store sentences & embeddings on disc
+    with open('embeddings.pkl', "wb") as fOut:
+         pickle.dump({'combined_embeddings': combined_embeddings, 'questions' : questions, 'answers' : answers, 'filename' : filename}, fOut, protocol=pickle.HIGHEST_PROTOCOL)
+
+
+def openBert_embeddings():
+#Load sentences & embeddings from disc
+    with open('/home/mane/Mane-Project/Model/embeddings.pkl', "rb") as fIn:
+        stored_data = pickle.load(fIn)
+        stored_combined_embeddings = stored_data['combined_embeddings']
+        stored_questions = stored_data['questions']
+        stored_answers = stored_data['answers']
+        stored_filename = stored_data['filename']
+    return stored_combined_embeddings, stored_questions, stored_answers, stored_filename
 
 # Set the working directory to the FastChat folder
-fastchat_directory = '../FastChat'
+fastchat_directory = '/home/mane/FastChat'
 vicuna_model_path = 'lmsys/vicuna-7b-v1.5'
 
 # Streamlit UI
@@ -153,6 +171,7 @@ def process_initial_prompt(prompt):
             add_to_chat_history("ASSISTANT", "I don't have a reference for the last answer.")
     else :
         USER_input_embedding = model.encode(preprocess_text(prompt))
+        combined_embeddings, questions, answers, filename = openBert_embeddings()
         similarities = util.cos_sim(USER_input_embedding, combined_embeddings)[0]
         most_similar_index = similarities.argmax()
         highest_similarity = similarities[most_similar_index]
@@ -165,7 +184,7 @@ def process_initial_prompt(prompt):
             add_to_chat_history("ASSISTANT", answers[most_similar_index])
             add_to_chat_history("ASSISTANT", "Is this the information you were looking for?")
             st.session_state.conversation_state = CONVERSATION_STATES['AWAITING_CONFIRMATION']
-            last_answered_filename = filename[most_similar_index]
+            last_answeredn_filename = filename[most_similar_index]
         elif medium_threshold <= highest_similarity < high_threshold:
             add_to_chat_history("ASSISTANT", answers[most_similar_index])
             add_to_chat_history("ASSISTANT", "Is this the information you were looking for ?")
@@ -173,10 +192,10 @@ def process_initial_prompt(prompt):
             last_answered_filename = filename[most_similar_index]
         else:
                 # Set the working directory to the FastChat folder
-                os.chdir('../FastChat')
+                os.chdir('/home/mane/FastChat')
 
                 # Construct the command to run Vicuna with the USER's question
-                vicuna_command = ['python3', '-m', 'fastchat.serve.cli', '--model-path', f'lmsys/vicuna-7b-v1.5',' --device cpu ', ' --load-8bit']
+                vicuna_command = ['python3', '-m', 'fastchat.serve.cli', '--model-path', f'lmsys/vicuna-7b-v1.5']
                 try:
                     # Use subprocess to run Vicuna and capture its output
                     vicuna_process = subprocess.Popen(vicuna_command, stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
@@ -207,7 +226,7 @@ def handle_confirmation(prompt):
 
 def handle_details(prompt):
     A = prompt
-
+    combined_embeddings, questions, answers, filename = openBert_embeddings()
     if prompt:
         detailed_input = prompt + " " + A
         detailed_input_embedding = model.encode(preprocess_text(detailed_input))
@@ -290,10 +309,10 @@ def handle_numeric_input(prompt):
   
 def handle_low_confidence(prompt):
     # Set the working directory to the FastChat folder
-    os.chdir('../FastChat')
+    os.chdir('/home/mane/FastChat')
 
     # Construct the command to run Vicuna with the USER's question
-    vicuna_command = ['python3', '-m', 'fastchat.serve.cli', '--model-path', f'lmsys/vicuna-7b-v1.5',' --device cpu ', ' --load-8bit']
+    vicuna_command = ['python3', '-m', 'fastchat.serve.cli', '--model-path', f'lmsys/vicuna-7b-v1.5']
 
     try:
         # Use subprocess to run Vicuna and capture its output

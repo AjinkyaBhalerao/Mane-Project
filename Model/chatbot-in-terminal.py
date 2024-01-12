@@ -6,6 +6,7 @@ import subprocess
 import shlex
 import spacy
 import sys
+import pickle
 
 # Set the working directory to the FastChat folder
 fastchat_directory = '/home/mane/FastChat'
@@ -17,23 +18,41 @@ lemmatizer = WordNetLemmatizer()
 # Load the SentenceTransformer model
 model = SentenceTransformer('multi-qa-mpnet-base-dot-v1', device='cuda')
 
-# Load the FAQ data
-with open('/home/mane/Mane-Project/Model/faq_data.json', 'r') as file:
-    data = json.load(file)
+if (os.path.exists('/home/mane/Mane-Project/Model/embeddings.pkl')==False):
+    print("here")
+    # Load the FAQ data
+    with open('/home/mane/Mane-Project/Model/faq_data.json', 'r') as file:
+        data = json.load(file)
 
-# Extract questions and answers from the data
-filename = [entry['filename'] for entry in data]
-context = [entry['context'] for entry in data]
-questions = [entry.get('question', '') for entry in data]
-answers = [entry.get('answer', '') for entry in data]
+    # Extract questions and answers from the data
+    filename = [entry['filename'] for entry in data]
+    context = [entry['context'] for entry in data]
+    questions = [entry.get('question', '') for entry in data]
+    answers = [entry.get('answer', '') for entry in data]
 
-# Encode questions and answers
-filename_embeddings = model.encode(filename)
-#context_embeddings = model.encode(context)
-#question_embeddings = model.encode(questions)
-answer_embeddings = model.encode(answers)
-combined_context_questions = [context + " " + question for context, question in zip(context, questions)]
-combined_embeddings = model.encode(combined_context_questions, convert_to_tensor=True)
+    # Encode questions and answers
+    filename_embeddings = model.encode(filename)
+    #context_embeddings = model.encode(context)
+    #question_embeddings = model.encode(questions)
+    answer_embeddings = model.encode(answers)
+    combined_context_questions = [context + " " + question for context, question in zip(context, questions)]
+    combined_embeddings = model.encode(combined_context_questions, convert_to_tensor=True)
+
+    #Store sentences & embeddings on disc
+    with open('/home/mane/Mane-Project/Model/embeddings.pkl', "wb") as fOut:
+        print("create pickles")
+        pickle.dump({'combined_embeddings': combined_embeddings, 'questions' : questions, 'answers' : answers,'filename' : filename}, fOut, protocol=pickle.HIGHEST_PROTOCOL)
+
+def openBert_embeddings():
+#Load sentences & embeddings from disc
+    with open('/home/mane/Mane-Project/Model/embeddings.pkl', "rb") as fIn:
+        stored_data = pickle.load(fIn)
+        stored_combined_embeddings = stored_data['combined_embeddings']
+        stored_questions = stored_data['questions']
+        stored_answers = stored_data['answers'] 
+        stored_filename = stored_data['filename']                           
+    return stored_combined_embeddings, stored_questions, stored_answers, stored_filename
+
 
 # Set the working directory to the FastChat folder
 vicuna_model_path = 'lmsys/vicuna-7b-v1.5'
@@ -78,7 +97,8 @@ while True:
         user_input = input("Ask your question (type 'exit' to quit): ").strip()
     # Encode the user's input
     user_input_embedding = model.encode(preprocess_text(user_input), convert_to_tensor=True)
-
+    combined_embeddings, questions, answers, filename = openBert_embeddings()
+    
     # Calculate cosine similarity between the user's input and all questions in the dataset
     similarities = util.cos_sim(user_input_embedding, combined_embeddings)[0]
     most_similar_index = similarities.argmax()
